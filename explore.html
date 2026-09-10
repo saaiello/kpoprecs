@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KPOPgraph — explore</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="shell">
+  <aside class="sidebar" aria-label="Main navigation">
+    <a href="index.html" class="logo">KPOP<span>RECS</span></a>
+
+    <nav class="sidenav" aria-label="Sections">
+      <a href="index.html" class="sidenav-item">
+        <i class="icon">⌂</i> Home
+      </a>
+      <button class="sidenav-item active" id="navAll">
+        <i class="icon">◎</i> All songs
+      </button>
+      <button class="sidenav-item" id="navFavorites">
+        <i class="icon">♡</i> Favorites
+      </button>
+    </nav>
+
+    <p class="sidenav-label">Groups</p>
+    <nav class="sidenav sidenav-scroll" id="groupNav" aria-label="Filter by group"></nav>
+
+    <p class="sidenav-label">Genre</p>
+    <nav class="sidenav sidenav-scroll" id="genreNav" aria-label="Filter by genre"></nav>
+  </aside>
+
+  <main class="content">
+    <div class="listpane">
+      <div class="searchwrap">
+        <label for="search" class="sr-only">Search by song or group name</label>
+        <input id="search" placeholder="search any song, any group...">
+      </div>
+
+      <div class="table-header">
+        <div class="col-index">#</div>
+        <div class="col-heart"></div>
+        <div class="col-art"></div>
+        <div class="col-title">Title</div>
+        <div class="col-album">Album</div>
+        <div class="col-year">Year</div>
+        <div class="col-duration">Duration</div>
+        <div class="col-bpm">BPM</div>
+        <div class="col-chevron"></div>
+      </div>
+
+      <div class="list" id="list"></div>
+    </div>
+
+    <div class="resize-handle" id="resizeHandle" title="Drag to resize"></div>
+
+        <section class="graphpane" aria-label="Selected song and network graph" aria-hidden="true">
+      <div class="song-card" id="songCard">
+        <p class="song-card-empty">Select a song to see details</p>
+      </div>
+      <div class="graph-wrap">
+        <div class="graph-empty" id="graphEmpty">Select a song to see its closest matches</div>
+        <svg viewBox="0 0 280 280" preserveAspectRatio="xMidYMid meet" id="graph" role="presentation"></svg>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
