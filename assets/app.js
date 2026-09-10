@@ -13,8 +13,8 @@ const DATA_SOURCES = [
 const GENRE_BUCKETS = [
   "Pop",
   "Dance-Pop",
-  "House/Club EDM",        // NEW — replaces one half of EDM/Electronic
-  "Electronic/Atmospheric", // NEW — replaces the other half
+  "House/Club EDM",
+  "Electronic/Atmospheric",
   "Hip-Hop",
   "R&B/Soul",
   "Ballad",
@@ -55,6 +55,12 @@ const navAllEl = document.getElementById("navAll");
 const navFavoritesEl = document.getElementById("navFavorites");
 const resizeHandle = document.getElementById("resizeHandle");
 const graphPaneEl = document.querySelector(".graphpane");
+
+/* ---- Artist display: use a per-song artist override if present
+   (for collabs/solos/OSTs), otherwise fall back to the group name ---- */
+function displayArtist(song){
+  return song.artist || groupMeta[song.group].name;
+}
 
 /* ---- Favorites (localStorage) ---- */
 function loadFavorites(){
@@ -127,8 +133,7 @@ function artHtml(song, className){
   return `<span class="${className} art-fallback" style="background:${meta.color}">${letter}</span>`;
 }
 
-/* ---- Genre consolidation: raw display tags stay in the data,
-   this maps them to a small fixed vocabulary for scoring + filtering ---- */
+/* ---- Genre consolidation ---- */
 const GENRE_MAP = {
   "acoustic": "Acoustic/Lo-fi",
   "acoustic/lo-fi": "Acoustic/Lo-fi",
@@ -224,49 +229,24 @@ function getMainGenres(song){
 function genreSimilarity(a, b){
   const ag = getMainGenres(a);
   const bg = getMainGenres(b);
-  
-  // Count how many genres they share
   const shared = ag.filter(g => bg.includes(g)).length;
   if (shared === 0) return 0;
-  
-  // Smarter matching: shares / total unique genres combined
   const union = new Set([...ag, ...bg]).size;
   return shared / union;
 }
-
 function bpmSimilarity(a, b){
-  // If a song has no BPM (like an interlude), tell the system to skip BPM math
-  if (a.bpm == null || b.bpm == null) return null; 
-  
-  let bpmA = a.bpm;
-  let bpmB = b.bpm;
-  
-  // Match rhythms if one song is exactly double or half the speed of the other
-  const ratio = bpmA / bpmB;
-  if (Math.abs(ratio - 2) < 0.05) {
-    bpmB *= 2;
-  } else if (Math.abs(ratio - 0.5) < 0.05) {
-    bpmA *= 2;
-  }
-
-  // Calculate the final BPM score
-  const diff = Math.abs(bpmA - bpmB);
+  if (a.bpm == null || b.bpm == null) return 0.5;
+  const diff = Math.abs(a.bpm - b.bpm);
   return Math.max(0, 1 - diff / 100);
 }
-
 function similarityScore(a, b){
   const gScore = genreSimilarity(a, b);
   const bScore = bpmSimilarity(a, b);
-  
-  // If BPM math was skipped (interlude), score the song 100% on genre alone
   if (bScore === null) {
-  return gScore * 0.6 + 0.5 * 0.4; // neutral, same scale as scored pairs
-}
-  
-  // Standard weight: 60% Genre, 40% BPM
+    return gScore * 0.6 + 0.5 * 0.4;
+  }
   return gScore * 0.6 + bScore * 0.4;
 }
-
 function computeRecommendations(allSongs){
   allSongs.forEach(song => {
     const ranked = allSongs
@@ -414,14 +394,13 @@ function renderSongCard(){
     return;
   }
   const s = byId[expandedId];
-  const meta = groupMeta[s.group];
 
   songCardEl.innerHTML = `
     <div class="song-card-content">
       ${artHtml(s, "art")}
       <div class="song-card-info">
         <div class="song-card-title">${s.title}</div>
-        <div class="song-card-meta">${meta.name} · ${s.album}</div>
+        <div class="song-card-meta">${displayArtist(s)} · ${s.album}</div>
         <div class="song-card-meta">${s.year ?? "—"} · ${s.duration}${s.bpm ? " · " + s.bpm + " BPM" : ""}</div>
         <div class="song-card-genres">
           ${s.genres.map(g => `<span class="genre-tag">${g}</span>`).join("")}
@@ -454,26 +433,8 @@ function buildLinksContent(links){
   `;
 }
 
-/* ---- "If you liked this, try" recs ---- */
-function recsHtml(song){
-  const recs = (song.recs || []).map(id => byId[id]).filter(Boolean);
-  if (!recs.length) return "";
-  return `
-    <div class="recs-label">If you liked this, try —</div>
-    ${recs.map(r => {
-      const rMeta = groupMeta[r.group];
-      const crossGroup = r.group !== song.group;
-      return `<button class="rec-item" data-id="${r.id}">
-        ${artHtml(r, "art")}
-        <div>
-          <div class="rname">${r.title}</div>
-          <div class="rmeta">${rMeta.name}${crossGroup ? " · new to you" : ""} · ${r.bpm} bpm</div>
-        </div>
-      </button>`;
-    }).join("")}
-  `;
-}
-
+/* ---- Song-card recs grid (currently unused — removed from renderSongCard,
+   kept here in case you bring it back) ---- */
 function songCardRecsHtml(song){
   const recs = (song.recs || []).map(id => byId[id]).filter(Boolean);
   if (!recs.length) return "";
@@ -482,12 +443,11 @@ function songCardRecsHtml(song){
       <p class="recs-label">If you liked this, try —</p>
       <div class="song-card-recs-grid">
         ${recs.map(r => {
-          const rMeta = groupMeta[r.group];
           const crossGroup = r.group !== song.group;
           return `<button class="song-card-rec-item" data-id="${r.id}">
             ${artHtml(r, "art")}
             <div class="song-card-rec-title">${r.title}</div>
-            <div class="song-card-rec-sub">${rMeta.name}${crossGroup ? " · new to you" : ""}</div>
+            <div class="song-card-rec-sub">${displayArtist(r)}${crossGroup ? " · new to you" : ""}</div>
           </button>`;
         }).join("")}
       </div>
@@ -495,10 +455,30 @@ function songCardRecsHtml(song){
   `;
 }
 
+/* ---- "If you liked this, try" recs (accordion) ---- */
+function recsHtml(song){
+  const recs = (song.recs || []).map(id => byId[id]).filter(Boolean);
+  if (!recs.length) return "";
+  return `
+    <div class="recs-label">If you liked this, try —</div>
+    ${recs.map(r => {
+      const crossGroup = r.group !== song.group;
+      return `<button class="rec-item" data-id="${r.id}">
+        ${artHtml(r, "art")}
+        <div>
+          <div class="rname">${r.title}</div>
+          <div class="rmeta">${displayArtist(r)}${crossGroup ? " · new to you" : ""} · ${r.bpm} bpm</div>
+        </div>
+      </button>`;
+    }).join("")}
+  `;
+}
+
 /* ---- Combined filtering: search + groups + genres + favorites ---- */
 function matchesFilters(s){
   const q = currentFilter.toLowerCase();
-  const matchesSearch = !q || s.title.toLowerCase().includes(q) || groupMeta[s.group].name.toLowerCase().includes(q);
+  const artistText = (s.artist || groupMeta[s.group].name).toLowerCase();
+  const matchesSearch = !q || s.title.toLowerCase().includes(q) || artistText.includes(q);
   const matchesGroup = selectedGroups.size === 0 || selectedGroups.has(s.group);
   const matchesGenre = selectedGenres.size === 0 || getMainGenres(s).some(g => selectedGenres.has(g));
   const matchesFav = !favoritesOnly || favorites.has(s.id);
@@ -510,7 +490,6 @@ function renderTable(){
   const filtered = songs.filter(matchesFilters);
 
   listEl.innerHTML = filtered.map((s, i) => {
-    const meta = groupMeta[s.group];
     const isFav = favorites.has(s.id);
     const isExpanded = s.id === expandedId;
     const panelId = `recs-${s.id}`;
@@ -527,7 +506,7 @@ function renderTable(){
           <div class="track-info">
             <div class="title">${s.title}</div>
             <div class="subrow">
-              <span class="group-name"><span class="group-dot" style="background:${meta.color}"></span>${meta.name}</span>
+              <span class="group-name">${displayArtist(s)}</span>
               <span class="meta">${s.genres.map(g => `<span class="genre-tag">${g}</span>`).join("")}</span>
             </div>
           </div>

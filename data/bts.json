@@ -595,11 +595,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "2:04",
-    "genres": ["Hip-Hop", "Pop", "Lofi"],
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Lofi"
+    ],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -607,11 +615,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:31",
-    "genres": ["EDM/Electronic", "Pop", "Synth-pop"],
+    "genres": [
+      "EDM/Electronic",
+      "Pop",
+      "Synth-pop"
+    ],
     "bpm": 158,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -619,11 +635,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:34",
-    "genres": ["Pop", "R&B/Soul", "Ballad"],
+    "genres": [
+      "Pop",
+      "R&B/Soul",
+      "Ballad"
+    ],
     "bpm": 136,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -631,11 +655,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:27",
-    "genres": ["R&B/Soul", "Hip-Hop", "Pop"],
+    "genres": [
+      "R&B/Soul",
+      "Hip-Hop",
+      "Pop"
+    ],
     "bpm": 87,
     "tier": "Slow",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -643,11 +675,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:55",
-    "genres": ["Ballad", "Pop", "Hip-Hop"],
+    "genres": [
+      "Ballad",
+      "Pop",
+      "Hip-Hop"
+    ],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -655,11 +695,20 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:56",
-    "genres": ["Pop", "Rock/Punk/Metal", "EDM/Electronic", "Pop-rock"],
+    "genres": [
+      "Pop",
+      "Rock/Punk/Metal",
+      "EDM/Electronic",
+      "Pop-rock"
+    ],
     "bpm": 133,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -667,11 +716,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:17",
-    "genres": ["Rock/Punk/Metal", "Hip-Hop", "Pop-punk"],
+    "genres": [
+      "Rock/Punk/Metal",
+      "Hip-Hop",
+      "Pop-punk"
+    ],
     "bpm": 138,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -679,11 +736,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:53",
-    "genres": ["Hip-Hop", "EDM/Electronic", "Trap"],
+    "genres": [
+      "Hip-Hop",
+      "EDM/Electronic",
+      "Trap"
+    ],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -691,11 +756,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:00",
-    "genres": ["Hip-Hop", "EDM/Electronic", "Dance-pop"],
+    "genres": [
+      "Hip-Hop",
+      "EDM/Electronic",
+      "Dance-pop"
+    ],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -703,11 +776,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:23",
-    "genres": ["EDM/Electronic", "Hip-Hop", "Moombahton Trap"],
+    "genres": [
+      "EDM/Electronic",
+      "Hip-Hop",
+      "Moombahton Trap"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -715,11 +796,20 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:17",
-    "genres": ["EDM/Electronic", "Pop", "Future House", "Tropical House"],
+    "genres": [
+      "EDM/Electronic",
+      "Pop",
+      "Future House",
+      "Tropical House"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -727,11 +817,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "2:52",
-    "genres": ["Hip-Hop", "Pop", "Anthemic Ballad"],
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Anthemic Ballad"
+    ],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -739,11 +837,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:30",
-    "genres": ["Pop", "Hip-Hop", "Funk-pop"],
+    "genres": [
+      "Pop",
+      "Hip-Hop",
+      "Funk-pop"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -751,11 +857,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:53",
-    "genres": ["Hip-Hop", "R&B/Soul", "Pop"],
+    "genres": [
+      "Hip-Hop",
+      "R&B/Soul",
+      "Pop"
+    ],
     "bpm": 89,
     "tier": "Slow",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -763,11 +877,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:04",
-    "genres": ["Pop", "Hip-Hop", "Alt-pop"],
+    "genres": [
+      "Pop",
+      "Hip-Hop",
+      "Alt-pop"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -775,11 +897,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:00",
-    "genres": ["Ballad", "Pop", "Synth-pop"],
+    "genres": [
+      "Ballad",
+      "Pop",
+      "Synth-pop"
+    ],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -787,11 +917,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:46",
-    "genres": ["R&B/Soul", "Ballad", "Dark Pop"],
+    "genres": [
+      "R&B/Soul",
+      "Ballad",
+      "Dark Pop"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -799,11 +937,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:42",
-    "genres": ["Ballad", "Pop", "R&B/Soul"],
+    "genres": [
+      "Ballad",
+      "Pop",
+      "R&B/Soul"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -811,11 +957,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:35",
-    "genres": ["R&B/Soul", "Pop", "Slow Jam"],
+    "genres": [
+      "R&B/Soul",
+      "Pop",
+      "Slow Jam"
+    ],
     "bpm": 158,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -823,11 +977,18 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:43",
-    "genres": ["EDM/Electronic", "Synth-pop"],
+    "genres": [
+      "EDM/Electronic",
+      "Synth-pop"
+    ],
     "bpm": 158,
     "tier": "Up-tempo",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -835,11 +996,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:17",
-    "genres": ["Ballad", "Pop", "Orchestral"],
+    "genres": [
+      "Ballad",
+      "Pop",
+      "Orchestral"
+    ],
     "bpm": 133,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -847,11 +1016,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:56",
-    "genres": ["Rock/Punk/Metal", "Pop", "Garage Rock"],
+    "genres": [
+      "Rock/Punk/Metal",
+      "Pop",
+      "Garage Rock"
+    ],
     "bpm": 133,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -859,11 +1036,19 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:01",
-    "genres": ["Pop", "Ballad", "Ambient Electronic"],
+    "genres": [
+      "Pop",
+      "Ballad",
+      "Ambient Electronic"
+    ],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -1432,5 +1617,645 @@
       "youtube": ""
     },
     "recs": []
+  },
+  {
+    "title": "Heartbeat",
+    "album": "BTS WORLD OST",
+    "artist": "BTS",
+    "year": 2019,
+    "duration": "4:13",
+    "genres": [
+      "Pop Rock",
+      "Symphonic Pop"
+    ],
+    "bpm": 85,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "http://www.youtube.com/watch?v=aKSxbt-O6TA"
+    },
+    "recs": []
+  },
+  {
+    "title": "Dream Glow",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Charli XCX",
+    "year": 2019,
+    "duration": "3:07",
+    "genres": [
+      "Synth-Pop",
+      "Electropop"
+    ],
+    "bpm": 142,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "http://www.youtube.com/watch?v=ygPDo-aFW_k"
+    },
+    "recs": []
+  },
+  {
+    "title": "A Brand New Day",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Zara Larsson",
+    "year": 2019,
+    "duration": "3:25",
+    "genres": [
+      "Afrobeat",
+      "Flute Trap"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "http://www.youtube.com/watch?v=FQ24AlLkzCc"
+    },
+    "recs": []
+  },
+  {
+    "title": "All Night",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Juice WRLD",
+    "year": 2019,
+    "duration": "3:36",
+    "genres": [
+      "90s Boom Bap",
+      "Hip-Hop"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
+    },
+    "recs": []
+  },
+  {
+    "title": "Born Singer",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:58",
+    "genres": [
+      "Conscious Hip-Hop",
+      "Gospel Sample"
+    ],
+    "bpm": 85,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=D30398O4322"
+    },
+    "recs": []
+  },
+  {
+    "title": "No More Dream",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:42",
+    "genres": [
+      "90s Hip-Hop",
+      "Gangsta Rap"
+    ],
+    "bpm": 168,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=rBG5L7UsUxA"
+    },
+    "recs": []
+  },
+  {
+    "title": "N.O",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:29",
+    "genres": [
+      "Trap",
+      "Hardcore Hip-Hop"
+    ],
+    "bpm": 144,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=r5GaAEIvBV4"
+    },
+    "recs": []
+  },
+  {
+    "title": "Boy In Luv",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:51",
+    "genres": [
+      "Rap Rock",
+      "Pop-Punk"
+    ],
+    "bpm": 166,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=LHHjp3IMjMk"
+    },
+    "recs": []
+  },
+  {
+    "title": "Danger",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "4:05",
+    "genres": [
+      "Hybrid Hip-Hop",
+      "Rock"
+    ],
+    "bpm": 112,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=bagj788i328"
+    },
+    "recs": []
+  },
+  {
+    "title": "Blood Sweat & Tears",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:37",
+    "genres": [
+      "Moombahton",
+      "Tropical House"
+    ],
+    "bpm": 93,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=hmE9fCYHX8w"
+    },
+    "recs": []
+  },
+  {
+    "title": "Spring Day",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "4:34",
+    "genres": [
+      "Alternative Rock",
+      "Pop Ballad"
+    ],
+    "bpm": 108,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
+    },
+    "recs": []
+  },
+  {
+    "title": "Dynamite",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:19",
+    "genres": [
+      "Disco Pop",
+      "Nu-Disco"
+    ],
+    "bpm": 114,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
+    },
+    "recs": []
+  },
+  {
+    "title": "Life Goes On",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:27",
+    "genres": [
+      "Alternative Pop",
+      "Acoustic"
+    ],
+    "bpm": 81,
+    "tier": "Slow-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
+    },
+    "recs": []
+  },
+  {
+    "title": "Butter",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:44",
+    "genres": [
+      "Dance-Pop",
+      "Synth-Funk"
+    ],
+    "bpm": 110,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+    },
+    "recs": []
+  },
+  {
+    "title": "Yet To Come (The Most Beautiful Moment)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:13",
+    "genres": [
+      "Alternative Hip-Hop",
+      "Pop"
+    ],
+    "bpm": 86,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=kXpOEzNZ8hQ"
+    },
+    "recs": []
+  },
+  {
+    "title": "Run BTS",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:24",
+    "genres": [
+      "Rap-Rock",
+      "Pop-Punk"
+    ],
+    "bpm": 146,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=C30K2j4S321"
+    },
+    "recs": []
+  },
+  {
+    "title": "Stay",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:25",
+    "genres": [
+      "EDM Pop",
+      "Future House"
+    ],
+    "bpm": 128,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=00"
+    },
+    "recs": []
+  },
+  {
+    "title": "BTS Cypher PT.3 : KILLER (Feat. Supreme Boi)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "4:28",
+    "genres": [
+      "Hardcore Hip-Hop",
+      "Trap"
+    ],
+    "bpm": 150,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=04"
+    },
+    "recs": []
+  },
+  {
+    "title": "For Youth",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "4:24",
+    "genres": [
+      "Gospel Pop",
+      "Ballad"
+    ],
+    "bpm": 74,
+    "tier": "Slow-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=Z30398O4321"
+    },
+    "recs": []
+  },
+  {
+    "title": "Jump (Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:57",
+    "genres": [
+      "Old School Hip-Hop",
+      "Demo"
+    ],
+    "bpm": 100,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Young Love",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:38",
+    "genres": [
+      "R&B",
+      "Demo"
+    ],
+    "bpm": 92,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Boy in Luv (Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:39",
+    "genres": [
+      "Rap Rock",
+      "Demo"
+    ],
+    "bpm": 166,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Quotation Mark",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:58",
+    "genres": [
+      "90s Hip-Hop",
+      "Demo"
+    ],
+    "bpm": 95,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "I NEED U (Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:42",
+    "genres": [
+      "Synth-Pop",
+      "Demo"
+    ],
+    "bpm": 158,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Boyz with Fun (Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:25",
+    "genres": [
+      "Funk Pop",
+      "Demo"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Tony Montana (with Jimin)",
+    "album": "Proof",
+    "artist": "Agust D feat. Jimin",
+    "year": 2022,
+    "duration": "3:21",
+    "genres": [
+      "Industrial Trap",
+      "Hardcore Hip-Hop"
+    ],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=E30398O4323"
+    },
+    "recs": []
+  },
+  {
+    "title": "Young Forever (RM Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:29",
+    "genres": [
+      "Alternative Hip-Hop",
+      "Demo"
+    ],
+    "bpm": 88,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Spring Day (V Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "2:13",
+    "genres": [
+      "Acoustic",
+      "Demo"
+    ],
+    "bpm": 108,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "DNA (j-hope Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "1:51",
+    "genres": [
+      "EDM Pop",
+      "Demo"
+    ],
+    "bpm": 148,
+    "tier": "Up-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Epiphany (Jin Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "1:43",
+    "genres": [
+      "Pop Rock",
+      "Demo"
+    ],
+    "bpm": 72,
+    "tier": "Slow-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Seesaw (Demo Ver.)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:09",
+    "genres": [
+      "Synth-Pop",
+      "Demo"
+    ],
+    "bpm": 115,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Still With You (Acapella)",
+    "album": "Proof",
+    "artist": "BTS",
+    "year": 2022,
+    "duration": "3:58",
+    "genres": [
+      "Acapella",
+      "Jazz R&B"
+    ],
+    "bpm": 70,
+    "tier": "Slow-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
   }
-  ]
+]
