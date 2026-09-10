@@ -260,8 +260,8 @@ function similarityScore(a, b){
   
   // If BPM math was skipped (interlude), score the song 100% on genre alone
   if (bScore === null) {
-    return gScore; 
-  }
+  return gScore * 0.6 + 0.5 * 0.4; // neutral, same scale as scored pairs
+}
   
   // Standard weight: 60% Genre, 40% BPM
   return gScore * 0.6 + bScore * 0.4;
