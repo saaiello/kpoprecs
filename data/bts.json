@@ -458,8 +458,7 @@
     "duration": "4:02",
     "genres": [
       "Ballad",
-      "Pop",
-      "Acoustic"
+      "Pop"
     ],
     "bpm": 113,
     "tier": "Mid",
@@ -644,7 +643,7 @@
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "4:55",
-    "genres": ["Ballad", "Pop", "Ambient Acoustic"],
+    "genres": ["Ballad", "Pop", "Hip-Hop"],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/youngforever.jpg",
