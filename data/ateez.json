@@ -4,11 +4,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:59",
-    "genres": ["Hip-Hop", "Pop", "Contemporary R&B"],
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Contemporary R&B"
+    ],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/lemon-drop/1816843869?i=1816844216&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -16,11 +24,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:40",
-    "genres": ["Pop", "EDM/Electronic", "Synth-Pop"],
+    "genres": [
+      "Pop",
+      "EDM/Electronic",
+      "Synth-Pop"
+    ],
     "bpm": 122,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/masterpiece/1816843869?i=1816844228&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -28,11 +44,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:45",
-    "genres": ["R&B/Soul", "Pop", "Melodic Rap"],
+    "genres": [
+      "R&B/Soul",
+      "Pop",
+      "Melodic Rap"
+    ],
     "bpm": 94,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/now-this-house-aint-a-home/1816843869?i=1816844233&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -40,11 +64,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:09",
-    "genres": ["EDM/Electronic", "Hip-Hop", "Dark Trap"],
+    "genres": [
+      "EDM/Electronic",
+      "Hip-Hop",
+      "Dark Trap"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/castle/1816843869?i=1816844236&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -52,23 +84,39 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "1:32",
-    "genres": ["Experimental", "Ambient Interlude", "Electronic"],
+    "genres": [
+      "Experimental",
+      "Ambient Interlude",
+      "Electronic"
+    ],
     "bpm": null,
     "tier": null,
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/bridge-the-edge-of-reality/1822545714?i=1822545719&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
-    "title": "In Your Fantasy (Title Track)",
+    "title": "In Your Fantasy",
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:12",
-    "genres": ["Pop", "EDM/Electronic", "Sensual Synth-Pop"],
+    "genres": [
+      "Pop",
+      "EDM/Electronic",
+      "Sensual Synth-Pop"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/song/in-your-fantasy/1822545720",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -76,11 +124,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:33",
-    "genres": ["Hip-Hop", "Pop", "Trap"],
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Trap"
+    ],
     "bpm": 138,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/song/no1-hongjoong/1822545721",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -88,11 +144,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:20",
-    "genres": ["Pop", "R&B/Soul", "Dark Pop"],
+    "genres": [
+      "Pop",
+      "R&B/Soul",
+      "Dark Pop"
+    ],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/skin-seonghwa/1822545714?i=1822545992&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -100,11 +164,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:47",
-    "genres": ["R&B/Soul", "Pop", "Dance-Pop"],
+    "genres": [
+      "R&B/Soul",
+      "Pop",
+      "Dance-Pop"
+    ],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/slide-to-me-yunho/1822545714?i=1822545993&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -112,23 +184,38 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:02",
-    "genres": ["Pop", "EDM/Electronic"],
+    "genres": [
+      "Pop",
+      "EDM/Electronic"
+    ],
     "bpm": 124,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/legacy-yeosang/1822545714?i=1822545994&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
-    "title": "Creep (San Solo)",
+    "title": "Creep (San)",
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:11",
-    "genres": ["R&B/Soul", "Alternative", "Ballad"],
+    "genres": [
+      "R&B/Soul",
+      "Alternative",
+      "Ballad"
+    ],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/song/creep-san/1822545996",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -136,11 +223,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:34",
-    "genres": ["Hip-Hop", "EDM/Electronic", "Aggressive Trap"],
+    "genres": [
+      "Hip-Hop",
+      "EDM/Electronic",
+      "Aggressive Trap"
+    ],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/roar-mingi/1822545714?i=1822546009&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -148,23 +243,38 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "2:48",
-    "genres": ["Pop", "R&B/Soul"],
+    "genres": [
+      "Pop",
+      "R&B/Soul"
+    ],
     "bpm": 126,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/sagittarius-wooyoung/1822545714?i=1822546013&uo=4",
+      "youtube": ""
+    },
     "recs": []
   },
   {
-    "title": "To Be Your Light (Jongho Solo)",
+    "title": "To Be Your Light (Jongho)",
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:30",
-    "genres": ["Ballad", "R&B/Soul", "Vocal Power Ballad"],
+    "genres": [
+      "Ballad",
+      "R&B/Soul",
+      "Vocal Power Ballad"
+    ],
     "bpm": 72,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/song/to-be-your-light-jongho/1822546018",
+      "youtube": ""
+    },
     "recs": []
   },
   {
@@ -172,11 +282,19 @@
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
     "duration": "3:12",
-    "genres": ["Pop", "EDM/Electronic", "Sensual Synth-Pop"],
+    "genres": [
+      "Pop",
+      "EDM/Electronic",
+      "Sensual Synth-Pop"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": { "spotify": "", "appleMusic": "", "youtube": "" },
+    "links": {
+      "spotify": "",
+      "appleMusic": "https://music.apple.com/us/album/in-your-fantasy-korean-ver/1822545714?i=1822546112&uo=4",
+      "youtube": ""
+    },
     "recs": []
   }
 ]

@@ -711,10 +711,10 @@
   },
   {
     "file": "data/bts.json",
-    "title": "Outro : Ego",
+    "title": "Outro: Ego",
     "artist": "BTS",
     "found": true,
-    "matchedTrackName": "Outro : Ego",
+    "matchedTrackName": "Outro: Ego",
     "matchedArtist": "BTS",
     "appleMusicUrl": "https://music.apple.com/us/album/outro-ego/1599362484?i=1599363213&uo=4",
     "needsReview": false

@@ -14,7 +14,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/body-to-body/1868481904?i=1868481905&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -34,7 +34,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/hooligan/1868481904?i=1868481906&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -52,7 +52,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/aliens/1868481904?i=1868481907&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -72,7 +72,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/fya/1868481904?i=1868481909&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -92,7 +92,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/2-0/1885720384?i=1885720394&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -112,13 +112,13 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/no-29/1868481904?i=1868482072&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "SWIM (Title Track)",
+    "title": "SWIM",
     "album": "Arirang",
     "year": 2026,
     "duration": "2:39",
@@ -132,7 +132,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/swim/1868482073",
       "youtube": ""
     },
     "recs": []
@@ -151,7 +151,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/merry-go-round/1868481904?i=1868482076&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -170,7 +170,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/normal/1885720384?i=1885720624&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -189,7 +189,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/like-animals/1868481904?i=1868482085&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -208,7 +208,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/they-dont-know-bout-us/1868481904?i=1868482087&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -227,7 +227,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/one-more-night/281472072?i=281472190&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -246,7 +246,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/please/1868481904?i=1868482090&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -266,7 +266,7 @@
     "art": "assets/covers/arirang.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/into-the-sun-ep-version/1051620922?i=1051620933&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -286,7 +286,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/euphoria/1598730614?i=1598730615&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -305,7 +305,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%B5%B7-just-dance/1598730614?i=1598730618&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -325,7 +325,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/serendipity-full-length-edition/1598730614?i=1598730619&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -345,7 +345,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dna/1598730614?i=1598730623&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -365,7 +365,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dimple/1596529064?i=1596529068&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -385,7 +385,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E6%89%BF-love/1598730614?i=1598730627&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -405,13 +405,13 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/her/1598730614?i=1598730628&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Intro : Singularity",
+    "title": "Intro: Singularity",
     "album": "Love Yourself: Answer",
     "year": 2018,
     "duration": "3:17",
@@ -425,7 +425,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/intro-singularity/1598660937",
       "youtube": ""
     },
     "recs": []
@@ -446,7 +446,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/fake-love/1598730614?i=1598730630&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -465,7 +465,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/the-truth-untold-feat-steve-aoki/1598660934?i=1598660944&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -485,7 +485,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%BD%89-seesaw/1598730614?i=1598730966&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -505,7 +505,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/tear/1598730614?i=1598730969&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -525,7 +525,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/epiphany/1598730614?i=1598730973&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -545,13 +545,13 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "IDOL (Title Track)",
+    "title": "IDOL",
     "album": "Love Yourself: Answer",
     "year": 2018,
     "duration": "3:43",
@@ -565,7 +565,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/idol/1598730980",
       "youtube": ""
     },
     "recs": []
@@ -585,7 +585,7 @@
     "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/answer-love-myself/1598730614?i=1598730982&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -605,7 +605,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/intro-the-most-beautiful-moment-in-life/1598661880?i=1598661889&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -625,7 +625,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/i-need-u/1598661880?i=1598661895&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -645,7 +645,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/hold-me-tight/1598661880?i=1598661897&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -665,7 +665,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/autumn-leaves/1598661880?i=1598661898&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -685,7 +685,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/butterfly-prologue-mix/1598661880?i=1598661900&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -706,7 +706,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/run/1598661880?i=1598661903&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -726,7 +726,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/ma-city/1598661880?i=1598662118&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -746,7 +746,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/silver-spoon/1598662122",
       "youtube": ""
     },
     "recs": []
@@ -766,7 +766,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dope/1598661880?i=1598662124&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -786,7 +786,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/burning-up-fire/1598661880?i=1598662129&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -807,7 +807,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/save-me/1598661880?i=1598662137&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -827,7 +827,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/epilogue-young-forever/1598661880?i=1598662138&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -847,7 +847,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/converse-high/1596533063?i=1596533343&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -867,7 +867,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/moving-on/1598661880?i=1598662145&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -887,7 +887,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/whalien-52/1598661880?i=1598662268&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -907,7 +907,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/butterfly/1597019562?i=1597019691&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -927,7 +927,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/house-of-cards-full-length-edition/1598661880?i=1598662275&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -947,7 +947,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/love-is-not-over-full-length-edition/1598661880?i=1598662276&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -967,7 +967,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/i-need-u-urban-mix/1598661880?i=1598662277&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -986,7 +986,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/i-need-u-urban-mix/1598661880?i=1598662277&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1006,7 +1006,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/run-ballad-mix/1598661880?i=1598662283&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1026,7 +1026,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/run-alternative-mix/1598661880?i=1598662285&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1046,7 +1046,7 @@
     "art": "assets/covers/youngforever.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/butterfly-alternative-mix/1598661880?i=1598662289&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1066,7 +1066,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/intro-persona/1599171924?i=1599171934&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1086,7 +1086,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1106,7 +1106,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/make-it-right/1599171924?i=1599172219&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1126,7 +1126,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1147,7 +1147,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dionysus/1599171924?i=1599172420&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1166,7 +1166,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/interlude-shadow/1599362484?i=1599362641&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1187,7 +1187,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/black-swan/1597017439?i=1597017443&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1206,7 +1206,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/filter/1599362484?i=1599362859&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1227,7 +1227,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/my-time/1599362862",
       "youtube": ""
     },
     "recs": []
@@ -1248,13 +1248,13 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/louder-than-bombs/1599362484?i=1599362866&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "ON (Title Track)",
+    "title": "ON",
     "album": "Map of the Soul: 7",
     "year": 2020,
     "duration": "4:06",
@@ -1268,7 +1268,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/on/1599362870",
       "youtube": ""
     },
     "recs": []
@@ -1287,7 +1287,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/ugh/1599362484?i=1599362875&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1307,7 +1307,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/00-00-zero-oclock/1599362484?i=1599362879&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1328,7 +1328,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/inner-child/1599362484?i=1599362883&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1347,7 +1347,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/friends/1599362484?i=1599363186&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1368,7 +1368,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/moon/1599362484?i=1599363200&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1388,7 +1388,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/respect/1599362484?i=1599363208&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1409,13 +1409,13 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/we-are-bulletproof-the-eternal/1599362484?i=1599363211&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Outro : Ego",
+    "title": "Outro: Ego",
     "album": "Map of the Soul: 7",
     "year": 2020,
     "duration": "3:16",
@@ -1430,7 +1430,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/outro-ego/1599362484?i=1599363213&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1450,7 +1450,7 @@
     "art": "assets/covers/mots7.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/song/on-feat-sia/1599363215",
       "youtube": ""
     },
     "recs": []
@@ -1470,7 +1470,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/134340/1598660934?i=1598660945&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1490,7 +1490,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/paradise/1598660934?i=1598661248&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1510,7 +1510,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/love-maze/1598660934?i=1598661251&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1530,7 +1530,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/magic-shop/1598730614?i=1598730988&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1551,7 +1551,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/airplane-pt-2/1598730614?i=1598730993&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1571,7 +1571,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/anpanman/1598660934?i=1598661271&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1592,13 +1592,13 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/so-what/1598660934?i=1598661273&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Outro : Tear",
+    "title": "Outro: Tear",
     "album": "Love Yourself: Tear",
     "year": 2018,
     "duration": "4:45",
@@ -1613,7 +1613,7 @@
     "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/outro-tear/1598660934?i=1598661275&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1633,7 +1633,7 @@
     "art": "assets/covers/bts-world.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/heartbeat/1694730681?i=1694730685&uo=4",
       "youtube": "http://www.youtube.com/watch?v=aKSxbt-O6TA"
     },
     "recs": []
@@ -1653,7 +1653,7 @@
     "art": "assets/covers/bts-world.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dream-glow-bts-world-original-soundtrack-pt-1/1694722271?i=1694722583&uo=4",
       "youtube": "http://www.youtube.com/watch?v=ygPDo-aFW_k"
     },
     "recs": []
@@ -1673,7 +1673,7 @@
     "art": "assets/covers/bts-world.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/a-brand-new-day-pt-2/1694730681?i=1694730950&uo=4",
       "youtube": "http://www.youtube.com/watch?v=FQ24AlLkzCc"
     },
     "recs": []
@@ -1693,7 +1693,7 @@
     "art": "assets/covers/bts-world.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/all-night-pt-3/1694730681?i=1694730954&uo=4",
       "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
     },
     "recs": []
@@ -1713,7 +1713,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/born-singer/1627573936?i=1627573946&uo=4",
       "youtube": "https://www.youtube.com/watch?v=D30398O4322"
     },
     "recs": []
@@ -1733,7 +1733,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/no-more-dream/1596528414?i=1596528617&uo=4",
       "youtube": "https://www.youtube.com/watch?v=rBG5L7UsUxA"
     },
     "recs": []
@@ -1753,7 +1753,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/n-o/1627573936?i=1627574239&uo=4",
       "youtube": "https://www.youtube.com/watch?v=r5GaAEIvBV4"
     },
     "recs": []
@@ -1773,7 +1773,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/boy-in-luv/1596528694?i=1596528795&uo=4",
       "youtube": "https://www.youtube.com/watch?v=LHHjp3IMjMk"
     },
     "recs": []
@@ -1793,7 +1793,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
       "youtube": "https://www.youtube.com/watch?v=bagj788i328"
     },
     "recs": []
@@ -1813,7 +1813,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/blood-sweat-tears/1596532477?i=1596532481&uo=4",
       "youtube": "https://www.youtube.com/watch?v=hmE9fCYHX8w"
     },
     "recs": []
@@ -1833,7 +1833,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
       "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
     },
     "recs": []
@@ -1853,7 +1853,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dynamite-live/1823627665?i=1823627863&uo=4",
       "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
     },
     "recs": []
@@ -1873,7 +1873,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/life-goes-on/1596532185?i=1596532189&uo=4",
       "youtube": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
     },
     "recs": []
@@ -1893,7 +1893,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/butter-megan-thee-stallion-remix/1598661509?i=1598661512&uo=4",
       "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
     },
     "recs": []
@@ -1913,7 +1913,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/yet-to-come/1627573936?i=1627575774&uo=4",
       "youtube": "https://www.youtube.com/watch?v=kXpOEzNZ8hQ"
     },
     "recs": []
@@ -1933,7 +1933,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/run-bts/1627573936?i=1627575780&uo=4",
       "youtube": "https://www.youtube.com/watch?v=C30K2j4S321"
     },
     "recs": []
@@ -1953,7 +1953,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/stay/1596532185?i=1596532398&uo=4",
       "youtube": "https://www.youtube.com/watch?v=00"
     },
     "recs": []
@@ -1973,7 +1973,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-3-killer-feat-supreme-boi/1627573936?i=1627576704&uo=4",
       "youtube": "https://www.youtube.com/watch?v=04"
     },
     "recs": []
@@ -1993,7 +1993,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/for-youth/1627573936?i=1627577723&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Z30398O4321"
     },
     "recs": []
@@ -2033,7 +2033,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/young-love/1504276245?i=1504276258&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2053,7 +2053,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/boy-in-luv/1596528694?i=1596528795&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2093,7 +2093,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/i-need-u/1598661880?i=1598661895&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2173,7 +2173,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/spring-day-japanese-version/1361622149?i=1361623735&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2193,7 +2193,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/dna/1596529064?i=1596529066&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2213,7 +2213,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/epiphany/1598730614?i=1598730973&uo=4",
       "youtube": ""
     },
     "recs": []
