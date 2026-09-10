@@ -224,18 +224,49 @@ function getMainGenres(song){
 function genreSimilarity(a, b){
   const ag = getMainGenres(a);
   const bg = getMainGenres(b);
+  
+  // Count how many genres they share
   const shared = ag.filter(g => bg.includes(g)).length;
-  const maxPossible = Math.max(ag.length, bg.length);
-  return maxPossible ? shared / maxPossible : 0;
+  if (shared === 0) return 0;
+  
+  // Smarter matching: shares / total unique genres combined
+  const union = new Set([...ag, ...bg]).size;
+  return shared / union;
 }
+
 function bpmSimilarity(a, b){
-  if (a.bpm == null || b.bpm == null) return 0.5;
-  const diff = Math.abs(a.bpm - b.bpm);
+  // If a song has no BPM (like an interlude), tell the system to skip BPM math
+  if (a.bpm == null || b.bpm == null) return null; 
+  
+  let bpmA = a.bpm;
+  let bpmB = b.bpm;
+  
+  // Match rhythms if one song is exactly double or half the speed of the other
+  const ratio = bpmA / bpmB;
+  if (Math.abs(ratio - 2) < 0.05) {
+    bpmB *= 2;
+  } else if (Math.abs(ratio - 0.5) < 0.05) {
+    bpmA *= 2;
+  }
+
+  // Calculate the final BPM score
+  const diff = Math.abs(bpmA - bpmB);
   return Math.max(0, 1 - diff / 100);
 }
+
 function similarityScore(a, b){
-  return genreSimilarity(a, b) * 0.6 + bpmSimilarity(a, b) * 0.4;
+  const gScore = genreSimilarity(a, b);
+  const bScore = bpmSimilarity(a, b);
+  
+  // If BPM math was skipped (interlude), score the song 100% on genre alone
+  if (bScore === null) {
+    return gScore; 
+  }
+  
+  // Standard weight: 60% Genre, 40% BPM
+  return gScore * 0.6 + bScore * 0.4;
 }
+
 function computeRecommendations(allSongs){
   allSongs.forEach(song => {
     const ranked = allSongs
