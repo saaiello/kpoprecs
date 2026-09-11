@@ -77,6 +77,7 @@ const navFavoritesEl = document.getElementById("navFavorites");
 const navOSTEl = document.getElementById("navOST");
 const resizeHandle = document.getElementById("resizeHandle");
 const graphPaneEl = document.querySelector(".graphpane");
+const mobileRandomBtn = document.getElementById("mobileRandomBtn");
 
 const mobileMenuBtn = document.getElementById("mobileMenuBtn");
 const sidebarOverlay = document.getElementById("sidebarOverlay");
@@ -98,6 +99,12 @@ function closeSidebarIfMobile(){
 mobileMenuBtn.addEventListener("click", openSidebar);
 sidebarOverlay.addEventListener("click", closeSidebar);
 sidebarCloseEl.addEventListener("click", closeSidebar);
+
+mobileRandomBtn.addEventListener("click", () => {
+  if (!songs.length) return;
+  const randomSong = songs[Math.floor(Math.random() * songs.length)];
+  selectAndExpand(randomSong.id);
+});
 
 /* ---- Artist display: use a per-song artist override if present
    (for collabs/solos/OSTs), otherwise fall back to the group name ---- */
