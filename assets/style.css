@@ -738,6 +738,20 @@ svg{
 }
 
 @media (max-width: 768px){
+  body{
+    overflow-x: hidden;
+  }
+  .track-recs{
+    overflow-x: hidden;
+  }
+  .link-group{
+    flex-wrap: wrap;
+  }
+  
+  .listen-label{
+    width: auto;
+  }
+
   .mobile-menu-btn{
     display: flex;
     align-items: center;
