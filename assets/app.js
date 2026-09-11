@@ -45,6 +45,7 @@ function bucketDisplayName(bucket){
 
 const FAVORITES_KEY = "discograph_favorites";
 const GRAPH_WIDTH_KEY = "discograph_graph_width";
+const THEME_KEY = "discograph_theme";
 
 const listenPlatforms = [
   { key: "spotify", label: "Spotify" },
@@ -121,6 +122,41 @@ function saveFavorites(){
     console.warn("Could not save favorites to localStorage", err);
   }
 }
+
+/* ---- Theme (localStorage) ---- */
+function loadTheme(){
+  return localStorage.getItem(THEME_KEY) || "dark";
+}
+function saveTheme(theme){
+  try {
+    localStorage.setItem(THEME_KEY, theme);
+  } catch (err) {
+    console.warn("Could not save theme", err);
+  }
+}
+
+function applyTheme(theme){
+  if (theme === "dark") {
+    document.documentElement.removeAttribute("data-theme");
+  } else {
+    document.documentElement.setAttribute("data-theme", theme);
+  }
+  document.querySelectorAll(".theme-option").forEach(el => {
+    const isActive = el.getAttribute("data-theme") === theme;
+    el.classList.toggle("active", isActive);
+    el.querySelector(".theme-swatch").classList.toggle("active", isActive);
+  });
+}
+
+document.querySelectorAll(".theme-option").forEach(el => {
+  el.addEventListener("click", () => {
+    const theme = el.getAttribute("data-theme");
+    applyTheme(theme);
+    saveTheme(theme);
+  });
+});
+
+applyTheme(loadTheme());
 
 /* ---- Graph panel resize (localStorage) ---- */
 function loadGraphWidth(){
