@@ -2,7 +2,7 @@ import fs from 'fs';
 import { CLIENT_ID, CLIENT_SECRET } from './spotify-config.js';
 
 const DATA_FILES = [
-  { group: 'skz', file: 'data/songs.json' },
+  { group: 'skz', file: 'data/skz.json' },
   { group: 'bts', file: 'data/bts.json' },
   { group: 'ateez', file: 'data/ateez.json' },
   { group: 'enhypen', file: 'data/enhypen.json' }

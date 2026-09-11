@@ -1752,26 +1752,6 @@
     "recs": []
   },
   {
-    "title": "Danger",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "4:05",
-    "genres": [
-      "Hybrid Hip-Hop",
-      "Rock"
-    ],
-    "bpm": 112,
-    "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw",
-      "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=bagj788i328"
-    },
-    "recs": []
-  },
-  {
     "title": "Blood Sweat & Tears",
     "album": "Proof",
     "artist": "BTS",
@@ -2224,7 +2204,7 @@
     "art": "assets/covers/proof.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/left-and-right-acapella/1639961630?i=1639961640&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2243,7 +2223,7 @@
     "art": "assets/covers/love_yourself_her.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2262,7 +2242,7 @@
     "art": "assets/covers/love_yourself_her.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/pied-piper/1596529064?i=1596529071&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2280,11 +2260,12 @@
     "art": "assets/covers/love_yourself_her.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/mic-drop/1598730614?i=1598731059&uo=4",
       "youtube": ""
     },
     "recs": []
-  },{
+  },
+  {
     "title": "Go Go",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
@@ -2298,7 +2279,7 @@
     "art": "assets/covers/love_yourself_her.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/go-go/1598730614?i=1598730995&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2335,7 +2316,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/intro-what-am-i-to-you/1597016856?i=1597016863&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2354,7 +2335,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2373,7 +2354,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/war-of-hormone/1597016856?i=1597017069&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2391,7 +2372,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/hip-hop-phile/1597016856?i=1597017081&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2410,7 +2391,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/let-me-know/1597016856?i=1597017095&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2429,31 +2410,13 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "BTS Cypher PT.3 : KILLER (Feat. Supreme Boi)",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:28",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 150,
-    "tier": "Fast",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Interlude : What Are You Doing Now",
+    "title": "Interlude: What Are You Doing Now",
     "album": "Dark & Wild",
     "year": 2014,
     "duration": "0:42",
@@ -2465,7 +2428,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/interlude-what-are-you-doing-now/1597016856?i=1597017232&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2484,7 +2447,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/could-you-turn-off-your-cell-phone/1597016856?i=1597017242&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2503,7 +2466,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/embarrassed/1597016856?i=1597017519&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2522,7 +2485,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/24-7-heaven/1597016856?i=1597017525&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2541,7 +2504,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/look-here/1597016856?i=1597017528&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2559,13 +2522,13 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/2nd-grade/1597016856?i=1597017538&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Outro: Does That Make Sense?",
+    "title": "Outro: Do You Think It Makes Sense?",
     "album": "Dark & Wild",
     "year": 2014,
     "duration": "2:53",
@@ -2577,7 +2540,7 @@
     "art": "assets/covers/dark_and_wild.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/outro-do-you-think-it-makes-sense/1597016856?i=1597017846&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2595,7 +2558,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/intro-skool-luv-affair/1596533234?i=1596533244&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2613,7 +2576,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/skit-soulmate/1596533234?i=1596533251&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2632,7 +2595,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/where-you-from/1596528694?i=1596528811&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2651,7 +2614,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/just-one-day/1596528694?i=1596528970&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2670,13 +2633,13 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/tomorrow/1596528694?i=1596528971&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "BTS Cypher PT.2: Triptych",
+    "title": "BTS Cypher, Pt. 2: Triptych",
     "album": "Skool Luv Affair Special Addition",
     "year": 2014,
     "duration": "4:48",
@@ -2688,7 +2651,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-2-triptych/1596528694?i=1596528975&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2706,7 +2669,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/spine-breaker/1596528694?i=1596528980&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2725,7 +2688,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/jump/1596528694?i=1596528983&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2744,7 +2707,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/outro-propose/1596533234?i=1596533511&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2763,7 +2726,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/miss-right/1596533234?i=1596533237&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2781,7 +2744,7 @@
     "art": "assets/covers/skool_luv_affair.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/i-like-it/1443817875?i=1443817879&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2800,26 +2763,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Blood Sweat & Tears",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:37",
-    "genres": [
-      "Dance/Electronic",
-      "Pop"
-    ],
-    "bpm": 107,
-    "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/intro-boy-meets-evil/1596532477?i=1596532478&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2838,7 +2782,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/begin/1596532477?i=1596532485&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2857,7 +2801,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/lie/1596532477?i=1596532486&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2876,7 +2820,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/stigma/1596532477?i=1596532489&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2895,7 +2839,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/first-love/1596532477?i=1596532494&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2914,7 +2858,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/reflection/1596532477?i=1596532496&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2933,7 +2877,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/mama/1596532477?i=1596532501&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2952,7 +2896,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/awake/1596532477?i=1596532545&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2971,7 +2915,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/lost/1596532477?i=1596532546&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -2989,7 +2933,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/bts-cypher-4/1596532477?i=1596532550&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -3008,7 +2952,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/am-i-wrong/1596528839?i=1596529371&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -3027,7 +2971,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/21st-century-girl/1596532477?i=1596532554&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -3046,7 +2990,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/2-3/1596532477?i=1596532555&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -3065,7 +3009,7 @@
     "art": "assets/covers/wings.jpg",
     "links": {
       "spotify": "",
-      "appleMusic": "",
+      "appleMusic": "https://music.apple.com/us/album/interlude-wings/1596532477?i=1596532558&uo=4",
       "youtube": ""
     },
     "recs": []
