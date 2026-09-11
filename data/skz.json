@@ -61,7 +61,8 @@
     "year": 2018,
     "duration": "3:23",
     "genres": [
-      "Rock/Punk/Metal"
+      "Rock/Punk/Metal",
+      "Hip-Hop"
     ],
     "bpm": 132,
     "tier": "Mid",
@@ -1010,7 +1011,7 @@
     "year": 2020,
     "duration": "3:33",
     "genres": [
-      "EDM/Electronic"
+      "Synth-Pop"
     ],
     "bpm": 128,
     "tier": "Mid",
@@ -1447,7 +1448,9 @@
     "year": 2021,
     "duration": "3:30",
     "genres": [
-      "Rock/Punk/Metal"
+      "R&B/Soul",
+      "Hip-Hop",
+      "Pop"
     ],
     "bpm": 128,
     "tier": "Mid",
@@ -1957,7 +1960,8 @@
     "year": 2022,
     "duration": "3:39",
     "genres": [
-      "Rock/Punk/Metal"
+      "Rock/Punk/Metal",
+      "Ballad"
     ],
     "bpm": 125,
     "tier": "Mid",
@@ -2377,7 +2381,7 @@
     "recs": []
   },
   {
-    "title": "I hate to admit",
+    "title": "i hate to admit",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:50",
@@ -4637,13 +4641,14 @@
     "year": null,
     "duration": "3:25",
     "genres": [
-      "Rock/Punk/Metal"
+      "Ballad",
+      "Soft Rock"
     ],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/singles-solos-features.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie",
+      "spotify": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie?si=8ce03782f3514a6c",
       "appleMusic": "https://music.apple.com/us/album/phobia/1608257477?i=1608257828&uo=4",
       "youtube": "https://youtu.be/HZgvPXXCeI8?si=O-IEdeTV_-5VX7Mk"
     },

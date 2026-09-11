@@ -1,0 +1,114 @@
+[
+    {
+    "title": "Two Fools",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "3:01",
+    "genres": [
+      "Rock/Punk/Metal",
+      "Pop-Rock"
+    ],
+    "bpm": 142,
+    "tier": "Mid",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4H7Wy2jficlFQppJCHE8Ks?si=2f4ce34e214a487b",
+      "appleMusic": "https://music.apple.com/us/album/two-fools/6780548049?i=6780548050",
+      "youtube": "https://www.youtube.com/watch?v=IRzjTyvWK4E"
+    },
+    "recs": []
+  },
+  {
+    "title": "Stuck",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "2:38",
+    "genres": [
+      "Pop", 
+      "Synth-Pop"
+    ],
+    "bpm": 118,
+    "tier": "Mid",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko",
+      "appleMusic": "https://music.apple.com/us/album/the-sin-bliss-ep/6780548049",
+      "youtube": "https://youtu.be/kXSXPB6plrs?si=4h9RvRqum88iGYfi"
+    },
+    "recs": []
+  },
+  {
+    "title": "Bad For You",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "3:20",
+    "genres": [
+      "Pop Ballad",
+      "Ballad"
+    ],
+    "bpm": 75,
+    "tier": "Mid",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3ppL6m58G6Kw2j19TEvdHp?si=d11141e57df64c0b",
+      "appleMusic": "https://music.apple.com/us/album/bad-for-you/6780548049?i=6780548386",
+      "youtube": "https://youtu.be/TZfO7dXYjVU?si=PKOdLHAiELnb-STS"
+    },
+    "recs": []
+  },
+  {
+    "title": "Bloody Paradise",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "2:54",
+    "genres": [
+      "Brazilian Funk"
+    ],
+    "bpm": 130,
+    "tier": "Up-tempo",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu?si=5c94a2083ca54d9e",
+      "appleMusic": "https://music.apple.com/us/album/bloody-paradise/6780548049?i=6780548391",
+      "youtube": "https://youtu.be/MT-4Bk1Lw8g?si=L-nGrEGFhl-xqCrF"
+    },
+    "recs": []
+  },
+  {
+    "title": "Checkmate",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "3:12",
+    "genres": [
+      "Techno"
+    ],
+    "bpm": 126,
+    "tier": "Mid",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5BPz1bcrWmrTAzzODtQqB9?si=bb435d8ca6d84b86",
+      "appleMusic": "https://music.apple.com/us/album/checkmate/6780548049?i=6780548394",
+      "youtube": "https://youtu.be/7wOPVXn_XAE?si=DoXcn1dBPwXbx02B"
+    },
+    "recs": []
+  },
+  {
+    "title": "Highlight",
+    "album": "THE SIN : BLISS",
+    "year": 2026,
+    "duration": "2:45",
+    "genres": [
+      "Old-School Hip-Hop",
+      "Pop-Rock"
+    ],
+    "bpm": 92,
+    "tier": "Mid",
+    "art": "assets/covers/the-sin-bliss.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1iMSo2imh5nnJL4QF7VL0i?si=c186c79756854689",
+      "appleMusic": "https://music.apple.com/us/album/highlight/6780548049?i=6780548397",
+      "youtube": "https://youtu.be/OiWhq8pEJQk?si=EoWQ0ncykw0O9wr-"
+    },
+    "recs": []
+  }
+]

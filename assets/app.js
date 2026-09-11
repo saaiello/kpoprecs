@@ -3,13 +3,15 @@ import { GENRE_MAP } from './genre-map.js';
 const groupMeta = {
   skz: { name: "Stray Kids", color: "#5EEAD4" },
   bts: { name: "BTS", color: "#A78BFA" },
-  ateez: { name: "Ateez", color: "#FB923C" }
+  ateez: { name: "Ateez", color: "#FB923C" },
+  enhypen: { name: "Enhypen", color: "#F472B6" }
 };
 
 const DATA_SOURCES = [
-  { group: "skz", file: "data/songs.json" },
+  { group: "skz", file: "data/skz.json" },
   { group: "bts", file: "data/bts.json" },
-  { group: "ateez", file: "data/ateez.json" }
+  { group: "ateez", file: "data/ateez.json" },
+  { group: "enhypen", file: "data/enhypen.json" }
 ];
 
 const GENRE_BUCKETS = [

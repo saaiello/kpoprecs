@@ -1,5 +1,231 @@
 [
   {
+    "title": "Golden Hour",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "1:24",
+    "genres": [
+      "Pop",
+      "Ambient"
+    ],
+    "bpm": 85,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Blind",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "3:18",
+    "genres": [
+      "Pop",
+      "Latin Pop"
+    ],
+    "bpm": 122,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "WORK",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "2:52",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Pop"
+    ],
+    "bpm": 100,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Empty Box",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "3:33",
+    "genres": [
+      "R&B/Soul",
+      "Ballad"
+    ],
+    "bpm": 78,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Shaboom",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "3:31",
+    "genres": [
+      "Dance/Electronic",
+      "Reggae"
+    ],
+    "bpm": 130,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Siren",
+    "album": "GOLDEN HOUR : Part.1",
+    "year": 2024,
+    "duration": "2:44",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "bpm": 145,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_1.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Deep Dive",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "2:10",
+    "genres": [
+      "R&B/Soul",
+      "Pop"
+    ],
+    "bpm": 90,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Scene 1 : Value",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "1:15",
+    "genres": [
+      "Spoken Word",
+      "Ambient"
+    ],
+    "bpm": 0,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Ice On My Teeth",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "3:03",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Pop"
+    ],
+    "bpm": 115,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Man On Fire",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "2:54",
+    "genres": [
+      "Dance/Electronic",
+      "Pop"
+    ],
+    "bpm": 128,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Selfish Waltz",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "3:18",
+    "genres": [
+      "R&B/Soul"
+    ],
+    "bpm": 84,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Enough",
+    "album": "GOLDEN HOUR : Part.2",
+    "year": 2024,
+    "duration": "3:22",
+    "genres": [
+      "Pop",
+      "Ballad"
+    ],
+    "bpm": 96,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_2.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
     "title": "Lemon Drop",
     "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
     "year": 2025,
@@ -75,26 +301,6 @@
     "links": {
       "spotify": "https://open.spotify.com/track/4fayKmQptcxAvra2lXqmIQ",
       "appleMusic": "https://music.apple.com/us/album/castle/1816843869?i=1816844236&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Bridge: The Edge of Reality",
-    "album": "Golden Hour: Part.3 'In Your Fantasy Edition'",
-    "year": 2025,
-    "duration": "1:32",
-    "genres": [
-      "Experimental",
-      "Ambient Interlude",
-      "Electronic"
-    ],
-    "bpm": null,
-    "tier": null,
-    "art": "assets/covers/golden-hour-pt3-iyf.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4MCXu2WpjK4X0WY6NG3KNE",
-      "appleMusic": "https://music.apple.com/us/album/bridge-the-edge-of-reality/1822545714?i=1822545719&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -293,6 +499,195 @@
     "links": {
       "spotify": "https://open.spotify.com/track/2Bolr7uiAoqeccV3MJ7Kjx",
       "appleMusic": "https://music.apple.com/us/album/in-your-fantasy-korean-ver/1822545714?i=1822546112&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Ghost",
+    "album": "GOLDEN HOUR : Part.4",
+    "year": 2026,
+    "duration": "2:47",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Pop"
+    ],
+    "bpm": 110,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_4.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Adrenaline",
+    "album": "GOLDEN HOUR : Part.4",
+    "year": 2026,
+    "duration": "3:39",
+    "genres": [
+      "Dance/Electronic",
+      "Pop"
+    ],
+    "bpm": 126,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_4.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "NASA",
+    "album": "GOLDEN HOUR : Part.4",
+    "year": 2026,
+    "duration": "3:10",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "bpm": 135,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_4.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "On The Road",
+    "album": "GOLDEN HOUR : Part.4",
+    "year": 2026,
+    "duration": "3:23",
+    "genres": [
+      "Pop",
+      "R&B/Soul"
+    ],
+    "bpm": 98,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_4.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Choose",
+    "album": "GOLDEN HOUR : Part.4",
+    "year": 2026,
+    "duration": "3:06",
+    "genres": [
+      "Dance/Electronic",
+      "Pop"
+    ],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_4.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "BAD",
+    "album": "GOLDEN HOUR : Part.5",
+    "year": 2026,
+    "duration": "2:36",
+    "genres": [
+      "Dance/Electronic",
+      "Latin Pop"
+    ],
+    "bpm": 130,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_5.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "MAMACITA",
+    "album": "GOLDEN HOUR : Part.5",
+    "year": 2026,
+    "duration": "3:09",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Latin Pop"
+    ],
+    "bpm": 105,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_5.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "TOXIN",
+    "album": "GOLDEN HOUR : Part.5",
+    "year": 2026,
+    "duration": "2:48",
+    "genres": [
+      "Pop",
+      "Dance/Electronic"
+    ],
+    "bpm": 118,
+    "tier": "Mid",
+    "art": "assets/covers/golden_hour_part_5.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Fallin'",
+    "album": "GOLDEN HOUR : Part.5",
+    "year": 2026,
+    "duration": "3:18",
+    "genres": [
+      "Dance/Electronic",
+      "Pop"
+    ],
+    "bpm": 124,
+    "tier": "Fast",
+    "art": "assets/covers/golden_hour_part_5.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Body",
+    "album": "GOLDEN HOUR : Part.5",
+    "year": 2026,
+    "duration": "2:57",
+    "genres": [
+      "R&B/Soul",
+      "Pop"
+    ],
+    "bpm": 88,
+    "tier": "Slow",
+    "art": "assets/covers/golden_hour_part_5.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
