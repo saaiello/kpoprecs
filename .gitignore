@@ -1,3 +1,4 @@
-spotify-config.js
-applemusic-results.json
-spotify-results.json
+scripts/spotify-config.js
+scripts/applemusic-results.json
+scripts/spotify-results.json
+scripts/genre-gaps.json

@@ -123,7 +123,6 @@
     "year": 2026,
     "duration": "2:39",
     "genres": [
-      "Pop",
       "R&B/Soul",
       "Synth-Pop"
     ],
@@ -1945,7 +1944,6 @@
     "year": 2022,
     "duration": "3:25",
     "genres": [
-      "EDM Pop",
       "Future House"
     ],
     "bpm": 128,
@@ -2185,8 +2183,7 @@
     "year": 2022,
     "duration": "1:51",
     "genres": [
-      "EDM Pop",
-      "Demo"
+      "R&B"
     ],
     "bpm": 148,
     "tier": "Up-tempo",
