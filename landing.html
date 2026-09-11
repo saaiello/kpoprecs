@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KPOPgraph — connect the dots across K-pop</title>
+<title>KPOPRECS — connect the dots across K-pop</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
@@ -11,45 +11,90 @@
 </head>
 <body>
 
-<nav>
-  <a href="index.html" class="logo">KPOP<span>GRAPH</span></a>
-  <div class="navlinks">
-    <a href="explore.html">explore</a>
-    <a href="#">groups</a>
-    <a href="#">about</a>
+<div class="shell">
+  <div class="mobile-topbar">
+    <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Open menu">☰</button>
+    <span class="mobile-logo">KPOP<span>RECS</span></span>
   </div>
-  <a href="explore.html" class="navcta">start exploring</a>
-</nav>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+  <aside class="sidebar" aria-label="Main navigation">
+    <button class="sidebar-close" id="sidebarClose" aria-label="Close menu">✕</button>
+    <a href="landing.html" class="logo">KPOP<span>RECS</span></a>
 
-<div class="hero" id="hero">
-  <div class="hero-bg"></div>
-  <div class="hero-dim"></div>
-  <div class="hero-content">
-    <h1>Don't just replay.<br><span class="accent">Connect the dots.</span></h1>
-    <p>Search for a song you already love — find where it leads.</p>
-    <form class="searchwrap" id="heroForm">
-      <label for="heroSearch" class="sr-only">Search any song or group</label>
-      <input id="heroSearch" placeholder="search any song, any group..." autocomplete="off">
-    </form>
-  </div>
-</div>
+    <nav class="sidenav" aria-label="Sections">
+      <a href="landing.html" class="sidenav-item active">
+        <i class="icon">⌂</i> Home
+      </a>
+      <a href="index.html" class="sidenav-item">
+        <i class="icon">◎</i> All songs
+      </a>
+      <a href="index.html?view=favorites" class="sidenav-item">
+        <i class="icon">♡</i> Favorites
+      </a>
+      <a href="index.html?view=ost" class="sidenav-item">
+        <i class="icon">◈</i> OST
+      </a>
+    </nav>
 
-<div class="searchmode" id="searchMode">
-  <form class="searchmode-top" id="modeForm">
-    <label for="modeSearch" class="sr-only">Search any song or group</label>
-    <input id="modeSearch" placeholder="search any song, any group..." autocomplete="off">
-    <button type="button" class="closebtn" id="closeSearch" aria-label="Close search">✕</button>
-  </form>
+    <p class="sidenav-label">Groups</p>
+    <div class="sidenav-scroll-wrap">
+      <nav class="sidenav sidenav-scroll" id="groupNav" aria-label="Filter by group"></nav>
+    </div>
 
-  <div class="section">
-    <h2>Recent searches</h2>
-    <div class="recent" id="recentList"></div>
-  </div>
+    <p class="sidenav-label">Genre</p>
+    <div class="sidenav-scroll-wrap">
+      <nav class="sidenav sidenav-scroll" id="genreNav" aria-label="Filter by genre"></nav>
+    </div>
 
-  <div class="section">
-    <h2>Cross-group mixes, based on tempo and genre</h2>
-    <div class="mixgrid" id="mixGrid"></div>
-  </div>
+    <p class="sidenav-label">Theme</p>
+    <div class="theme-picker" id="themePicker">
+      <button class="theme-option" data-theme="dark">
+        <span class="theme-swatch" data-theme="dark"></span>
+        <span class="theme-option-label">Dark</span>
+      </button>
+      <button class="theme-option" data-theme="light">
+        <span class="theme-swatch" data-theme="light"></span>
+        <span class="theme-option-label">Light</span>
+      </button>
+      <button class="theme-option" data-theme="kpop">
+        <span class="theme-swatch" data-theme="kpop"></span>
+        <span class="theme-option-label">Pastel</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="content">
+    <div class="hero" id="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-dim"></div>
+      <div class="hero-content">
+        <h1>Don't just replay.<br><span class="accent">Connect the dots.</span></h1>
+        <p>Search for a song you already love — find where it leads.</p>
+        <form class="searchwrap" id="heroForm">
+          <label for="heroSearch" class="sr-only">Search any song or group</label>
+          <input id="heroSearch" placeholder="search any song, any group..." autocomplete="off">
+        </form>
+      </div>
+    </div>
+
+    <div class="playlists">
+      <h2>Playlists to try</h2>
+      <div class="playlist-grid" id="playlistGrid"></div>
+    </div>
+
+    <div class="searchmode" id="searchMode">
+      <form class="searchmode-top" id="modeForm">
+        <label for="modeSearch" class="sr-only">Search any song or group</label>
+        <input id="modeSearch" placeholder="search any song, any group..." autocomplete="off">
+        <button type="button" class="closebtn" id="closeSearch" aria-label="Close search">✕</button>
+      </form>
+
+      <div class="section">
+        <h2>Recent searches</h2>
+        <div class="recent" id="recentList"></div>
+      </div>
+    </div>
+  </main>
 </div>
 
 <script src="assets/landing.js"></script>

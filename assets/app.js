@@ -657,6 +657,15 @@ async function init(){
     const params = new URLSearchParams(window.location.search);
     const songParam = params.get("song");
     const qParam = params.get("q");
+    const genreParam = params.get("genre");
+    const groupsParam = params.get("groups");
+
+    if (genreParam) selectedGenres.add(genreParam);
+    if (groupsParam) groupsParam.split(",").forEach(g => selectedGroups.add(g));
+
+    const viewParam = params.get("view");
+    if (viewParam === "favorites") favoritesOnly = true;
+    if (viewParam === "ost") ostOnly = true;
 
     if (songParam && byId[songParam]){
       selectAndExpand(songParam);
@@ -665,6 +674,8 @@ async function init(){
       currentFilter = qParam;
     }
 
+    renderGroupNav();
+    renderGenreNav();
     renderNavStates();
     renderTable();
     renderGraph();
