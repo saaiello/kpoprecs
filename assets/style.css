@@ -825,6 +825,8 @@ svg{
     background: var(--bg);
     transform: translateX(-100%);
     transition: transform 0.25s ease;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
   .sidebar.open{
     transform: translateX(0);
