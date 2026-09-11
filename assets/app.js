@@ -4,14 +4,16 @@ const groupMeta = {
   skz: { name: "Stray Kids", color: "#5EEAD4" },
   bts: { name: "BTS", color: "#A78BFA" },
   ateez: { name: "Ateez", color: "#FB923C" },
-  enhypen: { name: "Enhypen", color: "#F472B6" }
+  enhypen: { name: "Enhypen", color: "#F472B6" },
+  wonho: { name: "WONHO", color: "#daf472" }
 };
 
 const DATA_SOURCES = [
   { group: "skz", file: "data/skz.json" },
   { group: "bts", file: "data/bts.json" },
   { group: "ateez", file: "data/ateez.json" },
-  { group: "enhypen", file: "data/enhypen.json" }
+  { group: "enhypen", file: "data/enhypen.json" },
+  { group: "wonho", file: "data/wonho.json" }
 ];
 
 const GENRE_BUCKETS = [
@@ -27,6 +29,19 @@ const GENRE_BUCKETS = [
   "Afrobeat/Global",
   "Interlude/Other"
 ];
+
+const BUCKET_DISPLAY_NAMES = {
+  "House/Club EDM": "EDM",
+  "Electronic/Atmospheric": "Chill Electronic",
+  "Rock/Punk/Metal": "Rock",
+  "Acoustic/Lo-fi": "Acoustic",
+  "Afrobeat/Global": "Global Beats",
+  "Dance-Pop": "Synth-Pop"
+};
+
+function bucketDisplayName(bucket){
+  return BUCKET_DISPLAY_NAMES[bucket] || bucket;
+}
 
 const FAVORITES_KEY = "discograph_favorites";
 const GRAPH_WIDTH_KEY = "discograph_graph_width";
@@ -44,6 +59,7 @@ let byId = {};
 let favorites = new Set(loadFavorites());
 let expandedId = null;
 let favoritesOnly = false;
+let ostOnly = false;
 let currentFilter = "";
 let selectedGroups = new Set();
 let selectedGenres = new Set();
@@ -57,8 +73,30 @@ const groupNavEl = document.getElementById("groupNav");
 const genreNavEl = document.getElementById("genreNav");
 const navAllEl = document.getElementById("navAll");
 const navFavoritesEl = document.getElementById("navFavorites");
+const navOSTEl = document.getElementById("navOST");
 const resizeHandle = document.getElementById("resizeHandle");
 const graphPaneEl = document.querySelector(".graphpane");
+
+const mobileMenuBtn = document.getElementById("mobileMenuBtn");
+const sidebarOverlay = document.getElementById("sidebarOverlay");
+const sidebarCloseEl = document.getElementById("sidebarClose");
+const sidebarEl = document.querySelector(".sidebar");
+
+function openSidebar(){
+  sidebarEl.classList.add("open");
+  sidebarOverlay.classList.add("open");
+}
+function closeSidebar(){
+  sidebarEl.classList.remove("open");
+  sidebarOverlay.classList.remove("open");
+}
+function closeSidebarIfMobile(){
+  if (window.innerWidth <= 768) closeSidebar();
+}
+
+mobileMenuBtn.addEventListener("click", openSidebar);
+sidebarOverlay.addEventListener("click", closeSidebar);
+sidebarCloseEl.addEventListener("click", closeSidebar);
 
 /* ---- Artist display: use a per-song artist override if present
    (for collabs/solos/OSTs), otherwise fall back to the group name ---- */
@@ -194,16 +232,18 @@ function renderGroupNav(){
       renderGroupNav();
       renderNavStates();
       renderTable();
+      closeSidebarIfMobile();
     });
   });
 }
 
 /* ---- Sidebar: genre buckets (multi-select) ---- */
 function renderGenreNav(){
-  genreNavEl.innerHTML = GENRE_BUCKETS.map(genre => {
+  const visibleBuckets = GENRE_BUCKETS.filter(g => g !== "Interlude/Other");
+  genreNavEl.innerHTML = visibleBuckets.map(genre => {
     const isActive = selectedGenres.has(genre) ? "active" : "";
     return `<button class="sidenav-item ${isActive}" data-genre="${genre}" aria-pressed="${selectedGenres.has(genre)}">
-      <i class="icon">◆</i> ${genre}
+      <i class="icon">◆</i> ${bucketDisplayName(genre)}
     </button>`;
   }).join("");
 
@@ -214,15 +254,18 @@ function renderGenreNav(){
       renderGenreNav();
       renderNavStates();
       renderTable();
+      closeSidebarIfMobile();
     });
   });
 }
 
 function renderNavStates(){
-  const nothingFiltered = selectedGroups.size === 0 && selectedGenres.size === 0 && !favoritesOnly && !currentFilter;
+  const nothingFiltered = selectedGroups.size === 0 && selectedGenres.size === 0 && !favoritesOnly && !ostOnly && !currentFilter;
   navAllEl.classList.toggle("active", nothingFiltered);
   navFavoritesEl.classList.toggle("active", favoritesOnly);
   navFavoritesEl.setAttribute("aria-pressed", favoritesOnly);
+  navOSTEl.classList.toggle("active", ostOnly);
+  navOSTEl.setAttribute("aria-pressed", ostOnly);
 }
 
 /* ---- Graph: ego network around the expanded song ---- */
@@ -322,6 +365,7 @@ function renderSongCard(){
         <div class="song-card-meta">${displayArtist(s)} · ${s.album}</div>
         <div class="song-card-meta">${s.year ?? "—"} · ${s.duration}${s.bpm ? " · " + s.bpm + " BPM" : ""}</div>
         <div class="song-card-genres">
+          ${s.isOST ? `<span class="ost-badge">OST</span>` : ""}
           ${s.genres.map(g => `<span class="genre-tag">${g}</span>`).join("")}
         </div>
       </div>
@@ -401,7 +445,8 @@ function matchesFilters(s){
   const matchesGroup = selectedGroups.size === 0 || selectedGroups.has(s.group);
   const matchesGenre = selectedGenres.size === 0 || getMainGenres(s).some(g => selectedGenres.has(g));
   const matchesFav = !favoritesOnly || favorites.has(s.id);
-  return matchesSearch && matchesGroup && matchesGenre && matchesFav;
+  const matchesOST = !ostOnly || s.isOST === true;
+  return matchesSearch && matchesGroup && matchesGenre && matchesFav && matchesOST;
 }
 
 /* ---- Main table ---- */
@@ -426,7 +471,10 @@ function renderTable(){
             <div class="title">${s.title}</div>
             <div class="subrow">
               <span class="group-name">${displayArtist(s)}</span>
-              <span class="meta">${s.genres.map(g => `<span class="genre-tag">${g}</span>`).join("")}</span>
+              <span class="meta">
+                ${s.isOST ? `<span class="ost-badge">OST</span>` : ""}
+                ${s.genres.map(g => `<span class="genre-tag">${g}</span>`).join("")}
+              </span>
             </div>
           </div>
           <div class="col-album">${s.album}</div>
@@ -490,18 +538,28 @@ navAllEl.addEventListener("click", () => {
   selectedGroups.clear();
   selectedGenres.clear();
   favoritesOnly = false;
+  ostOnly = false;
   searchEl.value = "";
   currentFilter = "";
   renderGroupNav();
   renderGenreNav();
   renderNavStates();
   renderTable();
+  closeSidebarIfMobile();
 });
 
 navFavoritesEl.addEventListener("click", () => {
   favoritesOnly = !favoritesOnly;
   renderNavStates();
   renderTable();
+  closeSidebarIfMobile();
+});
+
+navOSTEl.addEventListener("click", () => {
+  ostOnly = !ostOnly;
+  renderNavStates();
+  renderTable();
+  closeSidebarIfMobile();
 });
 
 searchEl.addEventListener("input", () => {

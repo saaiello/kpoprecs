@@ -22,7 +22,7 @@
   --line: #232329;
   --text: #F2F2F0;
   --muted: #b4b4bd;
-  --bpm-accent: #E24B4A;
+  --bpm-accent: #b94ae2;
 }
 *{
   box-sizing: border-box;
@@ -121,6 +121,12 @@ body{
   background: var(--panel);
   color: var(--text);
 }
+.sidenav-item.active::after{
+  content: "✓";
+  margin-left: auto;
+  color: #5EEAD4;
+  font-size: 12px;
+}
 .sidenav-item:focus-visible{
   outline: 2px solid #5EEAD4;
   outline-offset: -2px;
@@ -135,7 +141,7 @@ body{
 }
 
 .sidenav-scroll{
-  max-height: 160px;
+  max-height: 400px;
   overflow-y: auto;
   overflow-x: hidden;
   min-height: 0;
@@ -161,6 +167,15 @@ body{
 *{
   scrollbar-width: thin;
   scrollbar-color: #3A3A44 transparent;
+}
+
+.ost-badge{
+  font-size: 12px;
+  font-weight: 600;
+  color: #0D0D12;
+  background: #8372f4;
+  border-radius: 4px;
+  padding: 1px 6px;
 }
 /* ------------------------------------------------------------
    4. CONTENT AREA & SEARCH
@@ -236,8 +251,8 @@ body{
 .heart{
   background: none;
   border: none;
-  font-size: 15px;
-  color: #4A4A54;
+  font-size: 25px;
+  color: #b4b4bb;
   width: 44px;
   min-height: 75px;
   flex-shrink: 0;
@@ -681,6 +696,86 @@ svg{
 /* ------------------------------------------------------------
    9. RESPONSIVE
    ------------------------------------------------------------
-   Not addressed yet — same known gap flagged in the earlier
-   accessibility pass. Revisit with a real mobile layout later.
+/* ------------------------------------------------------------
+   MOBILE
    ------------------------------------------------------------ */
+.mobile-menu-btn{
+  display: none;
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  z-index: 20;
+  width: 40px;
+  height: 40px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.sidebar-overlay{
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 15;
+}
+.sidebar-overlay.open{
+  display: block;
+}
+
+.sidebar-close{
+  display: none;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 16px;
+  align-self: flex-end;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px){
+  .mobile-menu-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sidebar-close{
+    display: block;
+  }
+  .sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 240px;
+    z-index: 16;
+    background: var(--bg);
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+  }
+  .sidebar.open{
+    transform: translateX(0);
+  }
+  .content{
+    padding-top: 60px;
+  }
+  .graphpane,
+  .resize-handle{
+    display: none;
+  }
+  .col-album,
+  .col-year,
+  .col-duration,
+  .table-header .col-album,
+  .table-header .col-year,
+  .table-header .col-duration{
+    display: none;
+  }
+  .track-recs{
+    padding-left: 16px;
+  }
+}

@@ -4644,6 +4644,7 @@
       "Ballad",
       "Soft Rock"
     ],
+    "isOST": true,
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/singles-solos-features.jpg",

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Maniac",
+    "album": "Syndrome",
+    "year": 2025,
+    "duration": "2:31",
+    "genres": [
+      "EDM/Electronic"
+    ],
+    "bpm": 100,
+    "tier": "",
+    "art": "assets/covers/syndrome.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  }
+]
