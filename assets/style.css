@@ -141,10 +141,24 @@ body{
 }
 
 .sidenav-scroll{
-  max-height: 400px;
+  max-height: 260px;
   overflow-y: auto;
   overflow-x: hidden;
   min-height: 0;
+  position: relative;
+}
+.sidenav-scroll-wrap{
+  position: relative;
+}
+.sidenav-scroll-wrap::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 24px;
+  background: linear-gradient(to bottom, transparent, var(--bg));
+  pointer-events: none;
 }
 
 /* Custom scrollbars — Chrome, Edge, Safari */
@@ -803,4 +817,8 @@ svg{
   .track-recs{
     padding-left: 16px;
   }
+}
+
+.sidenav-scroll-wrap.scrolled-to-end::after{
+  opacity: 0;
 }

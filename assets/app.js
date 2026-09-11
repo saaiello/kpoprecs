@@ -255,6 +255,7 @@ function renderGenreNav(){
       renderNavStates();
       renderTable();
       closeSidebarIfMobile();
+      updateScrollFade(genreNavEl);
     });
   });
 }
@@ -437,6 +438,18 @@ function recsHtml(song){
   `;
 }
 
+/* ---- Scroll ---- */
+function updateScrollFade(navEl){
+  const wrap = navEl.closest(".sidenav-scroll-wrap");
+  if (!wrap) return;
+  const atBottom = navEl.scrollHeight - navEl.scrollTop <= navEl.clientHeight + 2;
+  wrap.classList.toggle("scrolled-to-end", atBottom);
+}
+
+function attachScrollFadeListener(navEl){
+  navEl.addEventListener("scroll", () => updateScrollFade(navEl));
+}
+
 /* ---- Combined filtering: search + groups + genres + favorites ---- */
 function matchesFilters(s){
   const q = currentFilter.toLowerCase();
@@ -546,6 +559,8 @@ navAllEl.addEventListener("click", () => {
   renderNavStates();
   renderTable();
   closeSidebarIfMobile();
+  updateScrollFade(groupNavEl);
+  updateScrollFade(genreNavEl);
 });
 
 navFavoritesEl.addEventListener("click", () => {
@@ -586,6 +601,10 @@ async function loadAllSources(){
 async function init(){
   renderGroupNav();
   renderGenreNav();
+  attachScrollFadeListener(groupNavEl);
+  attachScrollFadeListener(genreNavEl);
+  updateScrollFade(groupNavEl);
+  updateScrollFade(genreNavEl);
   try {
     songs = await loadAllSources();
     songs.sort((a, b) => (b.year ?? -Infinity) - (a.year ?? -Infinity));
