@@ -81,7 +81,8 @@ async function run() {
     console.log(`\n--- ${source.file} (${songs.length} songs) ---\n`);
 
     for (const song of songs) {
-      if (song.links && song.links.spotify) {
+      const existing = song.links?.spotify;
+      if (existing || existing === null) {
         continue;
       }
 

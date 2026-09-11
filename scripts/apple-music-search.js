@@ -58,12 +58,14 @@ async function run() {
     console.log(`\n--- ${source.file} (${songs.length} songs) ---\n`);
 
     for (const song of songs) {
-      if (song.links && song.links.appleMusic) {
-        continue;
+      const existing = song.links?.appleMusic;
+      if (existing || existing === null) {
+        continue; // has a real link already, or confirmed no link exists
       }
 
       const artist = song.artist || groupNames[source.group];
       const result = await searchAppleMusic(song.title, artist);
+      // ...rest of the loop stays the same
 
       const entry = {
         file: source.file,
