@@ -3,13 +3,15 @@ import fs from 'fs';
 const DATA_FILES = [
   { group: 'skz', file: 'data/songs.json' },
   { group: 'bts', file: 'data/bts.json' },
-  { group: 'ateez', file: 'data/ateez.json' }
+  { group: 'ateez', file: 'data/ateez.json' },
+  { group: 'enhypen', file: 'data/enhypen.json' }
 ];
 
 const groupNames = {
   skz: 'Stray Kids',
   bts: 'BTS',
-  ateez: 'Ateez'
+  ateez: 'Ateez',
+  enhypen: 'Enhypen'
 };
 
 function normalize(str) {
