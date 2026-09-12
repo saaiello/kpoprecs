@@ -91,6 +91,8 @@ export const GENRE_MAP = {
   "rap rock": "Rock/Punk/Metal",
   "rap-rock": "Rock/Punk/Metal",
   "rock": "Rock/Punk/Metal",
+  "rock-ballad": "Ballad",
+  "rock ballad": "Ballad",
   "rock/punk/metal": "Rock/Punk/Metal",
   "sensual synth-pop": "Dance-Pop",
   "slow jam": "R&B/Soul",

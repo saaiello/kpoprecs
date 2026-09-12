@@ -447,7 +447,7 @@ function songCardRecsHtml(song){
   if (!recs.length) return "";
   return `
     <div class="song-card-recs">
-      <p class="recs-label">If you liked this, try —</p>
+      <p class="recs-label">Recommended Songs—</p>
       <div class="song-card-recs-grid">
         ${recs.map(r => {
           const crossGroup = r.group !== song.group;
@@ -467,17 +467,18 @@ function recsHtml(song){
   const recs = (song.recs || []).map(id => byId[id]).filter(Boolean);
   if (!recs.length) return "";
   return `
-    <div class="recs-label">If you liked this, try —</div>
-    ${recs.map(r => {
-      const crossGroup = r.group !== song.group;
-      return `<button class="rec-item" data-id="${r.id}">
-        ${artHtml(r, "art")}
-        <div>
-          <div class="rname">${r.title}</div>
-          <div class="rmeta">${displayArtist(r)}${crossGroup ? " · new to you" : ""} · ${r.bpm} bpm</div>
-        </div>
-      </button>`;
-    }).join("")}
+    <div class="recs-label">Recommended Songs —</div>
+    <div class="recs-grid">
+      ${recs.map(r => {
+        const crossGroup = r.group !== song.group;
+        const accent = groupMeta[r.group].color;
+        return `<button class="rec-item" data-id="${r.id}" style="--rec-accent:${accent}">
+          ${artHtml(r, "art")}
+          <div class="rec-title">${r.title}</div>
+          <div class="rec-sub">${displayArtist(r)}${crossGroup ? " · new to you" : ""} · ${r.bpm} bpm</div>
+        </button>`;
+      }).join("")}
+    </div>
   `;
 }
 
@@ -541,9 +542,13 @@ function renderTable(){
         </button>
       </div>
       ${isExpanded ? `
-        <div class="track-recs" id="${panelId}">
-          ${buildLinksContent(s.links || {})}
-          ${recsHtml(s)}
+        <div id="${panelId}">
+          <div class="track-links">
+            ${buildLinksContent(s.links || {})}
+          </div>
+          <div class="track-recs">
+            ${recsHtml(s)}
+          </div>
         </div>
       ` : ""}
     </div>`;

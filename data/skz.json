@@ -2184,8 +2184,8 @@
     "year": 2022,
     "duration": "3:17",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -3031,8 +3031,8 @@
     "year": 2023,
     "duration": "3:39",
     "genres": [
-      "Acoustic/Lo-fi",
-      "Rock/Punk/Metal"
+      "Soft Rock",
+      "Ballad"
     ],
     "bpm": 115,
     "tier": "Mid",
@@ -3549,8 +3549,7 @@
     "year": 2024,
     "duration": "3:12",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Pop-Punk"
     ],
     "bpm": 130,
     "tier": "Mid",
@@ -3661,7 +3660,8 @@
     "year": 2025,
     "duration": "3:41",
     "genres": [
-      "Ballad"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 144,
     "tier": "Up-tempo",
@@ -3991,8 +3991,8 @@
     "year": 2025,
     "duration": "3:30",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Soft Rock",
+      "Rock-Ballad"
     ],
     "bpm": 115,
     "tier": "Mid",
@@ -4086,7 +4086,8 @@
     "duration": "3:35",
     "genres": [
       "Ballad",
-      "Pop"
+      "Pop",
+      "Jazz"
     ],
     "bpm": 105,
     "tier": "Mid",
@@ -4104,8 +4105,8 @@
     "year": 2026,
     "duration": "3:28",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 118,
     "tier": "Mid",
@@ -4123,8 +4124,8 @@
     "year": 2026,
     "duration": "3:15",
     "genres": [
-      "Ballad",
-      "Pop"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -4272,8 +4273,8 @@
     "year": 2026,
     "duration": "3:22",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -4309,8 +4310,8 @@
     "year": 2026,
     "duration": "3:30",
     "genres": [
-      "Ballad",
-      "R&B/Soul"
+      "Rock-Ballad",
+      "Soft Rock"
     ],
     "bpm": 115,
     "tier": "Mid",

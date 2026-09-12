@@ -282,7 +282,7 @@ nav{
   height: 100vh;
 }
 .sidebar{
-  width: 300px;
+  width: 200px;
   flex-shrink: 0;
   border-right: 1px solid var(--line);
   display: flex;
@@ -336,9 +336,15 @@ nav{
   background: var(--panel);
   color: var(--text);
 }
-.sidenav-item.active{
-  background: var(--panel);
-  color: var(--text);
+.sidenav-item:focus-visible{
+  outline: 2px solid var(--cyan);
+  outline-offset: -2px;
+}
+.sidenav-item.active::after{
+  content: "✓";
+  margin-left: auto;
+  color: var(--cyan);
+  font-size: 12px;
 }
 .sidenav-label{
   font-size: 11px;

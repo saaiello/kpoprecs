@@ -25,6 +25,7 @@
   --bpm-accent: #E24B4A;
   --genre-tag-color: #C4B5FD;
   --panel-tint: #1C1C24;
+  --selected-bg: rgba(202, 211, 209, 0.12);
 }
 
 [data-theme="light"]{
@@ -36,6 +37,7 @@
   --bpm-accent: #D14343;
   --genre-tag-color: #7C3AED;
   --panel-tint: #F0F0F5;
+  --selected-bg: rgba(124, 58, 237, 0.10);
 }
 
 [data-theme="kpop"]{
@@ -47,7 +49,9 @@
   --bpm-accent: #FF6FA5;
   --genre-tag-color: #8B5CF6;
   --panel-tint: #FCE4EF;
+  --selected-bg: rgba(255, 111, 165, 0.15);
 }
+
 *{
   box-sizing: border-box;
   margin: 0;
@@ -266,10 +270,26 @@ body{
 .table-header .col-index{ width: 28px; text-align: center; }
 .table-header .col-heart{ width: 44px; }
 .table-header .col-art{ width: 36px; }
-.table-header .col-title{ flex: 1; min-width: 0; }
-.table-header .col-album{ width: 140px; min-width: 60px; }
-.table-header .col-year{ width: 56px; min-width: 36px; text-align: right; }
-.table-header .col-duration{ width: 60px; min-width: 40px; text-align: right; }
+.table-header .col-title{
+  flex: 3 1 0;
+}
+
+.table-header .col-album{
+  flex: 1 1 0;
+  text-align: left;
+  min-width: 100px;
+  margin-left: 32px;
+}
+.table-header .col-year{
+  flex: 1 1 0;
+  text-align: right;
+  min-width: 50px;
+}
+.table-header .col-duration{
+  flex: 1 1 0;
+  text-align: right;
+  min-width: 70px;
+}
 .table-header .col-bpm{ width: 56px; text-align: right; }
 .table-header .col-chevron{ width: 20px; }
 
@@ -330,7 +350,10 @@ body{
   outline-offset: -2px;
 }
 .track.expanded .track-row{
-  background: var(--bg);
+  background: var(--selected-bg);
+}
+.track.expanded .heart{
+  background: var(--selected-bg);
 }
 
 .col-index{
@@ -359,11 +382,11 @@ body{
 }
 
 .track-info{
-  flex: 1;
+  flex: 3 1 0;
   min-width: 0;
 }
 .title{
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
   white-space: nowrap;
   overflow: hidden;
@@ -406,24 +429,32 @@ body{
 
 .col-album,
 .col-year,
-.col-duration{
+.col-duration,
+.col-bpm{
   font-size: 12px;
   color: var(--muted);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  flex-shrink: 1;
-}
-.col-album{ width: 140px; min-width: 60px; }
-.col-year{ width: 56px; min-width: 36px; text-align: right; }
-.col-duration{ width: 60px; min-width: 40px; text-align: right; }
-.col-bpm{
-  width: 56px;
+  flex: 1 1 0;
   text-align: right;
+}
+.col-album{
+  text-align: left;
+  min-width: 100px;
+  margin-left: 32px;
+}
+.col-year{
+  min-width: 50px;
+}
+.col-duration{
+  min-width: 70px;
+}
+.col-bpm{
   font-size: 13px;
   font-weight: 500;
   color: var(--bpm-accent);
-  flex-shrink: 0;
+  min-width: 50px;
 }
 .chevron{
   width: 20px;
@@ -440,8 +471,12 @@ body{
 /* ------------------------------------------------------------
    6. ACCORDION PANEL (listen links + recs)
    ------------------------------------------------------------ */
+.track-links{
+  padding: 16px 16px 12px 92px;
+  background: var(--selected-bg);
+}
 .track-recs{
-  padding: 16px 16px 20px 92px;
+  padding: 12px 16px 20px 92px;
   background: var(--panel-tint);
 }
 .link-group{
@@ -477,33 +512,56 @@ body{
   color: var(--muted);
   margin: 16px 0 10px;
 }
+.recs-grid{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 200px));
+  gap: 12px;
+  justify-content: start;
+}
 .rec-item{
   display: flex;
-  align-items: center;
-  gap: 10px;
-  width: 100%;
-  background: none;
+  flex-direction: column;
+  background: var(--bg);
   border: none;
-  border-bottom: 1px solid var(--line);
+  border-top: 3px solid var(--rec-accent, var(--line));
+  border-radius: 8px;
   color: inherit;
   font-family: inherit;
-  padding: 8px 6px;
-  min-height: 44px;
+  padding: 10px;
   cursor: pointer;
   text-align: left;
-  border-radius: 6px;
+  transition: transform 0.15s ease, background 0.15s ease;
 }
-
-.rec-item:last-child{
-  border-bottom: none;
-}
-
 .rec-item:hover{
   background: var(--panel);
+  transform: translateY(-3px);
 }
 .rec-item:focus-visible{
   outline: 2px solid #5EEAD4;
   outline-offset: -2px;
+}
+.rec-item .art,
+.rec-item .art-fallback{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+.rec-title{
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.rec-sub{
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 4px;
 }
 .rname{
   font-size: 13px;
@@ -800,7 +858,30 @@ svg{
   cursor: pointer;
 }
 
-@media (max-width: 768px){
+@media (max-width: 1300px){
+  .col-album,
+  .table-header .col-album{
+    display: none;
+  }
+}
+
+@media (max-width: 1090px){
+  .col-year,
+  .col-duration,
+  .table-header .col-year,
+  .table-header .col-duration{
+    display: none;
+  }
+}
+
+@media (max-width: 1200px){
+  .graphpane,
+  .resize-handle{
+    display: none;
+  }
+}
+
+@media (max-width: 960px){
   body{
     overflow-x: hidden;
   }
