@@ -20,21 +20,21 @@ const GENRE_BUCKETS = [
   "Pop",
   "Dance-Pop",
   "House/Club EDM",
-  "Electronic/Atmospheric",
+  "Electronic",
   "Hip-Hop",
   "R&B/Soul",
   "Ballad",
   "Rock/Punk/Metal",
-  "Acoustic/Lo-fi",
+  "Acoustic",
   "Afrobeat/Global",
   "Interlude/Other"
 ];
 
 const BUCKET_DISPLAY_NAMES = {
   "House/Club EDM": "EDM",
-  "Electronic/Atmospheric": "Chill Electronic",
+  "Electronic": "Chill Electronic",
   "Rock/Punk/Metal": "Rock",
-  "Acoustic/Lo-fi": "Acoustic",
+  "Acoustic": "Acoustic",
   "Afrobeat/Global": "Global Beats",
   "Dance-Pop": "Synth-Pop"
 };
@@ -239,13 +239,19 @@ function bpmSimilarity(a, b){
   const diff = Math.abs(a.bpm - b.bpm);
   return Math.max(0, 1 - diff / 100);
 }
+function styleSimilarity(a, b){
+  const as = a.style || [];
+  const bs = b.style || [];
+  if (!as.length || !bs.length) return 0;
+  const shared = as.filter(s => bs.includes(s)).length;
+  const union = new Set([...as, ...bs]).size;
+  return union ? shared / union : 0;
+}
 function similarityScore(a, b){
   const gScore = genreSimilarity(a, b);
   const bScore = bpmSimilarity(a, b);
-  if (bScore === null) {
-    return gScore * 0.6 + 0.5 * 0.4;
-  }
-  return gScore * 0.6 + bScore * 0.4;
+  const sScore = styleSimilarity(a, b);
+  return gScore * 0.4 + sScore * 0.35 + bScore * 0.25;
 }
 function computeRecommendations(allSongs){
   allSongs.forEach(song => {

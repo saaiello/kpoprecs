@@ -2641,8 +2641,8 @@
     "year": 2023,
     "duration": "3:09",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Soft Rock",
+      "Rock Ballad"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -3567,7 +3567,8 @@
     "year": 2024,
     "duration": "3:30",
     "genres": [
-      "Ballad"
+      "Soft Rock",
+      "Rock-Ballad"
     ],
     "bpm": 110,
     "tier": "Mid",

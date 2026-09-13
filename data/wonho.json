@@ -4,9 +4,8 @@
     "album": "Syndrome",
     "year": 2025,
     "duration": "2:31",
-    "genres": [
-      "EDM/Electronic"
-    ],
+    "genres": [ "EDM/Electronic"],
+    "style": ["dark", "anthem", "cinematic"],
     "bpm": 100,
     "tier": "",
     "art": "assets/covers/syndrome.jpg",
