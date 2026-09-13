@@ -4066,9 +4066,9 @@
     "year": 2025,
     "duration": "2:50",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Moombahton Trap"
     ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4079,14 +4079,34 @@
     },
     "recs": []
   },
+    {
+    "title": "CEREMONY (Festival Version)",
+    "album": "KARMA",
+    "year": 2025,
+    "duration": "2:52",
+    "genres": [
+      "EDM/Electronic"
+    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/karma.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7M5Hi8WuBSsCP5ioxG0pUf?si=f02c8901d2e84804",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
   {
     "title": "BLEEP",
     "album": "KARMA",
     "year": 2025,
     "duration": "3:00",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "glitchy"],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/karma.jpg",
@@ -4103,8 +4123,10 @@
     "year": 2025,
     "duration": "3:08",
     "genres": [
-      "Hip-Hop"
+      "Hip-Hop",
+      "Trap Pop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -4121,8 +4143,10 @@
     "year": 2025,
     "duration": "3:12",
     "genres": [
-      "Hip-Hop"
+      "Ballad",
+      "Electropop"
     ],
+    "styles": ["driving", "melancholic", "vocal-forward"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4139,9 +4163,10 @@
     "year": 2025,
     "duration": "3:05",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Emo Punk",
+      "Dark Synth-Rock"
     ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -4158,9 +4183,10 @@
     "year": 2025,
     "duration": "2:58",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Old School Boom-Bap",
+      "Electropop"
     ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -4177,8 +4203,10 @@
     "year": 2025,
     "duration": "3:15",
     "genres": [
-      "EDM/Electronic"
+      "Pop-Rock",
+      "Electropop"
     ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -4195,8 +4223,10 @@
     "year": 2025,
     "duration": "3:04",
     "genres": [
-      "EDM/Electronic"
+      "Contemporary R&B",
+      "Chill Electronic"
     ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4213,9 +4243,10 @@
     "year": 2025,
     "duration": "3:25",
     "genres": [
-      "EDM/Electronic",
-      "Pop"
+      "Pop Ballad",
+      "Chill Electronic"
     ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4232,8 +4263,10 @@
     "year": 2025,
     "duration": "2:55",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Drum and Bass"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/do-it.jpg",
@@ -4244,14 +4277,35 @@
     },
     "recs": []
   },
+    {
+    "title": "Do It (Festival Version)",
+    "album": "Do It",
+    "year": 2025,
+    "duration": "2:27",
+    "genres": [
+      "EDM/Electronic",
+      "Drum and Bass"
+    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
+    "bpm": 125,
+    "tier": "Up-tempo",
+    "art": "assets/covers/do-it.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7vwFOQvRCg2bTwE7eO9e7l?si=77fca696f5b94a40",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
   {
     "title": "DIVINE",
     "album": "Do It",
     "year": 2025,
     "duration": "3:08",
     "genres": [
-      "Hip-Hop"
+      "Old School Boom-Bap"
     ],
+    "styles": ["bouncy", "retro", "driving"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/do-it.jpg",
@@ -4268,8 +4322,10 @@
     "year": 2025,
     "duration": "3:12",
     "genres": [
-      "EDM/Electronic"
+      "Tropical House",
+      "Electropop"
     ],
+    "styles": ["bright", "chill", "smooth"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/do-it.jpg",
@@ -4289,6 +4345,7 @@
       "Soft Rock",
       "Rock-Ballad"
     ],
+    "styles": ["nostalgic", "vocal-forward", "smooth"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/do-it.jpg",
@@ -4318,14 +4375,15 @@
     "recs": []
   },
   {
-    "title": "Roman Empire",
+    "title": "Roman Empire (Bang Chan)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:05",
     "genres": [
-      "R&B/Soul",
-      "Synth-Pop"
+      "Contemporary R&B",
+      "Dark Synth-Pop"
     ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4337,14 +4395,15 @@
     "recs": []
   },
   {
-    "title": "LOVER",
+    "title": "LOVER (Hyunjin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:12",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop"
+      "Contemporary R&B",
+      "Pop"
     ],
+    "styles": ["sensual", "smooth", "chill"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4356,14 +4415,15 @@
     "recs": []
   },
   {
-    "title": "Raining Stars",
+    "title": "Raining Stars (HAN)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:20",
     "genres": [
-      "R&B/Soul",
+      "Contemporary R&B",
       "Pop"
     ],
+    "styles": ["chill", "smooth", "melancholic"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4375,15 +4435,15 @@
     "recs": []
   },
   {
-    "title": "The Little Things",
+    "title": "The Little Things (I.N)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:35",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Jazz"
+      "Pop Ballad",
+      "Jazz Pop"
     ],
+    "styles": ["chill", "bouncy", "playful"],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4395,14 +4455,15 @@
     "recs": []
   },
   {
-    "title": "Goodbye",
+    "title": "Goodbye (Seungmin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:28",
     "genres": [
-      "Rock-Ballad",
+      "Rock Ballad",
       "Soft Rock"
     ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4414,14 +4475,14 @@
     "recs": []
   },
   {
-    "title": "Still here",
+    "title": "Still here (Seungmin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:15",
     "genres": [
-      "Rock-Ballad",
-      "Soft Rock"
+      "Pop Ballad"
     ],
+    "styles": ["bright", "driving", "smooth"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4433,13 +4494,15 @@
     "recs": []
   },
   {
-    "title": "Into The Current",
+    "title": "Into The Current (Seungmin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:40",
     "genres": [
-      "Ballad"
+      "Rock Ballad",
+      "Soft Rock"
     ],
+    "styles": ["nostalgic", "driving", "anthem"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4451,14 +4514,15 @@
     "recs": []
   },
   {
-    "title": "MIC&BRUSH",
+    "title": "MIC&BRUSH (Hyunjin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "2:58",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Contemporary R&B",
+      "Electropop"
     ],
+    "styles": ["sensual", "bouncy", "retro"],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4470,14 +4534,15 @@
     "recs": []
   },
   {
-    "title": "PERFUME",
+    "title": "PERFUME (Seungmin)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:02",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Contemporary R&B",
+      "Electropop"
     ],
+    "styles": ["smooth", "sensual", "vocal-forward"],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4489,14 +4554,14 @@
     "recs": []
   },
   {
-    "title": "BABY",
+    "title": "BABY (Bang Chan)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:10",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Synth-Pop"
     ],
+    "styles": ["driving", "bouncy", "retro"],
     "bpm": 122,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4508,14 +4573,15 @@
     "recs": []
   },
   {
-    "title": "Don't Say",
+    "title": "Don't Say (HAN)",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:15",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Pop-Punk",
+      "Alternative Rock"
     ],
+    "styles": ["driving", "anthem", "aggressive"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4532,8 +4598,10 @@
     "year": 2026,
     "duration": "2:50",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap",
+      "Old School Boom-Bap"
     ],
+    "styles": ["aggressive", "retro", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4550,8 +4618,10 @@
     "year": 2026,
     "duration": "2:48",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap",
+      "EDM/Electronic"
     ],
+    "styles": ["dark", "driving", "performance-driven"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4571,6 +4641,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4587,8 +4658,10 @@
     "year": 2026,
     "duration": "3:08",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Pop Rock",
+      "Rock Ballad"
     ],
+    "styles": ["bright", "driving", "playful"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -4608,6 +4681,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
+    "styles": ["bright", "nostalgic", "anthem"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5086,9 +5160,10 @@
     "year": null,
     "duration": "3:12",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Alternative Rock",
+      "Emo Rock"
     ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 148,
     "tier": "Up-tempo",
     "art": "assets/covers/singles-solos-features.jpg",
@@ -5105,9 +5180,10 @@
     "year": 2026,
     "duration": "2:45",
     "genres": [
-      "Hip-Hop",
-      "Alternative"
+      "Stadium Anthem",
+      "Alternative Rock"
     ],
+    "styles": ["anthem", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -5124,10 +5200,10 @@
     "year": 2026,
     "duration": "3:05",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "EDM/Electronic"
+      "Trap Pop",
+      "Contemporary R&B"
     ],
+    "styles": ["chill", "playful", "smooth"],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -5144,9 +5220,9 @@
     "year": 2026,
     "duration": "2:31",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Trap"
     ],
+    "styles": ["aggressive", "playful", "bouncy"],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -5163,9 +5239,10 @@
     "year": 2026,
     "duration": "2:50",
     "genres": [
-      "Pop",
-      "EDM/Electronic"
+      "Electropop",
+      "Progressive House"
     ],
+    "styles": ["bright", "bouncy", "melancholic"],
     "bpm": 127,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -5177,21 +5254,22 @@
     "recs": []
   },
   {
-    "title": "This & That (Festival Version)",
+    "title": "I Do",
     "album": "This & That",
     "year": 2026,
-    "duration": "3:42",
+    "duration": "2:53",
     "genres": [
-      "EDM/Electronic",
-      "Pop"
+      "Pop-Punk",
+      "Alternative Rock"
     ],
-    "bpm": 145,
-    "tier": "Up-tempo",
+    "styles": ["driving", "anthem", "melancholic"],
+    "bpm": 105,
+    "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/5GuQGg2n7UZWPqiXJ6orhj?si=7c74bb2e74194608",
-      "appleMusic": "https://music.apple.com/us/song/this-that-festival-version/6781752199",
-      "youtube": "https://youtu.be/owyBuKsrN30?si=w5ZahaPq8ofsvNRy"
+      "spotify": "https://open.spotify.com/track/1xYlu6g9dSZCGDutJ3i4Lc?si=3cc97d0629b94684",
+      "appleMusic": "https://music.apple.com/us/song/way-out/6781752185",
+      "youtube": "https://youtu.be/QLPFfNmEMG4?si=dHeatwb8vuRhlsmT"
     },
     "recs": []
   },
@@ -5201,9 +5279,10 @@
     "year": 2026,
     "duration": "2:54",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Contemporary R&B",
+      "Dark Synth-Rock"
     ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -5220,9 +5299,10 @@
     "year": 2026,
     "duration": "3:35",
     "genres": [
-      "Ballad",
-      "Pop"
+      "Rock Ballad",
+      "Soft Rock"
     ],
+    "styles": ["nostalgic", "vocal-forward", "smooth"],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -5230,6 +5310,26 @@
       "spotify": "https://open.spotify.com/track/1Pu3xgGv05MYxJzHROokRJ?si=a201fb6be37a4d38",
       "appleMusic": "https://music.apple.com/us/song/back-then/6781752192",
       "youtube": "https://youtu.be/MCLX7anEh5s?si=OCjHWZYZk1e5_w_w"
+    },
+    "recs": []
+  },
+  {
+    "title": "This & That (Festival Version)",
+    "album": "This & That",
+    "year": 2026,
+    "duration": "3:42",
+    "genres": [
+      "EDM/Electronic",
+      "Moombahton Trap"
+    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
+    "bpm": 145,
+    "tier": "Up-tempo",
+    "art": "assets/covers/this-that.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5GuQGg2n7UZWPqiXJ6orhj?si=7c74bb2e74194608",
+      "appleMusic": "https://music.apple.com/us/song/this-that-festival-version/6781752199",
+      "youtube": "https://youtu.be/owyBuKsrN30?si=w5ZahaPq8ofsvNRy"
     },
     "recs": []
   }
