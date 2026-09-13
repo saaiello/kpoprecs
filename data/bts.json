@@ -65,7 +65,7 @@
     "genres": [
       "EDM/Electronic",
       "Pop",
-      "Dance-Pop"
+      "Dance Pop"
     ],
     "bpm": 126,
     "tier": "Mid",
@@ -314,7 +314,7 @@
     "genres": [
       "Pop",
       "EDM/Electronic",
-      "Dance-pop"
+      "Dance Pop"
     ],
     "bpm": 130,
     "tier": "Mid",
@@ -735,7 +735,7 @@
     "genres": [
       "Hip-Hop",
       "EDM/Electronic",
-      "Dance-pop"
+      "Dance Pop"
     ],
     "bpm": 128,
     "tier": "Mid",
@@ -1055,7 +1055,7 @@
     "genres": [
       "Pop",
       "Funk-pop",
-      "Dance-pop"
+      "Dance Pop"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -1838,7 +1838,7 @@
     "year": 2022,
     "duration": "2:44",
     "genres": [
-      "Dance-Pop",
+      "Dance Pop",
       "Synth-Funk"
     ],
     "bpm": 110,

@@ -5,9 +5,10 @@
     "year": 2018,
     "duration": "3:59",
     "genres": [
-      "Hip-Hop",
-      "Electropop"
+      "EDM/Electronic",
+      "Trap-Pop"
     ],
+    "styles": ["dark", "driving", "anthem"],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -24,9 +25,10 @@
     "year": 2018,
     "duration": "3:11",
     "genres": [
-      "Rock/Punk/Metal",
-      "EDM/Electronic"
+      "Rap-Rock",
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 98,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -43,8 +45,9 @@
     "year": 2018,
     "duration": "3:22",
     "genres": [
-      "Hip-Hop"
+      "Contemporary Pop"
     ],
+    "styles": ["melancholic", "driving", "gliding"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape.jpg",
@@ -61,9 +64,10 @@
     "year": 2018,
     "duration": "3:23",
     "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop"
+      "Rap Rock",
+      "Alternative Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/mixtape.jpg",
@@ -82,6 +86,7 @@
     "genres": [
       "R&B/Soul"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -98,8 +103,9 @@
     "year": 2018,
     "duration": "3:36",
     "genres": [
-      "EDM/Electronic"
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/mixtape.jpg",
@@ -116,8 +122,9 @@
     "year": 2018,
     "duration": "3:13",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["melancholic", "nostalgic", "soft-rap"],
     "bpm": 86,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -129,33 +136,15 @@
     "recs": []
   },
   {
-    "title": "NOT!",
-    "album": "I am NOT",
-    "year": 2018,
-    "duration": "1:22",
-    "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
-    ],
-    "bpm": 170,
-    "tier": "Up-tempo",
-    "art": "assets/covers/i-am-not.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/34MjyCKTNnDNFFXBaadEsy",
-      "appleMusic": "https://music.apple.com/us/album/not/1608250038?i=1608250042&uo=4",
-      "youtube": "https://youtu.be/MmLDL2u_Z7Q?si=aiPNSseLFw-HRDMn"
-    },
-    "recs": []
-  },
-  {
     "title": "District 9",
     "album": "I am NOT",
     "year": 2018,
     "duration": "3:34",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Rap Rock",
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/i-am-not.jpg",
@@ -172,8 +161,10 @@
     "year": 2018,
     "duration": "3:42",
     "genres": [
-      "Hip-Hop"
+      "Trap-Pop",
+      "EDM/Electronic"
     ],
+    "styles": ["dark", "driving", "anthem"],
     "bpm": 186,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -190,8 +181,9 @@
     "year": 2018,
     "duration": "3:14",
     "genres": [
-      "Rock/Punk/Metal"
+      "Alternative Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 164,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -208,8 +200,9 @@
     "year": 2018,
     "duration": "3:13",
     "genres": [
-      "EDM/Electronic"
+      "Moombahton Trap"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/i-am-not.jpg",
@@ -226,8 +219,9 @@
     "year": 2018,
     "duration": "3:30",
     "genres": [
-      "Hip-Hop"
+      "Contemporary Pop"
     ],
+    "styles": ["nostalgic", "gliding", "vocal-forward"],
     "bpm": 174,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -244,8 +238,9 @@
     "year": 2018,
     "duration": "4:03",
     "genres": [
-      "EDM/Electronic"
+      "Ambient Electronic"
     ],
+    "styles": ["atmospheric", "dark", "glitchy"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/i-am-not.jpg",
@@ -262,8 +257,9 @@
     "year": 2018,
     "duration": "1:44",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["driving", "aggressive", "atmospheric"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -280,9 +276,9 @@
     "year": 2018,
     "duration": "3:09",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Rap Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -299,8 +295,10 @@
     "year": 2018,
     "duration": "3:20",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Trap-Pop"
     ],
+    "styles": ["dark", "anthem", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -317,8 +315,9 @@
     "year": 2018,
     "duration": "3:02",
     "genres": [
-      "EDM/Electronic"
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/i-am-who.jpg",
@@ -335,8 +334,9 @@
     "year": 2018,
     "duration": "3:26",
     "genres": [
-      "EDM/Electronic"
+      "Electropop"
     ],
+    "styles": ["atmospheric", "gliding", "melancholic"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -353,8 +353,9 @@
     "year": 2018,
     "duration": "3:31",
     "genres": [
-      "Hip-Hop"
+      "R&B/Soul"
     ],
+    "styles": ["chill", "sensual", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -371,8 +372,9 @@
     "year": 2018,
     "duration": "3:14",
     "genres": [
-      "EDM/Electronic"
+      "Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 200,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -389,8 +391,10 @@
     "year": 2018,
     "duration": "1:19",
     "genres": [
-      "Hip-Hop"
+      "Alt-Pop",
+      "Alternative"
     ],
+    "styles": ["driving", "smooth", "nostalgic"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -407,9 +411,10 @@
     "year": 2018,
     "duration": "3:24",
     "genres": [
-      "Ballad",
-      "Hip-Hop"
+      "Pop-Rock",
+      "Pop"
     ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -426,8 +431,10 @@
     "year": 2018,
     "duration": "3:37",
     "genres": [
-      "Rock/Punk/Metal"
+      "Alternative Rock",
+      "Rap Rock"
     ],
+    "styles": ["aggressive", "anthem", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -446,6 +453,7 @@
     "genres": [
       "R&B/Soul"
     ],
+    "styles": ["melancholic", "nostalgic", "soft-rap"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/i-am-you.jpg",
@@ -462,8 +470,9 @@
     "year": 2018,
     "duration": "3:15",
     "genres": [
-      "Hip-Hop"
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/i-am-you.jpg",
@@ -482,6 +491,7 @@
     "genres": [
       "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -500,6 +510,7 @@
     "genres": [
       "EDM/Electronic"
     ],
+    "styles": ["driving", "anthem", "cinematic"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -516,8 +527,9 @@
     "year": 2019,
     "duration": "1:38",
     "genres": [
-      "EDM/Electronic"
+      "Ambient Electronic"
     ],
+    "styles": ["atmospheric", "chant-heavy", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -536,6 +548,7 @@
     "genres": [
       "EDM/Electronic"
     ],
+    "styles": ["anthem", "driving", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -552,9 +565,10 @@
     "year": 2019,
     "duration": "3:16",
     "genres": [
-      "Hip-Hop",
+      "Aggressive Trap",
       "EDM/Electronic"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -571,8 +585,10 @@
     "year": 2019,
     "duration": "2:55",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop",
+      "Rap Rock"
     ],
+    "styles": ["aggressive", "glitchy", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -589,8 +605,9 @@
     "year": 2019,
     "duration": "3:20",
     "genres": [
-      "EDM/Electronic"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -607,8 +624,10 @@
     "year": 2019,
     "duration": "3:18",
     "genres": [
-      "Rock/Punk/Metal"
+      "EDM/Electronic",
+      "Alternative Rock"
     ],
+    "styles": ["dark", "anthem", "cinematic"],
     "bpm": 165,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -627,6 +646,7 @@
     "genres": [
       "R&B/Soul"
     ],
+    "styles": ["chill", "melancholic", "soft-rap"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -645,6 +665,7 @@
     "genres": [
       "EDM/Electronic"
     ],
+    "styles": ["driving", "dark", "glitchy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -663,6 +684,7 @@
     "genres": [
       "EDM/Electronic"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -679,8 +701,9 @@
     "year": 2019,
     "duration": "3:27",
     "genres": [
-      "EDM/Electronic"
+      "Alt-Pop"
     ],
+    "styles": ["bouncy", "gliding", "melancholic"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -692,13 +715,14 @@
     "recs": []
   },
   {
-    "title": "Mixtape #1",
+    "title": "Mixtape #1 (Placebo)",
     "album": "Cle 2: YELLOW WOOD",
     "year": 2019,
     "duration": "4:13",
     "genres": [
-      "EDM/Electronic"
+      "Contemporary Pop"
     ],
+    "styles": ["bouncy", "bright", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -710,13 +734,14 @@
     "recs": []
   },
   {
-    "title": "Mixtape #2",
+    "title": "Mixtape #2 (Behind the Light)",
     "album": "Cle 2: YELLOW WOOD",
     "year": 2019,
     "duration": "4:52",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Pop Ballad"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -733,9 +758,9 @@
     "year": 2019,
     "duration": "4:18",
     "genres": [
-      "Acoustic/Lo-fi",
       "Pop"
     ],
+    "styles": ["driving", "anthem", "nostalgic"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -747,13 +772,14 @@
     "recs": []
   },
   {
-    "title": "Mixtape #4",
+    "title": "Mixtape #4 (Broken Compass)",
     "album": "Cle 2: YELLOW WOOD",
     "year": 2019,
     "duration": "3:51",
     "genres": [
-      "EDM/Electronic"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["driving", "gliding", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -772,6 +798,7 @@
     "genres": [
       "EDM/Electronic"
     ],
+    "styles": ["driving", "dark", "glitchy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -788,9 +815,9 @@
     "year": 2019,
     "duration": "3:09",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Hip-Hop"
     ],
+    "styles": ["aggressive", "driving", "performance-driven"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -807,9 +834,9 @@
     "year": 2019,
     "duration": "3:15",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal"
+      "Alternative Pop"
     ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -826,9 +853,10 @@
     "year": 2019,
     "duration": "3:41",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Dance Pop"
     ],
+    "styles": ["driving", "chant-heavy", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -845,8 +873,10 @@
     "year": 2019,
     "duration": "2:59",
     "genres": [
-      "EDM/Electronic"
+      "Dance Pop",
+      "Future Bass"
     ],
+    "styles": ["bouncy", "bright", "playful"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/cle-levanter.jpg",
@@ -863,9 +893,9 @@
     "year": 2019,
     "duration": "3:42",
     "genres": [
-      "Acoustic/Lo-fi",
-      "Hip-Hop"
+      "Chill Electronic"
     ],
+    "styles": ["chill", "nostalgic", "gliding"],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/cle-levanter.jpg",
@@ -882,8 +912,9 @@
     "year": 2019,
     "duration": "3:28",
     "genres": [
-      "EDM/Electronic"
+      "Contemporary Pop"
     ],
+    "styles": ["nostalgic", "gliding", "smooth"],
     "bpm": 126,
     "tier": "Mid",
     "art": "assets/covers/cle-levanter.jpg",
@@ -900,8 +931,10 @@
     "year": 2020,
     "duration": "1:51",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop",
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "glitchy"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -919,8 +952,9 @@
     "duration": "2:48",
     "genres": [
       "Hip-Hop",
-      "EDM/Electronic"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 157,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -937,9 +971,9 @@
     "year": 2020,
     "duration": "3:03",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Dark Trap"
     ],
+    "styles": ["dark", "driving", "performance-driven"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -956,9 +990,10 @@
     "year": 2020,
     "duration": "3:08",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Dance Pop",
+      "Electropop"
     ],
+    "styles": ["driving", "chant-heavy", "smooth"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -975,8 +1010,10 @@
     "year": 2020,
     "duration": "3:13",
     "genres": [
-      "Hip-Hop"
+      "Dance Pop",
+      "Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -993,8 +1030,10 @@
     "year": 2020,
     "duration": "2:47",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Acoustic/Lo-fi",
+      "Chill Electronic"
     ],
+    "styles": ["chill", "melancholic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1011,8 +1050,9 @@
     "year": 2020,
     "duration": "3:33",
     "genres": [
-      "Synth-Pop"
+      "Synthwave"
     ],
+    "styles": ["driving", "dark", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1029,8 +1069,9 @@
     "year": 2020,
     "duration": "4:11",
     "genres": [
-      "Other"
+      "Contemporary Pop"
     ],
+    "styles": ["bright", "smooth", "nostalgic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1047,8 +1088,10 @@
     "year": 2020,
     "duration": "3:29",
     "genres": [
-      "EDM/Electronic"
+      "Moombahton",
+      "Afro-House"
     ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1065,8 +1108,10 @@
     "year": 2020,
     "duration": "3:20",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Pop"
     ],
+    "styles": ["anthem", "driving", "bright"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1083,8 +1128,10 @@
     "year": 2020,
     "duration": "3:06",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Trap-Pop"
     ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1101,8 +1148,9 @@
     "year": 2020,
     "duration": "2:15",
     "genres": [
-      "Rock/Punk/Metal"
+      "Emo Rock"
     ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1119,8 +1167,9 @@
     "year": 2020,
     "duration": "2:15",
     "genres": [
-      "Rock/Punk/Metal"
+      "Emo Rock"
     ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/topeng.jpg",
@@ -1137,9 +1186,9 @@
     "year": 2020,
     "duration": "3:15",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Indie Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1156,9 +1205,10 @@
     "year": 2020,
     "duration": "3:28",
     "genres": [
-      "Ballad",
-      "Hip-Hop"
+      "Contemporary R&B",
+      "Pop Ballad"
     ],
+    "styles": ["melancholic", "nostalgic", "gliding"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1175,8 +1225,9 @@
     "year": 2020,
     "duration": "3:44",
     "genres": [
-      "Hip-Hop"
+      "Experimental Rap"
     ],
+    "styles": ["glitchy", "playful", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1193,8 +1244,9 @@
     "year": 2020,
     "duration": "3:09",
     "genres": [
-      "EDM/Electronic"
+      "Electropop"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 108,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1211,8 +1263,10 @@
     "year": 2020,
     "duration": "3:25",
     "genres": [
-      "EDM/Electronic"
+      "Electropop",
+      "Alternative Pop"
     ],
+    "styles": ["driving", "dark", "anthem"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1229,8 +1283,10 @@
     "year": 2020,
     "duration": "2:49",
     "genres": [
+      "Trap Pop",
       "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1247,8 +1303,10 @@
     "year": 2020,
     "duration": "3:37",
     "genres": [
-      "Pop"
+      "Contemporary R&B",
+      "R&B Ballad"
     ],
+    "styles": ["melancholic", "nostalgic", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1260,13 +1318,14 @@
     "recs": []
   },
   {
-    "title": "We Go",
+    "title": "We Go (Bang Chan, Changbin, HAN)",
     "album": "IN LIFE",
     "year": 2020,
     "duration": "2:38",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1277,14 +1336,54 @@
     },
     "recs": []
   },
+   {
+    "title": "Wow (Lee Know, Hyunjin, Felix)",
+    "album": "IN LIFE",
+    "year": 2020,
+    "duration": "3:13",
+    "genres": [
+      "Deep House"
+    ],
+    "styles": ["sensual", "smooth", "driving"],
+    "bpm": 128,
+    "tier": "Up-tempo",
+    "art": "assets/covers/in-life.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2i15lsdOIZb9PpuAFKO58Y?si=c74e7555e02e41ce",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+     {
+    "title": "My Universe (Seungmin, I.N, Changbin)",
+    "album": "IN LIFE",
+    "year": 2020,
+    "duration": "92",
+    "genres": [
+      "Contemporary Pop"
+    ],
+    "styles": ["bright", "gliding", "nostalgic"],
+    "bpm": 92,
+    "tier": "Slow",
+    "art": "assets/covers/in-life.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9?si=0f865554887c4d09",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
   {
     "title": "ALL IN",
     "album": "All IN",
     "year": 2020,
     "duration": "3:07",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Dance Pop"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/all-in.jpg",
@@ -1301,8 +1400,9 @@
     "year": 2020,
     "duration": "3:35",
     "genres": [
-      "Hip-Hop"
+      "Brass Pop"
     ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/all-in.jpg",
@@ -1319,9 +1419,9 @@
     "year": 2020,
     "duration": "3:13",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Inidie Pop"
     ],
+    "styles": ["bright", "nostalgic", "gliding"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/all-in.jpg",
@@ -1338,9 +1438,9 @@
     "year": 2021,
     "duration": "3:02",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Rap Rock"
     ],
+    "styles": ["playful", "aggressive", "driving"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1357,8 +1457,9 @@
     "year": 2021,
     "duration": "3:03",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1375,8 +1476,10 @@
     "year": 2021,
     "duration": "3:18",
     "genres": [
-      "Hip-Hop"
-    ],
+      "EDM/Electronic",
+      "Dance Pop"
+      ],
+    "styles": ["driving", "bouncy", "performance-driven"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1393,9 +1496,9 @@
     "year": 2021,
     "duration": "3:10",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1412,8 +1515,10 @@
     "year": 2021,
     "duration": "3:22",
     "genres": [
-      "EDM/Electronic"
+      "Electropop",
+      "Dance Pop"
     ],
+    "styles": ["bright", "smooth", "driving"],
     "bpm": 124,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1430,8 +1535,9 @@
     "year": 2021,
     "duration": "2:58",
     "genres": [
-      "R&B/Soul"
+      "Contemporary R&B"
     ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1448,10 +1554,10 @@
     "year": 2021,
     "duration": "3:30",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop",
-      "Pop"
+      "Electropop",
+      "Synth-Pop"
     ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1468,8 +1574,9 @@
     "year": 2021,
     "duration": "3:30",
     "genres": [
-      "R&B/Soul"
+      "Contemporary R&B"
     ],
+    "styles": ["melancholic", "vocal-forward", "soft-rap"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1486,8 +1593,10 @@
     "year": 2021,
     "duration": "3:35",
     "genres": [
-      "EDM/Electronic"
+      "Electropop",
+      "Contemporary Pop"
     ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1499,14 +1608,15 @@
     "recs": []
   },
   {
-    "title": "Red Lights",
+    "title": "Red Lights (Bang Chan, Hyunjin)",
     "album": "NOEASY",
     "year": 2021,
     "duration": "3:10",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Gothic Pop",
+      "Dark Synth-Rock"
     ],
+    "styles": ["sensual", "dark", "cinematic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1518,13 +1628,15 @@
     "recs": []
   },
   {
-    "title": "Surfin'",
+    "title": "Surfin'(Lee Know, Changbin, Felix)",
     "album": "NOEASY",
     "year": 2021,
     "duration": "3:11",
     "genres": [
-      "Hip-Hop"
+      "Pop",
+      "Dance Pop"
     ],
+    "styles": ["bright", "playful", "bouncy"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1536,13 +1648,14 @@
     "recs": []
   },
   {
-    "title": "Gone Away",
+    "title": "Gone Away (HAN, Seungmin, I.N)",
     "album": "NOEASY",
     "year": 2021,
     "duration": "3:27",
     "genres": [
       "Ballad"
     ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1559,8 +1672,10 @@
     "year": 2021,
     "duration": "3:10",
     "genres": [
+      "Aggressive Trap",
       "Hip-Hop"
     ],
+    "styles": ["aggressive", "cinematic", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1577,9 +1692,10 @@
     "year": 2021,
     "duration": "3:33",
     "genres": [
-      "EDM/Electronic",
-      "Pop"
+      "Reggaeton",
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "nostalgic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1596,8 +1712,10 @@
     "year": 2021,
     "duration": "3:04",
     "genres": [
+      "Aggressive Trap",
       "Hip-Hop"
     ],
+    "styles": ["aggressive", "driving", "playful"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/christmas-evel.jpg",
@@ -1614,8 +1732,10 @@
     "year": 2021,
     "duration": "3:37",
     "genres": [
-      "EDM/Electronic"
+      "Acoustic",
+      "Pop"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/christmas-evel.jpg",
@@ -1632,8 +1752,10 @@
     "year": 2021,
     "duration": "3:35",
     "genres": [
-      "Pop"
+      "Pop",
+      "Electropop"
     ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/christmas-evel.jpg",
@@ -1650,8 +1772,10 @@
     "year": 2021,
     "duration": "3:20",
     "genres": [
-      "Hip-Hop"
+      "Electropop",
+      "Trap Pop"
     ],
+    "styles": ["anthem", "driving", "melancholic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1668,8 +1792,9 @@
     "year": 2021,
     "duration": "3:14",
     "genres": [
-      "Rock/Punk/Metal"
+      "Alternative Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 164,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1686,9 +1811,9 @@
     "year": 2021,
     "duration": "3:13",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Moombahton Trap"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -1705,8 +1830,9 @@
     "year": 2021,
     "duration": "4:03",
     "genres": [
-      "Hip-Hop"
+      "Ambient Electronic"
     ],
+    "styles": ["atmospheric", "dark", "glitchy"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -1723,8 +1849,9 @@
     "year": 2021,
     "duration": "3:55",
     "genres": [
-      "Hip-Hop"
+      "Contemporary Pop"
     ],
+    "styles": ["bouncy", "bright", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -1741,9 +1868,9 @@
     "year": 2021,
     "duration": "3:26",
     "genres": [
-      "Hip-Hop",
-      "Pop"
+      "Electropop"
     ],
+    "styles": ["atmospheric", "gliding", "melancholic"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1760,8 +1887,9 @@
     "year": 2021,
     "duration": "4:18",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Pop Ballad"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -1778,8 +1906,10 @@
     "year": 2021,
     "duration": "3:37",
     "genres": [
-      "Rock/Punk/Metal"
+      "Alternative Rock",
+      "Rap Rock"
     ],
+    "styles": ["aggressive", "anthem", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1796,9 +1926,9 @@
     "year": 2021,
     "duration": "3:45",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1815,8 +1945,10 @@
     "year": 2021,
     "duration": "2:55",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop",
+      "Rap Rock"
     ],
+    "styles": ["aggressive", "glitchy", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1833,8 +1965,9 @@
     "year": 2021,
     "duration": "3:22",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["driving", "gliding", "nostalgic"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -1846,13 +1979,14 @@
     "recs": []
   },
   {
-    "title": "Hoodie Season",
+    "title": "Hoodie Season (Mixtape #5)",
     "album": "SKZ 2021",
     "year": 2021,
     "duration": "3:51",
     "genres": [
-      "Hip-Hop"
+      "Alternative Hip-Hop"
     ],
+    "styles": ["bouncy", "nostalgic", "soft-rap"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -1869,8 +2003,9 @@
     "year": 2022,
     "duration": "3:15",
     "genres": [
-      "Hip-Hop"
+      "Dark Trap"
     ],
+    "styles": ["dark", "driving", "glitchy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -1887,9 +2022,9 @@
     "year": 2022,
     "duration": "3:02",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Electropop"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -1908,6 +2043,7 @@
     "genres": [
       "Hip-Hop"
     ],
+    "styles": ["driving", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -1924,8 +2060,10 @@
     "year": 2022,
     "duration": "2:58",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Moombahton Trap"
     ],
+    "styles": ["aggressive", "driving", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -1942,8 +2080,9 @@
     "year": 2022,
     "duration": "2:44",
     "genres": [
-      "Ballad"
+      "Pop-Rock"
     ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -1955,14 +2094,15 @@
     "recs": []
   },
   {
-    "title": "Waiting For Us",
+    "title": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N",
     "album": "ODDINARY",
     "year": 2022,
     "duration": "3:39",
     "genres": [
-      "Rock/Punk/Metal",
-      "Ballad"
+      "Rock Ballad",
+      "Soft Rock"
     ],
+    "styles": ["anthem", "vocal-forward", "nostalgic"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -1974,13 +2114,14 @@
     "recs": []
   },
   {
-    "title": "Muddy Water",
+    "title": "Muddy Water (Changbin, Han, Felix)",
     "album": "ODDINARY",
     "year": 2022,
     "duration": "3:17",
     "genres": [
-      "Hip-Hop"
+      "Old School Boom-Bap"
     ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -1997,9 +2138,10 @@
     "year": 2022,
     "duration": "3:12",
     "genres": [
-      "EDM/Electronic",
-      "Pop"
+      "Electropop",
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2016,9 +2158,10 @@
     "year": 2022,
     "duration": "3:15",
     "genres": [
-      "R&B/Soul",
+      "Contemporary R&B",
       "Pop"
     ],
+    "styles": ["chill", "smooth", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2035,9 +2178,9 @@
     "year": 2022,
     "duration": "3:18",
     "genres": [
-      "Rock/Punk/Metal",
       "EDM/Electronic"
     ],
+    "styles": ["driving", "playful", "performance-driven"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2054,9 +2197,10 @@
     "year": 2022,
     "duration": "3:06",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Synth-Punk",
+      "Pop-Punk"
     ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2068,13 +2212,14 @@
     "recs": []
   },
   {
-    "title": "3RACHA",
+    "title": "3RACHA (Bang Chan, Changbin, HAN)",
     "album": "MAXIDENT",
     "year": 2022,
     "duration": "3:29",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2086,14 +2231,15 @@
     "recs": []
   },
   {
-    "title": "TASTE",
+    "title": "TASTE (Lee Know, Hyunjin, Felix)",
     "album": "MAXIDENT",
     "year": 2022,
     "duration": "3:36",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop"
+      "Dark Synth-Rock",
+      "Contemporary R&B"
     ],
+    "styles": ["sensual", "dark", "atmospheric"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2105,14 +2251,14 @@
     "recs": []
   },
   {
-    "title": "Can't Stop",
+    "title": "Can't Stop (Seungmin, I.N)",
     "album": "MAXIDENT",
     "year": 2022,
     "duration": "3:09",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Pop-Rock"
     ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2129,8 +2275,10 @@
     "year": 2022,
     "duration": "3:14",
     "genres": [
-      "Hip-Hop"
+      "Future House",
+      "Hip-Hop Dance"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2142,14 +2290,14 @@
     "recs": []
   },
   {
-    "title": "FAM (Replay)",
+    "title": "FAM",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:35",
     "genres": [
-      "Rock/Punk/Metal",
-      "EDM/Electronic"
+      "Brass Pop"
     ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2161,13 +2309,15 @@
     "recs": []
   },
   {
-    "title": "Connected",
+    "title": "Connected (Bangchan)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:52",
     "genres": [
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Dance Pop"
     ],
+    "styles": ["driving", "smooth", "sensual"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2179,7 +2329,7 @@
     "recs": []
   },
   {
-    "title": "Limbo",
+    "title": "Limbo (Lee Know)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:17",
@@ -2187,6 +2337,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2198,13 +2349,14 @@
     "recs": []
   },
   {
-    "title": "Doodle",
+    "title": "Doodle (Changbin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:04",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "playful"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -2216,14 +2368,15 @@
     "recs": []
   },
   {
-    "title": "Love Untold",
+    "title": "Love Untold (Hyunjin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:30",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop"
+      "Pop-Rock",
+      "Pop"
     ],
+    "styles": ["driving", "melancholic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2235,13 +2388,15 @@
     "recs": []
   },
   {
-    "title": "RUN",
+    "title": "RUN (Han)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:42",
     "genres": [
-      "Hip-Hop"
+      "Emo Rap",
+      "Alternative Hip-Hop"
     ],
+    "styles": ["driving", "melancholic", "vocal-forward"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2253,13 +2408,15 @@
     "recs": []
   },
   {
-    "title": "Deep End",
+    "title": "Deep End (Felix)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:28",
     "genres": [
-      "Ballad"
+      "Ambient Ballad",
+      "Orchestral Ballad"
     ],
+    "styles": ["dark", "vocal-forward", "atmospheric"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2271,14 +2428,14 @@
     "recs": []
   },
   {
-    "title": "Stars and Raindrops",
+    "title": "Stars and Raindrops (Seungmin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:50",
     "genres": [
-      "Ballad",
-      "R&B/Soul"
+      "Pop Ballad"
     ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2290,13 +2447,14 @@
     "recs": []
   },
   {
-    "title": "Hug Me",
+    "title": "Hug Me (I.N)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:01",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Indie Pop"
     ],
+    "styles": ["bouncy", "bright", "playful"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2316,6 +2474,7 @@
       "Ballad",
       "Pop"
     ],
+    "styles": ["anthem", "nostalgic", "smooth"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2327,13 +2486,14 @@
     "recs": []
   },
   {
-    "title": "ZONE",
+    "title": "ZONE (Bang Chan, Changbin, HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:33",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -2345,13 +2505,14 @@
     "recs": []
   },
   {
-    "title": "Close",
+    "title": "Close (HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:46",
     "genres": [
-      "Hip-Hop"
+      "Contemporary R&B"
     ],
+    "styles": ["chill", "sensual", "gliding"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2363,13 +2524,14 @@
     "recs": []
   },
   {
-    "title": "Streetlight",
+    "title": "Streetlight (Changbin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:10",
     "genres": [
-      "Hip-Hop"
+      "Emo Rap"
     ],
+    "styles": ["melancholic", "vocal-forward", "driving"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2381,13 +2543,14 @@
     "recs": []
   },
   {
-    "title": "i hate to admit",
+    "title": "i hate to admit (Bang Chan)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:50",
     "genres": [
       "Ballad"
     ],
+    "styles": ["melancholic", "vocal-forward", "atmospheric"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2399,13 +2562,14 @@
     "recs": []
   },
   {
-    "title": "I GOT IT",
+    "title": "I GOT IT (HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:51",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -2417,14 +2581,15 @@
     "recs": []
   },
   {
-    "title": "Miss you",
+    "title": "Miss you (Hyunjin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:34",
     "genres": [
-      "Ballad",
-      "Acoustic/Lo-fi"
+      "Indie Pop",
+      "Ballad"
     ],
+    "styles": ["melancholic", "nostalgic", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2436,13 +2601,15 @@
     "recs": []
   },
   {
-    "title": "Maknae on Top",
+    "title": "Maknae on Top (I.N)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:33",
     "genres": [
-      "Hip-Hop"
+      "Latin Pop",
+      "Swing Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2454,13 +2621,16 @@
     "recs": []
   },
   {
-    "title": "Alien",
+    "title": "Alien (HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:20",
     "genres": [
-      "Hip-Hop"
+      "Emo Rap",
+      "Alternative Hip-Hop",
+      "Pop-Punk"
     ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2472,13 +2642,14 @@
     "recs": []
   },
   {
-    "title": "Because",
+    "title": "Because (Changbin, Felix)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:18",
     "genres": [
-      "Acoustic/Lo-fi"
+      "Pop Ballad"
     ],
+    "styles": ["chill", "smooth", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2490,13 +2661,14 @@
     "recs": []
   },
   {
-    "title": "Piece of a Puzzle",
+    "title": "Piece of a Puzzle (Changbin, Seungmin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:07",
     "genres": [
-      "R&B/Soul"
+      "Pop Ballad"
     ],
+    "styles": ["melancholic", "vocal-forward", "nostalgic"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2508,13 +2680,14 @@
     "recs": []
   },
   {
-    "title": "Wish You Back",
+    "title": "Wish You Back (HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:18",
     "genres": [
-      "EDM/Electronic"
+      "Pop-Punk"
     ],
+    "styles": ["driving", "nostalgic", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2526,13 +2699,15 @@
     "recs": []
   },
   {
-    "title": "HaPpY",
+    "title": "HaPpY (HAN)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:30",
     "genres": [
-      "Hip-Hop"
+      "Pop Ballad",
+      "Pop"
     ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2544,13 +2719,15 @@
     "recs": []
   },
   {
-    "title": "Up All Night",
+    "title": "Up All Night (Bang Chan, Changbin, Felix, Seungmin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "3:22",
     "genres": [
-      "Pop"
+      "Latin Pop",
+      "Dance Pop"
     ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2562,13 +2739,15 @@
     "recs": []
   },
   {
-    "title": "Drive",
+    "title": "Drive (Bang Chan, Lee Know)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:44",
     "genres": [
-      "Hip-Hop"
+      "R&B Pop",
+      "Future Bass"
     ],
+    "styles": ["sensual", "smooth", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2580,14 +2759,15 @@
     "recs": []
   },
   {
-    "title": "Ice.cream",
+    "title": "ice.cream (Hyunjin)",
     "album": "SKZ-REPLAY",
     "year": 2022,
     "duration": "2:51",
     "genres": [
-      "Acoustic/Lo-fi",
-      "R&B/Soul"
+      "Contemporary R&B",
+      "Pop"
     ],
+    "styles": ["chill", "playful", "smooth"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2604,9 +2784,10 @@
     "year": 2023,
     "duration": "2:58",
     "genres": [
-      "Rock/Punk/Metal",
-      "EDM/Electronic"
+      "Trap",
+      "Electro Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -2623,8 +2804,10 @@
     "year": 2023,
     "duration": "3:30",
     "genres": [
-      "Rock/Punk/Metal"
+      "Rap Rock",
+      "Pop-Punk"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -2644,6 +2827,7 @@
       "Soft Rock",
       "Rock Ballad"
     ],
+    "styles": ["driving", "melancholic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -2660,9 +2844,10 @@
     "year": 2023,
     "duration": "3:15",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop"
+      "Electropop",
+      "Dark Synth-Rock"
     ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -2679,8 +2864,10 @@
     "year": 2023,
     "duration": "3:08",
     "genres": [
-      "R&B/Soul"
+      "Pop-Rock",
+      "Retro Pop"
     ],
+    "styles": ["bright", "driving", "smooth"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -2697,8 +2884,10 @@
     "year": 2023,
     "duration": "3:20",
     "genres": [
-      "Hip-Hop"
+      "Electropop",
+      "Trap Pop"
     ],
+    "styles": ["anthem", "driving", "melancholic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -2715,9 +2904,10 @@
     "year": 2023,
     "duration": "3:36",
     "genres": [
-      "Ballad",
-      "R&B/Soul"
+      "Pop Ballad",
+      "Contemporary R&B"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -2734,9 +2924,9 @@
     "year": 2023,
     "duration": "2:51",
     "genres": [
-      "Rock/Punk/Metal",
-      "EDM/Electronic"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "cinematic", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -2753,8 +2943,10 @@
     "year": 2023,
     "duration": "3:16",
     "genres": [
-      "Hip-Hop"
+      "Hip-Hop",
+      "EDM/Electronic"
     ],
+    "styles": ["glitchy", "playful", "performance-driven"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -2771,9 +2963,10 @@
     "year": 2023,
     "duration": "3:12",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -2790,9 +2983,10 @@
     "year": 2023,
     "duration": "3:03",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Experimental Rap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -2809,8 +3003,10 @@
     "year": 2023,
     "duration": "3:24",
     "genres": [
-      "Hip-Hop"
+      "Hip-Hop",
+      "Old School Boom-Bap"
     ],
+    "styles": ["bouncy", "chant-heavy", "retro"],
     "bpm": 95,
     "tier": "Slow",
     "art": "assets/covers/5-star.jpg",
@@ -2827,8 +3023,10 @@
     "year": 2023,
     "duration": "3:06",
     "genres": [
-      "EDM/Electronic"
+      "Afro-House",
+      "Moombahton"
     ],
+    "styles": ["bouncy", "bright", "smooth"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -2845,9 +3043,10 @@
     "year": 2023,
     "duration": "2:51",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "EDM/Electronic",
+      "Dance Pop"
     ],
+    "styles": ["playful", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -2864,9 +3063,9 @@
     "year": 2023,
     "duration": "2:38",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Contemporary R&B"
     ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -2884,8 +3083,9 @@
     "duration": "2:52",
     "genres": [
       "EDM/Electronic",
-      "Pop"
+      "Future Bass"
     ],
+    "styles": ["driving", "anthem", "melancholic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -2902,9 +3102,9 @@
     "year": 2023,
     "duration": "3:29",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop"
+      "Pop Ballad"
     ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -2921,8 +3121,9 @@
     "year": 2023,
     "duration": "2:55",
     "genres": [
-      "Rock/Punk/Metal"
+      "Pop-Punk"
     ],
+    "styles": ["bright", "driving", "playful"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -2939,9 +3140,9 @@
     "year": 2023,
     "duration": "3:06",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "cinematic", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -2958,8 +3159,9 @@
     "year": 2023,
     "duration": "3:02",
     "genres": [
-      "EDM/Electronic"
+      "Electro Rock"
     ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -2976,9 +3178,10 @@
     "year": 2023,
     "duration": "3:21",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Electro Rock",
+      "Pop-Rock"
     ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -2995,8 +3198,9 @@
     "year": 2023,
     "duration": "2:52",
     "genres": [
-      "EDM/Electronic"
+      "Trap Pop"
     ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -3013,8 +3217,9 @@
     "year": 2023,
     "duration": "3:11",
     "genres": [
-      "Ballad"
+      "Rock Ballad"
     ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3032,8 +3237,9 @@
     "duration": "3:39",
     "genres": [
       "Soft Rock",
-      "Ballad"
+      "Rock Ballad"
     ],
+    "styles": ["chill", "melancholic", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3050,8 +3256,9 @@
     "year": 2023,
     "duration": "3:17",
     "genres": [
-      "Rock/Punk/Metal"
+      "Pop-Punk"
     ],
+    "styles": ["driving", "anthem", "nostalgic"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -3068,8 +3275,9 @@
     "year": 2023,
     "duration": "3:08",
     "genres": [
-      "Rock/Punk/Metal"
+      "Hard Rock"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3086,8 +3294,9 @@
     "year": 2024,
     "duration": "3:07",
     "genres": [
-      "Other"
+      "Aggressive Trap"
     ],
+    "styles": ["aggressive", "cinematic", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -3104,9 +3313,10 @@
     "year": 2024,
     "duration": "2:28",
     "genres": [
-      "Hip-Hop",
-      "Dance-Pop"
+      "Trap",
+      "Latin Pop"
     ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -3123,9 +3333,10 @@
     "year": 2024,
     "duration": "2:34",
     "genres": [
-      "Hip-Hop",
-      "Dance-Pop"
+      "EDM/Electronic",
+      "Moombahton Trap"
     ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 123,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -3142,8 +3353,10 @@
     "year": 2024,
     "duration": "3:05",
     "genres": [
-      "Hip-Hop"
+      "EDM/Electronic",
+      "Trap Pop"
     ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -3160,9 +3373,9 @@
     "year": 2024,
     "duration": "2:28",
     "genres": [
-      "Hip-Hop",
-      "Pop"
+      "Electropop"
     ],
+    "styles": ["bright", "smooth", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -3179,8 +3392,9 @@
     "year": 2024,
     "duration": "3:16",
     "genres": [
-      "Hip-Hop"
+      "Trap Pop"
     ],
+    "styles": ["dark", "driving", "gliding"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -3197,8 +3411,9 @@
     "year": 2024,
     "duration": "3:33",
     "genres": [
-      "R&B/Soul"
+      "Contemporary R&B"
     ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -3215,8 +3430,10 @@
     "year": 2024,
     "duration": "2:40",
     "genres": [
-      "EDM/Electronic"
+      "Electropop",
+      "Pop"
     ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -3233,8 +3450,10 @@
     "year": 2024,
     "duration": "2:58",
     "genres": [
-      "Hip-Hop"
+      "EDM/Electronic",
+      "Trap"
     ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -3251,9 +3470,10 @@
     "year": 2024,
     "duration": "3:01",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop"
+      "Rap Rock",
+      "Alternative Rock"
     ],
+    "styles": ["driving", "dark", "chant-heavy"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -3264,15 +3484,36 @@
     },
     "recs": []
   },
+    {
+    "title": "NIGHT (English Version)",
+    "album": "GIANT",
+    "year": 2024,
+    "duration": "3:01",
+    "genres": [
+      "Rap Rock",
+      "Alternative Rock"
+    ],
+    "styles": ["driving", "dark", "chant-heavy"],
+    "bpm": 135,
+    "tier": "Mid",
+    "art": "assets/covers/giant.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6xITCUnfaUXYnv7ZJjxg44?si=d1f6989fd50348fe",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
   {
     "title": "Falling Up",
     "album": "GIANT",
     "year": 2024,
     "duration": "3:12",
     "genres": [
-      "R&B/Soul",
-      "Rock/Punk/Metal"
+      "Electropop",
+      "Arena Rock"
     ],
+    "styles": ["bright", "driving", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -3289,9 +3530,10 @@
     "year": 2024,
     "duration": "3:12",
     "genres": [
-      "R&B/Soul",
-      "Rock/Punk/Metal"
+      "Electropop",
+      "Arena Rock"
     ],
+    "styles": ["bright", "driving", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -3308,9 +3550,10 @@
     "year": 2024,
     "duration": "3:25",
     "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop"
+      "Dark Synth-Rock",
+      "Electropop"
     ],
+    "styles": ["dark", "sensual", "cinematic"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -3327,8 +3570,10 @@
     "year": 2024,
     "duration": "3:10",
     "genres": [
-      "Rock/Punk/Metal"
+      "Aggressive Trap",
+      "EDM/Electronic"
     ],
+    "styles": ["aggressive", "playful", "driving"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -3340,14 +3585,14 @@
     "recs": []
   },
   {
-    "title": "Aiwokuretanoninaze",
+    "title": "Ai o Kureta noni, Naze",
     "album": "GIANT",
     "year": 2024,
     "duration": "3:15",
     "genres": [
-      "R&B/Soul",
-      "Rock/Punk/Metal"
+      "Rock Ballad"
     ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -3364,8 +3609,10 @@
     "year": 2024,
     "duration": "3:05",
     "genres": [
-      "Hip-Hop"
+      "Dance Pop",
+      "Pop"
     ],
+    "styles": ["bright", "playful", "bouncy"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -3377,13 +3624,15 @@
     "recs": []
   },
   {
-    "title": "Walking on Water",
+    "title": "Walkin on Water",
     "album": "HOP",
     "year": 2024,
     "duration": "2:40",
     "genres": [
-      "Hip-Hop"
+      "Hip-Hop",
+      "Old School Boom-Bap"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -3400,9 +3649,9 @@
     "year": 2024,
     "duration": "2:55",
     "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop"
+      "Trap Pop"
     ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -3420,8 +3669,9 @@
     "duration": "2:44",
     "genres": [
       "Hip-Hop",
-      "EDM/Electronic"
+      "Chill Electronic"
     ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 81,
     "tier": "Slow",
     "art": "assets/covers/hop.jpg",
@@ -3432,15 +3682,35 @@
     },
     "recs": []
   },
+    {
+    "title": "Walkin on Water (HIP Version)",
+    "album": "HOP",
+    "year": 2024,
+    "duration": "2:55",
+    "genres": [
+      "Aggressive Trap"
+    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/hop.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm",
+      "appleMusic": "https://music.apple.com/us/song/walkin-on-water/1780412269",
+      "youtube": "https://youtu.be/ovHoY8UBIu8?si=TByUX3tj8LCm_AFQ"
+    },
+    "recs": []
+  },
   {
-    "title": "Railway",
+    "title": "Railway (Bang Chan)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:02",
     "genres": [
-      "R&B/Soul",
+      "Contemporary R&B",
       "Dark Synth-Pop"
     ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3452,13 +3722,15 @@
     "recs": []
   },
   {
-    "title": "Unfair",
+    "title": "Unfair (Felix)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:10",
     "genres": [
-      "R&B/Soul"
+      "Alt-Pop",
+      "Contemporary Pop"
     ],
+    "styles": ["bright", "smooth", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3470,14 +3742,15 @@
     "recs": []
   },
   {
-    "title": "HALLUCINATION",
+    "title": "HALLUCINATION (I.N)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:08",
     "genres": [
-      "Hip-Hop",
-      "Pop"
+      "Synthwave",
+      "Cyberpunk Pop"
     ],
+    "styles": ["driving", "atmospheric", "dark"],
     "bpm": 166,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -3489,13 +3762,14 @@
     "recs": []
   },
   {
-    "title": "Youth",
+    "title": "Youth (Lee Know)",
     "album": "HOP",
     "year": 2024,
     "duration": "2:50",
     "genres": [
-      "Pop"
+      "Indie Pop"
     ],
+    "styles": ["playful", "bouncy", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3507,13 +3781,15 @@
     "recs": []
   },
   {
-    "title": "So Good",
+    "title": "So Good (Hyunjin)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:05",
     "genres": [
-      "Hip-Hop"
+      "Contemporary R&B",
+      "Dark Synth-Pop"
     ],
+    "styles": ["sensual", "dark", "smooth"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3525,14 +3801,15 @@
     "recs": []
   },
   {
-    "title": "ULTRA",
+    "title": "ULTRA (Changbin)",
     "album": "HOP",
     "year": 2024,
     "duration": "2:48",
     "genres": [
       "Hip-Hop",
-      "EDM/Electronic"
+      "Rap Metal"
     ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -3544,13 +3821,15 @@
     "recs": []
   },
   {
-    "title": "Hold my hand",
+    "title": "Hold my hand (HAN)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:12",
     "genres": [
-      "Pop-Punk"
+      "Pop-Punk",
+      "Alternative Rock"
     ],
+    "styles": ["driving", "anthem", "melancholic"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3562,7 +3841,7 @@
     "recs": []
   },
   {
-    "title": "As we are",
+    "title": "As we are (Seungmin)",
     "album": "HOP",
     "year": 2024,
     "duration": "3:30",
@@ -3570,6 +3849,7 @@
       "Soft Rock",
       "Rock-Ballad"
     ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -3586,8 +3866,10 @@
     "year": 2025,
     "duration": "2:58",
     "genres": [
-      "Hip-Hop"
+      "Aggressive Trap",
+      "EDM/Electronic"
     ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -3599,14 +3881,15 @@
     "recs": []
   },
   {
-    "title": "Burnin' Tires",
+    "title": "Burnin' Tires (Changbin, I.N)",
     "album": "Mixtape dominATE",
     "year": 2025,
     "duration": "3:05",
     "genres": [
-      "Rock/Punk/Metal",
-      "EDM/Electronic"
+      "Pop-Rock",
+      "Alternative Rock"
     ],
+    "styles": ["driving", "bright", "playful"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -3618,14 +3901,15 @@
     "recs": []
   },
   {
-    "title": "Truman",
+    "title": "Truman (HAN, Felix)",
     "album": "Mixtape dominATE",
     "year": 2025,
     "duration": "3:10",
     "genres": [
-      "R&B/Soul",
+      "Trap Pop",
       "Hip-Hop"
     ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -3637,14 +3921,15 @@
     "recs": []
   },
   {
-    "title": "ESCAPE",
+    "title": "ESCAPE (Bang Chan, Hyunjin)",
     "album": "Mixtape dominATE",
     "year": 2025,
     "duration": "3:15",
     "genres": [
-      "R&B/Soul",
-      "Rock/Punk/Metal"
+      "Pop-Punk",
+      "Contemporary R&B"
     ],
+    "styles": ["driving", "sensual", "dark"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -3664,6 +3949,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
+    "styles": ["melancholic", "vocal-forward", "nostalgic"],
     "bpm": 144,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -3680,9 +3966,10 @@
     "year": 2025,
     "duration": "3:02",
     "genres": [
-      "EDM/Electronic",
-      "Pop"
+      "Synth-Pop",
+      "Electropop"
     ],
+    "styles": ["driving", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",
@@ -3699,9 +3986,10 @@
     "year": 2025,
     "duration": "2:55",
     "genres": [
-      "Hip-Hop",
+      "Aggressive Trap",
       "EDM/Electronic"
     ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/hollow.jpg",
@@ -3718,8 +4006,10 @@
     "year": 2025,
     "duration": "3:18",
     "genres": [
-      "Rock/Punk/Metal"
+      "Pop-Rock",
+      "Electropop"
     ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/hollow.jpg",
@@ -3736,8 +4026,10 @@
     "year": 2025,
     "duration": "3:05",
     "genres": [
+      "Contemporary R&B",
       "Pop"
     ],
+    "styles": ["chill", "smooth", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",
@@ -3749,13 +4041,15 @@
     "recs": []
   },
   {
-    "title": "Fate",
+    "title": "Fate (宿命)",
     "album": "Hollow",
     "year": 2025,
     "duration": "3:22",
     "genres": [
-      "Pop"
+      "Pop-Punk",
+      "Alternative Rock"
     ],
+    "styles": ["melancholic", "driving", "anthem"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",

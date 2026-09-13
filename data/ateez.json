@@ -105,7 +105,7 @@
     "genres": [
       "Hip-Hop",
       "EDM Trap",
-      "R&B Soul"
+      "R&B/Soul"
     ],
     "styles": ["atmospheric", "driving"],
     "bpm": 90,
@@ -125,7 +125,7 @@
     "duration": "3:03",
     "genres": [
       "Hip-Hop",
-      "R&B Soul"
+      "R&B/Soul"
     ],
     "styles": ["bouncy", "sensual", "performance-driven"],
     "bpm": 115,
@@ -206,7 +206,7 @@
     "genres": [
       "Hip-Hop",
       "R&B/Soul",
-      "Dance-Pop"
+      "Dance Pop"
     ],
     "styles": ["driving", "gliding", "smooth"],
     "bpm": 130,
@@ -226,7 +226,7 @@
     "duration": "2:40",
     "genres": [
       "Pop",
-      "R&B Soul"
+      "R&B/Soul"
     ],
     "styles": ["chill", "sensual", "vocal-forward"],
     "bpm": 122,
@@ -623,7 +623,7 @@
     "year": 2026,
     "duration": "2:48",
     "genres": [
-      "R&B Soul"
+      "R&B/Soul"
     ],
     "styles": ["chill", "sensual", "vocal-forward"],
     "bpm": 118,
