@@ -6,14 +6,9 @@
     "duration": "3:59",
     "genres": [
       "EDM/Electronic",
-      "Trap-Pop",
-      "Future Bass"
+      "Trap-Pop"
     ],
-    "style": [
-      "dark",
-      "gliding",
-      "anthem"
-    ],
+    "styles": ["dark", "driving", "anthem"],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -33,11 +28,7 @@
       "Rap-Rock",
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 98,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -56,11 +47,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "melancholic",
-      "driving",
-      "gliding"
-    ],
+    "styles": ["melancholic", "driving", "gliding"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape.jpg",
@@ -80,11 +67,7 @@
       "Rap Rock",
       "Alternative Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/mixtape.jpg",
@@ -101,14 +84,9 @@
     "year": 2018,
     "duration": "3:24",
     "genres": [
-      "Contemporary R&B",
-      "Synth-Pop"
+      "R&B/Soul"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -127,11 +105,7 @@
     "genres": [
       "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "retro"
-    ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/mixtape.jpg",
@@ -150,11 +124,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "melancholic",
-      "nostalgic",
-      "soft-rap"
-    ],
+    "styles": ["melancholic", "nostalgic", "soft-rap"],
     "bpm": 86,
     "tier": "Slow",
     "art": "assets/covers/mixtape.jpg",
@@ -174,11 +144,7 @@
       "Rap Rock",
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/i-am-not.jpg",
@@ -198,11 +164,7 @@
       "Trap-Pop",
       "EDM/Electronic"
     ],
-    "style": [
-      "dark",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["dark", "driving", "anthem"],
     "bpm": 186,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -221,11 +183,7 @@
     "genres": [
       "Alternative Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 164,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -244,7 +202,7 @@
     "genres": [
       "Moombahton Trap"
     ],
-    "style": ["bouncy", "playful", "performance-driven"],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/i-am-not.jpg",
@@ -263,11 +221,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "nostalgic",
-      "gliding",
-      "vocal-forward"
-    ],
+    "styles": ["nostalgic", "gliding", "vocal-forward"],
     "bpm": 174,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-not.jpg",
@@ -286,11 +240,7 @@
     "genres": [
       "Ambient Electronic"
     ],
-    "style": [
-      "atmospheric",
-      "dark",
-      "glitchy"
-    ],
+    "styles": ["atmospheric", "dark", "glitchy"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/i-am-not.jpg",
@@ -309,11 +259,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "driving",
-      "aggressive",
-      "atmospheric"
-    ],
+    "styles": ["driving", "aggressive", "atmospheric"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -332,11 +278,7 @@
     "genres": [
       "Rap Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -353,15 +295,10 @@
     "year": 2018,
     "duration": "3:20",
     "genres": [
-      "Pop Rock",
-      "Trap-Pop",
-      "Electropop"
+      "EDM/Electronic",
+      "Trap-Pop"
     ],
-    "style": [
-      "dark",
-      "anthem",
-      "driving"
-    ],
+    "styles": ["dark", "anthem", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -380,11 +317,7 @@
     "genres": [
       "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/i-am-who.jpg",
@@ -403,11 +336,7 @@
     "genres": [
       "Electropop"
     ],
-    "style": [
-      "atmospheric",
-      "gliding",
-      "melancholic"
-    ],
+    "styles": ["atmospheric", "gliding", "melancholic"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -424,13 +353,9 @@
     "year": 2018,
     "duration": "3:31",
     "genres": [
-      "Contemporary R&B"
+      "R&B/Soul"
     ],
-    "style": [
-      "chill",
-      "sensual",
-      "smooth"
-    ],
+    "styles": ["chill", "sensual", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -449,11 +374,7 @@
     "genres": [
       "Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 200,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-who.jpg",
@@ -473,11 +394,7 @@
       "Alt-Pop",
       "Alternative"
     ],
-    "style": [
-      "driving",
-      "smooth",
-      "nostalgic"
-    ],
+    "styles": ["driving", "smooth", "nostalgic"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -497,11 +414,7 @@
       "Pop-Rock",
       "Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "nostalgic"
-    ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -521,11 +434,7 @@
       "Alternative Rock",
       "Rap Rock"
     ],
-    "style": [
-      "aggressive",
-      "anthem",
-      "dark"
-    ],
+    "styles": ["aggressive", "anthem", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -542,13 +451,9 @@
     "year": 2018,
     "duration": "3:32",
     "genres": [
-      "Contemporary R&B"
+      "R&B/Soul"
     ],
-    "style": [
-      "melancholic",
-      "nostalgic",
-      "soft-rap"
-    ],
+    "styles": ["melancholic", "nostalgic", "soft-rap"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/i-am-you.jpg",
@@ -565,14 +470,9 @@
     "year": 2018,
     "duration": "3:15",
     "genres": [
-      "Synth-Pop",
-      "Bright Hip-Hop"
+      "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/i-am-you.jpg",
@@ -591,11 +491,7 @@
     "genres": [
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "chant-heavy"
-    ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -614,11 +510,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "cinematic"
-    ],
+    "styles": ["driving", "anthem", "cinematic"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/i-am-you.jpg",
@@ -637,11 +529,7 @@
     "genres": [
       "Ambient Electronic"
     ],
-    "style": [
-      "atmospheric",
-      "chant-heavy",
-      "driving"
-    ],
+    "styles": ["atmospheric", "chant-heavy", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -660,11 +548,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["anthem", "driving", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -684,11 +568,7 @@
       "Aggressive Trap",
       "EDM/Electronic"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -708,11 +588,7 @@
       "Alternative Hip-Hop",
       "Rap Rock"
     ],
-    "style": [
-      "aggressive",
-      "glitchy",
-      "dark"
-    ],
+    "styles": ["aggressive", "glitchy", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -731,11 +607,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -752,15 +624,10 @@
     "year": 2019,
     "duration": "3:18",
     "genres": [
-      "Pop Rock",
-      "Electropop",
-      "Alternative Hip-Hop"
+      "EDM/Electronic",
+      "Alternative Rock"
     ],
-    "style": [
-      "dark",
-      "anthem",
-      "driving"
-    ],
+    "styles": ["dark", "anthem", "cinematic"],
     "bpm": 165,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -777,13 +644,9 @@
     "year": 2019,
     "duration": "3:32",
     "genres": [
-      "Contemporary R&B"
+      "R&B/Soul"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "soft-rap"
-    ],
+    "styles": ["chill", "melancholic", "soft-rap"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/cle-1-miroh.jpg",
@@ -802,11 +665,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "glitchy"
-    ],
+    "styles": ["driving", "dark", "glitchy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -825,11 +684,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -848,11 +703,7 @@
     "genres": [
       "Alt-Pop"
     ],
-    "style": [
-      "bouncy",
-      "gliding",
-      "melancholic"
-    ],
+    "styles": ["bouncy", "gliding", "melancholic"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -871,11 +722,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "bouncy",
-      "bright",
-      "nostalgic"
-    ],
+    "styles": ["bouncy", "bright", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -894,11 +741,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -915,14 +758,9 @@
     "year": 2019,
     "duration": "4:18",
     "genres": [
-      "Contemporary Pop",
-      "Tropical House"
+      "Pop"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "nostalgic"
-    ],
+    "styles": ["driving", "anthem", "nostalgic"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -941,11 +779,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "driving",
-      "gliding",
-      "nostalgic"
-    ],
+    "styles": ["driving", "gliding", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/cle-2-yellow-wood.jpg",
@@ -964,11 +798,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "glitchy"
-    ],
+    "styles": ["driving", "dark", "glitchy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -987,11 +817,7 @@
     "genres": [
       "Hip-Hop"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "performance-driven"
-    ],
+    "styles": ["aggressive", "driving", "performance-driven"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1010,11 +836,7 @@
     "genres": [
       "Alternative Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "nostalgic"
-    ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1034,11 +856,7 @@
       "EDM/Electronic",
       "Dance Pop"
     ],
-    "style": [
-      "driving",
-      "chant-heavy",
-      "performance-driven"
-    ],
+    "styles": ["driving", "chant-heavy", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1055,14 +873,10 @@
     "year": 2019,
     "duration": "2:59",
     "genres": [
-      "Electropop",
-      "Progressive House"
+      "Dance Pop",
+      "Future Bass"
     ],
-    "style": [
-      "bouncy",
-      "bright",
-      "playful"
-    ],
+    "styles": ["bouncy", "bright", "playful"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1081,11 +895,7 @@
     "genres": [
       "Chill Electronic"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "gliding"
-    ],
+    "styles": ["chill", "nostalgic", "gliding"],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1104,11 +914,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "nostalgic",
-      "gliding",
-      "smooth"
-    ],
+    "styles": ["nostalgic", "gliding", "smooth"],
     "bpm": 126,
     "tier": "Mid",
     "art": "assets/covers/cle-levanter.jpg",
@@ -1128,11 +934,7 @@
       "Alternative Hip-Hop",
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "glitchy"
-    ],
+    "styles": ["aggressive", "driving", "glitchy"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1152,11 +954,7 @@
       "Hip-Hop",
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 157,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1175,11 +973,7 @@
     "genres": [
       "Dark Trap"
     ],
-    "style": [
-      "dark",
-      "driving",
-      "performance-driven"
-    ],
+    "styles": ["dark", "driving", "performance-driven"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1199,11 +993,7 @@
       "Dance Pop",
       "Electropop"
     ],
-    "style": [
-      "driving",
-      "chant-heavy",
-      "smooth"
-    ],
+    "styles": ["driving", "chant-heavy", "smooth"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1223,11 +1013,7 @@
       "Dance Pop",
       "Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1247,11 +1033,7 @@
       "Acoustic/Lo-fi",
       "Chill Electronic"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "melancholic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1270,11 +1052,7 @@
     "genres": [
       "Synthwave"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "anthem"
-    ],
+    "styles": ["driving", "dark", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1291,14 +1069,9 @@
     "year": 2020,
     "duration": "4:11",
     "genres": [
-      "Contemporary Pop",
-      "Tropical House"
+      "Contemporary Pop"
     ],
-    "style": [
-      "bright",
-      "smooth",
-      "nostalgic"
-    ],
+    "styles": ["bright", "smooth", "nostalgic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1318,11 +1091,7 @@
       "Moombahton",
       "Afro-House"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "chant-heavy"
-    ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1339,15 +1108,10 @@
     "year": 2020,
     "duration": "3:20",
     "genres": [
-      "Progressive House",
-      "Electropop",
-      "Stadium EDM"
+      "EDM/Electronic",
+      "Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "bright"
-    ],
+    "styles": ["anthem", "driving", "bright"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1367,11 +1131,7 @@
       "EDM/Electronic",
       "Trap-Pop"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1390,11 +1150,7 @@
     "genres": [
       "Emo Rock"
     ],
-    "style": [
-      "melancholic",
-      "driving",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1413,11 +1169,7 @@
     "genres": [
       "Emo Rock"
     ],
-    "style": [
-      "melancholic",
-      "driving",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/topeng.jpg",
@@ -1436,11 +1188,7 @@
     "genres": [
       "Indie Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/go-live.jpg",
@@ -1460,11 +1208,7 @@
       "Contemporary R&B",
       "Pop Ballad"
     ],
-    "style": [
-      "melancholic",
-      "nostalgic",
-      "gliding"
-    ],
+    "styles": ["melancholic", "nostalgic", "gliding"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/go-live.jpg",
@@ -1483,11 +1227,7 @@
     "genres": [
       "Experimental Rap"
     ],
-    "style": [
-      "glitchy",
-      "playful",
-      "aggressive"
-    ],
+    "styles": ["glitchy", "playful", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1506,11 +1246,7 @@
     "genres": [
       "Electropop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 108,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1530,11 +1266,7 @@
       "Electropop",
       "Alternative Pop"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "anthem"
-    ],
+    "styles": ["driving", "dark", "anthem"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1554,11 +1286,7 @@
       "Trap Pop",
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1578,11 +1306,7 @@
       "Contemporary R&B",
       "R&B Ballad"
     ],
-    "style": [
-      "melancholic",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "nostalgic", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/in-life.jpg",
@@ -1601,10 +1325,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving"
-    ],
+    "styles": ["aggressive", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1615,7 +1336,7 @@
     },
     "recs": []
   },
-  {
+   {
     "title": "Wow (Lee Know, Hyunjin, Felix)",
     "album": "IN LIFE",
     "year": 2020,
@@ -1623,11 +1344,7 @@
     "genres": [
       "Deep House"
     ],
-    "style": [
-      "sensual",
-      "smooth",
-      "driving"
-    ],
+    "styles": ["sensual", "smooth", "driving"],
     "bpm": 128,
     "tier": "Up-tempo",
     "art": "assets/covers/in-life.jpg",
@@ -1638,7 +1355,7 @@
     },
     "recs": []
   },
-  {
+     {
     "title": "My Universe (Seungmin, I.N, Changbin)",
     "album": "IN LIFE",
     "year": 2020,
@@ -1646,11 +1363,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "bright",
-      "gliding",
-      "nostalgic"
-    ],
+    "styles": ["bright", "gliding", "nostalgic"],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/in-life.jpg",
@@ -1668,13 +1381,9 @@
     "duration": "3:07",
     "genres": [
       "EDM/Electronic",
-      "Trap Pop"
+      "Dance Pop"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/all-in.jpg",
@@ -1686,18 +1395,33 @@
     "recs": []
   },
   {
+    "title": "FAM",
+    "album": "All IN",
+    "year": 2020,
+    "duration": "3:35",
+    "genres": [
+      "Brass Pop"
+    ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/all-in.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN",
+      "appleMusic": "https://music.apple.com/us/album/fam-korean-ver/1657537947?i=1657537951&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=d81JiYJCK-0"
+    },
+    "recs": []
+  },
+  {
     "title": "One Day",
     "album": "All IN",
     "year": 2020,
     "duration": "3:13",
     "genres": [
-      "Inidie Pop"
+      "Indie Pop"
     ],
-    "style": [
-      "bright",
-      "nostalgic",
-      "gliding"
-    ],
+    "styles": ["bright", "nostalgic", "gliding"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/all-in.jpg",
@@ -1716,11 +1440,7 @@
     "genres": [
       "Rap Rock"
     ],
-    "style": [
-      "playful",
-      "aggressive",
-      "driving"
-    ],
+    "styles": ["playful", "aggressive", "driving"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1739,11 +1459,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1761,13 +1477,9 @@
     "duration": "3:18",
     "genres": [
       "EDM/Electronic",
-      "Trap Pop"
-    ],
-    "style": [
-      "driving",
-      "bouncy",
-      "performance-driven"
-    ],
+      "Dance Pop"
+      ],
+    "styles": ["driving", "bouncy", "performance-driven"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1786,11 +1498,7 @@
     "genres": [
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "smooth"
-    ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -1808,14 +1516,9 @@
     "duration": "3:22",
     "genres": [
       "Electropop",
-      "Tropical House",
-      "Chill Electronic"
+      "Dance Pop"
     ],
-    "style": [
-      "bright",
-      "smooth",
-      "driving"
-    ],
+    "styles": ["bright", "smooth", "driving"],
     "bpm": 124,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1834,11 +1537,7 @@
     "genres": [
       "Contemporary R&B"
     ],
-    "style": [
-      "melancholic",
-      "gliding",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1858,11 +1557,7 @@
       "Electropop",
       "Synth-Pop"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "anthem"
-    ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1881,11 +1576,7 @@
     "genres": [
       "Contemporary R&B"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "soft-rap"
-    ],
+    "styles": ["melancholic", "vocal-forward", "soft-rap"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1905,11 +1596,7 @@
       "Electropop",
       "Contemporary Pop"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1929,11 +1616,7 @@
       "Gothic Pop",
       "Dark Synth-Rock"
     ],
-    "style": [
-      "sensual",
-      "dark",
-      "cinematic"
-    ],
+    "styles": ["sensual", "dark", "cinematic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1950,14 +1633,10 @@
     "year": 2021,
     "duration": "3:11",
     "genres": [
-      "Tropical House",
+      "Pop",
       "Dance Pop"
     ],
-    "style": [
-      "bright",
-      "playful",
-      "bouncy"
-    ],
+    "styles": ["bright", "playful", "bouncy"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -1976,11 +1655,7 @@
     "genres": [
       "Ballad"
     ],
-    "style": [
-      "melancholic",
-      "anthem",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -2000,11 +1675,7 @@
       "Aggressive Trap",
       "Hip-Hop"
     ],
-    "style": [
-      "aggressive",
-      "cinematic",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "cinematic", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/noeasy.jpg",
@@ -2024,11 +1695,7 @@
       "Reggaeton",
       "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "nostalgic",
-      "gliding"
-    ],
+    "styles": ["bouncy", "nostalgic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/noeasy.jpg",
@@ -2048,11 +1715,7 @@
       "Aggressive Trap",
       "Hip-Hop"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "playful"
-    ],
+    "styles": ["aggressive", "driving", "playful"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/christmas-evel.jpg",
@@ -2072,11 +1735,7 @@
       "Acoustic",
       "Pop"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/christmas-evel.jpg",
@@ -2096,11 +1755,7 @@
       "Pop",
       "Electropop"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "anthem"
-    ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/christmas-evel.jpg",
@@ -2120,11 +1775,7 @@
       "Electropop",
       "Trap Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "melancholic"
-    ],
+    "styles": ["anthem", "driving", "melancholic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2143,11 +1794,7 @@
     "genres": [
       "Alternative Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 164,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2166,11 +1813,7 @@
     "genres": [
       "Moombahton Trap"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -2189,11 +1832,7 @@
     "genres": [
       "Ambient Electronic"
     ],
-    "style": [
-      "atmospheric",
-      "dark",
-      "glitchy"
-    ],
+    "styles": ["atmospheric", "dark", "glitchy"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -2212,11 +1851,7 @@
     "genres": [
       "Contemporary Pop"
     ],
-    "style": [
-      "bouncy",
-      "bright",
-      "nostalgic"
-    ],
+    "styles": ["bouncy", "bright", "nostalgic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -2235,11 +1870,7 @@
     "genres": [
       "Electropop"
     ],
-    "style": [
-      "atmospheric",
-      "gliding",
-      "melancholic"
-    ],
+    "styles": ["atmospheric", "gliding", "melancholic"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2258,11 +1889,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -2282,11 +1909,7 @@
       "Alternative Rock",
       "Rap Rock"
     ],
-    "style": [
-      "aggressive",
-      "anthem",
-      "dark"
-    ],
+    "styles": ["aggressive", "anthem", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2305,11 +1928,7 @@
     "genres": [
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "chant-heavy"
-    ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2329,11 +1948,7 @@
       "Alternative Hip-Hop",
       "Rap Rock"
     ],
-    "style": [
-      "aggressive",
-      "glitchy",
-      "dark"
-    ],
+    "styles": ["aggressive", "glitchy", "dark"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2352,11 +1967,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "driving",
-      "gliding",
-      "nostalgic"
-    ],
+    "styles": ["driving", "gliding", "nostalgic"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-2021.jpg",
@@ -2375,11 +1986,7 @@
     "genres": [
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "nostalgic",
-      "soft-rap"
-    ],
+    "styles": ["bouncy", "nostalgic", "soft-rap"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-2021.jpg",
@@ -2398,11 +2005,7 @@
     "genres": [
       "Dark Trap"
     ],
-    "style": [
-      "dark",
-      "driving",
-      "glitchy"
-    ],
+    "styles": ["dark", "driving", "glitchy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -2421,11 +2024,7 @@
     "genres": [
       "Electropop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -2444,11 +2043,7 @@
     "genres": [
       "Hip-Hop"
     ],
-    "style": [
-      "driving",
-      "playful",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "playful", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -2468,11 +2063,7 @@
       "EDM/Electronic",
       "Moombahton Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "performance-driven"
-    ],
+    "styles": ["aggressive", "driving", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -2491,11 +2082,7 @@
     "genres": [
       "Pop-Rock"
     ],
-    "style": [
-      "melancholic",
-      "anthem",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -2515,11 +2102,7 @@
       "Rock Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "anthem",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["anthem", "vocal-forward", "nostalgic"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/oddinary.jpg",
@@ -2538,11 +2121,7 @@
     "genres": [
       "Old School Boom-Bap"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "retro"
-    ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/oddinary.jpg",
@@ -2562,11 +2141,7 @@
       "Electropop",
       "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2586,11 +2161,7 @@
       "Contemporary R&B",
       "Pop"
     ],
-    "style": [
-      "chill",
-      "smooth",
-      "gliding"
-    ],
+    "styles": ["chill", "smooth", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2609,11 +2180,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "driving",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["driving", "playful", "performance-driven"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2633,11 +2200,7 @@
       "Synth-Punk",
       "Pop-Punk"
     ],
-    "style": [
-      "playful",
-      "driving",
-      "aggressive"
-    ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2656,11 +2219,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/maxident.jpg",
@@ -2680,11 +2239,7 @@
       "Dark Synth-Rock",
       "Contemporary R&B"
     ],
-    "style": [
-      "sensual",
-      "dark",
-      "atmospheric"
-    ],
+    "styles": ["sensual", "dark", "atmospheric"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2703,11 +2258,7 @@
     "genres": [
       "Pop-Rock"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2725,13 +2276,9 @@
     "duration": "3:14",
     "genres": [
       "Future House",
-      "Trap Pop"
+      "Hip-Hop Dance"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/maxident.jpg",
@@ -2750,11 +2297,7 @@
     "genres": [
       "Brass Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "chant-heavy"
-    ],
+    "styles": ["bouncy", "playful", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2771,15 +2314,10 @@
     "year": 2022,
     "duration": "2:52",
     "genres": [
-      "Moombahton",
-      "Hosue",
+      "EDM/Electronic",
       "Dance Pop"
     ],
-    "style": [
-      "driving",
-      "smooth",
-      "sensual"
-    ],
+    "styles": ["driving", "smooth", "sensual"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2799,11 +2337,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "melancholic",
-      "anthem",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2822,11 +2356,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "playful"
-    ],
+    "styles": ["aggressive", "driving", "playful"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -2846,11 +2376,7 @@
       "Pop-Rock",
       "Pop"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "gliding"
-    ],
+    "styles": ["driving", "melancholic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2870,11 +2396,7 @@
       "Emo Rap",
       "Alternative Hip-Hop"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "vocal-forward"
-    ],
+    "styles": ["driving", "melancholic", "vocal-forward"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2894,11 +2416,7 @@
       "Ambient Ballad",
       "Orchestral Ballad"
     ],
-    "style": [
-      "dark",
-      "vocal-forward",
-      "atmospheric"
-    ],
+    "styles": ["dark", "vocal-forward", "atmospheric"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2917,11 +2435,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "melancholic",
-      "gliding",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2940,11 +2454,7 @@
     "genres": [
       "Indie Pop"
     ],
-    "style": [
-      "bouncy",
-      "bright",
-      "playful"
-    ],
+    "styles": ["bouncy", "bright", "playful"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2964,11 +2474,7 @@
       "Ballad",
       "Pop"
     ],
-    "style": [
-      "anthem",
-      "nostalgic",
-      "smooth"
-    ],
+    "styles": ["anthem", "nostalgic", "smooth"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -2987,11 +2493,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -3010,11 +2512,7 @@
     "genres": [
       "Contemporary R&B"
     ],
-    "style": [
-      "chill",
-      "sensual",
-      "gliding"
-    ],
+    "styles": ["chill", "sensual", "gliding"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3033,11 +2531,7 @@
     "genres": [
       "Emo Rap"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "driving"
-    ],
+    "styles": ["melancholic", "vocal-forward", "driving"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3056,11 +2550,7 @@
     "genres": [
       "Ballad"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "atmospheric"
-    ],
+    "styles": ["melancholic", "vocal-forward", "atmospheric"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3079,10 +2569,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving"
-    ],
+    "styles": ["aggressive", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay.jpg",
@@ -3102,11 +2589,7 @@
       "Indie Pop",
       "Ballad"
     ],
-    "style": [
-      "melancholic",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "nostalgic", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3126,11 +2609,7 @@
       "Latin Pop",
       "Swing Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3151,11 +2630,7 @@
       "Alternative Hip-Hop",
       "Pop-Punk"
     ],
-    "style": [
-      "melancholic",
-      "driving",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "driving", "vocal-forward"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3174,11 +2649,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "chill",
-      "smooth",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "smooth", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3197,11 +2668,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["melancholic", "vocal-forward", "nostalgic"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3220,11 +2687,7 @@
     "genres": [
       "Pop-Punk"
     ],
-    "style": [
-      "driving",
-      "nostalgic",
-      "anthem"
-    ],
+    "styles": ["driving", "nostalgic", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3244,11 +2707,7 @@
       "Pop Ballad",
       "Pop"
     ],
-    "style": [
-      "melancholic",
-      "gliding",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "gliding", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3268,11 +2727,7 @@
       "Latin Pop",
       "Dance Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "bright"
-    ],
+    "styles": ["bouncy", "playful", "bright"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3292,11 +2747,7 @@
       "R&B Pop",
       "Future Bass"
     ],
-    "style": [
-      "sensual",
-      "smooth",
-      "driving"
-    ],
+    "styles": ["sensual", "smooth", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3316,11 +2767,7 @@
       "Contemporary R&B",
       "Pop"
     ],
-    "style": [
-      "chill",
-      "playful",
-      "smooth"
-    ],
+    "styles": ["chill", "playful", "smooth"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay.jpg",
@@ -3340,11 +2787,7 @@
       "Trap",
       "Electro Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -3364,11 +2807,7 @@
       "Rap Rock",
       "Pop-Punk"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -3388,11 +2827,7 @@
       "Soft Rock",
       "Rock Ballad"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "gliding"
-    ],
+    "styles": ["driving", "melancholic", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -3412,11 +2847,7 @@
       "Electropop",
       "Dark Synth-Rock"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "driving"
-    ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -3436,11 +2867,7 @@
       "Pop-Rock",
       "Retro Pop"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "smooth"
-    ],
+    "styles": ["bright", "driving", "smooth"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -3460,11 +2887,7 @@
       "Electropop",
       "Trap Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "melancholic"
-    ],
+    "styles": ["anthem", "driving", "melancholic"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/the-sound.jpg",
@@ -3484,11 +2907,7 @@
       "Pop Ballad",
       "Contemporary R&B"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/the-sound.jpg",
@@ -3507,11 +2926,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "cinematic",
-      "driving"
-    ],
+    "styles": ["aggressive", "cinematic", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -3531,11 +2946,7 @@
       "Hip-Hop",
       "EDM/Electronic"
     ],
-    "style": [
-      "glitchy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["glitchy", "playful", "performance-driven"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -3555,11 +2966,7 @@
       "EDM/Electronic",
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -3579,11 +2986,7 @@
       "EDM/Electronic",
       "Experimental Rap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -3603,11 +3006,7 @@
       "Hip-Hop",
       "Old School Boom-Bap"
     ],
-    "style": [
-      "bouncy",
-      "chant-heavy",
-      "retro"
-    ],
+    "styles": ["bouncy", "chant-heavy", "retro"],
     "bpm": 95,
     "tier": "Slow",
     "art": "assets/covers/5-star.jpg",
@@ -3627,11 +3026,7 @@
       "Afro-House",
       "Moombahton"
     ],
-    "style": [
-      "bouncy",
-      "bright",
-      "smooth"
-    ],
+    "styles": ["bouncy", "bright", "smooth"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -3651,11 +3046,7 @@
       "EDM/Electronic",
       "Dance Pop"
     ],
-    "style": [
-      "playful",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["playful", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -3674,11 +3065,7 @@
     "genres": [
       "Contemporary R&B"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "smooth"
-    ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -3695,15 +3082,10 @@
     "year": 2023,
     "duration": "2:52",
     "genres": [
-      "Electropop",
-      "Future Bass",
-      "Progressive House"
+      "EDM/Electronic",
+      "Future Bass"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "melancholic"
-    ],
+    "styles": ["driving", "anthem", "melancholic"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -3722,11 +3104,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "bright",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/5-star.jpg",
@@ -3745,11 +3123,7 @@
     "genres": [
       "Pop-Punk"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "playful"
-    ],
+    "styles": ["bright", "driving", "playful"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/5-star.jpg",
@@ -3768,11 +3142,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "cinematic",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "cinematic", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -3791,11 +3161,7 @@
     "genres": [
       "Electro Rock"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3815,11 +3181,7 @@
       "Electro Rock",
       "Pop-Rock"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3838,11 +3200,7 @@
     "genres": [
       "Trap Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "smooth"
-    ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -3861,11 +3219,7 @@
     "genres": [
       "Rock Ballad"
     ],
-    "style": [
-      "melancholic",
-      "anthem",
-      "vocal-forward"
-    ],
+    "styles": ["melancholic", "anthem", "vocal-forward"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3885,11 +3239,7 @@
       "Soft Rock",
       "Rock Ballad"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "melancholic", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3908,11 +3258,7 @@
     "genres": [
       "Pop-Punk"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "nostalgic"
-    ],
+    "styles": ["driving", "anthem", "nostalgic"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/rockstar.jpg",
@@ -3931,11 +3277,7 @@
     "genres": [
       "Hard Rock"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/rockstar.jpg",
@@ -3954,11 +3296,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "cinematic",
-      "driving"
-    ],
+    "styles": ["aggressive", "cinematic", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -3978,11 +3316,7 @@
       "Trap",
       "Latin Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "performance-driven"
-    ],
+    "styles": ["bouncy", "playful", "performance-driven"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -4002,11 +3336,7 @@
       "EDM/Electronic",
       "Moombahton Trap"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 123,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -4026,11 +3356,7 @@
       "EDM/Electronic",
       "Trap Pop"
     ],
-    "style": [
-      "playful",
-      "driving",
-      "aggressive"
-    ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -4049,11 +3375,7 @@
     "genres": [
       "Electropop"
     ],
-    "style": [
-      "bright",
-      "smooth",
-      "driving"
-    ],
+    "styles": ["bright", "smooth", "driving"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -4072,11 +3394,7 @@
     "genres": [
       "Trap Pop"
     ],
-    "style": [
-      "dark",
-      "driving",
-      "gliding"
-    ],
+    "styles": ["dark", "driving", "gliding"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -4095,11 +3413,7 @@
     "genres": [
       "Contemporary R&B"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "smooth"
-    ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/ate.jpg",
@@ -4119,11 +3433,7 @@
       "Electropop",
       "Pop"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "nostalgic"
-    ],
+    "styles": ["anthem", "driving", "nostalgic"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/ate.jpg",
@@ -4143,11 +3453,7 @@
       "EDM/Electronic",
       "Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -4167,11 +3473,7 @@
       "Rap Rock",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "dark", "chant-heavy"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4182,7 +3484,7 @@
     },
     "recs": []
   },
-  {
+    {
     "title": "NIGHT (English Version)",
     "album": "GIANT",
     "year": 2024,
@@ -4191,11 +3493,7 @@
       "Rap Rock",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "dark",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "dark", "chant-heavy"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4215,11 +3513,7 @@
       "Electropop",
       "Arena Rock"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "gliding"
-    ],
+    "styles": ["bright", "driving", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4239,11 +3533,7 @@
       "Electropop",
       "Arena Rock"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "gliding"
-    ],
+    "styles": ["bright", "driving", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4263,11 +3553,7 @@
       "Dark Synth-Rock",
       "Electropop"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "cinematic"
-    ],
+    "styles": ["dark", "sensual", "cinematic"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -4287,11 +3573,7 @@
       "Aggressive Trap",
       "EDM/Electronic"
     ],
-    "style": [
-      "aggressive",
-      "playful",
-      "driving"
-    ],
+    "styles": ["aggressive", "playful", "driving"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/giant.jpg",
@@ -4310,11 +3592,7 @@
     "genres": [
       "Rock Ballad"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "anthem"
-    ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4334,11 +3612,7 @@
       "Dance Pop",
       "Pop"
     ],
-    "style": [
-      "bright",
-      "playful",
-      "bouncy"
-    ],
+    "styles": ["bright", "playful", "bouncy"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/giant.jpg",
@@ -4358,11 +3632,7 @@
       "Hip-Hop",
       "Old School Boom-Bap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -4381,11 +3651,7 @@
     "genres": [
       "Trap Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -4405,11 +3671,7 @@
       "Hip-Hop",
       "Chill Electronic"
     ],
-    "style": [
-      "chill",
-      "nostalgic",
-      "vocal-forward"
-    ],
+    "styles": ["chill", "nostalgic", "vocal-forward"],
     "bpm": 81,
     "tier": "Slow",
     "art": "assets/covers/hop.jpg",
@@ -4420,7 +3682,7 @@
     },
     "recs": []
   },
-  {
+    {
     "title": "Walkin on Water (HIP Version)",
     "album": "HOP",
     "year": 2024,
@@ -4428,11 +3690,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -4452,11 +3710,7 @@
       "Contemporary R&B",
       "Dark Synth-Pop"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "driving"
-    ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4476,11 +3730,7 @@
       "Alt-Pop",
       "Contemporary Pop"
     ],
-    "style": [
-      "bright",
-      "smooth",
-      "vocal-forward"
-    ],
+    "styles": ["bright", "smooth", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4500,11 +3750,7 @@
       "Synthwave",
       "Cyberpunk Pop"
     ],
-    "style": [
-      "driving",
-      "atmospheric",
-      "dark"
-    ],
+    "styles": ["driving", "atmospheric", "dark"],
     "bpm": 166,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -4523,11 +3769,7 @@
     "genres": [
       "Indie Pop"
     ],
-    "style": [
-      "playful",
-      "bouncy",
-      "bright"
-    ],
+    "styles": ["playful", "bouncy", "bright"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4547,11 +3789,7 @@
       "Contemporary R&B",
       "Dark Synth-Pop"
     ],
-    "style": [
-      "sensual",
-      "dark",
-      "smooth"
-    ],
+    "styles": ["sensual", "dark", "smooth"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4571,11 +3809,7 @@
       "Hip-Hop",
       "Rap Metal"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "driving", "chant-heavy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/hop.jpg",
@@ -4595,11 +3829,7 @@
       "Pop-Punk",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "melancholic"
-    ],
+    "styles": ["driving", "anthem", "melancholic"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4619,11 +3849,7 @@
       "Soft Rock",
       "Rock-Ballad"
     ],
-    "style": [
-      "bright",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/hop.jpg",
@@ -4643,11 +3869,7 @@
       "Aggressive Trap",
       "EDM/Electronic"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["aggressive", "driving", "anthem"],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -4667,11 +3889,7 @@
       "Pop-Rock",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "bright",
-      "playful"
-    ],
+    "styles": ["driving", "bright", "playful"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -4691,11 +3909,7 @@
       "Trap Pop",
       "Hip-Hop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "smooth"
-    ],
+    "styles": ["bouncy", "playful", "smooth"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -4712,15 +3926,10 @@
     "year": 2025,
     "duration": "3:15",
     "genres": [
-      "Dark Pop",
-      "Trap Pop",
-      "Alternative R&B"
+      "Pop-Punk",
+      "Contemporary R&B"
     ],
-    "style": [
-      "gliding",
-      "sensual",
-      "dark"
-    ],
+    "styles": ["driving", "sensual", "dark"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -4738,13 +3947,9 @@
     "duration": "3:41",
     "genres": [
       "Rock-Ballad",
-      "Pop Rock"
+      "Soft Rock"
     ],
-    "style": [
-      "anthem",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["melancholic", "vocal-forward", "nostalgic"],
     "bpm": 144,
     "tier": "Up-tempo",
     "art": "assets/covers/mixtape-dominate.jpg",
@@ -4764,10 +3969,7 @@
       "Synth-Pop",
       "Electropop"
     ],
-    "style": [
-      "driving",
-      "anthem"
-    ],
+    "styles": ["driving", "anthem"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",
@@ -4787,11 +3989,7 @@
       "Aggressive Trap",
       "EDM/Electronic"
     ],
-    "style": [
-      "playful",
-      "driving",
-      "aggressive"
-    ],
+    "styles": ["playful", "driving", "aggressive"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/hollow.jpg",
@@ -4811,11 +4009,7 @@
       "Pop-Rock",
       "Electropop"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/hollow.jpg",
@@ -4835,11 +4029,7 @@
       "Contemporary R&B",
       "Pop"
     ],
-    "style": [
-      "chill",
-      "smooth",
-      "gliding"
-    ],
+    "styles": ["chill", "smooth", "gliding"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",
@@ -4859,11 +4049,7 @@
       "Pop-Punk",
       "Alternative Rock"
     ],
-    "style": [
-      "melancholic",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["melancholic", "driving", "anthem"],
     "bpm": 125,
     "tier": "Mid",
     "art": "assets/covers/hollow.jpg",
@@ -4882,11 +4068,7 @@
     "genres": [
       "Moombahton Trap"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4897,7 +4079,7 @@
     },
     "recs": []
   },
-  {
+    {
     "title": "CEREMONY (Festival Version)",
     "album": "KARMA",
     "year": 2025,
@@ -4905,11 +4087,7 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -4928,11 +4106,7 @@
     "genres": [
       "Aggressive Trap"
     ],
-    "style": [
-      "aggressive",
-      "driving",
-      "glitchy"
-    ],
+    "styles": ["aggressive", "driving", "glitchy"],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/karma.jpg",
@@ -4952,11 +4126,7 @@
       "Hip-Hop",
       "Trap Pop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -4976,11 +4146,7 @@
       "Ballad",
       "Electropop"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "vocal-forward"
-    ],
+    "styles": ["driving", "melancholic", "vocal-forward"],
     "bpm": 135,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -5000,11 +4166,7 @@
       "Emo Punk",
       "Dark Synth-Rock"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "driving"
-    ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 160,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -5024,11 +4186,7 @@
       "Old School Boom-Bap",
       "Electropop"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "retro"
-    ],
+    "styles": ["bouncy", "playful", "retro"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -5048,11 +4206,7 @@
       "Pop-Rock",
       "Electropop"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["bright", "driving", "anthem"],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/karma.jpg",
@@ -5072,11 +4226,7 @@
       "Contemporary R&B",
       "Chill Electronic"
     ],
-    "style": [
-      "chill",
-      "melancholic",
-      "smooth"
-    ],
+    "styles": ["chill", "melancholic", "smooth"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -5096,11 +4246,7 @@
       "Pop Ballad",
       "Chill Electronic"
     ],
-    "style": [
-      "bright",
-      "vocal-forward",
-      "nostalgic"
-    ],
+    "styles": ["bright", "vocal-forward", "nostalgic"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/karma.jpg",
@@ -5120,11 +4266,7 @@
       "EDM/Electronic",
       "Drum and Bass"
     ],
-    "style": [
-      "bouncy",
-      "playful",
-      "driving"
-    ],
+    "styles": ["bouncy", "playful", "driving"],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/do-it.jpg",
@@ -5135,7 +4277,7 @@
     },
     "recs": []
   },
-  {
+    {
     "title": "Do It (Festival Version)",
     "album": "Do It",
     "year": 2025,
@@ -5144,11 +4286,7 @@
       "EDM/Electronic",
       "Drum and Bass"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 125,
     "tier": "Up-tempo",
     "art": "assets/covers/do-it.jpg",
@@ -5167,11 +4305,7 @@
     "genres": [
       "Old School Boom-Bap"
     ],
-    "style": [
-      "bouncy",
-      "retro",
-      "driving"
-    ],
+    "styles": ["bouncy", "retro", "driving"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/do-it.jpg",
@@ -5191,11 +4325,7 @@
       "Tropical House",
       "Electropop"
     ],
-    "style": [
-      "bright",
-      "chill",
-      "smooth"
-    ],
+    "styles": ["bright", "chill", "smooth"],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/do-it.jpg",
@@ -5215,11 +4345,7 @@
       "Soft Rock",
       "Rock-Ballad"
     ],
-    "style": [
-      "nostalgic",
-      "vocal-forward",
-      "smooth"
-    ],
+    "styles": ["nostalgic", "vocal-forward", "smooth"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/do-it.jpg",
@@ -5257,11 +4383,7 @@
       "Contemporary R&B",
       "Dark Synth-Pop"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "driving"
-    ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5281,11 +4403,7 @@
       "Contemporary R&B",
       "Pop"
     ],
-    "style": [
-      "sensual",
-      "smooth",
-      "chill"
-    ],
+    "styles": ["sensual", "smooth", "chill"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5305,11 +4423,7 @@
       "Contemporary R&B",
       "Pop"
     ],
-    "style": [
-      "chill",
-      "smooth",
-      "melancholic"
-    ],
+    "styles": ["chill", "smooth", "melancholic"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5329,11 +4443,7 @@
       "Pop Ballad",
       "Jazz Pop"
     ],
-    "style": [
-      "chill",
-      "bouncy",
-      "playful"
-    ],
+    "styles": ["chill", "bouncy", "playful"],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5353,11 +4463,7 @@
       "Rock Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "anthem"
-    ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5376,11 +4482,7 @@
     "genres": [
       "Pop Ballad"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "smooth"
-    ],
+    "styles": ["bright", "driving", "smooth"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5400,11 +4502,7 @@
       "Rock Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "nostalgic",
-      "driving",
-      "anthem"
-    ],
+    "styles": ["nostalgic", "driving", "anthem"],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5424,11 +4522,7 @@
       "Contemporary R&B",
       "Electropop"
     ],
-    "style": [
-      "sensual",
-      "bouncy",
-      "retro"
-    ],
+    "styles": ["sensual", "bouncy", "retro"],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5448,11 +4542,7 @@
       "Contemporary R&B",
       "Electropop"
     ],
-    "style": [
-      "smooth",
-      "sensual",
-      "vocal-forward"
-    ],
+    "styles": ["smooth", "sensual", "vocal-forward"],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5471,11 +4561,7 @@
     "genres": [
       "Synth-Pop"
     ],
-    "style": [
-      "driving",
-      "bouncy",
-      "retro"
-    ],
+    "styles": ["driving", "bouncy", "retro"],
     "bpm": 122,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5495,11 +4581,7 @@
       "Pop-Punk",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "aggressive"
-    ],
+    "styles": ["driving", "anthem", "aggressive"],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5519,11 +4601,7 @@
       "Aggressive Trap",
       "Old School Boom-Bap"
     ],
-    "style": [
-      "aggressive",
-      "retro",
-      "chant-heavy"
-    ],
+    "styles": ["aggressive", "retro", "chant-heavy"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5543,11 +4621,7 @@
       "Aggressive Trap",
       "EDM/Electronic"
     ],
-    "style": [
-      "dark",
-      "driving",
-      "performance-driven"
-    ],
+    "styles": ["dark", "driving", "performance-driven"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5567,11 +4641,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "melancholic",
-      "vocal-forward",
-      "anthem"
-    ],
+    "styles": ["melancholic", "vocal-forward", "anthem"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5591,11 +4661,7 @@
       "Pop Rock",
       "Rock Ballad"
     ],
-    "style": [
-      "bright",
-      "driving",
-      "playful"
-    ],
+    "styles": ["bright", "driving", "playful"],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5615,11 +4681,7 @@
       "Rock-Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "bright",
-      "nostalgic",
-      "anthem"
-    ],
+    "styles": ["bright", "nostalgic", "anthem"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/skz-replay-2026-pt-1.jpg",
@@ -5672,17 +4734,13 @@
     "year": null,
     "duration": "2:49",
     "genres": [
-      "Slap House",
+      "EDM/Electronic",
+      "House",
       "Electropop"
-    ],
-    "style": [
-      "driving",
-      "bright",
-      "smooth"
     ],
     "bpm": 126,
     "tier": "Mid",
-    "art": "assets/covers/goingdumb.jpg",
+    "art": "assets/covers/singles-solos-features.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI",
       "appleMusic": "https://music.apple.com/us/album/going-dumb-with-stray-kids/1556994908?i=1556994922&uo=4",
@@ -5714,7 +4772,7 @@
     "year": null,
     "duration": "2:46",
     "genres": [
-      "Contemporary R&B",
+      "R&B/Soul",
       "Pop"
     ],
     "bpm": 120,
@@ -5788,7 +4846,7 @@
     "year": null,
     "duration": "3:05",
     "genres": [
-      "Contemporary R&B",
+      "R&B/Soul",
       "Pop"
     ],
     "bpm": 87,
@@ -6105,11 +5163,7 @@
       "Alternative Rock",
       "Emo Rock"
     ],
-    "style": [
-      "driving",
-      "melancholic",
-      "anthem"
-    ],
+    "styles": ["driving", "melancholic", "anthem"],
     "bpm": 148,
     "tier": "Up-tempo",
     "art": "assets/covers/singles-solos-features.jpg",
@@ -6129,11 +5183,7 @@
       "Stadium Anthem",
       "Alternative Rock"
     ],
-    "style": [
-      "anthem",
-      "driving",
-      "chant-heavy"
-    ],
+    "styles": ["anthem", "driving", "chant-heavy"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -6153,11 +5203,7 @@
       "Trap Pop",
       "Contemporary R&B"
     ],
-    "style": [
-      "chill",
-      "playful",
-      "smooth"
-    ],
+    "styles": ["chill", "playful", "smooth"],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -6176,11 +5222,7 @@
     "genres": [
       "Trap"
     ],
-    "style": [
-      "aggressive",
-      "playful",
-      "bouncy"
-    ],
+    "styles": ["aggressive", "playful", "bouncy"],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -6200,11 +5242,7 @@
       "Electropop",
       "Progressive House"
     ],
-    "style": [
-      "bright",
-      "bouncy",
-      "nostalgic"
-    ],
+    "styles": ["bright", "bouncy", "melancholic"],
     "bpm": 127,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -6224,11 +5262,7 @@
       "Pop-Punk",
       "Alternative Rock"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "melancholic"
-    ],
+    "styles": ["driving", "anthem", "melancholic"],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/this-that.jpg",
@@ -6248,11 +5282,7 @@
       "Contemporary R&B",
       "Dark Synth-Rock"
     ],
-    "style": [
-      "dark",
-      "sensual",
-      "driving"
-    ],
+    "styles": ["dark", "sensual", "driving"],
     "bpm": 92,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -6272,11 +5302,7 @@
       "Rock Ballad",
       "Soft Rock"
     ],
-    "style": [
-      "nostalgic",
-      "vocal-forward",
-      "smooth"
-    ],
+    "styles": ["nostalgic", "vocal-forward", "smooth"],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/this-that.jpg",
@@ -6296,11 +5322,7 @@
       "EDM/Electronic",
       "Moombahton Trap"
     ],
-    "style": [
-      "driving",
-      "anthem",
-      "chant-heavy"
-    ],
+    "styles": ["driving", "anthem", "chant-heavy"],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/this-that.jpg",

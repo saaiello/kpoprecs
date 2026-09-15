@@ -7,7 +7,11 @@
     "genres": [
       "Latin Pop"
     ],
-    "style": ["playful", "driving", "bouncy"],
+    "style": [
+      "playful",
+      "driving",
+      "bouncy"
+    ],
     "bpm": 122,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_1.jpg",
@@ -26,7 +30,11 @@
     "genres": [
       "Hip-Hop"
     ],
-    "styles": ["bouncy", "playful", "performance-driven"],
+    "style": [
+      "bouncy",
+      "playful",
+      "performance-driven"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_1.jpg",
@@ -46,7 +54,11 @@
       "R&B/Soul",
       "R&B Ballad"
     ],
-    "styles": ["melancholic", "nostalgic", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "nostalgic",
+      "vocal-forward"
+    ],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/golden_hour_part_1.jpg",
@@ -66,7 +78,11 @@
       "Hip-Hop",
       "Reggae"
     ],
-    "styles": ["glitchy", "playful", "driving"],
+    "style": [
+      "glitchy",
+      "playful",
+      "driving"
+    ],
     "bpm": 130,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_1.jpg",
@@ -86,7 +102,11 @@
       "Hip-Hop",
       "EDM Trap"
     ],
-    "styles": ["aggressive", "anthem", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "anthem",
+      "chant-heavy"
+    ],
     "bpm": 145,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_1.jpg",
@@ -105,9 +125,12 @@
     "genres": [
       "Hip-Hop",
       "EDM Trap",
-      "R&B/Soul"
+      "R&B Soul"
     ],
-    "styles": ["atmospheric", "driving"],
+    "style": [
+      "atmospheric",
+      "driving"
+    ],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/golden_hour_part_2.jpg",
@@ -125,9 +148,13 @@
     "duration": "3:03",
     "genres": [
       "Hip-Hop",
-      "R&B/Soul"
+      "R&B Soul"
     ],
-    "styles": ["bouncy", "sensual", "performance-driven"],
+    "style": [
+      "bouncy",
+      "sensual",
+      "performance-driven"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_2.jpg",
@@ -147,7 +174,11 @@
       "Moombahton",
       "Latin Pop"
     ],
-    "styles": ["driving", "dark", "anthem"],
+    "style": [
+      "driving",
+      "dark",
+      "anthem"
+    ],
     "bpm": 128,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_2.jpg",
@@ -167,7 +198,11 @@
       "Synth-Pop",
       "Hip-Hop"
     ],
-    "styles": ["melancholic", "retro", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "retro",
+      "vocal-forward"
+    ],
     "bpm": 84,
     "tier": "Slow",
     "art": "assets/covers/golden_hour_part_2.jpg",
@@ -187,7 +222,11 @@
       "Soft Rock",
       "Anthemic Ballad"
     ],
-    "styles": ["anthem", "nostalgic", "driving"],
+    "style": [
+      "anthem",
+      "nostalgic",
+      "driving"
+    ],
     "bpm": 96,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_2.jpg",
@@ -208,7 +247,11 @@
       "R&B/Soul",
       "Dance Pop"
     ],
-    "styles": ["driving", "gliding", "smooth"],
+    "style": [
+      "driving",
+      "gliding",
+      "smooth"
+    ],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -226,9 +269,13 @@
     "duration": "2:40",
     "genres": [
       "Pop",
-      "R&B/Soul"
+      "R&B Soul"
     ],
-    "styles": ["chill", "sensual", "vocal-forward"],
+    "style": [
+      "chill",
+      "sensual",
+      "vocal-forward"
+    ],
     "bpm": 122,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -249,7 +296,11 @@
       "Ambient Electronic",
       "Rock Ballad"
     ],
-    "styles": ["melancholic", "anthem", "atmospheric"],
+    "style": [
+      "melancholic",
+      "anthem",
+      "atmospheric"
+    ],
     "bpm": 94,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -268,7 +319,11 @@
     "genres": [
       "Synth-Pop"
     ],
-    "styles": ["bright", "smooth", "retro"],
+    "style": [
+      "bright",
+      "smooth",
+      "retro"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -288,7 +343,11 @@
       "Pop",
       "Sensual Synth-Pop"
     ],
-    "styles": ["driving", "sensual", "retro"],
+    "style": [
+      "driving",
+      "sensual",
+      "retro"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -308,7 +367,11 @@
       "Hip-Hop",
       "EDM Trap"
     ],
-    "styles": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 138,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -328,7 +391,11 @@
       "Darkwave",
       "Electropop"
     ],
-    "styles": ["dark", "sensual", "atmospheric"],
+    "style": [
+      "dark",
+      "sensual",
+      "atmospheric"
+    ],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -349,7 +416,11 @@
       "Pop",
       "Nu-Disco"
     ],
-    "styles": ["bouncy", "playful", "retro"],
+    "style": [
+      "bouncy",
+      "playful",
+      "retro"
+    ],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -370,7 +441,11 @@
       "Dark Pop",
       "Anthem"
     ],
-    "styles": ["dark", "anthem", "cinematic"],
+    "style": [
+      "dark",
+      "anthem",
+      "cinematic"
+    ],
     "bpm": 124,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -390,7 +465,11 @@
       "R&B/Soul",
       "Soft Rock"
     ],
-    "styles": ["chill", "sensual", "vocal-forward"],
+    "style": [
+      "chill",
+      "sensual",
+      "vocal-forward"
+    ],
     "bpm": 85,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -410,7 +489,11 @@
       "Hip-Hop",
       "Aggressive Trap"
     ],
-    "styles": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 145,
     "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -429,7 +512,11 @@
     "genres": [
       "R&B/Soul"
     ],
-    "styles": ["driving", "sensual", "smooth"],
+    "style": [
+      "driving",
+      "sensual",
+      "smooth"
+    ],
     "bpm": 126,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -449,7 +536,11 @@
       "Soft Rock",
       "Rock Ballad"
     ],
-    "styles": ["anthem", "vocal-forward", "nostalgic"],
+    "style": [
+      "anthem",
+      "vocal-forward",
+      "nostalgic"
+    ],
     "bpm": 72,
     "tier": "Slow",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -469,7 +560,11 @@
       "Pop",
       "Sensual Synth-Pop"
     ],
-    "styles": ["driving", "sensual", "retro"],
+    "style": [
+      "driving",
+      "sensual",
+      "retro"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
@@ -489,7 +584,11 @@
       "R&B Ballad",
       "Trap"
     ],
-    "styles": ["dark", "sensual", "atmospheric"],
+    "style": [
+      "dark",
+      "sensual",
+      "atmospheric"
+    ],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_4.jpg",
@@ -508,7 +607,11 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "styles": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 126,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_4.jpg",
@@ -527,7 +630,11 @@
     "genres": [
       "Hip-Hop"
     ],
-    "styles": ["driving", "playful", "chant-heavy"],
+    "style": [
+      "driving",
+      "playful",
+      "chant-heavy"
+    ],
     "bpm": 135,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_4.jpg",
@@ -547,7 +654,11 @@
       "Pop",
       "Pop Ballad"
     ],
-    "styles": ["melancholic", "nostalgic", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "nostalgic",
+      "vocal-forward"
+    ],
     "bpm": 98,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_4.jpg",
@@ -566,7 +677,11 @@
     "genres": [
       "Rock Ballad"
     ],
-    "styles": ["anthem", "nostalgic", "smooth"],
+    "style": [
+      "anthem",
+      "nostalgic",
+      "smooth"
+    ],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_4.jpg",
@@ -586,7 +701,11 @@
       "EDM/Electronic",
       "Brazilian Funk"
     ],
-    "styles": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 130,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_5.jpg",
@@ -606,7 +725,11 @@
       "Hip-Hop",
       "Latin Pop"
     ],
-    "styles": ["bouncy", "playful", "smooth"],
+    "style": [
+      "bouncy",
+      "playful",
+      "smooth"
+    ],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_5.jpg",
@@ -623,9 +746,13 @@
     "year": 2026,
     "duration": "2:48",
     "genres": [
-      "R&B/Soul"
+      "R&B Soul"
     ],
-    "styles": ["chill", "sensual", "vocal-forward"],
+    "style": [
+      "chill",
+      "sensual",
+      "vocal-forward"
+    ],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_5.jpg",
@@ -644,7 +771,11 @@
     "genres": [
       "EDM/Electronic"
     ],
-    "styles": ["dark", "driving", "anthem"],
+    "style": [
+      "dark",
+      "driving",
+      "anthem"
+    ],
     "bpm": 124,
     "tier": "Fast",
     "art": "assets/covers/golden_hour_part_5.jpg",
@@ -663,7 +794,11 @@
     "genres": [
       "R&B/Soul"
     ],
-    "styles": ["sensual", "smooth", "atmospheric"],
+    "style": [
+      "sensual",
+      "smooth",
+      "atmospheric"
+    ],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/golden_hour_part_5.jpg",

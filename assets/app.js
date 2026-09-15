@@ -32,7 +32,7 @@ const GENRE_BUCKETS = [
 
 const BUCKET_DISPLAY_NAMES = {
   "House/Club EDM": "EDM",
-  "Electronic": "Chill Electronic",
+  "Electronic/Atmospheric": "Chill Electronic",
   "Rock/Punk/Metal": "Rock",
   "Acoustic": "Acoustic",
   "Afrobeat/Global": "Global Beats",
@@ -239,20 +239,29 @@ function bpmSimilarity(a, b){
   const diff = Math.abs(a.bpm - b.bpm);
   return Math.max(0, 1 - diff / 100);
 }
+
 function styleSimilarity(a, b){
   const as = a.style || [];
   const bs = b.style || [];
-  if (!as.length || !bs.length) return 0;
+  if (!as.length || !bs.length) return null;
   const shared = as.filter(s => bs.includes(s)).length;
   const union = new Set([...as, ...bs]).size;
   return union ? shared / union : 0;
 }
+
 function similarityScore(a, b){
   const gScore = genreSimilarity(a, b);
   const bScore = bpmSimilarity(a, b);
   const sScore = styleSimilarity(a, b);
+
+  if (sScore === null) {
+    return gScore * (0.4 / 0.65) + bScore * (0.25 / 0.65);
+  }
   return gScore * 0.4 + sScore * 0.35 + bScore * 0.25;
 }
+
+const MIN_REC_SCORE = 0.75;
+
 function computeRecommendations(allSongs){
   allSongs.forEach(song => {
     const ranked = allSongs
@@ -260,9 +269,18 @@ function computeRecommendations(allSongs){
       .map(other => ({ id: other.id, score: similarityScore(song, other) }))
       .sort((a, b) => b.score - a.score);
 
-    song.recs = ranked.slice(0, 3).map(r => r.id);
-    song.graphRecs = ranked.slice(0, 5).map(r => r.id);
+    song.recs = ranked.filter(r => r.score >= MIN_REC_SCORE).slice(0, 3).map(r => r.id);
+    song.graphRecs = ranked.filter(r => r.score >= MIN_REC_SCORE).slice(0, 5).map(r => r.id);
   });
+}
+
+function auditRecCoverage(allSongs){
+  const empty = allSongs.filter(s => s.recs.length === 0);
+  console.log(`${empty.length} of ${allSongs.length} songs have zero recs at threshold ${MIN_REC_SCORE}`);
+  empty.forEach(s => {
+    console.log(`  ${s.title} — genres: ${JSON.stringify(getMainGenres(s))}, bpm: ${s.bpm}`);
+  });
+  return empty;
 }
 
 /* ---- Sidebar: groups (multi-select) ---- */
@@ -471,7 +489,7 @@ function songCardRecsHtml(song){
 /* ---- "If you liked this, try" recs (accordion) ---- */
 function recsHtml(song){
   const recs = (song.recs || []).map(id => byId[id]).filter(Boolean);
-  if (!recs.length) return "";
+  if (!recs.length) return `<p class="no-recs">No strong matches yet</p>`; // was: return "";
   return `
     <div class="recs-label">Recommended Songs —</div>
     <div class="recs-grid">
@@ -664,6 +682,7 @@ async function init(){
     songs.sort((a, b) => (b.year ?? -Infinity) - (a.year ?? -Infinity));
     byId = Object.fromEntries(songs.map(s => [s.id, s]));
     computeRecommendations(songs);
+    auditRecCoverage(songs);
 
     const params = new URLSearchParams(window.location.search);
     const songParam = params.get("song");

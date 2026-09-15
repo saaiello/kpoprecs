@@ -62,7 +62,14 @@
     "year": 2026,
     "duration": "2:54",
     "genres": [
-      "Brazilian Funk"
+      "Brazilian Funk",
+      "Cybepunk Pop",
+      "EDM/Electronic"
+    ],
+    "style": [
+      "aggressive",
+      "sensual",
+      "performance-driven"
     ],
     "bpm": 130,
     "tier": "Up-tempo",

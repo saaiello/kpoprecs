@@ -1022,3 +1022,10 @@ svg{
 [data-theme="kpop"] img.art{
   filter: sepia(25%) saturate(160%) hue-rotate(300deg) brightness(1.05);
 }
+
+.no-recs {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 8px 0;
+}

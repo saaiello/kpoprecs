@@ -1,580 +1,785 @@
 [
   {
-    "title": "Body to Body",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:09",
+    "title": "Into: 2 Cool 4 Skool",
+    "album": "2 Cool 4 Skool",
+    "year": 2013,
+    "duration": "1:03",
     "genres": [
-      "Pop",
-      "Alternative Pop",
-      "Hip-Hop"
+      "90s Boom Bap",
+      "Experimental Rap"
     ],
-    "bpm": 120,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6",
-      "appleMusic": "https://music.apple.com/us/album/body-to-body/1868481904?i=1868481905&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Hooligan",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:02",
-    "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Trap"
-    ],
-    "bpm": 140,
-    "tier": "Up-tempo",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
-      "appleMusic": "https://music.apple.com/us/album/hooligan/1868481904?i=1868481906&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Aliens",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:47",
-    "genres": [
-      "Hip-Hop"
-    ],
+    "style": ["retro", "aggressive", "performance-driven"],
     "bpm": 95,
     "tier": "Slow",
-    "art": "assets/covers/arirang.jpg",
+    "art": "assets/covers/2cool.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ",
-      "appleMusic": "https://music.apple.com/us/album/aliens/1868481904?i=1868481907&uo=4",
+      "spotify": "https://open.spotify.com/track/1UlnDZ5ubsSX3xrXu063dZ?si=f82fc4f6fda54ab5",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "FYA",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:00",
-    "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Dance Pop"
-    ],
-    "bpm": 126,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv",
-      "appleMusic": "https://music.apple.com/us/album/fya/1868481904?i=1868481909&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "2.0",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:49",
-    "genres": [
-      "Hip-Hop"
-    ],
-    "bpm": 130,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc",
-      "appleMusic": "https://music.apple.com/us/album/2-0/1885720384?i=1885720394&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "SWIM",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:39",
-    "genres": [
-      "R&B/Soul",
-      "Synth-Pop"
-    ],
-    "bpm": 112,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-      "appleMusic": "https://music.apple.com/us/song/swim/1868482073",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Merry Go Round",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:49",
-    "genres": [
-      "Pop",
-      "EDM/Electronic"
-    ],
-    "bpm": 122,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU",
-      "appleMusic": "https://music.apple.com/us/album/merry-go-round/1868481904?i=1868482076&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "NORMAL",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:01",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 88,
-    "tier": "Slow",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5",
-      "appleMusic": "https://music.apple.com/us/album/normal/1885720384?i=1885720624&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Like Animals",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:09",
-    "genres": [
-      "Alternative Rock"
-    ],
-    "bpm": 135,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP",
-      "appleMusic": "https://music.apple.com/us/album/like-animals/1868481904?i=1868482085&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "they don't know 'bout us",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:44",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 98,
-    "tier": "Slow",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9",
-      "appleMusic": "https://music.apple.com/us/album/they-dont-know-bout-us/1868481904?i=1868482087&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "One More Night",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:47",
-    "genres": [
-      "Pop",
-      "R&B/Soul"
-    ],
-    "bpm": 105,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0",
-      "appleMusic": "https://music.apple.com/us/album/one-more-night/281472072?i=281472190&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Please",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "2:52",
-    "genres": [
-      "Ballad",
-      "R&B/Soul"
-    ],
-    "bpm": 74,
-    "tier": "Slow",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB",
-      "appleMusic": "https://music.apple.com/us/album/please/1868481904?i=1868482090&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Into the Sun",
-    "album": "Arirang",
-    "year": 2026,
-    "duration": "3:47",
-    "genres": [
-      "Pop",
-      "Alternative",
-      "R&B/Soul"
-    ],
-    "bpm": 128,
-    "tier": "Mid",
-    "art": "assets/covers/arirang.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr",
-      "appleMusic": "https://music.apple.com/us/album/into-the-sun-ep-version/1051620922?i=1051620933&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Euphoria",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:49",
-    "genres": [
-      "Pop",
-      "EDM/Electronic",
-      "Synth-pop"
-    ],
-    "bpm": 105,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK",
-      "appleMusic": "https://music.apple.com/us/album/euphoria/1598730614?i=1598730615&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Trivia 起 : Just Dance",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:45",
-    "genres": [
-      "House",
-      "Hip-Hop"
-    ],
-    "bpm": 120,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk",
-      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%B5%B7-just-dance/1598730614?i=1598730618&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Serendipity",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:37",
-    "genres": [
-      "R&B/Soul",
-      "Pop",
-      "Ambient"
-    ],
-    "bpm": 130,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N",
-      "appleMusic": "https://music.apple.com/us/album/serendipity-full-length-edition/1598730614?i=1598730619&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "DNA",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
+    "title": "We are Bulletproof Pt. 2",
+    "album": "2 Cool 4 Skool",
+    "year": 2013,
     "duration": "3:43",
     "genres": [
-      "Pop",
-      "EDM/Electronic",
-      "Dance Pop"
+      "hardcore hip-hop",
+      "gangsta rap",
+      "Trap"
     ],
-    "bpm": 130,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "style": ["aggressive", "driving", "performance-driven"],
+    "bpm": 144,
+    "tier": "Up-tempo",
+    "art": "assets/covers/2cool.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F",
-      "appleMusic": "https://music.apple.com/us/album/dna/1598730614?i=1598730623&uo=4",
+      "spotify": "https://open.spotify.com/track/5pjHS3EpHurMyIpB2QBnEd?si=facf3ee220cf4b45",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=lE9lkSdtZeQ"
+    },
+    "recs": []
+  },
+  {
+    "title": "No More Dream",
+    "album": "2 Cool 4 Skool",
+    "artist": "BTS",
+    "year": 2013,
+    "duration": "3:42",
+    "genres": [
+      "90s Hip-Hop",
+      "Hardcore Rap",
+      "Gangsta Rap"
+    ],
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 168,
+    "tier": "Up-tempo",
+    "art": "assets/covers/2cool.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF",
+      "appleMusic": "https://music.apple.com/us/album/no-more-dream/1596528414?i=1596528617&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=rBG5L7UsUxA"
+    },
+    "recs": []
+  },
+  {
+    "title": "Like",
+    "album": "2 Cool 4 Skool",
+    "year": 2013,
+    "duration": "3:51",
+    "genres": [
+      "Contemporary R&B",
+      "R&B Pop",
+      "Slow Jam"
+    ],
+    "style": ["smooth", "chill", "sensual"],
+    "bpm": 100,
+    "tier": "Mid",
+    "art": "assets/covers/2cool.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/55Ctj6nVfobn9AcPe6sLG2?si=b1dc9bbf74b74e00",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Dimple (보조개)",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:16",
+    "title": "Outro: Circle Room Cypher",
+    "album": "2 Cool 4 Skool",
+    "year": 2013,
+    "duration": "5:23",
     "genres": [
-      "Pop",
-      "R&B/Soul",
-      "Synth-pop"
+      "Old School Boom-bap",
+      "Freestyle Rap"
     ],
-    "bpm": 135,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1rLkzFZdokhx6Wcs80uvnw",
-      "appleMusic": "https://music.apple.com/us/album/dimple/1596529064?i=1596529068&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Trivia 承 : Love",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:46",
-    "genres": [
-      "Hip-Hop",
-      "Pop",
-      "R&B/Soul"
-    ],
-    "bpm": 122,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/6bSwpQYEguyMlkCoWiBt3Y",
-      "appleMusic": "https://music.apple.com/us/album/trivia-%E6%89%BF-love/1598730614?i=1598730627&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Her",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:49",
-    "genres": [
-      "Hip-Hop",
-      "R&B/Soul",
-      "Jazz-rap"
-    ],
-    "bpm": 87,
+    "style": ["playful", "retro", "raw"],
+    "bpm": 94,
     "tier": "Slow",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/2cool.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6FHVHycPPTQp6aAHjLhzFT",
-      "appleMusic": "https://music.apple.com/us/album/her/1598730614?i=1598730628&uo=4",
+      "spotify": "https://open.spotify.com/track/1GPIdEcxPjPIYGmN08b1yf?si=a9b1276649544756",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Intro: Singularity",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:17",
+    "title": "Intro: O!Rul8,2?",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": null,
     "genres": [
-      "R&B/Soul",
-      "Ballad",
-      "Neo-soul"
+      "Experimental Rap",
+      "Conscious Hip-Hop",
+      "Ambient Interlude"
     ],
-    "bpm": 104,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "style": ["atmospheric", "cinematic", "vocal-forward"],
+    "bpm": 150,
+    "tier": null,
+    "art": "assets/covers/ORUL82.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV",
-      "appleMusic": "https://music.apple.com/us/song/intro-singularity/1598660937",
+      "spotify": "https://open.spotify.com/track/3FdanLGasOj37Xi316GfZ4?si=ec588c2dd3ab4ce6",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "FAKE LOVE",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:02",
+    "title": "N.O",
+    "album": "O!RUL8,2?",
+    "artist": "BTS",
+    "year": 2013,
+    "duration": "3:29",
     "genres": [
-      "Pop",
-      "Rock/Punk/Metal",
-      "Hip-Hop",
-      "Emo-trap"
+      "Orchestral Trap",
+      "Hardcore Hip-Hop",
+      "EDM Trap"
     ],
-    "bpm": 78,
+    "style": ["aggressive", "driving", "glitchy"],
+    "bpm": 144,
+    "tier": "Up-tempo",
+    "art": "assets/covers/ORUL82.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7JosxtkCqIQieNWXA2Dj3v",
+      "appleMusic": "https://music.apple.com/us/album/n-o/1627573936?i=1627574239&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=r5GaAEIvBV4"
+    },
+    "recs": []
+  },
+  {
+    "title": "We On",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "3:50",
+    "genres": [
+      "90s Hip-Hop",
+      "Old School Boom-bap",
+      "R&B Pop"
+    ],
+    "style": ["smooth", "retro", "bouncy"],
+    "bpm": 97,
     "tier": "Slow",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/ORUL82.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR",
-      "appleMusic": "https://music.apple.com/us/album/fake-love/1598730614?i=1598730630&uo=4",
+      "spotify": "https://open.spotify.com/track/29vOLabxvytbI8fX9xgTaD?si=384d1a6af2b54c13",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "The Truth Untold (feat. Steve Aoki)",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:02",
+    "title": "If I Ruled The World",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "4:07",
     "genres": [
-      "Ballad",
-      "Pop"
+      "Old School Boom-bap",
+      "90s Hip-Hop",
+      "R&B Pop"
     ],
-    "bpm": 113,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "style": ["bouncy", "retro", "playful"],
+    "bpm": 93,
+    "tier": "Slow",
+    "art": "assets/covers/ORUL82.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/7DEKa5Z7Cl8s3Y7imb88OM",
-      "appleMusic": "https://music.apple.com/us/album/the-truth-untold-feat-steve-aoki/1598660934?i=1598660944&uo=4",
+      "spotify": "https://open.spotify.com/track/4bLtrrVDspeDNSaHGGMQkB?si=1b68695ef22f4e8f",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Trivia 轉 : Seesaw",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
+    "title": "Coffee",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "4:20",
+    "genres": [
+      "Contemporary R&B",
+      "R&B Pop",
+      "Slow Jam"
+    ],
+    "style": ["smooth", "chill", "sensual"],
+    "bpm": 119,
+    "tier": "Mid",
+    "art": "assets/covers/ORUL82.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4eqHEzFsCCiGALC1MHbqnU?si=ef773a2df83b4af3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "BTS Cypher Pt. 1",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "2:11",
+    "genres": [
+      "Hardcore Rap",
+      "Hardcore Hip-Hop",
+      "Dark Trap"
+    ],
+    "style": ["aggressive", "driving", "raw"],
+    "bpm": 97,
+    "tier": "Slow",
+    "art": "assets/covers/ORUL82.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3KkbZok84es6JqI5aiLj1g?si=804196cb30594f19",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Attack on Bangtan (진격의 방탄)",
+    "album": "O!RUL8,2?",
+    "year": 2013,
     "duration": "4:06",
     "genres": [
-      "Hip-Hop",
-      "R&B/Soul",
-      "Funk-pop"
+      "Hardcore Hip-Hop",
+      "Hip-Hop Dance",
+      "Alternative Hip-Hop"
     ],
-    "bpm": 107,
+    "style": ["aggressive", "driving", "performance-driven"],
+    "bpm": 118,
     "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/ORUL82.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/0mZI1NpihIVcho2f9MmqSW",
-      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%BD%89-seesaw/1598730614?i=1598730966&uo=4",
+      "spotify": "https://open.spotify.com/track/3KkbZok84es6JqI5aiLj1g?si=d0acb3092fbc4895",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Tear",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:45",
+    "title": "Paldogangsan (팔도강산)",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "3:25",
     "genres": [
-      "Hip-Hop",
-      "Rock/Punk/Metal",
-      "Hardcore Rap"
+      "Old School Boom-bap",
+      "90s Hip-Hop",
+      "Alternative Hip-Hop"
     ],
-    "bpm": 140,
+    "style": ["bouncy", "playful", "retro"],
+    "bpm": 118,
+    "tier": "Mid",
+    "art": "assets/covers/ORUL82.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3VlYMpSmYooLpzLiRBBfbX?si=eb5d72ae79814045",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Luv in Skool",
+    "album": "O!RUL8,2?",
+    "year": 2013,
+    "duration": "1:26",
+    "genres": [
+      "R&B Ballad",
+      "Contemporary R&B"
+    ],
+    "style": ["smooth", "melancholic", "vocal-forward"],
+    "bpm": 132,
+    "tier": "Mid",
+    "art": "assets/covers/ORUL82.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2ZiVvIvwAwNRL4dUO3TaF6?si=bbb78857c4fb4e07",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Boy In Luv (상남자)",
+    "album": "Skool Luv Affair Special Addition",
+    "artist": "BTS",
+    "year": 2014,
+    "duration": "3:51",
+    "genres": [
+      "Rap Rock",
+      "Pop-Punk"
+    ],
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 166,
     "tier": "Up-tempo",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/skoolspecial.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/3smbno1dKL410vC27M5KOS",
-      "appleMusic": "https://music.apple.com/us/album/tear/1598730614?i=1598730969&uo=4",
+      "spotify": "https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev",
+      "appleMusic": "https://music.apple.com/us/album/boy-in-luv/1596528694?i=1596528795&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=LHHjp3IMjMk"
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: What am I to you",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "2:45",
+    "genres": [
+      "Alternative Hip-Hop",
+      "Orchestral Trap",
+      "Conscious Hip-Hop"
+    ],
+    "style": ["cinematic", "aggressive", "vocal-forward"],
+    "bpm": 88,
+    "tier": "Slow",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3HhgGvmDKx13uRTkXYfcDw",
+      "appleMusic": "https://music.apple.com/us/album/intro-what-am-i-to-you/1597016856?i=1597016863&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Epiphany",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:00",
+    "title": "Danger",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:05",
     "genres": [
-      "Ballad",
-      "Rock/Punk/Metal",
-      "Pop-rock"
+      "Rap Rock",
+      "Pop-rock",
+      "Hardcore Hip-Hop"
     ],
-    "bpm": 136,
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 112,
     "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/dark_and_wild.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41",
-      "appleMusic": "https://music.apple.com/us/album/epiphany/1598730614?i=1598730973&uo=4",
+      "spotify": "https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw",
+      "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "I'm Fine",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:00",
+    "title": "War of Hormone (호르몬 전쟁)",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:26",
     "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Drum & Bass"
+      "Rap Rock",
+      "Pop-Punk",
+      "Hardcore Hip-Hop"
     ],
-    "bpm": 135,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/7HYJqAMbKDJYRyEfUGOCBB",
-      "appleMusic": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "IDOL",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "3:43",
-    "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Traditional Afro-pop"
-    ],
+    "style": ["bouncy", "driving", "playful"],
     "bpm": 126,
-    "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "tier": "Fast",
+    "art": "assets/covers/dark_and_wild.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4",
-      "appleMusic": "https://music.apple.com/us/song/idol/1598730980",
+      "spotify": "https://open.spotify.com/track/29SjtKzBoJDgyIBusHylIS",
+      "appleMusic": "https://music.apple.com/us/album/war-of-hormone/1597016856?i=1597017069&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Answer : Love Myself",
-    "album": "Love Yourself: Answer",
-    "year": 2018,
-    "duration": "4:11",
+    "title": "Hip Hop Phile (힙합애성애자)",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:17",
     "genres": [
-      "Pop",
-      "Ballad",
-      "Pop-rock"
+      "90s Hip-Hop",
+      "Old School Boom-bap",
+      "Conscious Hip-Hop"
     ],
-    "bpm": 108,
+    "style": ["retro", "vocal-forward", "nostalgic"],
+    "bpm": 90,
     "tier": "Mid",
-    "art": "assets/covers/love-yourself-answer.jpg",
+    "art": "assets/covers/dark_and_wild.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA",
-      "appleMusic": "https://music.apple.com/us/album/answer-love-myself/1598730614?i=1598730982&uo=4",
+      "spotify": "https://open.spotify.com/track/4c9XojqJDu7KNCh8GmNbj5",
+      "appleMusic": "https://music.apple.com/us/album/hip-hop-phile/1597016856?i=1597017081&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Intro: The Most Beautiful Moment in Life",
+    "title": "Let Me Know",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:15",
+    "genres": [
+      "Alternative R&B",
+      "R&B Ballad"
+    ],
+    "style": ["melancholic", "atmospheric", "vocal-forward"],
+    "bpm": 140,
+    "tier": "Mid",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2uqzfXB7NlBnhQd04W7HaH",
+      "appleMusic": "https://music.apple.com/us/album/let-me-know/1597016856?i=1597017095&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Rain",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:25",
+    "genres": [
+      "Contemporary R&B",
+      "Jazz-hop",
+      "Slow Jam"
+    ],
+    "style": ["chill", "atmospheric", "smooth"],
+    "bpm": 76,
+    "tier": "Slow",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6Jr2GutTFyfvAzGA36R2Uj",
+      "appleMusic": "https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Could You Turn Off Your Cell Phone (핸드폰 좀 꺼줄래)",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "3:54",
+    "genres": [
+      "Bright Hip-Hop",
+      "R&B Pop",
+      "Contemporary Pop"
+    ],
+    "style": ["bouncy", "playful", "bright"],
+    "bpm": 95,
+    "tier": "Mid",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/022wInIMcMtWRqkcpy7WwO",
+      "appleMusic": "https://music.apple.com/us/album/could-you-turn-off-your-cell-phone/1597016856?i=1597017242&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Embarrassed (이불킥)",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "4:02",
+    "genres": [
+      "Contemporary R&B",
+      "R&B Pop",
+      "Slow Jam"
+    ],
+    "style": ["smooth", "playful", "chill"],
+    "bpm": 88,
+    "tier": "Slow",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3eSPLTR9JtKiT1X4sAkTg8",
+      "appleMusic": "https://music.apple.com/us/album/embarrassed/1597016856?i=1597017519&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "24/7=heaven",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "3:46",
+    "genres": [
+      "R&B Pop",
+      "Alt-pop",
+      "Contemporary R&B"
+    ],
+    "style": ["bright", "smooth", "dreamy"],
+    "bpm": 100,
+    "tier": "Mid",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/17SBD4aDKo9ZeahcQJ6j72",
+      "appleMusic": "https://music.apple.com/us/album/24-7-heaven/1597016856?i=1597017525&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Look Here (여기 봐)",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "3:39",
+    "genres": [
+      "Synth-Funk",
+      "Nu-Disco",
+      "Alternative Hip-Hop"
+    ],
+    "style": ["bouncy", "retro", "playful"],
+    "bpm": 118,
+    "tier": "Mid",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ",
+      "appleMusic": "https://music.apple.com/us/album/look-here/1597016856?i=1597017528&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "So 4 more",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "3:55",
+    "genres": [
+      "90s Hip-Hop",
+      "Bright Hip-Hop",
+      "Trap-pop"
+    ],
+    "style": ["bouncy", "playful", "driving"],
+    "bpm": 102,
+    "tier": "Mid",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5EdwOTiD4Vz7xEoB7jt8En",
+      "appleMusic": "https://music.apple.com/us/album/2nd-grade/1597016856?i=1597017538&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Do You Think It Makes Sense?",
+    "album": "Dark & Wild",
+    "year": 2014,
+    "duration": "2:53",
+    "genres": [
+      "R&B Ballad",
+      "Contemporary R&B"
+    ],
+    "style": ["melancholic", "vocal-forward", "smooth"],
+    "bpm": 80,
+    "tier": "Slow",
+    "art": "assets/covers/dark_and_wild.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0I4CicY6MftmDgdd76LXss",
+      "appleMusic": "https://music.apple.com/us/album/outro-do-you-think-it-makes-sense/1597016856?i=1597017846&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: Skool Luv Affair",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "2:58",
+    "genres": [
+      "90s Hip-Hop",
+      "Old School Boom-bap",
+      "Hardcore Trap"
+    ],
+    "style": ["aggressive", "bouncy", "retro"],
+    "bpm": 95,
+    "tier": "Mid",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7vG0yTvfZZtQ4DoSyy5a61",
+      "appleMusic": "https://music.apple.com/us/album/intro-skool-luv-affair/1596533234?i=1596533244&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Where You From",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "4:00",
+    "genres": [
+      "Bright Hip-Hop",
+      "R&B Pop"
+    ],
+    "style": ["bouncy", "playful", "bright"],
+    "bpm": 100,
+    "tier": "Mid",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0nZaV8LwxHeg8TqFy193IL",
+      "appleMusic": "https://music.apple.com/us/album/where-you-from/1596528694?i=1596528811&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Just One Day",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "4:00",
+    "genres": [
+      "Contemporary R&B",
+      "R&B Pop"
+    ],
+    "style": ["smooth", "chill", "vocal-forward"],
+    "bpm": 95,
+    "tier": "Mid",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6t7WriKgVszATnrdBKSUAf",
+      "appleMusic": "https://music.apple.com/us/album/just-one-day/1596528694?i=1596528970&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Tomorrow",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "4:22",
+    "genres": [
+      "Alternative R&B",
+      "Dark Trap"
+    ],
+    "style": ["melancholic", "dark", "vocal-forward"],
+    "bpm": 78,
+    "tier": "Slow",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0JkTVcN5kilfMztDb3bKZk",
+      "appleMusic": "https://music.apple.com/us/album/tomorrow/1596528694?i=1596528971&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "BTS Cypher, Pt. 2: Triptych",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "4:48",
+    "genres": [
+      "Hardcore Rap",
+      "Hardcore Hip-Hop",
+      "Dark Trap"
+    ],
+    "style": ["aggressive", "driving", "raw"],
+    "bpm": 150,
+    "tier": "Fast",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/41eoHn3yTDYMV9hFn50ef4",
+      "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-2-triptych/1596528694?i=1596528975&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Spine Breaker",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "3:59",
+    "genres": [
+      "Old School Boom-bap",
+      "90s Hip-Hop",
+      "Alternative Hip-Hop"
+    ],
+    "style": ["bouncy", "retro", "chant-heavy"],
+    "bpm": 92,
+    "tier": "Mid",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0F3Dpp18yIxIm7XRmn0LBj",
+      "appleMusic": "https://music.apple.com/us/album/spine-breaker/1596528694?i=1596528980&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Jump",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "3:57",
+    "genres": [
+      "Hardcore Hip-Hop",
+      "Hip-Hop Dance",
+      "Rap Rock"
+    ],
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 128,
+    "tier": "Fast",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1jZZm43y7RPuwjJQ5LrGHe",
+      "appleMusic": "https://music.apple.com/us/album/jump/1596528694?i=1596528983&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Propose",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "2:03",
+    "genres": [
+      "R&B Ballad",
+      "Contemporary R&B"
+    ],
+    "style": ["smooth", "melancholic", "vocal-forward"],
+    "bpm": 80,
+    "tier": "Slow",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3x0SuB95K0XewiAKwNEiMZ",
+      "appleMusic": "https://music.apple.com/us/album/outro-propose/1596533234?i=1596533511&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Miss Right",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "4:01",
+    "genres": [
+      "R&B Pop",
+      "Contemporary R&B"
+    ],
+    "style": ["bright", "smooth", "bouncy"],
+    "bpm": 98,
+    "tier": "Slow",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1ht2uYq91yLc9S6IxwiwCK",
+      "appleMusic": "https://music.apple.com/us/album/miss-right/1596533234?i=1596533237&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Like (좋아요) (Slow Jam Remix)",
+    "album": "Skool Luv Affair Special Addition",
+    "year": 2014,
+    "duration": "3:52",
+    "genres": [
+      "Contemporary R&B",
+      "Slow Jam"
+    ],
+    "style": ["sensual", "smooth", "chill"],
+    "bpm": 72,
+    "tier": "Slow",
+    "art": "assets/covers/skool_luv_affair.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9?si=26f65254edd249f8",
+      "appleMusic": "https://music.apple.com/us/album/i-like-it/1443817875?i=1443817879&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: The Most Beautiful Moment in Life (Suga)",
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "2:04",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Lofi"
+      "Experimental Rap",
+      "Cloud Rap"
+    ],
+    "style": [
+      "atmospheric",
+      "melancholic",
+      "aggressive"
     ],
     "bpm": 92,
     "tier": "Slow",
@@ -592,9 +797,14 @@
     "year": 2016,
     "duration": "3:31",
     "genres": [
-      "EDM/Electronic",
-      "Pop",
+      "Contemporary R&B",
+      "Electropop",
       "Synth-pop"
+    ],
+    "style": [
+      "driving",
+      "melancholic",
+      "anthem"
     ],
     "bpm": 158,
     "tier": "Up-tempo",
@@ -612,9 +822,14 @@
     "year": 2016,
     "duration": "4:34",
     "genres": [
-      "Pop",
-      "R&B/Soul",
-      "Ballad"
+      "Pop Ballad",
+      "Contemporary R&B",
+      "R&B Ballad"
+    ],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "smooth"
     ],
     "bpm": 136,
     "tier": "Mid",
@@ -632,9 +847,14 @@
     "year": 2016,
     "duration": "4:27",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop",
-      "Pop"
+      "Alternative R&B",
+      "Chill Electronic",
+      "Contemporary R&B"
+    ],
+    "style": [
+      "atmospheric",
+      "sensual",
+      "gliding"
     ],
     "bpm": 87,
     "tier": "Slow",
@@ -652,9 +872,13 @@
     "year": 2016,
     "duration": "4:55",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Hip-Hop"
+      "Pop Ballad",
+      "Orchestral"
+    ],
+    "style": [
+      "dreamy",
+      "melancholic",
+      "atmospheric"
     ],
     "bpm": 132,
     "tier": "Mid",
@@ -672,10 +896,14 @@
     "year": 2016,
     "duration": "3:56",
     "genres": [
-      "Pop",
-      "Rock/Punk/Metal",
-      "EDM/Electronic",
-      "Pop-rock"
+      "Pop-rock",
+      "Electropop",
+      "Alternative Rock"
+    ],
+    "style": [
+      "driving",
+      "anthem",
+      "nostalgic"
     ],
     "bpm": 133,
     "tier": "Mid",
@@ -693,9 +921,13 @@
     "year": 2016,
     "duration": "4:17",
     "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop",
-      "Pop-punk"
+      "Funk Pop",
+      "Alternative Hip-Hop"
+    ],
+    "style": [
+      "bouncy",
+      "driving",
+      "playful"
     ],
     "bpm": 138,
     "tier": "Mid",
@@ -708,14 +940,19 @@
     "recs": []
   },
   {
-    "title": "Silver Spoon (뵤새)",
+    "title": "Silver Spoon (뱁새/Baepsae)",
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:53",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic",
-      "Trap"
+      "Aggressive Trap",
+      "Dark Trap",
+      "Hardcore Trap"
+    ],
+    "style": [
+      "aggressive",
+      "bouncy",
+      "chant-heavy"
     ],
     "bpm": 105,
     "tier": "Mid",
@@ -733,9 +970,14 @@
     "year": 2016,
     "duration": "4:00",
     "genres": [
-      "Hip-Hop",
-      "EDM/Electronic",
+      "Hip-Hop Dance",
+      "Electropop",
       "Dance Pop"
+    ],
+    "style": [
+      "driving",
+      "performance-driven",
+      "aggressive"
     ],
     "bpm": 128,
     "tier": "Mid",
@@ -753,9 +995,14 @@
     "year": 2016,
     "duration": "3:23",
     "genres": [
-      "EDM/Electronic",
-      "Hip-Hop",
-      "Moombahton Trap"
+      "EDM Trap",
+      "Stadium EDM",
+      "Electro Rock"
+    ],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
     ],
     "bpm": 100,
     "tier": "Mid",
@@ -773,10 +1020,14 @@
     "year": 2016,
     "duration": "3:17",
     "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Future House",
-      "Tropical House"
+      "Tropical House",
+      "Future Bass",
+      "Chill Electronic"
+    ],
+    "style": [
+      "driving",
+      "bright",
+      "gliding"
     ],
     "bpm": 140,
     "tier": "Up-tempo",
@@ -794,9 +1045,14 @@
     "year": 2016,
     "duration": "2:52",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Anthemic Ballad"
+      "Anthemic Pop",
+      "Alternative Rock",
+      "Pop Ballad"
+    ],
+    "style": [
+      "anthem",
+      "cinematic",
+      "nostalgic"
     ],
     "bpm": 88,
     "tier": "Slow",
@@ -814,9 +1070,14 @@
     "year": 2016,
     "duration": "3:30",
     "genres": [
-      "Pop",
-      "Hip-Hop",
-      "Funk-pop"
+      "Bright Hip-Hop",
+      "R&B Pop",
+      "Contemporary Pop"
+    ],
+    "style": [
+      "bouncy",
+      "playful",
+      "bright"
     ],
     "bpm": 115,
     "tier": "Mid",
@@ -834,9 +1095,14 @@
     "year": 2016,
     "duration": "4:53",
     "genres": [
-      "Hip-Hop",
-      "R&B/Soul",
-      "Pop"
+      "90s Hip-Hop",
+      "Jazz-hop",
+      "Contemporary R&B"
+    ],
+    "style": [
+      "chill",
+      "nostalgic",
+      "smooth"
     ],
     "bpm": 89,
     "tier": "Slow",
@@ -854,9 +1120,14 @@
     "year": 2016,
     "duration": "4:04",
     "genres": [
-      "Pop",
-      "Hip-Hop",
+      "Cloud Rap",
+      "Contemporary R&B",
       "Alt-pop"
+    ],
+    "style": [
+      "atmospheric",
+      "melancholic",
+      "gliding"
     ],
     "bpm": 140,
     "tier": "Up-tempo",
@@ -874,9 +1145,13 @@
     "year": 2016,
     "duration": "4:00",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Synth-pop"
+      "Pop Ballad",
+      "Chill Electronic"
+    ],
+    "style": [
+      "dreamy",
+      "melancholic",
+      "vocal-forward"
     ],
     "bpm": 132,
     "tier": "Mid",
@@ -894,9 +1169,14 @@
     "year": 2016,
     "duration": "3:46",
     "genres": [
-      "R&B/Soul",
-      "Ballad",
+      "Orchestral",
+      "Alternative R&B",
       "Dark Pop"
+    ],
+    "style": [
+      "dark",
+      "cinematic",
+      "sensual"
     ],
     "bpm": 140,
     "tier": "Up-tempo",
@@ -914,9 +1194,13 @@
     "year": 2016,
     "duration": "3:42",
     "genres": [
-      "Ballad",
-      "Pop",
-      "R&B/Soul"
+      "R&B Ballad",
+      "Pop Ballad"
+    ],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "smooth"
     ],
     "bpm": 100,
     "tier": "Mid",
@@ -934,9 +1218,13 @@
     "year": 2016,
     "duration": "3:35",
     "genres": [
-      "R&B/Soul",
-      "Pop",
+      "Alternative R&B",
       "Slow Jam"
+    ],
+    "style": [
+      "chill",
+      "melancholic",
+      "smooth"
     ],
     "bpm": 158,
     "tier": "Up-tempo",
@@ -954,8 +1242,13 @@
     "year": 2016,
     "duration": "3:43",
     "genres": [
-      "EDM/Electronic",
-      "Synth-pop"
+      "Future Bass",
+      "Stadium EDM"
+    ],
+    "style": [
+      "driving",
+      "futuristic",
+      "bright"
     ],
     "bpm": 158,
     "tier": "Up-tempo",
@@ -973,9 +1266,13 @@
     "year": 2016,
     "duration": "4:17",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Orchestral"
+      "Rock Ballad",
+      "Pop Ballad"
+    ],
+    "style": [
+      "melancholic",
+      "cinematic",
+      "vocal-forward"
     ],
     "bpm": 133,
     "tier": "Mid",
@@ -993,9 +1290,13 @@
     "year": 2016,
     "duration": "3:56",
     "genres": [
-      "Rock/Punk/Metal",
-      "Pop",
-      "Garage Rock"
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "style": [
+      "driving",
+      "aggressive",
+      "anthem"
     ],
     "bpm": 133,
     "tier": "Mid",
@@ -1013,9 +1314,13 @@
     "year": 2016,
     "duration": "4:01",
     "genres": [
-      "Pop",
-      "Ballad",
+      "Pop Ballad",
       "Ambient Electronic"
+    ],
+    "style": [
+      "dreamy",
+      "atmospheric",
+      "cinematic"
     ],
     "bpm": 132,
     "tier": "Mid",
@@ -1028,9 +1333,1186 @@
     "recs": []
   },
   {
+    "title": "Blood Sweat & Tears (피 땀 눈물)",
+    "album": "Wings",
+    "artist": "BTS",
+    "year": 2016,
+    "duration": "3:37",
+    "genres": [
+      "Moombahton",
+      "Tropical House"
+    ],
+    "style": ["sensual", "gliding", "driving"],
+    "bpm": 93,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom",
+      "appleMusic": "https://music.apple.com/us/album/blood-sweat-tears/1596532477?i=1596532481&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=hmE9fCYHX8w"
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: Boy Meets Evil",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "2:01",
+    "genres": [
+      "Trapstep",
+      "EDM Trap",
+      "Hardcore Rap"
+    ],
+    "style": ["aggressive", "dark", "cinematic"],
+    "bpm": 110,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY",
+      "appleMusic": "https://music.apple.com/us/album/intro-boy-meets-evil/1596532477?i=1596532478&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Begin (Jungkook)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:49",
+    "genres": [
+      "Future Bass",
+      "Tropical House",
+      "Electropop"
+    ],
+    "style": ["driving", "gliding", "melancholic"],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR",
+      "appleMusic": "https://music.apple.com/us/album/begin/1596532477?i=1596532485&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Lie (Jimin)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:35",
+    "genres": [
+      "Alternative R&B",
+      "Dark Pop",
+      "Orchestral Pop"
+    ],
+    "style": ["sensual", "dark", "cinematic"],
+    "bpm": 110,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow",
+      "appleMusic": "https://music.apple.com/us/album/lie/1596532477?i=1596532486&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Stigma (V)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:36",
+    "genres": [
+      "Contemporary R&B",
+      "Jazz-pop",
+      "Neo-soul"
+    ],
+    "style": ["sensual", "melancholic", "vocal-forward"],
+    "bpm": 70,
+    "tier": "Slow",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR",
+      "appleMusic": "https://music.apple.com/us/album/stigma/1596532477?i=1596532489&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "First Love (Suga)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:09",
+    "genres": [
+      "Orchestral Hip-Hop",
+      "Conscious Hip-Hop",
+      "Experimental Rap"
+    ],
+    "style": ["cinematic", "melancholic", "vocal-forward"],
+    "bpm": 78,
+    "tier": "Slow",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1UeVC9gDeHxwlWOQyQJerj",
+      "appleMusic": "https://music.apple.com/us/album/first-love/1596532477?i=1596532494&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Reflection (RM)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:53",
+    "genres": [
+      "Chill Electronic",
+      "Ambient Pop",
+      "Cloud Rap"
+    ],
+    "style": ["atmospheric", "chill", "dreamy"],
+    "bpm": 80,
+    "tier": "Slow",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6O7358UPKsUumzjumFxVtp",
+      "appleMusic": "https://music.apple.com/us/album/reflection/1596532477?i=1596532496&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "MAMA (J-Hope)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:32",
+    "genres": [
+      "Funk Pop",
+      "Bright Hip-Hop"
+    ],
+    "style": ["bright", "bouncy", "playful"],
+    "bpm": 105,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF",
+      "appleMusic": "https://music.apple.com/us/album/mama/1596532477?i=1596532501&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Awake (Jin)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:46",
+    "genres": [
+      "Orchestral Pop",
+      "Pop Ballad"
+    ],
+    "style": ["cinematic", "melancholic", "vocal-forward"],
+    "bpm": 82,
+    "tier": "Slow",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3?si=797ff60af3dc483a",
+      "appleMusic": "https://music.apple.com/us/album/awake/1596532477?i=1596532545&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Lost",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "4:01",
+    "genres": [
+      "Tropical House",
+      "Electropop"
+    ],
+    "style": ["bright", "driving", "gliding"],
+    "bpm": 115,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0",
+      "appleMusic": "https://music.apple.com/us/album/lost/1596532477?i=1596532546&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "BTS Cypher 4",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "4:54",
+    "genres": [
+      "Hardcore Rap",
+      "Dark Trap",
+      "Industrial Trap"
+    ],
+    "style": ["aggressive", "driving", "raw"],
+    "bpm": 140,
+    "tier": "Fast",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4cTSnpyaIR1qGaTOLJunDM",
+      "appleMusic": "https://music.apple.com/us/album/bts-cypher-4/1596532477?i=1596532550&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Am I Wrong",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:33",
+    "genres": [
+      "Blues Rock",
+      "Funk Pop",
+      "Alternative Hip-Hop"
+    ],
+    "style": ["bouncy", "driving", "playful"],
+    "bpm": 115,
+    "tier": "Mid",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7BFVLQASwcGrxEPsz1teIW",
+      "appleMusic": "https://music.apple.com/us/album/am-i-wrong/1596528839?i=1596529371&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "21st Century Girl (21세기 소녀)",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "3:12",
+    "genres": [
+      "EDM Trap",
+      "Stadium EDM",
+      "Hip-Hop Dance"
+    ],
+    "style": ["aggressive", "bouncy", "chant-heavy"],
+    "bpm": 130,
+    "tier": "Fast",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/52d5NT69mkmr6WzvQJ9vHr",
+      "appleMusic": "https://music.apple.com/us/album/21st-century-girl/1596532477?i=1596532554&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "2! 3!",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "4:32",
+    "genres": [
+      "Alternative Hip-Hop",
+      "Pop Ballad"
+    ],
+    "style": ["anthem", "nostalgic", "vocal-forward"],
+    "bpm": 86,
+    "tier": "Slow",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm",
+      "appleMusic": "https://music.apple.com/us/album/2-3/1596532477?i=1596532555&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Interlude: Wings",
+    "album": "Wings",
+    "year": 2016,
+    "duration": "2:24",
+    "genres": [
+      "Future Bass",
+      "Stadium EDM",
+      "Electropop"
+    ],
+    "style": ["bright", "driving", "anthem"],
+    "bpm": 128,
+    "tier": "Fast",
+    "art": "assets/covers/wings.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6dNOlenVY8vp29pkMZOd7c",
+      "appleMusic": "https://music.apple.com/us/album/interlude-wings/1596532477?i=1596532558&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "DNA",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:43",
+    "genres": [
+      "Moombahton",
+      "Electropop",
+      "Dance Pop"
+    ],
+    "style": [
+      "bright",
+      "driving",
+      "bouncy"
+    ],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F",
+      "appleMusic": "https://music.apple.com/us/album/dna/1598730614?i=1598730623&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Dimple (보조개)",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:16",
+    "genres": [
+      "Electropop",
+      "Future Bass",
+      "Dance Pop"
+    ],
+    "style": [
+      "bouncy",
+      "smooth",
+      "bright"
+    ],
+    "bpm": 135,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1rLkzFZdokhx6Wcs80uvnw",
+      "appleMusic": "https://music.apple.com/us/album/dimple/1596529064?i=1596529068&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Spring Day",
+    "album": "You Never Walk Alone",
+    "artist": "BTS",
+    "year": 2017,
+    "duration": "4:34",
+    "genres": [
+      "Alternative Rock",
+      "Pop Ballad"
+    ],
+    "bpm": 108,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
+      "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
+    },
+    "recs": []
+  },
+  {
+    "title": "Best Of Me",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:46",
+    "genres": [
+      "Dance/Electronic",
+      "Pop"
+    ],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3xYfDSxJhRLDIb1fw71WTw",
+      "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Pied Piper",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "4:05",
+    "genres": [
+      "R&B/Soul",
+      "Pop"
+    ],
+    "bpm": 117,
+    "tier": "Mid",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1ZPeaPDjQOOC8hw1mNjyjF",
+      "appleMusic": "https://music.apple.com/us/album/pied-piper/1596529064?i=1596529071&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "MIC Drop",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:57",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "bpm": 170,
+    "tier": "Fast",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE",
+      "appleMusic": "https://music.apple.com/us/album/mic-drop/1598730614?i=1598731059&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Go Go",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:55",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Pop"
+    ],
+    "bpm": 136,
+    "tier": "Fast",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5vOT8VO87TAnUjh0oADwb1",
+      "appleMusic": "https://music.apple.com/us/album/go-go/1598730614?i=1598730995&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Sea",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "5:15",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Pop"
+    ],
+    "bpm": 84,
+    "tier": "Slow",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Not Today",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Wings",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "A Supplementary Story: You Never Walk Alone",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: Serendipity",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Skit: Billboard Music Awards Speech",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Her",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Skit: Hesitation and Fear",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Euphoria (Jungkook)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:49",
+    "genres": [
+      "Future Bass",
+      "Electropop",
+      "Tropical House"
+    ],
+    "style": [
+      "bright",
+      "driving",
+      "gliding"
+    ],
+    "bpm": 105,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK",
+      "appleMusic": "https://music.apple.com/us/album/euphoria/1598730614?i=1598730615&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Trivia 起 : Just Dance (J-Hope)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:45",
+    "genres": [
+      "Future House",
+      "Deep House",
+      "Dance Pop"
+    ],
+    "style": [
+      "bouncy",
+      "driving",
+      "playful"
+    ],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%B5%B7-just-dance/1598730614?i=1598730618&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Serendipity (Jimin)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:37",
+    "genres": [
+      "Alternative R&B",
+      "Chill Electronic"
+    ],
+    "style": [
+      "sensual",
+      "chill",
+      "gliding"
+    ],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N",
+      "appleMusic": "https://music.apple.com/us/album/serendipity-full-length-edition/1598730614?i=1598730619&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Trivia 承 : Love (RM)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:46",
+    "genres": [
+      "Jazz-hop",
+      "Alternative Hip-Hop",
+      "Contemporary R&B"
+    ],
+    "style": [
+      "bouncy",
+      "retro",
+      "smooth"
+    ],
+    "bpm": 122,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6bSwpQYEguyMlkCoWiBt3Y",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E6%89%BF-love/1598730614?i=1598730627&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Her",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:49",
+    "genres": [
+      "Old School Hip-Hop",
+      "Jazz-Rap",
+      "90s Hip-Hop"
+    ],
+    "style": [
+      "retro",
+      "chill",
+      "smooth"
+    ],
+    "bpm": 87,
+    "tier": "Slow",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6FHVHycPPTQp6aAHjLhzFT",
+      "appleMusic": "https://music.apple.com/us/album/her/1598730614?i=1598730628&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Singularity (V)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:17",
+    "genres": [
+      "Neo-soul",
+      "Alternative R&B",
+      "Jazz R&B"
+    ],
+    "style": [
+      "sensual",
+      "dark",
+      "atmospheric"
+    ],
+    "bpm": 104,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV",
+      "appleMusic": "https://music.apple.com/us/song/intro-singularity/1598660937",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "FAKE LOVE",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "4:02",
+    "genres": [
+      "Alternative Rock",
+      "Dark Pop",
+      "Emo-trap"
+    ],
+    "style": [
+      "dark",
+      "aggressive",
+      "melancholic"
+    ],
+    "bpm": 78,
+    "tier": "Slow",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR",
+      "appleMusic": "https://music.apple.com/us/album/fake-love/1598730614?i=1598730630&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "The Truth Untold (feat. Steve Aoki)",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "4:02",
+    "genres": [
+      "Orchestral Ballad",
+      "Pop Ballad"
+    ],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "cinematic"
+    ],
+    "bpm": 113,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7DEKa5Z7Cl8s3Y7imb88OM",
+      "appleMusic": "https://music.apple.com/us/album/the-truth-untold-feat-steve-aoki/1598660934?i=1598660944&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Trivia 轉 : Seesaw (Suga)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:06",
+    "genres": [
+      "Synth-Funk",
+      "Nu-Disco",
+      "Alternative Hip-Hop"
+    ],
+    "style": [
+      "bouncy",
+      "smooth",
+      "retro"
+    ],
+    "bpm": 107,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0mZI1NpihIVcho2f9MmqSW",
+      "appleMusic": "https://music.apple.com/us/album/trivia-%E8%BD%89-seesaw/1598730614?i=1598730966&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Tear",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:45",
+    "genres": [
+      "Hardcore Rap",
+      "Dark Trap",
+      "Orchestral Trap"
+    ],
+    "style": [
+      "aggressive",
+      "dark",
+      "cinematic"
+    ],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3smbno1dKL410vC27M5KOS",
+      "appleMusic": "https://music.apple.com/us/album/tear/1598730614?i=1598730969&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Epiphany (Jin)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:00",
+    "genres": [
+      "Rock Ballad",
+      "Alternative Rock",
+      "Pop-rock"
+    ],
+    "style": [
+      "anthem",
+      "cinematic",
+      "vocal-forward"
+    ],
+    "bpm": 136,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41",
+      "appleMusic": "https://music.apple.com/us/album/epiphany/1598730614?i=1598730973&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "I'm Fine",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:00",
+    "genres": [
+      "Stadium EDM",
+      "Electropop",
+      "Drum & Bass"
+    ],
+    "style": [
+      "driving",
+      "anthem",
+      "futuristic"
+    ],
+    "bpm": 135,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7HYJqAMbKDJYRyEfUGOCBB",
+      "appleMusic": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "IDOL",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "3:43",
+    "genres": [
+      "Afro Pop",
+      "Stadium EDM"
+    ],
+    "style": [
+      "driving",
+      "chant-heavy",
+      "performance-driven"
+    ],
+    "bpm": 126,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4",
+      "appleMusic": "https://music.apple.com/us/song/idol/1598730980",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Answer : Love Myself",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": "4:11",
+    "genres": [
+      "Pop Rock",
+      "Alt-pop",
+      "Anthemic Pop"
+    ],
+    "style": [
+      "anthem",
+      "cinematic",
+      "nostalgic"
+    ],
+    "bpm": 108,
+    "tier": "Mid",
+    "art": "assets/covers/love-yourself-answer.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA",
+      "appleMusic": "https://music.apple.com/us/album/answer-love-myself/1598730614?i=1598730982&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "134340",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "3:49",
+    "genres": [
+      "R&B/Soul",
+      "Hip-Hop",
+      "Jazz-hop"
+    ],
+    "bpm": 90,
+    "tier": "Slow",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN",
+      "appleMusic": "https://music.apple.com/us/album/134340/1598660934?i=1598660945&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Paradise (낙원)",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "3:30",
+    "genres": [
+      "R&B/Soul",
+      "Pop",
+      "Funk-pop"
+    ],
+    "bpm": 115,
+    "tier": "Mid",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3C9LmlugcrYHRi6ASUuhhx",
+      "appleMusic": "https://music.apple.com/us/album/paradise/1598660934?i=1598661248&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Love Maze",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "3:40",
+    "genres": [
+      "R&B/Soul",
+      "Pop",
+      "Contemporary R&B"
+    ],
+    "bpm": 95,
+    "tier": "Slow",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4ROdFnoZNn2RTmwct0cVpx",
+      "appleMusic": "https://music.apple.com/us/album/love-maze/1598660934?i=1598661251&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Magic Shop",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "4:36",
+    "genres": [
+      "Pop",
+      "EDM/Electronic",
+      "Future Bass"
+    ],
+    "bpm": 149,
+    "tier": "Up-tempo",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/37nOpaUof3d4Xsmr6moAiI",
+      "appleMusic": "https://music.apple.com/us/album/magic-shop/1598730614?i=1598730988&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Airplane pt.2",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "3:39",
+    "genres": [
+      "Pop",
+      "Hip-Hop",
+      "R&B/Soul",
+      "Latin-pop"
+    ],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4lAE47gj539h8R1yxPhhGG",
+      "appleMusic": "https://music.apple.com/us/album/airplane-pt-2/1598730614?i=1598730993&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Anpanman",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "3:54",
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Trap"
+    ],
+    "bpm": 99,
+    "tier": "Mid",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/453W8V5Ynwn6Tr28KuOwsO",
+      "appleMusic": "https://music.apple.com/us/album/anpanman/1598660934?i=1598661271&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "So What",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "4:44",
+    "genres": [
+      "EDM/Electronic",
+      "Pop",
+      "Progressive House",
+      "Eurodance"
+    ],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0wqqe8k13bJPxRt7FEmnwS",
+      "appleMusic": "https://music.apple.com/us/album/so-what/1598660934?i=1598661273&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Tear",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": "4:45",
+    "genres": [
+      "Hip-Hop",
+      "Rock/Punk/Metal",
+      "Hardcore Rap",
+      "Orchestral Trap"
+    ],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/loveyourself-tear.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/27yKZtF7WLdmlLoW8qMssq",
+      "appleMusic": "https://music.apple.com/us/album/outro-tear/1598660934?i=1598661275&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: Singularity",
+    "album": "Love Yourself: Tear",
+    "year": 2018,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "DNA (Pedal 2 LA Mix)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "FAKE LOVE (Rocking Vibe Mix)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "MIC Drop (Full Length ft. Steve Aoki)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "IDOL (ft. Nicki Minaj)",
+    "album": "Love Yourself: Answer",
+    "year": 2018,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
     "title": "Intro : Persona",
-    "album": "Map of the Soul: 7",
-    "year": 2020,
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
     "duration": "2:54",
     "genres": [
       "Hip-Hop",
@@ -1043,6 +2525,355 @@
     "links": {
       "spotify": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69",
       "appleMusic": "https://music.apple.com/us/album/intro-persona/1599171924?i=1599171934&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Make It Right",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": "3:42",
+    "genres": [
+      "Pop",
+      "R&B/Soul",
+      "Contemporary Pop"
+    ],
+    "bpm": 106,
+    "tier": "Mid",
+    "art": "assets/covers/mots7.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3LSjYk6sFQaLi0MjtWcm8P",
+      "appleMusic": "https://music.apple.com/us/album/make-it-right/1599171924?i=1599172219&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Jamais Vu",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": "3:46",
+    "genres": [
+      "Ballad",
+      "Pop",
+      "Vocal Slow Jam"
+    ],
+    "bpm": 81,
+    "tier": "Slow",
+    "art": "assets/covers/mots7.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7cgWWkpUaS94xoWI8lMGiI",
+      "appleMusic": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Dionysus",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": "4:08",
+    "genres": [
+      "Rock/Punk/Metal",
+      "Hip-Hop",
+      "Synth-punk",
+      "Rap-rock"
+    ],
+    "bpm": 176,
+    "tier": "Up-tempo",
+    "art": "assets/covers/mots7.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN",
+      "appleMusic": "https://music.apple.com/us/album/dionysus/1599171924?i=1599172420&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Heartbeat",
+    "album": "BTS WORLD OST",
+    "artist": "BTS",
+    "year": 2019,
+    "duration": "4:13",
+    "genres": [
+      "Pop Rock",
+      "Symphonic Pop"
+    ],
+    "bpm": 85,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2omgidG7N4JyNBlaxheiYo",
+      "appleMusic": "https://music.apple.com/us/album/heartbeat/1694730681?i=1694730685&uo=4",
+      "youtube": "http://www.youtube.com/watch?v=aKSxbt-O6TA"
+    },
+    "recs": []
+  },
+  {
+    "title": "Dream Glow",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Charli XCX",
+    "year": 2019,
+    "duration": "3:07",
+    "genres": [
+      "Synth-Pop",
+      "Electropop"
+    ],
+    "bpm": 142,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1LPQQrqf5Mly5kIFPdwmaJ",
+      "appleMusic": "https://music.apple.com/us/album/dream-glow-bts-world-original-soundtrack-pt-1/1694722271?i=1694722583&uo=4",
+      "youtube": "http://www.youtube.com/watch?v=ygPDo-aFW_k"
+    },
+    "recs": []
+  },
+  {
+    "title": "A Brand New Day",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Zara Larsson",
+    "year": 2019,
+    "duration": "3:25",
+    "genres": [
+      "Electronic",
+      "Flute Trap"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2NXD3oT22AmxBGmpYRNVII",
+      "appleMusic": "https://music.apple.com/us/album/a-brand-new-day-pt-2/1694730681?i=1694730950&uo=4",
+      "youtube": "http://www.youtube.com/watch?v=FQ24AlLkzCc"
+    },
+    "recs": []
+  },
+  {
+    "title": "All Night",
+    "album": "BTS WORLD OST",
+    "artist": "BTS & Juice WRLD",
+    "year": 2019,
+    "duration": "3:36",
+    "genres": [
+      "90s Boom Bap",
+      "Hip-Hop"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bts-world.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4sfXQzbYjROMuEgDfJisj3",
+      "appleMusic": "https://music.apple.com/us/album/all-night-pt-3/1694730681?i=1694730954&uo=4",
+      "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
+    },
+    "recs": []
+  },
+  {
+    "title": "Boy With Luv",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Mikrokosmos",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "HOME",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Captain",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Cake Waltz",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Shine",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Not Alone",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Friends",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Wish",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Flying",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "LaLaLa",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "You Are Here",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "You Are Here (Orchestra Version)",
+    "album": "BTS WORLD OST",
+    "year": 2019,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
@@ -1063,67 +2894,6 @@
     "links": {
       "spotify": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI",
       "appleMusic": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Make It Right",
-    "album": "Map of the Soul: 7",
-    "year": 2020,
-    "duration": "3:42",
-    "genres": [
-      "Pop",
-      "R&B/Soul",
-      "Contemporary Pop"
-    ],
-    "bpm": 106,
-    "tier": "Mid",
-    "art": "assets/covers/mots7.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3LSjYk6sFQaLi0MjtWcm8P",
-      "appleMusic": "https://music.apple.com/us/album/make-it-right/1599171924?i=1599172219&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Jamais Vu",
-    "album": "Map of the Soul: 7",
-    "year": 2020,
-    "duration": "3:46",
-    "genres": [
-      "Ballad",
-      "Pop",
-      "Vocal Slow Jam"
-    ],
-    "bpm": 81,
-    "tier": "Slow",
-    "art": "assets/covers/mots7.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/7cgWWkpUaS94xoWI8lMGiI",
-      "appleMusic": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Dionysus",
-    "album": "Map of the Soul: 7",
-    "year": 2020,
-    "duration": "4:08",
-    "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop",
-      "Synth-punk",
-      "Rap-rock"
-    ],
-    "bpm": 176,
-    "tier": "Up-tempo",
-    "art": "assets/covers/mots7.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN",
-      "appleMusic": "https://music.apple.com/us/album/dionysus/1599171924?i=1599172420&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -1429,245 +3199,209 @@
     "recs": []
   },
   {
-    "title": "134340",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "3:49",
-    "genres": [
-      "R&B/Soul",
-      "Hip-Hop",
-      "Jazz-hop"
-    ],
-    "bpm": 90,
-    "tier": "Slow",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN",
-      "appleMusic": "https://music.apple.com/us/album/134340/1598660934?i=1598660945&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Paradise (낙원)",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "3:30",
-    "genres": [
-      "R&B/Soul",
-      "Pop",
-      "Funk-pop"
-    ],
-    "bpm": 115,
-    "tier": "Mid",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3C9LmlugcrYHRi6ASUuhhx",
-      "appleMusic": "https://music.apple.com/us/album/paradise/1598660934?i=1598661248&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Love Maze",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "3:40",
-    "genres": [
-      "R&B/Soul",
-      "Pop",
-      "Contemporary R&B"
-    ],
-    "bpm": 95,
-    "tier": "Slow",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4ROdFnoZNn2RTmwct0cVpx",
-      "appleMusic": "https://music.apple.com/us/album/love-maze/1598660934?i=1598661251&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Magic Shop",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "4:36",
-    "genres": [
-      "Pop",
-      "EDM/Electronic",
-      "Future Bass"
-    ],
-    "bpm": 149,
-    "tier": "Up-tempo",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/37nOpaUof3d4Xsmr6moAiI",
-      "appleMusic": "https://music.apple.com/us/album/magic-shop/1598730614?i=1598730988&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Airplane pt.2",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "3:39",
-    "genres": [
-      "Pop",
-      "Hip-Hop",
-      "R&B/Soul",
-      "Latin-pop"
-    ],
-    "bpm": 140,
-    "tier": "Up-tempo",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4lAE47gj539h8R1yxPhhGG",
-      "appleMusic": "https://music.apple.com/us/album/airplane-pt-2/1598730614?i=1598730993&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Anpanman",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "3:54",
-    "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Trap"
-    ],
-    "bpm": 99,
-    "tier": "Mid",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/453W8V5Ynwn6Tr28KuOwsO",
-      "appleMusic": "https://music.apple.com/us/album/anpanman/1598660934?i=1598661271&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "So What",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "4:44",
-    "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Progressive House",
-      "Eurodance"
-    ],
-    "bpm": 130,
-    "tier": "Mid",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0wqqe8k13bJPxRt7FEmnwS",
-      "appleMusic": "https://music.apple.com/us/album/so-what/1598660934?i=1598661273&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Outro: Tear",
-    "album": "Love Yourself: Tear",
-    "year": 2018,
-    "duration": "4:45",
-    "genres": [
-      "Hip-Hop",
-      "Rock/Punk/Metal",
-      "Hardcore Rap",
-      "Orchestral Trap"
-    ],
-    "bpm": 140,
-    "tier": "Up-tempo",
-    "art": "assets/covers/loveyourself-tear.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/27yKZtF7WLdmlLoW8qMssq",
-      "appleMusic": "https://music.apple.com/us/album/outro-tear/1598660934?i=1598661275&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Heartbeat",
-    "album": "BTS WORLD OST",
+    "title": "Dynamite",
+    "album": "BE",
     "artist": "BTS",
-    "year": 2019,
-    "duration": "4:13",
+    "year": 2020,
+    "duration": "3:19",
     "genres": [
-      "Pop Rock",
-      "Symphonic Pop"
+      "Disco Pop",
+      "Nu-Disco"
     ],
-    "bpm": 85,
+    "bpm": 114,
     "tier": "Mid-tempo",
-    "art": "assets/covers/bts-world.jpg",
+    "art": "assets/covers/proof.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/2omgidG7N4JyNBlaxheiYo",
-      "appleMusic": "https://music.apple.com/us/album/heartbeat/1694730681?i=1694730685&uo=4",
-      "youtube": "http://www.youtube.com/watch?v=aKSxbt-O6TA"
+      "spotify": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
+      "appleMusic": "https://music.apple.com/us/album/dynamite-live/1823627665?i=1823627863&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
     },
     "recs": []
   },
   {
-    "title": "Dream Glow",
-    "album": "BTS WORLD OST",
-    "artist": "BTS & Charli XCX",
-    "year": 2019,
-    "duration": "3:07",
+    "title": "Life Goes On",
+    "album": "BE",
+    "artist": "BTS",
+    "year": 2020,
+    "duration": "3:27",
     "genres": [
-      "Synth-Pop",
-      "Electropop"
+      "Alternative Pop",
+      "Acoustic"
     ],
-    "bpm": 142,
-    "tier": "Up-tempo",
-    "art": "assets/covers/bts-world.jpg",
+    "bpm": 81,
+    "tier": "Slow-tempo",
+    "art": "assets/covers/proof.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/1LPQQrqf5Mly5kIFPdwmaJ",
-      "appleMusic": "https://music.apple.com/us/album/dream-glow-bts-world-original-soundtrack-pt-1/1694722271?i=1694722583&uo=4",
-      "youtube": "http://www.youtube.com/watch?v=ygPDo-aFW_k"
+      "spotify": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg",
+      "appleMusic": "https://music.apple.com/us/album/life-goes-on/1596532185?i=1596532189&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
     },
     "recs": []
   },
   {
-    "title": "A Brand New Day",
-    "album": "BTS WORLD OST",
-    "artist": "BTS & Zara Larsson",
-    "year": 2019,
+    "title": "Stay",
+    "album": "BE",
+    "artist": "BTS",
+    "year": 2020,
     "duration": "3:25",
     "genres": [
-      "Electronic",
-      "Flute Trap"
+      "Future House"
     ],
-    "bpm": 120,
+    "bpm": 128,
     "tier": "Up-tempo",
-    "art": "assets/covers/bts-world.jpg",
+    "art": "assets/covers/proof.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/2NXD3oT22AmxBGmpYRNVII",
-      "appleMusic": "https://music.apple.com/us/album/a-brand-new-day-pt-2/1694730681?i=1694730950&uo=4",
-      "youtube": "http://www.youtube.com/watch?v=FQ24AlLkzCc"
+      "spotify": "https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG",
+      "appleMusic": "https://music.apple.com/us/album/stay/1596532185?i=1596532398&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=00"
     },
     "recs": []
   },
   {
-    "title": "All Night",
-    "album": "BTS WORLD OST",
-    "artist": "BTS & Juice WRLD",
-    "year": 2019,
-    "duration": "3:36",
-    "genres": [
-      "90s Boom Bap",
-      "Hip-Hop"
-    ],
-    "bpm": 120,
-    "tier": "Up-tempo",
-    "art": "assets/covers/bts-world.jpg",
+    "title": "Fly To My Room",
+    "album": "BE",
+    "year": 2020,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
-      "spotify": "https://open.spotify.com/track/4sfXQzbYjROMuEgDfJisj3",
-      "appleMusic": "https://music.apple.com/us/album/all-night-pt-3/1694730681?i=1694730954&uo=4",
-      "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Blue & Grey",
+    "album": "BE",
+    "year": 2020,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Skit",
+    "album": "BE",
+    "year": 2020,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Telepathy",
+    "album": "BE",
+    "year": 2020,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Dis-ease",
+    "album": "BE",
+    "year": 2020,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Butter",
+    "album": "Single",
+    "artist": "BTS",
+    "year": 2021,
+    "duration": "2:44",
+    "genres": [
+      "Dance Pop",
+      "Synth-Funk"
+    ],
+    "bpm": 110,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/proof.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB",
+      "appleMusic": "https://music.apple.com/us/album/butter-megan-thee-stallion-remix/1598661509?i=1598661512&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+    },
+    "recs": []
+  },
+  {
+    "title": "Butter – Megan Thee Stallion Remix",
+    "album": "Single",
+    "year": 2021,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "My Universe",
+    "album": "Single",
+    "year": 2021,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Bad Decision (With BTS & Benny Blanco)",
+    "album": "Single",
+    "year": 2021,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
     },
     "recs": []
   },
@@ -1688,166 +3422,6 @@
       "spotify": "https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445",
       "appleMusic": "https://music.apple.com/us/album/born-singer/1627573936?i=1627573946&uo=4",
       "youtube": "https://www.youtube.com/watch?v=D30398O4322"
-    },
-    "recs": []
-  },
-  {
-    "title": "No More Dream",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:42",
-    "genres": [
-      "90s Hip-Hop",
-      "Gangsta Rap"
-    ],
-    "bpm": 168,
-    "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF",
-      "appleMusic": "https://music.apple.com/us/album/no-more-dream/1596528414?i=1596528617&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=rBG5L7UsUxA"
-    },
-    "recs": []
-  },
-  {
-    "title": "N.O",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:29",
-    "genres": [
-      "Trap",
-      "Hardcore Hip-Hop"
-    ],
-    "bpm": 144,
-    "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/7JosxtkCqIQieNWXA2Dj3v",
-      "appleMusic": "https://music.apple.com/us/album/n-o/1627573936?i=1627574239&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=r5GaAEIvBV4"
-    },
-    "recs": []
-  },
-  {
-    "title": "Boy In Luv",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:51",
-    "genres": [
-      "Rap Rock",
-      "Pop-Punk"
-    ],
-    "bpm": 166,
-    "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev",
-      "appleMusic": "https://music.apple.com/us/album/boy-in-luv/1596528694?i=1596528795&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=LHHjp3IMjMk"
-    },
-    "recs": []
-  },
-  {
-    "title": "Blood Sweat & Tears",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:37",
-    "genres": [
-      "Moombahton",
-      "Tropical House"
-    ],
-    "bpm": 93,
-    "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom",
-      "appleMusic": "https://music.apple.com/us/album/blood-sweat-tears/1596532477?i=1596532481&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=hmE9fCYHX8w"
-    },
-    "recs": []
-  },
-  {
-    "title": "Spring Day",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "4:34",
-    "genres": [
-      "Alternative Rock",
-      "Pop Ballad"
-    ],
-    "bpm": 108,
-    "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
-      "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
-    },
-    "recs": []
-  },
-  {
-    "title": "Dynamite",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:19",
-    "genres": [
-      "Disco Pop",
-      "Nu-Disco"
-    ],
-    "bpm": 114,
-    "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
-      "appleMusic": "https://music.apple.com/us/album/dynamite-live/1823627665?i=1823627863&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
-    },
-    "recs": []
-  },
-  {
-    "title": "Life Goes On",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:27",
-    "genres": [
-      "Alternative Pop",
-      "Acoustic"
-    ],
-    "bpm": 81,
-    "tier": "Slow-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg",
-      "appleMusic": "https://music.apple.com/us/album/life-goes-on/1596532185?i=1596532189&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
-    },
-    "recs": []
-  },
-  {
-    "title": "Butter",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "2:44",
-    "genres": [
-      "Dance Pop",
-      "Synth-Funk"
-    ],
-    "bpm": 110,
-    "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB",
-      "appleMusic": "https://music.apple.com/us/album/butter-megan-thee-stallion-remix/1598661509?i=1598661512&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
     },
     "recs": []
   },
@@ -1892,34 +3466,17 @@
     "recs": []
   },
   {
-    "title": "Stay",
-    "album": "Proof",
-    "artist": "BTS",
-    "year": 2022,
-    "duration": "3:25",
-    "genres": [
-      "Future House"
-    ],
-    "bpm": 128,
-    "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG",
-      "appleMusic": "https://music.apple.com/us/album/stay/1596532185?i=1596532398&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=00"
-    },
-    "recs": []
-  },
-  {
     "title": "BTS Cypher PT.3 : KILLER (Feat. Supreme Boi)",
     "album": "Proof",
     "artist": "BTS",
     "year": 2022,
     "duration": "4:28",
     "genres": [
-      "Hardcore Hip-Hop",
-      "Trap"
+      "Hardcore Rap",
+      "Dark Trap",
+      "Industrial Trap"
     ],
+    "style": ["aggressive", "driving", "glitchy"],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/proof.jpg",
@@ -1932,7 +3489,7 @@
   },
   {
     "title": "For Youth",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "4:24",
@@ -1952,7 +3509,7 @@
   },
   {
     "title": "Jump (Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "3:57",
@@ -1992,7 +3549,7 @@
   },
   {
     "title": "Quotation Mark",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "2:58",
@@ -2012,7 +3569,7 @@
   },
   {
     "title": "I NEED U (Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "2:42",
@@ -2032,7 +3589,7 @@
   },
   {
     "title": "Boyz with Fun (Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "3:25",
@@ -2052,7 +3609,7 @@
   },
   {
     "title": "Tony Montana (with Jimin)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "Agust D feat. Jimin",
     "year": 2022,
     "duration": "3:21",
@@ -2072,7 +3629,7 @@
   },
   {
     "title": "Young Forever (RM Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "2:29",
@@ -2092,7 +3649,7 @@
   },
   {
     "title": "Spring Day (V Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "2:13",
@@ -2112,7 +3669,7 @@
   },
   {
     "title": "DNA (j-hope Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "1:51",
@@ -2151,7 +3708,7 @@
   },
   {
     "title": "Seesaw (Demo Ver.)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "3:09",
@@ -2171,7 +3728,7 @@
   },
   {
     "title": "Still With You (Acapella)",
-    "album": "Proof",
+    "album": "Proof - CD Only",
     "artist": "BTS",
     "year": 2022,
     "duration": "3:58",
@@ -2190,92 +3747,14 @@
     "recs": []
   },
   {
-    "title": "Best Of Me",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "3:46",
-    "genres": [
-      "Dance/Electronic",
-      "Pop"
-    ],
-    "bpm": 120,
-    "tier": "Mid",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3xYfDSxJhRLDIb1fw71WTw",
-      "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Pied Piper",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "4:05",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 117,
-    "tier": "Mid",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1ZPeaPDjQOOC8hw1mNjyjF",
-      "appleMusic": "https://music.apple.com/us/album/pied-piper/1596529064?i=1596529071&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "MIC Drop",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "3:57",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 170,
-    "tier": "Fast",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE",
-      "appleMusic": "https://music.apple.com/us/album/mic-drop/1598730614?i=1598731059&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Go Go",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "3:55",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 136,
-    "tier": "Fast",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5vOT8VO87TAnUjh0oADwb1",
-      "appleMusic": "https://music.apple.com/us/album/go-go/1598730614?i=1598730995&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Sea",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "5:15",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 84,
-    "tier": "Slow",
-    "art": "assets/covers/love_yourself_her.jpg",
+    "title": "Fire",
+    "album": "Proof",
+    "year": 2022,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
       "spotify": "",
       "appleMusic": "",
@@ -2284,712 +3763,422 @@
     "recs": []
   },
   {
-    "title": "Intro: What am I to you",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "2:45",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 88,
-    "tier": "Slow",
-    "art": "assets/covers/dark_and_wild.jpg",
+    "title": "Trivia 轉 : Seesaw",
+    "album": "Proof",
+    "year": 2022,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
-      "spotify": "https://open.spotify.com/track/3HhgGvmDKx13uRTkXYfcDw",
-      "appleMusic": "https://music.apple.com/us/album/intro-what-am-i-to-you/1597016856?i=1597016863&uo=4",
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Danger",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:05",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 112,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
+    "title": "Boy In Luv (Demo ver.)",
+    "album": "Proof - CD Only",
+    "year": 2022,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
-      "spotify": "https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw",
-      "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "War of Hormone",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:26",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Rock"
-    ],
-    "bpm": 126,
-    "tier": "Fast",
-    "art": "assets/covers/dark_and_wild.jpg",
+    "title": "The Planet",
+    "album": "Single",
+    "year": 2023,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
-      "spotify": "https://open.spotify.com/track/29SjtKzBoJDgyIBusHylIS",
-      "appleMusic": "https://music.apple.com/us/album/war-of-hormone/1597016856?i=1597017069&uo=4",
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Hip Hop Phile",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:17",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 90,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
+    "title": "Take Two",
+    "album": "Single",
+    "year": 2023,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
     "links": {
-      "spotify": "https://open.spotify.com/track/4c9XojqJDu7KNCh8GmNbj5",
-      "appleMusic": "https://music.apple.com/us/album/hip-hop-phile/1597016856?i=1597017081&uo=4",
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Let Me Know",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:15",
+    "title": "Body to Body",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:09",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop/Rap"
+      "Industrial Trap",
+      "Trap-pop",
+      "Traditional Folk"
     ],
-    "bpm": 140,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2uqzfXB7NlBnhQd04W7HaH",
-      "appleMusic": "https://music.apple.com/us/album/let-me-know/1597016856?i=1597017095&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Rain",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:25",
-    "genres": [
-      "R&B/Soul",
-      "Jazz"
-    ],
-    "bpm": 76,
-    "tier": "Slow",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/6Jr2GutTFyfvAzGA36R2Uj",
-      "appleMusic": "https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Interlude: What Are You Doing Now",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "0:42",
-    "genres": [
-      "R&B/Soul"
-    ],
-    "bpm": 92,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/6w5nte2isfv5QLImckFD8a",
-      "appleMusic": "https://music.apple.com/us/album/interlude-what-are-you-doing-now/1597016856?i=1597017232&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Could You Turn Off Your Cell Phone",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "3:54",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 95,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/022wInIMcMtWRqkcpy7WwO",
-      "appleMusic": "https://music.apple.com/us/album/could-you-turn-off-your-cell-phone/1597016856?i=1597017242&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Embarrassed",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "4:02",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 88,
-    "tier": "Slow",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3eSPLTR9JtKiT1X4sAkTg8",
-      "appleMusic": "https://music.apple.com/us/album/embarrassed/1597016856?i=1597017519&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "24/7=heaven",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "3:46",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 100,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/17SBD4aDKo9ZeahcQJ6j72",
-      "appleMusic": "https://music.apple.com/us/album/24-7-heaven/1597016856?i=1597017525&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Look Here",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "3:39",
-    "genres": [
-      "R&B/Soul",
-      "Funk"
-    ],
-    "bpm": 118,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ",
-      "appleMusic": "https://music.apple.com/us/album/look-here/1597016856?i=1597017528&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "So 4 more",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "3:55",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 102,
-    "tier": "Mid",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5EdwOTiD4Vz7xEoB7jt8En",
-      "appleMusic": "https://music.apple.com/us/album/2nd-grade/1597016856?i=1597017538&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Outro: Do You Think It Makes Sense?",
-    "album": "Dark & Wild",
-    "year": 2014,
-    "duration": "2:53",
-    "genres": [
-      "R&B/Soul"
-    ],
-    "bpm": 80,
-    "tier": "Slow",
-    "art": "assets/covers/dark_and_wild.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0I4CicY6MftmDgdd76LXss",
-      "appleMusic": "https://music.apple.com/us/album/outro-do-you-think-it-makes-sense/1597016856?i=1597017846&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Intro: Skool Luv Affair",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "2:58",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 95,
-    "tier": "Mid",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/7vG0yTvfZZtQ4DoSyy5a61",
-      "appleMusic": "https://music.apple.com/us/album/intro-skool-luv-affair/1596533234?i=1596533244&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Skit: Soulmate",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "1:32",
-    "genres": [
-      "Spoken Word"
-    ],
-    "bpm": 0,
-    "tier": "Slow",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0hukH4ZKPofZVmfTcEnLHN",
-      "appleMusic": "https://music.apple.com/us/album/skit-soulmate/1596533234?i=1596533251&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Where You From",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "4:00",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 100,
-    "tier": "Mid",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0nZaV8LwxHeg8TqFy193IL",
-      "appleMusic": "https://music.apple.com/us/album/where-you-from/1596528694?i=1596528811&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Just One Day",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "4:00",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 95,
-    "tier": "Mid",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/6t7WriKgVszATnrdBKSUAf",
-      "appleMusic": "https://music.apple.com/us/album/just-one-day/1596528694?i=1596528970&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Tomorrow",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "4:22",
-    "genres": [
-      "Hip-Hop/Rap",
-      "R&B/Soul"
-    ],
-    "bpm": 78,
-    "tier": "Slow",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0JkTVcN5kilfMztDb3bKZk",
-      "appleMusic": "https://music.apple.com/us/album/tomorrow/1596528694?i=1596528971&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "BTS Cypher, Pt. 2: Triptych",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "4:48",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 150,
-    "tier": "Fast",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/41eoHn3yTDYMV9hFn50ef4",
-      "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-2-triptych/1596528694?i=1596528975&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Spine Breaker",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "3:59",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 92,
-    "tier": "Mid",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/0F3Dpp18yIxIm7XRmn0LBj",
-      "appleMusic": "https://music.apple.com/us/album/spine-breaker/1596528694?i=1596528980&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Jump",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "3:57",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Rock"
-    ],
-    "bpm": 128,
-    "tier": "Fast",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1jZZm43y7RPuwjJQ5LrGHe",
-      "appleMusic": "https://music.apple.com/us/album/jump/1596528694?i=1596528983&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Outro: Propose",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "2:03",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 80,
-    "tier": "Slow",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3x0SuB95K0XewiAKwNEiMZ",
-      "appleMusic": "https://music.apple.com/us/album/outro-propose/1596533234?i=1596533511&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Miss Right",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "4:01",
-    "genres": [
-      "R&B/Soul",
-      "Pop"
-    ],
-    "bpm": 98,
-    "tier": "Slow",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1ht2uYq91yLc9S6IxwiwCK",
-      "appleMusic": "https://music.apple.com/us/album/miss-right/1596533234?i=1596533237&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "I Like It (Slow Jam Remix)",
-    "album": "Skool Luv Affair Special Addition",
-    "year": 2014,
-    "duration": "3:52",
-    "genres": [
-      "R&B/Soul"
-    ],
-    "bpm": 72,
-    "tier": "Slow",
-    "art": "assets/covers/skool_luv_affair.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9?si=26f65254edd249f8",
-      "appleMusic": "https://music.apple.com/us/album/i-like-it/1443817875?i=1443817879&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Intro: Boy Meets Evil",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "2:01",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Dance/Electronic"
-    ],
-    "bpm": 110,
-    "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY",
-      "appleMusic": "https://music.apple.com/us/album/intro-boy-meets-evil/1596532477?i=1596532478&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Begin",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:49",
-    "genres": [
-      "Dance/Electronic",
-      "Pop"
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
     ],
     "bpm": 120,
     "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR",
-      "appleMusic": "https://music.apple.com/us/album/begin/1596532477?i=1596532485&uo=4",
+      "spotify": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6",
+      "appleMusic": "https://music.apple.com/us/album/body-to-body/1868481904?i=1868481905&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Lie",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:35",
+    "title": "Hooligan",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:02",
     "genres": [
-      "Pop",
-      "Classical"
+      "Industrial Trap",
+      "Dark Trap",
+      "Experimental Rap"
     ],
-    "bpm": 110,
-    "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
+    "style": [
+      "aggressive",
+      "dark",
+      "glitchy"
+    ],
+    "bpm": 140,
+    "tier": "Up-tempo",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow",
-      "appleMusic": "https://music.apple.com/us/album/lie/1596532477?i=1596532486&uo=4",
+      "spotify": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "appleMusic": "https://music.apple.com/us/album/hooligan/1868481904?i=1868481906&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Stigma",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:36",
+    "title": "Aliens",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:47",
     "genres": [
-      "R&B/Soul",
-      "Jazz"
+      "Trap",
+      "Cloud Rap",
+      "Old School Hip-Hop"
     ],
-    "bpm": 70,
+    "style": [
+      "bouncy",
+      "retro",
+      "smooth"
+    ],
+    "bpm": 95,
     "tier": "Slow",
-    "art": "assets/covers/wings.jpg",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR",
-      "appleMusic": "https://music.apple.com/us/album/stigma/1596532477?i=1596532489&uo=4",
+      "spotify": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ",
+      "appleMusic": "https://music.apple.com/us/album/aliens/1868481904?i=1868481907&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "First Love",
-    "album": "Wings",
-    "year": 2016,
+    "title": "FYA",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:00",
+    "genres": [
+      "Industrial Trap",
+      "EDM Trap",
+      "House"
+    ],
+    "style": [
+      "aggressive",
+      "driving",
+      "futuristic"
+    ],
+    "bpm": 126,
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv",
+      "appleMusic": "https://music.apple.com/us/album/fya/1868481904?i=1868481909&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "2.0",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:49",
+    "genres": [
+      "Hardcore Trap",
+      "Hardcore Hip-Hop",
+      "Hybrid Hip-Hop"
+    ],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
+    "bpm": 130,
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc",
+      "appleMusic": "https://music.apple.com/us/album/2-0/1885720384?i=1885720394&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "SWIM",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:39",
+    "genres": [
+      "Alternative R&B",
+      "Chill Electronic",
+      "Alt-pop"
+    ],
+    "style": [
+      "chill",
+      "gliding",
+      "smooth"
+    ],
+    "bpm": 112,
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+      "appleMusic": "https://music.apple.com/us/song/swim/1868482073",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Merry Go Round",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:49",
+    "genres": [
+      "Alternative Rock",
+      "Pop Rock",
+      "Guitar-pop"
+    ],
+    "style": [
+      "melancholic",
+      "dreamy",
+      "nostalgic"
+    ],
+    "bpm": 122,
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU",
+      "appleMusic": "https://music.apple.com/us/album/merry-go-round/1868481904?i=1868482076&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "NORMAL",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:01",
+    "genres": [
+      "Contemporary R&B",
+      "R&B Pop",
+      "Slow Jam"
+    ],
+    "style": [
+      "smooth",
+      "sensual",
+      "vocal-forward"
+    ],
+    "bpm": 88,
+    "tier": "Slow",
+    "art": "assets/covers/arirang.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5",
+      "appleMusic": "https://music.apple.com/us/album/normal/1885720384?i=1885720624&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Like Animals",
+    "album": "Arirang",
+    "year": 2026,
     "duration": "3:09",
     "genres": [
-      "Hip-Hop/Rap",
-      "Classical"
+      "Dark Synth-Rock",
+      "Electropop",
+      "Dark Pop"
     ],
-    "bpm": 78,
-    "tier": "Slow",
-    "art": "assets/covers/wings.jpg",
+    "style": [
+      "driving",
+      "dark",
+      "glitchy"
+    ],
+    "bpm": 135,
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/1UeVC9gDeHxwlWOQyQJerj",
-      "appleMusic": "https://music.apple.com/us/album/first-love/1596532477?i=1596532494&uo=4",
+      "spotify": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP",
+      "appleMusic": "https://music.apple.com/us/album/like-animals/1868481904?i=1868482085&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Reflection",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:53",
+    "title": "they don't know 'bout us",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:44",
     "genres": [
-      "R&B/Soul",
-      "Ambient"
+      "90s Hip-Hop",
+      "Contemporary R&B",
+      "Trap"
     ],
-    "bpm": 80,
+    "style": [
+      "retro",
+      "bouncy",
+      "soft-rap"
+    ],
+    "bpm": 98,
     "tier": "Slow",
-    "art": "assets/covers/wings.jpg",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6O7358UPKsUumzjumFxVtp",
-      "appleMusic": "https://music.apple.com/us/album/reflection/1596532477?i=1596532496&uo=4",
+      "spotify": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9",
+      "appleMusic": "https://music.apple.com/us/album/they-dont-know-bout-us/1868481904?i=1868482087&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "MAMA",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:32",
+    "title": "One More Night",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:47",
     "genres": [
-      "Hip-Hop/Rap",
-      "Funk"
+      "House",
+      "Nu-Disco",
+      "Eurodance"
+    ],
+    "style": [
+      "driving",
+      "retro",
+      "anthem"
     ],
     "bpm": 105,
     "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF",
-      "appleMusic": "https://music.apple.com/us/album/mama/1596532477?i=1596532501&uo=4",
+      "spotify": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0",
+      "appleMusic": "https://music.apple.com/us/album/one-more-night/281472072?i=281472190&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Awake",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:46",
+    "title": "Please",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "2:52",
     "genres": [
-      "Pop",
-      "Ballad"
+      "R&B Ballad",
+      "Vocal Slow Jam",
+      "Pop Ballad"
     ],
-    "bpm": 82,
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "gliding"
+    ],
+    "bpm": 74,
     "tier": "Slow",
-    "art": "assets/covers/wings.jpg",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3?si=797ff60af3dc483a",
-      "appleMusic": "https://music.apple.com/us/album/awake/1596532477?i=1596532545&uo=4",
+      "spotify": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB",
+      "appleMusic": "https://music.apple.com/us/album/please/1868481904?i=1868482090&uo=4",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "Lost",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "4:01",
+    "title": "Into the Sun",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": "3:47",
     "genres": [
-      "Pop",
-      "Dance/Electronic"
+      "Alternative R&B",
+      "Neo-soul",
+      "Ambient Electronic"
     ],
-    "bpm": 115,
-    "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0",
-      "appleMusic": "https://music.apple.com/us/album/lost/1596532477?i=1596532546&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "BTS Cypher 4",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "4:54",
-    "genres": [
-      "Hip-Hop/Rap"
-    ],
-    "bpm": 140,
-    "tier": "Fast",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4cTSnpyaIR1qGaTOLJunDM",
-      "appleMusic": "https://music.apple.com/us/album/bts-cypher-4/1596532477?i=1596532550&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Am I Wrong",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:33",
-    "genres": [
-      "Pop",
-      "Blues"
-    ],
-    "bpm": 115,
-    "tier": "Mid",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/7BFVLQASwcGrxEPsz1teIW",
-      "appleMusic": "https://music.apple.com/us/album/am-i-wrong/1596528839?i=1596529371&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "21st Century Girl",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "3:12",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 130,
-    "tier": "Fast",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/52d5NT69mkmr6WzvQJ9vHr",
-      "appleMusic": "https://music.apple.com/us/album/21st-century-girl/1596532477?i=1596532554&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "2! 3!",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "4:32",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 86,
-    "tier": "Slow",
-    "art": "assets/covers/wings.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm",
-      "appleMusic": "https://music.apple.com/us/album/2-3/1596532477?i=1596532555&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Interlude: Wings",
-    "album": "Wings",
-    "year": 2016,
-    "duration": "2:24",
-    "genres": [
-      "Dance/Electronic",
-      "Pop"
+    "style": [
+      "atmospheric",
+      "cinematic",
+      "gliding"
     ],
     "bpm": 128,
-    "tier": "Fast",
-    "art": "assets/covers/wings.jpg",
+    "tier": "Mid",
+    "art": "assets/covers/arirang.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6dNOlenVY8vp29pkMZOd7c",
-      "appleMusic": "https://music.apple.com/us/album/interlude-wings/1596532477?i=1596532558&uo=4",
+      "spotify": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr",
+      "appleMusic": "https://music.apple.com/us/album/into-the-sun-ep-version/1051620922?i=1051620933&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "No. 29",
+    "album": "Arirang",
+    "year": 2026,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Come Over",
+    "album": "Single",
+    "year": 2026,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "tier": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
