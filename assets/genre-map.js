@@ -71,6 +71,7 @@ export const GENRE_MAP = {
   "gospel sample": null,
   "gothic pop": "Electronic",
   "gqom": "Afrobeat/Global",
+  "grunge pop": "Pop",
   "guitar-pop": "Pop",
   "hardcore hip-hop": "Hip-Hop",
   "hardcore rap": "Hip-Hop",

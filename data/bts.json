@@ -1644,12 +1644,117 @@
     "recs": []
   },
   {
+    "title": "Spring Day (봄날)",
+    "album": "You Never Walk Alone",
+    "artist": "BTS",
+    "year": 2017,
+    "duration": "4:34",
+    "genres": [
+      "Alternative Rock",
+      "Pop Rock",
+      "Britpop"
+    ],
+    "style": ["melancholic", "nostalgic", "vocal-forward"],
+    "bpm": 108,
+    "tier": "Mid-tempo",
+    "art": "assets/covers/neveralone.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
+      "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
+    },
+    "recs": []
+  },
+  {
+    "title": "Not Today",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": "3:51",
+    "genres": [
+      "Hip-Hop Dance",
+      "EDM Trap",
+      "Stadium EDM"
+    ],
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 110,
+    "tier": "Mid",
+    "art": "assets/covers/neveralone.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X?si=caab2856d49c4391",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=9DwzBICPhdM"
+    },
+    "recs": []
+  },
+  {
+    "title": "Outro: Wings",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": "3:45",
+    "genres": [
+      "Future Bass",
+      "Stadium EDM",
+      "Electropop"
+    ],
+    "style": ["bright", "driving", "anthem"],
+    "bpm": 125,
+    "tier": null,
+    "art": "assets/covers/neveralone.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/7kyUapJyppdjzoAWB6XS14?si=3bc3032f19fd47f7",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=DG6DtnDnQu4"
+    },
+    "recs": []
+  },
+  {
+    "title": "A Supplementary Story: You Never Walk Alone",
+    "album": "You Never Walk Alone",
+    "year": 2017,
+    "duration": "2:36",
+    "genres": [
+      "Alternative Hip-Hop",
+      "Anthemic Pop"
+    ],
+    "style": ["anthem", "smooth", "vocal-forward"],
+    "bpm": 128,
+    "tier": "Mid",
+    "art": "assets/covers/neveralone.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/2ZbYyDM0pacTwP2odNsdlo?si=e5ff5e8ad364420f",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Intro: Serendipity (Jimin)",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "2:19",
+    "genres": [
+      "Alternative R&B",
+      "Chill Electronic",
+      "Ambient Pop"
+    ],
+    "style": ["sensual", "dreamy", "smooth"],
+    "bpm": 87,
+    "tier": "Slow",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/61RvEx7GLYRHQhG7ldjJo1?si=e993b7a88ceb47f9",
+      "appleMusic": "",
+      "youtube": "https://www.youtube.com/watch?v=gSsCZJM6OG0"
+    },
+    "recs": []
+  },
+  {
     "title": "DNA",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
     "duration": "3:43",
     "genres": [
-      "Moombahton",
+      "Future Bass",
       "Electropop",
       "Dance Pop"
     ],
@@ -1668,6 +1773,27 @@
     },
     "recs": []
   },
+    {
+    "title": "Best Of Me",
+    "album": "Love Yourself 承 'Her'",
+    "year": 2017,
+    "duration": "3:46",
+    "genres": [
+      "Future Bass",
+      "Stadium EDM",
+      "Dance Pop"
+    ],
+    "style": ["driving", "bright", "anthem"],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/love_yourself_her.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/3xYfDSxJhRLDIb1fw71WTw",
+      "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
   {
     "title": "Dimple (보조개)",
     "album": "Love Yourself 承 'Her'",
@@ -1680,7 +1806,7 @@
     ],
     "style": [
       "bouncy",
-      "smooth",
+      "gliding",
       "bright"
     ],
     "bpm": 135,
@@ -1694,53 +1820,16 @@
     "recs": []
   },
   {
-    "title": "Spring Day",
-    "album": "You Never Walk Alone",
-    "artist": "BTS",
-    "year": 2017,
-    "duration": "4:34",
-    "genres": [
-      "Alternative Rock",
-      "Pop Ballad"
-    ],
-    "bpm": 108,
-    "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
-      "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
-      "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
-    },
-    "recs": []
-  },
-  {
-    "title": "Best Of Me",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "3:46",
-    "genres": [
-      "Dance/Electronic",
-      "Pop"
-    ],
-    "bpm": 120,
-    "tier": "Mid",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/3xYfDSxJhRLDIb1fw71WTw",
-      "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
     "title": "Pied Piper",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
     "duration": "4:05",
     "genres": [
-      "R&B/Soul",
-      "Pop"
+      "Nu-Disco",
+      "Synth-Funk",
+      "Dance Pop"
     ],
+    "style": ["bouncy", "sensual", "driving"],
     "bpm": 117,
     "tier": "Mid",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1757,8 +1846,11 @@
     "year": 2017,
     "duration": "3:57",
     "genres": [
-      "Hip-Hop/Rap"
+      "Hardcore Trap",
+      "Dark Trap",
+      "Hip-Hop Dance"
     ],
+    "style": ["aggressive", "driving", "chant-heavy"],
     "bpm": 170,
     "tier": "Fast",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1770,14 +1862,16 @@
     "recs": []
   },
   {
-    "title": "Go Go",
+    "title": "Go Go (고민보다 Go)",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
     "duration": "3:55",
     "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
+      "Bright Hip-Hop",
+      "Trap-pop",
+      "Alternative Hip-Hop"
     ],
+    "style": ["bouncy", "bright", "playful"],
     "bpm": 136,
     "tier": "Fast",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1788,132 +1882,22 @@
     },
     "recs": []
   },
-  {
-    "title": "Sea",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": "5:15",
-    "genres": [
-      "Hip-Hop/Rap",
-      "Pop"
-    ],
-    "bpm": 84,
-    "tier": "Slow",
-    "art": "assets/covers/love_yourself_her.jpg",
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Not Today",
-    "album": "You Never Walk Alone",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Outro: Wings",
-    "album": "You Never Walk Alone",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "A Supplementary Story: You Never Walk Alone",
-    "album": "You Never Walk Alone",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Intro: Serendipity",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Skit: Billboard Music Awards Speech",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
+    {
     "title": "Outro: Her",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "3:55",
+    "genres": [
+      "Jazz-hop",
+      "90s Hip-Hop",
+      "Conscious Hip-Hop"
+    ],
+    "style": ["chill", "smooth", "nostalgic"],
+    "bpm": 89,
+    "tier": "Slow",
+    "art": "assets/covers/love_yourself_her.jpg",
     "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Skit: Hesitation and Fear",
-    "album": "Love Yourself 承 'Her'",
-    "year": 2017,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/559U79ujLJSP6OUyH2nGLl?si=612e34faf6c24622",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2272,10 +2256,11 @@
     "year": 2018,
     "duration": "3:49",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop",
+      "Alternative R&B",
+      "Neo-soul",
       "Jazz-hop"
     ],
+    "style": ["chill", "smooth", "sensual"],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2292,10 +2277,11 @@
     "year": 2018,
     "duration": "3:30",
     "genres": [
-      "R&B/Soul",
-      "Pop",
-      "Funk-pop"
+      "Contemporary R&B",
+      "R&B Pop",
+      "Alt-pop"
     ],
+    "style": ["smooth", "bouncy", "vocal-forward"],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2312,10 +2298,11 @@
     "year": 2018,
     "duration": "3:40",
     "genres": [
-      "R&B/Soul",
-      "Pop",
+      "R&B Pop",
+      "Alt-pop",
       "Contemporary R&B"
     ],
+    "style": ["smooth", "bright", "gliding"],
     "bpm": 95,
     "tier": "Slow",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2332,10 +2319,11 @@
     "year": 2018,
     "duration": "4:36",
     "genres": [
-      "Pop",
-      "EDM/Electronic",
+      "Alternative Hip-Hop",
+      "Electropop",
       "Future Bass"
     ],
+    "style": ["anthem", "atmospheric", "soaring"],
     "bpm": 149,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2352,11 +2340,11 @@
     "year": 2018,
     "duration": "3:39",
     "genres": [
-      "Pop",
-      "Hip-Hop",
-      "R&B/Soul",
+      "Hip-Hop Dance",
+      "Reggaeton",
       "Latin-pop"
     ],
+    "style": ["bouncy", "sensual", "driving"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2373,10 +2361,11 @@
     "year": 2018,
     "duration": "3:54",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Trap"
+      "Bright Hip-Hop",
+      "Trap-pop",
+      "Dance Pop"
     ],
+    "style": ["bouncy", "playful", "chant-heavy"],
     "bpm": 99,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2393,11 +2382,11 @@
     "year": 2018,
     "duration": "4:44",
     "genres": [
-      "EDM/Electronic",
-      "Pop",
-      "Progressive House",
-      "Eurodance"
+      "Electro House",
+      "Dance Pop",
+      "Stadium EDM"
     ],
+    "style": ["driving", "bright", "anthem"],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2414,11 +2403,11 @@
     "year": 2018,
     "duration": "4:45",
     "genres": [
-      "Hip-Hop",
-      "Rock/Punk/Metal",
+      "Dark Trap",
       "Hardcore Rap",
       "Orchestral Trap"
     ],
+    "style": ["aggressive", "cinematic", "dark"],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2430,16 +2419,21 @@
     "recs": []
   },
   {
-    "title": "Intro: Singularity",
+    "title": "Intro: Singularity (V)",
     "album": "Love Yourself: Tear",
     "year": 2018,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "3:16",
+    "genres": [
+      "Neo-soul",
+      "Alternative R&B",
+      "Jazz-pop"
+    ],
+    "style": ["sensual", "melancholic", "atmospheric"],
+    "bpm": 104,
+    "tier": "Slow",
+    "art": "assets/covers/loveyourself-tear.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV?si=9da938f45ff74739",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2449,13 +2443,18 @@
     "title": "DNA (Pedal 2 LA Mix)",
     "album": "Love Yourself: Answer",
     "year": 2018,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "4:07",
+    "genres": [
+      "Alternative Rock",
+      "Pop Rock",
+      "Electropop"
+    ],
+    "style": ["driving", "raw", "bright"],
+    "bpm": 130,
+    "tier": "Up-tempo",
+    "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/0RFxljd297sk7sKm5ZDD5J?si=2f78ea35ab6944e8",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2465,13 +2464,18 @@
     "title": "FAKE LOVE (Rocking Vibe Mix)",
     "album": "Love Yourself: Answer",
     "year": 2018,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "3:58",
+    "genres": [
+      "Alternative Rock",
+      "Emo Rap",
+      "Grunge Pop"
+    ],
+    "style": ["melancholic", "aggressive", "driving"],
+    "bpm": 155,
+    "tier": "Up-tempo",
+    "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu?si=f6b7e03e8e4e48ae",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2481,13 +2485,18 @@
     "title": "MIC Drop (Full Length ft. Steve Aoki)",
     "album": "Love Yourself: Answer",
     "year": 2018,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "5:07",
+    "genres": [
+      "EDM Trap",
+      "Electro House",
+      "Hardcore Trap"
+    ],
+    "style": ["aggressive", "driving", "chant-heavy"],
+    "bpm": 170,
+    "tier": "Up-tempo",
+    "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH?si=79af3897f06b4bb1",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2497,13 +2506,18 @@
     "title": "IDOL (ft. Nicki Minaj)",
     "album": "Love Yourself: Answer",
     "year": 2018,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "4:20",
+    "genres": [
+      "gqom",
+      "Afro Pop",
+      "Hardcore Rap"
+    ],
+    "style": ["aggressive", "chant-heavy", "driving"],
+    "bpm": 126,
+    "tier": "Up-tempo",
+    "art": "assets/covers/love-yourself-answer.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA?si=a6e319e2cdda47aa",
       "appleMusic": "",
       "youtube": ""
     },
@@ -2521,10 +2535,52 @@
     ],
     "bpm": 87,
     "tier": "Slow",
-    "art": "assets/covers/mots7.jpg",
+    "art": "assets/covers/persona.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69",
       "appleMusic": "https://music.apple.com/us/album/intro-persona/1599171924?i=1599171934&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Boy With Luv (작은 것들을 위한 시) (Feat. Halsey)",
+    "album": "Map of the Soul: 7",
+    "year": 2020,
+    "duration": "3:49",
+    "genres": [
+      "Synth-Pop",
+      "Funk-pop",
+      "Nu-Disco"
+    ],
+    "style": ["bright", "bouncy", "gliding"],
+    "bpm": 120,
+    "tier": "Mid",
+    "art": "assets/covers/persona.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI",
+      "appleMusic": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Mikrokosmos (소우주)",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": "3:44",
+    "genres": [
+      "Synth-Pop",
+      "Stadium Pop",
+      "Pop Rock"
+    ],
+    "style": ["anthem", "soaring", "bright"],
+    "bpm": 174,
+    "tier": "Up-tempo",
+    "art": "assets/covers/persona.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco?si=29389efe3d3642a8",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
@@ -2535,16 +2591,38 @@
     "year": 2019,
     "duration": "3:42",
     "genres": [
-      "Pop",
-      "R&B/Soul",
-      "Contemporary Pop"
+      "Contemporary R&B",
+      "R&B Pop",
+      "Alt-pop"
     ],
+    "style": ["smooth", "chill", "vocal-forward"],
     "bpm": 106,
     "tier": "Mid",
-    "art": "assets/covers/mots7.jpg",
+    "art": "assets/covers/persona.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/3LSjYk6sFQaLi0MjtWcm8P",
       "appleMusic": "https://music.apple.com/us/album/make-it-right/1599171924?i=1599172219&uo=4",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "HOME",
+    "album": "Map of the Soul: Persona",
+    "year": 2019,
+    "duration": "3:54",
+    "genres": [
+      "90s R&B",
+      "Contemporary R&B",
+      "Hip-Hop Pop"
+    ],
+    "style": ["smooth", "bouncy", "sensual"],
+    "bpm": 171,
+    "tier": "Up-tempo",
+    "art": "assets/covers/persona.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef?si=1dbe2a0249bb4972",
+      "appleMusic": "",
       "youtube": ""
     },
     "recs": []
@@ -2555,13 +2633,13 @@
     "year": 2019,
     "duration": "3:46",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Vocal Slow Jam"
+      "Pop Ballad",
+      "Ambient Pop"
     ],
+    "style": ["melancholic", "vocal-forward", "raw"],
     "bpm": 81,
     "tier": "Slow",
-    "art": "assets/covers/mots7.jpg",
+    "art": "assets/covers/persona.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/7cgWWkpUaS94xoWI8lMGiI",
       "appleMusic": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4",
@@ -2575,14 +2653,14 @@
     "year": 2019,
     "duration": "4:08",
     "genres": [
-      "Rock/Punk/Metal",
-      "Hip-Hop",
-      "Synth-punk",
-      "Rap-rock"
+      "Rap-rock",
+      "Hardcore Trap",
+      "Synth-Metal"
     ],
+    "style": ["aggressive", "driving", "chant-heavy"],
     "bpm": 176,
     "tier": "Up-tempo",
-    "art": "assets/covers/mots7.jpg",
+    "art": "assets/covers/persona.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN",
       "appleMusic": "https://music.apple.com/us/album/dionysus/1599171924?i=1599172420&uo=4",
@@ -2667,54 +2745,6 @@
       "spotify": "https://open.spotify.com/track/4sfXQzbYjROMuEgDfJisj3",
       "appleMusic": "https://music.apple.com/us/album/all-night-pt-3/1694730681?i=1694730954&uo=4",
       "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
-    },
-    "recs": []
-  },
-  {
-    "title": "Boy With Luv",
-    "album": "Map of the Soul: Persona",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Mikrokosmos",
-    "album": "Map of the Soul: Persona",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "HOME",
-    "album": "Map of the Soul: Persona",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
     },
     "recs": []
   },
@@ -2874,26 +2904,6 @@
     "links": {
       "spotify": "",
       "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Boy With Luv (Feat. Halsey)",
-    "album": "Map of the Soul: 7",
-    "year": 2020,
-    "duration": "3:49",
-    "genres": [
-      "Pop",
-      "Funk-pop",
-      "Dance Pop"
-    ],
-    "bpm": 120,
-    "tier": "Mid",
-    "art": "assets/covers/mots7.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI",
-      "appleMusic": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208&uo=4",
       "youtube": ""
     },
     "recs": []
@@ -3345,11 +3355,13 @@
     "duration": "2:44",
     "genres": [
       "Dance Pop",
-      "Synth-Funk"
+      "Disco-funk",
+      "Synth-pop"
     ],
+    "style": ["bright", "bouncy", "gliding"],
     "bpm": 110,
     "tier": "Mid-tempo",
-    "art": "assets/covers/proof.jpg",
+    "art": "assets/covers/butter.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB",
       "appleMusic": "https://music.apple.com/us/album/butter-megan-thee-stallion-remix/1598661509?i=1598661512&uo=4",
@@ -3358,32 +3370,63 @@
     "recs": []
   },
   {
-    "title": "Butter – Megan Thee Stallion Remix",
+    "title": "Butter (feat. Megan Thee Stallion)",
     "album": "Single",
     "year": 2021,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "2:44",
+    "genres": [
+      "Dance Pop",
+      "Disco-funk",
+      "Hip-Hop Pop"
+    ],
+    "style": ["bright", "bouncy", "playful"],
+    "bpm": 110,
+    "tier": "Up-tempo",
+    "art": "assets/covers/butterremix.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB?si=ed7a110b394243fd",
       "appleMusic": "",
       "youtube": ""
     },
     "recs": []
   },
   {
-    "title": "My Universe",
+    "title": "My Universe (with Coldplay)",
     "album": "Single",
     "year": 2021,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "3:48",
+    "genres": [
+      "Synth-Pop",
+      "Stadium Pop",
+      "Pop Rock"
+    ],
+    "style": ["soaring", "anthem", "bright"],
+    "bpm": 105,
+    "tier": "Mid",
+     "art": "assets/covers/universe.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM?si=4ce4eb3f541b4765",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "recs": []
+  },
+  {
+    "title": "Savage Love (Laxed – Siren Beat) [BTS Remix]",
+    "album": "Single",
+    "year": 2020,
+    "duration": "3:04",
+    "genres": [
+      "Tropical Pop",
+      "Reggaeton",
+      "Dancehall Pop"
+    ],
+    "style": ["bouncy", "chill", "playful"],
+    "bpm": 150,
+    "tier": "Up-tempo",
+    "art": "assets/covers/savage.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL?si=baeca3fad5de495b",
       "appleMusic": "",
       "youtube": ""
     },
@@ -3393,13 +3436,17 @@
     "title": "Bad Decision (With BTS & Benny Blanco)",
     "album": "Single",
     "year": 2021,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "2:52",
+    "genres": [
+      "Funk Pop",
+      "Synth-Pop",
+      "Dance Pop"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/bad.png",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn?si=81eab1574f0b4d39",
       "appleMusic": "",
       "youtube": ""
     },
@@ -4171,13 +4218,18 @@
     "title": "Come Over",
     "album": "Single",
     "year": 2026,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "2:58",
+    "genres": [
+      "Synth-Pop",
+      "Stadium Pop",
+      "Pop Rock"
+    ],
+    "style": ["soaring", "anthem", "melancholic"],
+    "bpm": 95,
+    "tier": "Mid",
+    "art": "assets/covers/comeover.jpg",
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs?si=7368c80682aa4edd",
       "appleMusic": "",
       "youtube": ""
     },
