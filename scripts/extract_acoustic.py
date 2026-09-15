@@ -9,9 +9,9 @@ from difflib import SequenceMatcher
 import re
 
 # --- Config ---
-DATA_FILE = "../data/bts.json"
-OUTPUT_FILE = "../data/bts.json"   # writes to a NEW file — doesn't touch your real data yet
-GROUP_NAME = "BTS"
+DATA_FILE = "../data/ateez.json"
+OUTPUT_FILE = "../data/ateez.json"   # writes to a NEW file — doesn't touch your real data yet
+GROUP_NAME = "Ateez"
 LIMIT = None  # only process the first 10 songs for now — set to None for a full run later
 TMP_FILE = "tmp_preview.m4a"
 
