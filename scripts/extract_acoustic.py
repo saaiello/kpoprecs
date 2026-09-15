@@ -9,26 +9,47 @@ from difflib import SequenceMatcher
 import re
 
 # --- Config ---
-DATA_FILE = "../data/skz.json"
-OUTPUT_FILE = "../data/skz.json"   # writes to a NEW file — doesn't touch your real data yet
-GROUP_NAME = "Stray Kids"
+DATA_FILE = "../data/bts.json"
+OUTPUT_FILE = "../data/bts.json"   # writes to a NEW file — doesn't touch your real data yet
+GROUP_NAME = "BTS"
 LIMIT = None  # only process the first 10 songs for now — set to None for a full run later
 TMP_FILE = "tmp_preview.m4a"
 
 FEATURES = ["spectral_centroid", "spectral_rolloff", "zero_crossing_rate", "rms_energy", "spectral_contrast"]
 
-def normalize_title(t):
+def normalize_chars(t):
     t = t.lower()
     t = re.sub(r'\([^)]*\)', '', t)
     t = re.sub(r'\[[^\]]*\]', '', t)
     t = re.sub(r'[^a-z0-9]', '', t)
     return t
 
-def titles_match(a, b, threshold=0.5):
-    na, nb = normalize_title(a), normalize_title(b)
+def normalize_words(t):
+    t = t.lower()
+    t = re.sub(r'\([^)]*\)', '', t)
+    t = re.sub(r'\[[^\]]*\]', '', t)
+    t = re.sub(r'[^a-z0-9\s]', '', t)
+    return set(w for w in t.split() if w)
+
+def char_ratio(a, b):
+    na, nb = normalize_chars(a), normalize_chars(b)
     if not na or not nb:
+        return 0
+    return SequenceMatcher(None, na, nb).ratio()
+
+def word_jaccard(a, b):
+    wa, wb = normalize_words(a), normalize_words(b)
+    if not wa or not wb:
+        return 0
+    return len(wa & wb) / len(wa | wb)
+
+def titles_match(a, b, char_threshold=0.5, high_char_threshold=0.95, word_threshold=0.6):
+    c = char_ratio(a, b)
+    if c < char_threshold:
         return False
-    return SequenceMatcher(None, na, nb).ratio() >= threshold
+    if c >= high_char_threshold:
+        return True
+    return word_jaccard(a, b) >= word_threshold
 
 def get_preview_url(title, artist):
     try:
