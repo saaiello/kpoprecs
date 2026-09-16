@@ -9,10 +9,10 @@ from difflib import SequenceMatcher
 import re
 
 # --- Config ---
-DATA_FILE = "../data/ateez.json"
-OUTPUT_FILE = "../data/ateez.json"   # writes to a NEW file — doesn't touch your real data yet
-GROUP_NAME = "Ateez"
-LIMIT = None  # only process the first 10 songs for now — set to None for a full run later
+DATA_FILE = "../data/bts.json"
+OUTPUT_FILE = "../data/bts.json"
+GROUP_NAME = "BTS"
+LIMIT = None
 TMP_FILE = "tmp_preview.m4a"
 
 FEATURES = ["spectral_centroid", "spectral_rolloff", "zero_crossing_rate", "rms_energy", "spectral_contrast"]
@@ -51,19 +51,48 @@ def titles_match(a, b, char_threshold=0.5, high_char_threshold=0.95, word_thresh
         return True
     return word_jaccard(a, b) >= word_threshold
 
-def get_preview_url(title, artist):
+def artist_matches(returned_artist, artist_field, group_name):
+    if not returned_artist:
+        return False
+    ra = returned_artist.lower()
+    candidates = [group_name.lower()]
+    if artist_field:
+        candidates.append(artist_field.lower())
+    return any(c in ra or ra in c for c in candidates)
+
+def build_search_term(song, group_name):
+    if song.get("_search_title_override"):
+        artist_field = song.get("artist") or group_name
+        return f"{artist_field} {song['_search_title_override']}"
+    artist_field = song.get("artist")
+    if not artist_field:
+        return f"{group_name} {song['title']}"
+    return f"{artist_field} {song['title']}"
+
+def get_preview_url(song, group_name):
+    # Use the override title for VALIDATION too, not just the search query --
+    # comparing "Extraordinary You" against "끝나지 않을 이야기" would always fail.
+    title = song.get("_search_title_override") or song["title"]
+    artist_field = song.get("artist")
+    query = build_search_term(song, group_name)
     try:
         resp = requests.get(
             "https://itunes.apple.com/search",
-            params={"term": f"{artist} {title}", "media": "music", "limit": 1},
+            params={"term": query, "media": "music", "limit": 1},
             timeout=10,
         )
         results = resp.json().get("results", [])
         if not results:
             return None, None
         matched_name = results[0].get("trackName")
+        matched_artist = results[0].get("artistName")
+        matched_collection_artist = results[0].get("collectionArtistName", "")
         if not titles_match(title, matched_name):
-            return None, f"REJECTED (too dissimilar): {matched_name}"
+            return None, f"REJECTED (title): {matched_name}"
+        artist_ok = artist_matches(matched_artist, artist_field, group_name)
+        collection_ok = group_name.lower() in matched_collection_artist.lower()
+        if not (artist_ok or collection_ok):
+            return None, f"REJECTED (artist: {matched_artist}): {matched_name}"
         return results[0].get("previewUrl"), matched_name
     except Exception as e:
         print(f"    lookup error: {e}")
@@ -106,9 +135,13 @@ def main():
     for i, song in enumerate(songs):
         title = song["title"]
         artist = song.get("artist") or GROUP_NAME
+
+        if song.get("acoustic"):
+            continue
+
         print(f"[{i+1}/{len(songs)}] {artist} — {title}")
 
-        preview_url, matched_name = get_preview_url(title, artist)
+        preview_url, matched_name = get_preview_url(song, GROUP_NAME)
         if not preview_url:
             print(f"    NO PREVIEW FOUND {matched_name or ''}")
             failures.append(title)
