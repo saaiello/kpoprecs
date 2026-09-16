@@ -208,6 +208,8 @@ function handleArtError(img){
   span.textContent = img.dataset.fallback;
   img.replaceWith(span);
 }
+window.handleArtError = handleArtError;
+
 function artHtml(song, className){
   const meta = groupMeta[song.group];
   const letter = song.title.charAt(0).toUpperCase();
@@ -226,6 +228,10 @@ function getMainGenres(song){
   return unique.length ? unique.slice(0, 3) : ["Interlude/Other"];
 }
 
+/* ================================================================
+   SIMILARITY SCORING
+   ================================================================ */
+
 function genreSimilarity(a, b){
   const ag = getMainGenres(a);
   const bg = getMainGenres(b);
@@ -234,10 +240,11 @@ function genreSimilarity(a, b){
   const union = new Set([...ag, ...bg]).size;
   return shared / union;
 }
+
 function bpmSimilarity(a, b){
   if (a.bpm == null || b.bpm == null) return 0.5;
   const diff = Math.abs(a.bpm - b.bpm);
-  return Math.max(0, 1 - diff / 100);
+  return Math.max(0, 1 - diff / 40);
 }
 
 function styleSimilarity(a, b){
@@ -249,15 +256,78 @@ function styleSimilarity(a, b){
   return union ? shared / union : 0;
 }
 
+/* ---- Acoustic (librosa-derived) similarity ----
+   Raw feature values live on very different scales (spectral_centroid/
+   spectral_rolloff are in the thousands, zero_crossing_rate/rms_energy
+   are 0-1), so we normalize each feature to 0-1 across the whole catalog
+   BEFORE computing distance. computeAcousticRanges() must run once,
+   after songs load, before any similarity scores are computed. */
+const ACOUSTIC_KEYS = ['spectral_centroid', 'spectral_rolloff', 'zero_crossing_rate', 'rms_energy', 'spectral_contrast'];
+let acousticRanges = {};
+
+function computeAcousticRanges(allSongs){
+  ACOUSTIC_KEYS.forEach(key => {
+    const values = allSongs
+      .filter(s => s.acoustic && s.acoustic[key] != null)
+      .map(s => s.acoustic[key]);
+    if (values.length) {
+      acousticRanges[key] = { min: Math.min(...values), max: Math.max(...values) };
+    }
+  });
+}
+
+function normalizedAcoustic(song, key){
+  const range = acousticRanges[key];
+  if (!range || range.max === range.min) return 0.5;
+  return (song.acoustic[key] - range.min) / (range.max - range.min);
+}
+
+function acousticSimilarity(a, b){
+  if (!a.acoustic || !b.acoustic) return null;
+  const dist = Math.sqrt(
+    ACOUSTIC_KEYS.reduce((sum, key) => {
+      const diff = normalizedAcoustic(a, key) - normalizedAcoustic(b, key);
+      return sum + diff * diff;
+    }, 0)
+  );
+  return Math.max(0, 1 - dist / Math.sqrt(ACOUSTIC_KEYS.length));
+}
+
+/* ---- Hand-tagged texture similarity (fallback for songs with no
+   acoustic data — e.g. tracks with no streaming preview available) ---- */
+function textureSimilarity(a, b){
+  const at = a.texture || [];
+  const bt = b.texture || [];
+  if (!at.length || !bt.length) return null;
+  const shared = at.filter(t => bt.includes(t)).length;
+  const union = new Set([...at, ...bt]).size;
+  return union ? shared / union : 0;
+}
+
+/* ---- Combined "how it sounds" score: prefer measured acoustic data,
+   fall back to hand-tagged texture when acoustic is missing on either side ---- */
+function soundSimilarity(a, b){
+  const acoustic = acousticSimilarity(a, b);
+  if (acoustic !== null) return acoustic;
+  return textureSimilarity(a, b);
+}
+
 function similarityScore(a, b){
   const gScore = genreSimilarity(a, b);
   const bScore = bpmSimilarity(a, b);
   const sScore = styleSimilarity(a, b);
+  const soundScore = soundSimilarity(a, b);
 
-  if (sScore === null) {
-    return gScore * (0.4 / 0.65) + bScore * (0.25 / 0.65);
-  }
-  return gScore * 0.4 + sScore * 0.35 + bScore * 0.25;
+  const weights = { genre: 0.30, style: 0.20, bpm: 0.20, sound: 0.30 };
+  const parts = [
+    [gScore, weights.genre],
+    [bScore, weights.bpm],
+  ];
+  if (sScore !== null) parts.push([sScore, weights.style]);
+  if (soundScore !== null) parts.push([soundScore, weights.sound]);
+
+  const totalWeight = parts.reduce((sum, [, w]) => sum + w, 0);
+  return parts.reduce((sum, [s, w]) => sum + s * w, 0) / totalWeight;
 }
 
 const MIN_REC_SCORE = 0.75;
@@ -681,7 +751,16 @@ async function init(){
     songs = await loadAllSources();
     songs.sort((a, b) => (b.year ?? -Infinity) - (a.year ?? -Infinity));
     byId = Object.fromEntries(songs.map(s => [s.id, s]));
+    computeAcousticRanges(songs);
     computeRecommendations(songs);
+    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+      window.songs = songs;
+      window.similarityScore = similarityScore;
+      window.genreSimilarity = genreSimilarity;
+      window.styleSimilarity = styleSimilarity;
+      window.bpmSimilarity = bpmSimilarity;
+      window.soundSimilarity = soundSimilarity;
+    }
     auditRecCoverage(songs);
 
     const params = new URLSearchParams(window.location.search);
@@ -718,5 +797,4 @@ async function init(){
     </div>`;
   }
 }
-
 init();

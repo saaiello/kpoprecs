@@ -1,8 +1,12 @@
 export const GENRE_MAP = {
+  "90s boom bap": "Hip-Hop",
+  "90s hip-hop": "Hip-Hop",
+  "90s r&b": "R&B/Soul",                          // NEW
   "acapella": null,
   "acoustic": "Acoustic",
   "acoustic/lo-fi": "Acoustic",
   "afro-pop": "Afrobeat/Global",
+  "afro pop": "Afrobeat/Global",                  // NEW
   "afrobeat": "Afrobeat/Global",
   "afro-house": "Afrobeat/Global",
   "aggressive trap": "Hip-Hop",
@@ -17,6 +21,7 @@ export const GENRE_MAP = {
   "ambient ballad": "Ballad",
   "ambient electronic": "Electronic",
   "ambient interlude": "Interlude/Other",
+  "ambient pop": "Pop",                           // NEW
   "anthem": null,
   "anthemic ballad": "Ballad",
   "anthemic marching-band pop": "Pop",
@@ -36,6 +41,7 @@ export const GENRE_MAP = {
   "contemporary r&b": "R&B/Soul",
   "cyberpunk pop": "Dance-Pop",
   "dance pop": "Dance-Pop",
+  "dancehall pop": "Afrobeat/Global",             // NEW
   "dark pop": "Pop",
   "dark synth-pop": "Dance-Pop",
   "dark synth-rock": "Electronic",
@@ -44,11 +50,13 @@ export const GENRE_MAP = {
   "deep house": "House/Club EDM",
   "demo": null,
   "disco pop": "Dance-Pop",
+  "disco-funk": "Dance-Pop",                      // NEW
   "drum & bass": "House/Club EDM",
   "drum and bass": "House/Club EDM",
   "edm trap": "House/Club EDM",
   "edm/electronic": "House/Club EDM",
   "electronic": "Electronic",
+  "electro house": "House/Club EDM",              // NEW
   "electropop": "Dance-Pop",
   "electro rock": "Rock/Punk/Metal",
   "experimental rap": "Hip-Hop",
@@ -80,6 +88,7 @@ export const GENRE_MAP = {
   "hip-hop": "Hip-Hop",
   "hip-hop/rap": "Hip-Hop",
   "hip-hop dance":"Dance-Pop",
+  "hip-hop pop": "Hip-Hop",                       // NEW
   "house": "House/Club EDM",
   "hybrid hip-hop": "Hip-Hop",
   "indie pop": "Pop",
@@ -91,6 +100,7 @@ export const GENRE_MAP = {
   "jazz-rap": "Hip-Hop",
   "jazz-pop": "R&B/Soul",
   "jazz pop": "R&B/Soul",
+  "jersey club": "House/Club EDM",                // NEW
   "kwaito": "Afrobeat/Global",
   "latin-pop": "Afrobeat/Global",
   "latin pop": "Afrobeat/Global",
@@ -106,11 +116,10 @@ export const GENRE_MAP = {
   "old-school hip-hop": "Hip-Hop",
   "orchestral": "Ballad",
   "orchestral trap": "Hip-Hop",
+  "orchestral hip-hop": "Hip-Hop",                // NEW
   "orchestral ballad": "Electronic",
-  "orchestral Pop": "Pop",
+  "orchestral pop": "Pop",                        // FIXED: was "orchestral Pop" (capital P), never matched
   "other": "Interlude/Other",
-  "90s boom bap": "Hip-Hop",
-  "90s hip-hop": "Hip-Hop",
   "pop": "Pop",
   "pop ballad": "Ballad",
   "pop rock": "Rock/Punk/Metal",
@@ -121,6 +130,7 @@ export const GENRE_MAP = {
   "r&b": "R&B/Soul",
   "r&b pop": "R&B/Soul",
   "r&b/soul": "R&B/Soul",
+  "r&b soul": "R&B/Soul",                         // NEW
   "r&b ballad": "Ballad",
   "rap rock": "Rock/Punk/Metal",
   "rap-rock": "Rock/Punk/Metal",
@@ -139,9 +149,11 @@ export const GENRE_MAP = {
   "spoken word": "Interlude/Other",
   "stadium edm": "House/Club EDM",
   "stadium anthem": "Pop",
+  "stadium pop": "Pop",                           // NEW
   "summer trap": "Hip-Hop",
   "symphonic pop": "Pop",
   "synth-funk": "Dance-Pop",
+  "synth-metal": "Rock/Punk/Metal",               // NEW
   "synth-pop": "Dance-Pop",
   "synth-punk": "Rock/Punk/Metal",
   "synthwave": "Electronic",
@@ -154,6 +166,7 @@ export const GENRE_MAP = {
   "traditional afro-pop": "Afrobeat/Global",
   "traditional folk": "Acoustic",
   "tropical house": "House/Club EDM",
+  "tropical pop": "Dance-Pop",                    // NEW
   "vocal power ballad": "Ballad",
   "vocal slow jam": "R&B/Soul"
 };
@@ -237,3 +250,15 @@ export const STYLE_TAGS = [
 // - Focus strictly on instrumentation, drum profile, tempo, and vocal delivery over generic genre labels.
 
 // Please process the following album track-by-track: [INSERT ARTIST & ALBUM NAME HERE]
+
+
+
+// raw — unpolished, present distortion or clipping in vocals/drums; you can hear grit or breath/mic noise; feels "live" or unmixed even if it's not. Cue: does it sound like it could damage a cheap speaker? (No More Dream, Danger, early O!RUL8,2? tracks — anything pre-2016 BTS hip-hop.)
+
+// metallic — hard, clangy, industrial percussion or synth stabs; sounds like it's hitting metal, not skin or wood; often paired with distorted 808s or synth-metal guitar. Cue: sharp high-frequency clank on the beat, not a warm thump. (Walkin On Water, MIC Drop, Dionysus.)
+
+// polished — clean, radio-ready mix; vocals sit smoothly in the pocket with no rough edges; percussion is punchy but rounded, not harsh. Cue: could this play on Top 40 radio without anyone flinching? (Body to Body, Dynamite, most Dance-Pop/Ballad tracks.)
+
+// airy — light, spacious, lots of reverb/room; thin or floaty vocal delivery; low end is minimal or soft. Cue: does the track feel like it has room to breathe, or does it feel like it could float away? (Spring Day, ballad interludes, acoustic tracks.)
+
+// synthetic — obviously electronic/processed; vocoder, heavy autotune-as-effect, glitch, robotic doubling. Distinct from "metallic" — this is about processing, not hardness. Cue: does a human voice sound like a human, or like a machine imitating one? (Cyberpunk pop, synthwave, darkwave tracks.)
