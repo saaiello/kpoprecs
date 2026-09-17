@@ -58,6 +58,7 @@ const mobileMenuBtn = document.getElementById("mobileMenuBtn");
 const sidebarOverlay = document.getElementById("sidebarOverlay");
 const sidebarCloseEl = document.getElementById("sidebarClose");
 const sidebarEl = document.querySelector(".sidebar");
+const playlistsSection = document.querySelector(".playlists");
 
 let songs = [];
 
@@ -197,16 +198,20 @@ function renderPlaylists(){
 /* ---- Search ---- */
 function openSearchMode(){
   hero.classList.add("hidden");
+  playlistsSection.classList.add("hidden");
   searchMode.classList.add("active");
   modeSearch.value = heroSearch.value;
   modeSearch.focus();
+  document.querySelector(".content").scrollTop = 0;
 }
 function closeSearchMode(){
   searchMode.classList.remove("active");
   hero.classList.remove("hidden");
+  playlistsSection.classList.remove("hidden");
   heroSearch.value = "";
   modeSearch.value = "";
 }
+
 function handleSubmit(value){
   const query = value.trim();
   if (!query) return;

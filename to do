@@ -1,0 +1,49 @@
+New groups — setup needed before data entry
+ Cortis — add to groupMeta + DATA_SOURCES in app.js, create data/cortis.json
+ P1Harmony — same
+ Seventeen — same
+ Tomorrow X Together — same
+ Wonho — already wired into app.js, just needs song data
+
+Data entry backlog
+ Ateez — 119 songs
+ Enhypen — 149 songs
+ Cortis, P1Harmony, Seventeen, TXT, Wonho — full catalogs, TBD size
+
+Style tagging (existing groups)
+ 46 more BTS songs
+
+Manual texture tags (11, on already-processed entries)
+ SKZ: GIANT (Korean Ver.), Extraordinary You
+ BTS: Run, Jump (Demo Ver.), Young Love, Quotation Mark, Boyz with Fun (Demo Ver.), Tony Montana (with Jimin), Young Forever (RM Demo Ver.), Seesaw (Demo Ver.), Still With You (Acapella)
+
+Pipeline maintenance
+ Body to Body / MIN_REC_SCORE recheck
+ Remove window.songs debug exposures
+ Cover art backlog
+ isOST tagging
+ artist override audit
+
+New scope (features, not content)
+ Mobile responsiveness, community features, backend, about page, PWA packaging
+
+Someday
+ rapidfuzz, Essentia
+
+
+
+
+
+ Final SKZ manual-texture-tag list (2):
+ GIANT (Korean Ver.) — confirmed same-title ranking collision with the 2020 single
+ Extraordinary You / 끝나지 않을 이야기 — likely rate-limited tonight, worth one retry tomorrow before manually tagging
+
+BTS — manual texture tags (9, final)
+ Run — confirmed collision with "Run BTS"
+ Jump (Demo Ver.)
+ Young Love
+ Quotation Mark
+ Boyz with Fun (Demo Ver.)
+ Tony Montana (with Jimin)
+ Young Forever (RM Demo Ver.)
+ Seesaw (Demo Ver.)

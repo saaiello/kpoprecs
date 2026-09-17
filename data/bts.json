@@ -8,7 +8,11 @@
       "90s Boom Bap",
       "Experimental Rap"
     ],
-    "style": ["retro", "aggressive", "performance-driven"],
+    "style": [
+      "retro",
+      "aggressive",
+      "performance-driven"
+    ],
     "bpm": 95,
     "tier": "Slow",
     "art": "assets/covers/2cool.jpg",
@@ -17,7 +21,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2065.1085407997025,
+      "spectral_rolloff": 4096.266238190407,
+      "zero_crossing_rate": 0.09919376816860465,
+      "rms_energy": 0.17051394283771515,
+      "spectral_contrast": 15.655279771964695
+    }
   },
   {
     "title": "We are Bulletproof Pt. 2",
@@ -29,7 +40,11 @@
       "gangsta rap",
       "Trap"
     ],
-    "style": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 144,
     "tier": "Up-tempo",
     "art": "assets/covers/2cool.jpg",
@@ -38,7 +53,14 @@
       "appleMusic": "",
       "youtube": "https://www.youtube.com/watch?v=lE9lkSdtZeQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3163.4448797003847,
+      "spectral_rolloff": 6496.584075218023,
+      "zero_crossing_rate": 0.14684850411821707,
+      "rms_energy": 0.2395111322402954,
+      "spectral_contrast": 17.82983331327613
+    }
   },
   {
     "title": "No More Dream",
@@ -51,7 +73,11 @@
       "Hardcore Rap",
       "Gangsta Rap"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 168,
     "tier": "Up-tempo",
     "art": "assets/covers/2cool.jpg",
@@ -60,7 +86,14 @@
       "appleMusic": "https://music.apple.com/us/album/no-more-dream/1596528414?i=1596528617&uo=4",
       "youtube": "https://www.youtube.com/watch?v=rBG5L7UsUxA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2104.402422764877,
+      "spectral_rolloff": 4564.413097292878,
+      "zero_crossing_rate": 0.06605271923449613,
+      "rms_energy": 0.24671614170074463,
+      "spectral_contrast": 18.14623004155027
+    }
   },
   {
     "title": "Like",
@@ -72,7 +105,11 @@
       "R&B Pop",
       "Slow Jam"
     ],
-    "style": ["smooth", "chill", "sensual"],
+    "style": [
+      "smooth",
+      "chill",
+      "sensual"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/2cool.jpg",
@@ -81,7 +118,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2134.3951971244305,
+      "spectral_rolloff": 4814.356831395349,
+      "zero_crossing_rate": 0.07438188892926356,
+      "rms_energy": 0.2370595932006836,
+      "spectral_contrast": 19.363547340952703
+    }
   },
   {
     "title": "Outro: Circle Room Cypher",
@@ -92,7 +136,11 @@
       "Old School Boom-bap",
       "Freestyle Rap"
     ],
-    "style": ["playful", "retro", "raw"],
+    "style": [
+      "playful",
+      "retro",
+      "raw"
+    ],
     "bpm": 94,
     "tier": "Slow",
     "art": "assets/covers/2cool.jpg",
@@ -101,7 +149,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2382.8133514356246,
+      "spectral_rolloff": 4756.484261446221,
+      "zero_crossing_rate": 0.1081539183624031,
+      "rms_energy": 0.026247020810842514,
+      "spectral_contrast": 17.916492996127463
+    }
   },
   {
     "title": "Intro: O!Rul8,2?",
@@ -113,7 +168,11 @@
       "Conscious Hip-Hop",
       "Ambient Interlude"
     ],
-    "style": ["atmospheric", "cinematic", "vocal-forward"],
+    "style": [
+      "atmospheric",
+      "cinematic",
+      "vocal-forward"
+    ],
     "bpm": 150,
     "tier": null,
     "art": "assets/covers/ORUL82.jpg",
@@ -122,7 +181,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1847.6289814871836,
+      "spectral_rolloff": 3570.296886355378,
+      "zero_crossing_rate": 0.09426894077034884,
+      "rms_energy": 0.1263231337070465,
+      "spectral_contrast": 17.98495630181127
+    }
   },
   {
     "title": "N.O",
@@ -135,7 +201,11 @@
       "Hardcore Hip-Hop",
       "EDM Trap"
     ],
-    "style": ["aggressive", "driving", "glitchy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "glitchy"
+    ],
     "bpm": 144,
     "tier": "Up-tempo",
     "art": "assets/covers/ORUL82.jpg",
@@ -144,7 +214,14 @@
       "appleMusic": "https://music.apple.com/us/album/n-o/1627573936?i=1627574239&uo=4",
       "youtube": "https://www.youtube.com/watch?v=r5GaAEIvBV4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3066.942879254012,
+      "spectral_rolloff": 6838.668433203427,
+      "zero_crossing_rate": 0.13665634379841207,
+      "rms_energy": 0.2689855694770813,
+      "spectral_contrast": 17.509150871027867
+    }
   },
   {
     "title": "We On",
@@ -156,7 +233,11 @@
       "Old School Boom-bap",
       "R&B Pop"
     ],
-    "style": ["smooth", "retro", "bouncy"],
+    "style": [
+      "smooth",
+      "retro",
+      "bouncy"
+    ],
     "bpm": 97,
     "tier": "Slow",
     "art": "assets/covers/ORUL82.jpg",
@@ -165,7 +246,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2618.5551280928335,
+      "spectral_rolloff": 5518.993345748547,
+      "zero_crossing_rate": 0.07399164244186046,
+      "rms_energy": 0.2849489152431488,
+      "spectral_contrast": 18.769390238679822
+    }
   },
   {
     "title": "If I Ruled The World",
@@ -177,7 +265,11 @@
       "90s Hip-Hop",
       "R&B Pop"
     ],
-    "style": ["bouncy", "retro", "playful"],
+    "style": [
+      "bouncy",
+      "retro",
+      "playful"
+    ],
     "bpm": 93,
     "tier": "Slow",
     "art": "assets/covers/ORUL82.jpg",
@@ -186,7 +278,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2332.532455041212,
+      "spectral_rolloff": 5114.586437136628,
+      "zero_crossing_rate": 0.09836066194282946,
+      "rms_energy": 0.16883911192417145,
+      "spectral_contrast": 17.982723136508408
+    }
   },
   {
     "title": "Coffee",
@@ -198,7 +297,11 @@
       "R&B Pop",
       "Slow Jam"
     ],
-    "style": ["smooth", "chill", "sensual"],
+    "style": [
+      "smooth",
+      "chill",
+      "sensual"
+    ],
     "bpm": 119,
     "tier": "Mid",
     "art": "assets/covers/ORUL82.jpg",
@@ -207,7 +310,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2568.37461633655,
+      "spectral_rolloff": 5796.254201489825,
+      "zero_crossing_rate": 0.09926455002422481,
+      "rms_energy": 0.1650288850069046,
+      "spectral_contrast": 17.452978357182797
+    }
   },
   {
     "title": "BTS Cypher Pt. 1",
@@ -219,7 +329,11 @@
       "Hardcore Hip-Hop",
       "Dark Trap"
     ],
-    "style": ["aggressive", "driving", "raw"],
+    "style": [
+      "aggressive",
+      "driving",
+      "raw"
+    ],
     "bpm": 97,
     "tier": "Slow",
     "art": "assets/covers/ORUL82.jpg",
@@ -228,7 +342,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2446.435866710195,
+      "spectral_rolloff": 4810.033498364825,
+      "zero_crossing_rate": 0.12702542090600774,
+      "rms_energy": 0.18840807676315308,
+      "spectral_contrast": 16.819806711388882
+    }
   },
   {
     "title": "Attack on Bangtan (진격의 방탄)",
@@ -240,7 +361,11 @@
       "Hip-Hop Dance",
       "Alternative Hip-Hop"
     ],
-    "style": ["aggressive", "driving", "performance-driven"],
+    "style": [
+      "aggressive",
+      "driving",
+      "performance-driven"
+    ],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/ORUL82.jpg",
@@ -249,7 +374,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2513.4078849036055,
+      "spectral_rolloff": 5045.563340297965,
+      "zero_crossing_rate": 0.12541144319282946,
+      "rms_energy": 0.27570781111717224,
+      "spectral_contrast": 16.403557718388495
+    }
   },
   {
     "title": "Paldogangsan (팔도강산)",
@@ -261,7 +393,11 @@
       "90s Hip-Hop",
       "Alternative Hip-Hop"
     ],
-    "style": ["bouncy", "playful", "retro"],
+    "style": [
+      "bouncy",
+      "playful",
+      "retro"
+    ],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/ORUL82.jpg",
@@ -270,7 +406,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2905.2880979989122,
+      "spectral_rolloff": 5966.066042877907,
+      "zero_crossing_rate": 0.1492259417393411,
+      "rms_energy": 0.30606359243392944,
+      "spectral_contrast": 16.756918227151782
+    }
   },
   {
     "title": "Outro: Luv in Skool",
@@ -281,7 +424,11 @@
       "R&B Ballad",
       "Contemporary R&B"
     ],
-    "style": ["smooth", "melancholic", "vocal-forward"],
+    "style": [
+      "smooth",
+      "melancholic",
+      "vocal-forward"
+    ],
     "bpm": 132,
     "tier": "Mid",
     "art": "assets/covers/ORUL82.jpg",
@@ -290,7 +437,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2154.4503078275916,
+      "spectral_rolloff": 5081.936091933139,
+      "zero_crossing_rate": 0.05022445796996124,
+      "rms_energy": 0.2948112189769745,
+      "spectral_contrast": 19.331189753852836
+    }
   },
   {
     "title": "Boy In Luv (상남자)",
@@ -302,7 +456,11 @@
       "Rap Rock",
       "Pop-Punk"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 166,
     "tier": "Up-tempo",
     "art": "assets/covers/skoolspecial.jpg",
@@ -311,7 +469,14 @@
       "appleMusic": "https://music.apple.com/us/album/boy-in-luv/1596528694?i=1596528795&uo=4",
       "youtube": "https://www.youtube.com/watch?v=LHHjp3IMjMk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2975.435022799958,
+      "spectral_rolloff": 6200.327261991279,
+      "zero_crossing_rate": 0.14264133660368217,
+      "rms_energy": 0.3101305067539215,
+      "spectral_contrast": 17.10962814142926
+    }
   },
   {
     "title": "Intro: What am I to you",
@@ -323,7 +488,11 @@
       "Orchestral Trap",
       "Conscious Hip-Hop"
     ],
-    "style": ["cinematic", "aggressive", "vocal-forward"],
+    "style": [
+      "cinematic",
+      "aggressive",
+      "vocal-forward"
+    ],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -332,7 +501,14 @@
       "appleMusic": "https://music.apple.com/us/album/intro-what-am-i-to-you/1597016856?i=1597016863&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2032.6971042478624,
+      "spectral_rolloff": 4003.38134765625,
+      "zero_crossing_rate": 0.10921753875968992,
+      "rms_energy": 0.17886275053024292,
+      "spectral_contrast": 19.39180153331643
+    }
   },
   {
     "title": "Danger",
@@ -344,7 +520,11 @@
       "Pop-rock",
       "Hardcore Hip-Hop"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -353,7 +533,14 @@
       "appleMusic": "https://music.apple.com/us/album/danger/1597016856?i=1597016873&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2537.50333083567,
+      "spectral_rolloff": 5669.1916106468025,
+      "zero_crossing_rate": 0.0813957273498062,
+      "rms_energy": 0.3081585466861725,
+      "spectral_contrast": 16.499371484000097
+    }
   },
   {
     "title": "War of Hormone (호르몬 전쟁)",
@@ -365,7 +552,11 @@
       "Pop-Punk",
       "Hardcore Hip-Hop"
     ],
-    "style": ["bouncy", "driving", "playful"],
+    "style": [
+      "bouncy",
+      "driving",
+      "playful"
+    ],
     "bpm": 126,
     "tier": "Fast",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -374,10 +565,17 @@
       "appleMusic": "https://music.apple.com/us/album/war-of-hormone/1597016856?i=1597017069&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2926.9510133416256,
+      "spectral_rolloff": 5838.102062136628,
+      "zero_crossing_rate": 0.1617168574370155,
+      "rms_energy": 0.2609672248363495,
+      "spectral_contrast": 16.35614848574455
+    }
   },
   {
-    "title": "Hip Hop Phile (힙합애성애자)",
+    "title": "Hip Hop Phile",
     "album": "Dark & Wild",
     "year": 2014,
     "duration": "4:17",
@@ -386,7 +584,11 @@
       "Old School Boom-bap",
       "Conscious Hip-Hop"
     ],
-    "style": ["retro", "vocal-forward", "nostalgic"],
+    "style": [
+      "retro",
+      "vocal-forward",
+      "nostalgic"
+    ],
     "bpm": 90,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -395,7 +597,14 @@
       "appleMusic": "https://music.apple.com/us/album/hip-hop-phile/1597016856?i=1597017081&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2918.741623465228,
+      "spectral_rolloff": 5553.9889739280525,
+      "zero_crossing_rate": 0.15295050569282945,
+      "rms_energy": 0.24810847640037537,
+      "spectral_contrast": 17.72491271957821
+    }
   },
   {
     "title": "Let Me Know",
@@ -406,7 +615,11 @@
       "Alternative R&B",
       "R&B Ballad"
     ],
-    "style": ["melancholic", "atmospheric", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "atmospheric",
+      "vocal-forward"
+    ],
     "bpm": 140,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -415,7 +628,14 @@
       "appleMusic": "https://music.apple.com/us/album/let-me-know/1597016856?i=1597017095&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2488.4896620716086,
+      "spectral_rolloff": 5700.347985555959,
+      "zero_crossing_rate": 0.10061962512112403,
+      "rms_energy": 0.1445818692445755,
+      "spectral_contrast": 19.318419033996857
+    }
   },
   {
     "title": "Rain",
@@ -427,7 +647,11 @@
       "Jazz-hop",
       "Slow Jam"
     ],
-    "style": ["chill", "atmospheric", "smooth"],
+    "style": [
+      "chill",
+      "atmospheric",
+      "smooth"
+    ],
     "bpm": 76,
     "tier": "Slow",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -436,7 +660,14 @@
       "appleMusic": "https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2336.5376125904054,
+      "spectral_rolloff": 4802.488531068314,
+      "zero_crossing_rate": 0.09346800811531007,
+      "rms_energy": 0.19353145360946655,
+      "spectral_contrast": 17.88665916197382
+    }
   },
   {
     "title": "Could You Turn Off Your Cell Phone (핸드폰 좀 꺼줄래)",
@@ -448,7 +679,11 @@
       "R&B Pop",
       "Contemporary Pop"
     ],
-    "style": ["bouncy", "playful", "bright"],
+    "style": [
+      "bouncy",
+      "playful",
+      "bright"
+    ],
     "bpm": 95,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -457,7 +692,14 @@
       "appleMusic": "https://music.apple.com/us/album/could-you-turn-off-your-cell-phone/1597016856?i=1597017242&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2805.415539632228,
+      "spectral_rolloff": 6044.01123046875,
+      "zero_crossing_rate": 0.12032801901647287,
+      "rms_energy": 0.28189948201179504,
+      "spectral_contrast": 17.362755589653634
+    }
   },
   {
     "title": "Embarrassed (이불킥)",
@@ -469,7 +711,11 @@
       "R&B Pop",
       "Slow Jam"
     ],
-    "style": ["smooth", "playful", "chill"],
+    "style": [
+      "smooth",
+      "playful",
+      "chill"
+    ],
     "bpm": 88,
     "tier": "Slow",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -478,7 +724,14 @@
       "appleMusic": "https://music.apple.com/us/album/embarrassed/1597016856?i=1597017519&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2801.5911032898443,
+      "spectral_rolloff": 5832.6352993277615,
+      "zero_crossing_rate": 0.14577163578003877,
+      "rms_energy": 0.19089752435684204,
+      "spectral_contrast": 19.660545989478834
+    }
   },
   {
     "title": "24/7=heaven",
@@ -490,7 +743,11 @@
       "Alt-pop",
       "Contemporary R&B"
     ],
-    "style": ["bright", "smooth", "dreamy"],
+    "style": [
+      "bright",
+      "smooth",
+      "dreamy"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -499,7 +756,14 @@
       "appleMusic": "https://music.apple.com/us/album/24-7-heaven/1597016856?i=1597017525&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3069.3031628008375,
+      "spectral_rolloff": 6303.1190952034885,
+      "zero_crossing_rate": 0.17049342902131784,
+      "rms_energy": 0.28123125433921814,
+      "spectral_contrast": 16.54959468637615
+    }
   },
   {
     "title": "Look Here (여기 봐)",
@@ -511,7 +775,11 @@
       "Nu-Disco",
       "Alternative Hip-Hop"
     ],
-    "style": ["bouncy", "retro", "playful"],
+    "style": [
+      "bouncy",
+      "retro",
+      "playful"
+    ],
     "bpm": 118,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -520,10 +788,17 @@
       "appleMusic": "https://music.apple.com/us/album/look-here/1597016856?i=1597017528&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2935.0234012605197,
+      "spectral_rolloff": 6245.780682231105,
+      "zero_crossing_rate": 0.13763512899709301,
+      "rms_energy": 0.2332831770181656,
+      "spectral_contrast": 16.826283989923528
+    }
   },
   {
-    "title": "So 4 more",
+    "title": "2nd Grade",
     "album": "Dark & Wild",
     "year": 2014,
     "duration": "3:55",
@@ -532,7 +807,11 @@
       "Bright Hip-Hop",
       "Trap-pop"
     ],
-    "style": ["bouncy", "playful", "driving"],
+    "style": [
+      "bouncy",
+      "playful",
+      "driving"
+    ],
     "bpm": 102,
     "tier": "Mid",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -541,7 +820,14 @@
       "appleMusic": "https://music.apple.com/us/album/2nd-grade/1597016856?i=1597017538&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3323.557907121885,
+      "spectral_rolloff": 6657.6991733284885,
+      "zero_crossing_rate": 0.15505125060562017,
+      "rms_energy": 0.31272411346435547,
+      "spectral_contrast": 17.131341077789436
+    }
   },
   {
     "title": "Outro: Do You Think It Makes Sense?",
@@ -552,7 +838,11 @@
       "R&B Ballad",
       "Contemporary R&B"
     ],
-    "style": ["melancholic", "vocal-forward", "smooth"],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "smooth"
+    ],
     "bpm": 80,
     "tier": "Slow",
     "art": "assets/covers/dark_and_wild.jpg",
@@ -561,7 +851,14 @@
       "appleMusic": "https://music.apple.com/us/album/outro-do-you-think-it-makes-sense/1597016856?i=1597017846&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2315.1906603898083,
+      "spectral_rolloff": 5181.714945948401,
+      "zero_crossing_rate": 0.09442980862403101,
+      "rms_energy": 0.23208042979240417,
+      "spectral_contrast": 18.54923507061108
+    }
   },
   {
     "title": "Intro: Skool Luv Affair",
@@ -573,7 +870,11 @@
       "Old School Boom-bap",
       "Hardcore Trap"
     ],
-    "style": ["aggressive", "bouncy", "retro"],
+    "style": [
+      "aggressive",
+      "bouncy",
+      "retro"
+    ],
     "bpm": 95,
     "tier": "Mid",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -582,7 +883,14 @@
       "appleMusic": "https://music.apple.com/us/album/intro-skool-luv-affair/1596533234?i=1596533244&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2132.699221293855,
+      "spectral_rolloff": 4709.62033293968,
+      "zero_crossing_rate": 0.05363296390503876,
+      "rms_energy": 0.2653851807117462,
+      "spectral_contrast": 18.547801783628188
+    }
   },
   {
     "title": "Where You From",
@@ -593,7 +901,11 @@
       "Bright Hip-Hop",
       "R&B Pop"
     ],
-    "style": ["bouncy", "playful", "bright"],
+    "style": [
+      "bouncy",
+      "playful",
+      "bright"
+    ],
     "bpm": 100,
     "tier": "Mid",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -602,7 +914,14 @@
       "appleMusic": "https://music.apple.com/us/album/where-you-from/1596528694?i=1596528811&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2184.2363746026003,
+      "spectral_rolloff": 4301.090400163517,
+      "zero_crossing_rate": 0.09875999273255814,
+      "rms_energy": 0.2079237848520279,
+      "spectral_contrast": 17.089914879063066
+    }
   },
   {
     "title": "Just One Day",
@@ -613,7 +932,11 @@
       "Contemporary R&B",
       "R&B Pop"
     ],
-    "style": ["smooth", "chill", "vocal-forward"],
+    "style": [
+      "smooth",
+      "chill",
+      "vocal-forward"
+    ],
     "bpm": 95,
     "tier": "Mid",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -622,7 +945,14 @@
       "appleMusic": "https://music.apple.com/us/album/just-one-day/1596528694?i=1596528970&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2259.8416411342064,
+      "spectral_rolloff": 4691.8679596656975,
+      "zero_crossing_rate": 0.10051288456879845,
+      "rms_energy": 0.15388578176498413,
+      "spectral_contrast": 20.571912649332187
+    }
   },
   {
     "title": "Tomorrow",
@@ -633,7 +963,11 @@
       "Alternative R&B",
       "Dark Trap"
     ],
-    "style": ["melancholic", "dark", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "dark",
+      "vocal-forward"
+    ],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -642,7 +976,14 @@
       "appleMusic": "https://music.apple.com/us/album/tomorrow/1596528694?i=1596528971&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2607.0355814625364,
+      "spectral_rolloff": 5357.953363462936,
+      "zero_crossing_rate": 0.11354658733042636,
+      "rms_energy": 0.33245036005973816,
+      "spectral_contrast": 17.158239804153332
+    }
   },
   {
     "title": "BTS Cypher, Pt. 2: Triptych",
@@ -654,7 +995,11 @@
       "Hardcore Hip-Hop",
       "Dark Trap"
     ],
-    "style": ["aggressive", "driving", "raw"],
+    "style": [
+      "aggressive",
+      "driving",
+      "raw"
+    ],
     "bpm": 150,
     "tier": "Fast",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -663,7 +1008,14 @@
       "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-2-triptych/1596528694?i=1596528975&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2433.9421549099598,
+      "spectral_rolloff": 5029.413437954215,
+      "zero_crossing_rate": 0.11013845990794574,
+      "rms_energy": 0.37764421105384827,
+      "spectral_contrast": 15.524342314022514
+    }
   },
   {
     "title": "Spine Breaker",
@@ -675,7 +1027,11 @@
       "90s Hip-Hop",
       "Alternative Hip-Hop"
     ],
-    "style": ["bouncy", "retro", "chant-heavy"],
+    "style": [
+      "bouncy",
+      "retro",
+      "chant-heavy"
+    ],
     "bpm": 92,
     "tier": "Mid",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -684,7 +1040,14 @@
       "appleMusic": "https://music.apple.com/us/album/spine-breaker/1596528694?i=1596528980&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2657.9191420570996,
+      "spectral_rolloff": 5135.326750999273,
+      "zero_crossing_rate": 0.13858822371608528,
+      "rms_energy": 0.3348579406738281,
+      "spectral_contrast": 17.561385354489527
+    }
   },
   {
     "title": "Jump",
@@ -696,7 +1059,11 @@
       "Hip-Hop Dance",
       "Rap Rock"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 128,
     "tier": "Fast",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -705,7 +1072,14 @@
       "appleMusic": "https://music.apple.com/us/album/jump/1596528694?i=1596528983&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3233.2230315111224,
+      "spectral_rolloff": 6764.588992096657,
+      "zero_crossing_rate": 0.16697553294573644,
+      "rms_energy": 0.3652382493019104,
+      "spectral_contrast": 16.672988716423554
+    }
   },
   {
     "title": "Outro: Propose",
@@ -716,7 +1090,11 @@
       "R&B Ballad",
       "Contemporary R&B"
     ],
-    "style": ["smooth", "melancholic", "vocal-forward"],
+    "style": [
+      "smooth",
+      "melancholic",
+      "vocal-forward"
+    ],
     "bpm": 80,
     "tier": "Slow",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -725,7 +1103,14 @@
       "appleMusic": "https://music.apple.com/us/album/outro-propose/1596533234?i=1596533511&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2624.89082586683,
+      "spectral_rolloff": 5313.98556731468,
+      "zero_crossing_rate": 0.14289077640503875,
+      "rms_energy": 0.231947124004364,
+      "spectral_contrast": 18.886029394918257
+    }
   },
   {
     "title": "Miss Right",
@@ -736,7 +1121,11 @@
       "R&B Pop",
       "Contemporary R&B"
     ],
-    "style": ["bright", "smooth", "bouncy"],
+    "style": [
+      "bright",
+      "smooth",
+      "bouncy"
+    ],
     "bpm": 98,
     "tier": "Slow",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -745,7 +1134,14 @@
       "appleMusic": "https://music.apple.com/us/album/miss-right/1596533234?i=1596533237&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2338.6577870644837,
+      "spectral_rolloff": 4631.232796602471,
+      "zero_crossing_rate": 0.1171394289001938,
+      "rms_energy": 0.20902501046657562,
+      "spectral_contrast": 18.71291746922433
+    }
   },
   {
     "title": "Like (좋아요) (Slow Jam Remix)",
@@ -756,7 +1152,11 @@
       "Contemporary R&B",
       "Slow Jam"
     ],
-    "style": ["sensual", "smooth", "chill"],
+    "style": [
+      "sensual",
+      "smooth",
+      "chill"
+    ],
     "bpm": 72,
     "tier": "Slow",
     "art": "assets/covers/skool_luv_affair.jpg",
@@ -765,7 +1165,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-like-it/1443817875?i=1443817879&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2830.8102291390255,
+      "spectral_rolloff": 6062.806879087936,
+      "zero_crossing_rate": 0.12803945615310078,
+      "rms_energy": 0.186663419008255,
+      "spectral_contrast": 20.150405151146966
+    }
   },
   {
     "title": "Intro: The Most Beautiful Moment in Life (Suga)",
@@ -789,7 +1196,14 @@
       "appleMusic": "https://music.apple.com/us/album/intro-the-most-beautiful-moment-in-life/1598661880?i=1598661889&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2279.075250053055,
+      "spectral_rolloff": 5046.172613099564,
+      "zero_crossing_rate": 0.0917927113614341,
+      "rms_energy": 0.1452384740114212,
+      "spectral_contrast": 17.410595504778613
+    }
   },
   {
     "title": "I Need U",
@@ -814,7 +1228,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-need-u/1598661880?i=1598661895&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2994.008335687665,
+      "spectral_rolloff": 6361.0500885719475,
+      "zero_crossing_rate": 0.13495223171027132,
+      "rms_energy": 0.2806825637817383,
+      "spectral_contrast": 19.7340067215765
+    }
   },
   {
     "title": "Hold Me Tight (잡아줘)",
@@ -839,7 +1260,14 @@
       "appleMusic": "https://music.apple.com/us/album/hold-me-tight/1598661880?i=1598661897&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1444.9386605153127,
+      "spectral_rolloff": 2751.7597429142443,
+      "zero_crossing_rate": 0.07356884387112403,
+      "rms_energy": 0.04173154756426811,
+      "spectral_contrast": 19.031819804634143
+    }
   },
   {
     "title": "Autumn Leaves (고엽)",
@@ -864,7 +1292,14 @@
       "appleMusic": "https://music.apple.com/us/album/autumn-leaves/1598661880?i=1598661898&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2836.4850787674222,
+      "spectral_rolloff": 5832.593568313953,
+      "zero_crossing_rate": 0.13987743762112403,
+      "rms_energy": 0.20429086685180664,
+      "spectral_contrast": 18.86964952312391
+    }
   },
   {
     "title": "Butterfly (Prologue Mix)",
@@ -888,10 +1323,17 @@
       "appleMusic": "https://music.apple.com/us/album/butterfly-prologue-mix/1598661880?i=1598661900&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1639.2638381768675,
+      "spectral_rolloff": 3059.959972292878,
+      "zero_crossing_rate": 0.1070327640503876,
+      "rms_energy": 0.06888817995786667,
+      "spectral_contrast": 21.54019191679762
+    }
   },
   {
-    "title": "Run",
+    "title": "RUN",
     "album": "The Most Beautiful Moment in Life: Young Forever",
     "year": 2016,
     "duration": "3:56",
@@ -937,7 +1379,14 @@
       "appleMusic": "https://music.apple.com/us/album/ma-city/1598661880?i=1598662118&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3063.563481687799,
+      "spectral_rolloff": 6275.718511537064,
+      "zero_crossing_rate": 0.15254776828972869,
+      "rms_energy": 0.3096350431442261,
+      "spectral_contrast": 18.68545479973863
+    }
   },
   {
     "title": "Silver Spoon (뱁새/Baepsae)",
@@ -962,7 +1411,14 @@
       "appleMusic": "https://music.apple.com/us/song/silver-spoon/1598662122",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2837.024662121398,
+      "spectral_rolloff": 6648.318041424419,
+      "zero_crossing_rate": 0.08543105014534884,
+      "rms_energy": 0.39389869570732117,
+      "spectral_contrast": 17.963931599361892
+    }
   },
   {
     "title": "Dope (쩔어)",
@@ -987,7 +1443,14 @@
       "appleMusic": "https://music.apple.com/us/album/dope/1598661880?i=1598662124&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2929.058914348091,
+      "spectral_rolloff": 5944.466070130814,
+      "zero_crossing_rate": 0.14801886506782946,
+      "rms_energy": 0.23158617317676544,
+      "spectral_contrast": 18.8900127232039
+    }
   },
   {
     "title": "Burning Up (Fire)",
@@ -1012,7 +1475,14 @@
       "appleMusic": "https://music.apple.com/us/album/burning-up-fire/1598661880?i=1598662129&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3662.241150928742,
+      "spectral_rolloff": 7612.746809138808,
+      "zero_crossing_rate": 0.15280326429263566,
+      "rms_energy": 0.27980655431747437,
+      "spectral_contrast": 17.184503893125523
+    }
   },
   {
     "title": "Save Me",
@@ -1037,7 +1507,14 @@
       "appleMusic": "https://music.apple.com/us/album/save-me/1598661880?i=1598662137&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2896.7673586420356,
+      "spectral_rolloff": 5902.417900617733,
+      "zero_crossing_rate": 0.15301598837209301,
+      "rms_energy": 0.15083514153957367,
+      "spectral_contrast": 20.010436462335868
+    }
   },
   {
     "title": "Epilogue: Young Forever",
@@ -1062,7 +1539,14 @@
       "appleMusic": "https://music.apple.com/us/album/epilogue-young-forever/1598661880?i=1598662138&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2585.622591589443,
+      "spectral_rolloff": 5390.328283975291,
+      "zero_crossing_rate": 0.10998819040697674,
+      "rms_energy": 0.12169431895017624,
+      "spectral_contrast": 19.76450334204348
+    }
   },
   {
     "title": "Converse High",
@@ -1087,7 +1571,14 @@
       "appleMusic": "https://music.apple.com/us/album/converse-high/1596533063?i=1596533343&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2705.262545708126,
+      "spectral_rolloff": 5912.892385083575,
+      "zero_crossing_rate": 0.1127948613129845,
+      "rms_energy": 0.22198422253131866,
+      "spectral_contrast": 18.495460461955332
+    }
   },
   {
     "title": "Moving On (이사)",
@@ -1112,7 +1603,14 @@
       "appleMusic": "https://music.apple.com/us/album/moving-on/1598661880?i=1598662145&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2874.962003945028,
+      "spectral_rolloff": 6112.708825399709,
+      "zero_crossing_rate": 0.12473428415697674,
+      "rms_energy": 0.2952118217945099,
+      "spectral_contrast": 17.22828428235116
+    }
   },
   {
     "title": "Whalien 52",
@@ -1137,7 +1635,14 @@
       "appleMusic": "https://music.apple.com/us/album/whalien-52/1598661880?i=1598662268&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3290.8327583938585,
+      "spectral_rolloff": 6489.765227561773,
+      "zero_crossing_rate": 0.1870677386143411,
+      "rms_energy": 0.16136792302131653,
+      "spectral_contrast": 18.61311416837429
+    }
   },
   {
     "title": "Butterfly",
@@ -1161,7 +1666,14 @@
       "appleMusic": "https://music.apple.com/us/album/butterfly/1597019562?i=1597019691&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3037.2532664287132,
+      "spectral_rolloff": 6560.223871275436,
+      "zero_crossing_rate": 0.12966706031976744,
+      "rms_energy": 0.13009752333164215,
+      "spectral_contrast": 21.773000275666494
+    }
   },
   {
     "title": "House of Cards (Full Length Edition)",
@@ -1186,7 +1698,14 @@
       "appleMusic": "https://music.apple.com/us/album/house-of-cards-full-length-edition/1598661880?i=1598662275&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2036.9504795117637,
+      "spectral_rolloff": 4468.114609829215,
+      "zero_crossing_rate": 0.0841316164001938,
+      "rms_energy": 0.15397922694683075,
+      "spectral_contrast": 18.726483143424083
+    }
   },
   {
     "title": "Love Is Not Over (Full Length Edition)",
@@ -1210,7 +1729,14 @@
       "appleMusic": "https://music.apple.com/us/album/love-is-not-over-full-length-edition/1598661880?i=1598662276&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1701.6449868500836,
+      "spectral_rolloff": 3607.0285247093025,
+      "zero_crossing_rate": 0.06529228742732558,
+      "rms_energy": 0.04382360726594925,
+      "spectral_contrast": 22.01513435031717
+    }
   },
   {
     "title": "I Need U (Urban Mix)",
@@ -1234,7 +1760,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-need-u-urban-mix/1598661880?i=1598662277&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3057.5535362577198,
+      "spectral_rolloff": 6640.581111464389,
+      "zero_crossing_rate": 0.14075785792151163,
+      "rms_energy": 0.17745178937911987,
+      "spectral_contrast": 19.370012466766266
+    }
   },
   {
     "title": "I Need U (Remix)",
@@ -1258,7 +1791,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-need-u-urban-mix/1598661880?i=1598662277&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3766.011356749959,
+      "spectral_rolloff": 7622.687136627907,
+      "zero_crossing_rate": 0.2242755268895349,
+      "rms_energy": 0.1653628647327423,
+      "spectral_contrast": 18.36809629553852
+    }
   },
   {
     "title": "Run (Ballad Mix)",
@@ -1282,7 +1822,14 @@
       "appleMusic": "https://music.apple.com/us/album/run-ballad-mix/1598661880?i=1598662283&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3125.4856558095153,
+      "spectral_rolloff": 6394.33474518532,
+      "zero_crossing_rate": 0.16399928839631783,
+      "rms_energy": 0.10096085071563721,
+      "spectral_contrast": 20.149298553320083
+    }
   },
   {
     "title": "Run (Alternative Mix)",
@@ -1306,7 +1853,14 @@
       "appleMusic": "https://music.apple.com/us/album/run-alternative-mix/1598661880?i=1598662285&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2832.271713119843,
+      "spectral_rolloff": 5667.255291606105,
+      "zero_crossing_rate": 0.13758516533430232,
+      "rms_energy": 0.24715140461921692,
+      "spectral_contrast": 19.06749773954583
+    }
   },
   {
     "title": "Butterfly (Alternative Mix)",
@@ -1330,7 +1884,14 @@
       "appleMusic": "https://music.apple.com/us/album/butterfly-alternative-mix/1598661880?i=1598662289&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3229.770775441122,
+      "spectral_rolloff": 7180.054619367733,
+      "zero_crossing_rate": 0.13218151950096899,
+      "rms_energy": 0.15723773837089539,
+      "spectral_contrast": 21.342152630982707
+    }
   },
   {
     "title": "Blood Sweat & Tears (피 땀 눈물)",
@@ -1342,7 +1903,11 @@
       "Moombahton",
       "Tropical House"
     ],
-    "style": ["sensual", "gliding", "driving"],
+    "style": [
+      "sensual",
+      "gliding",
+      "driving"
+    ],
     "bpm": 93,
     "tier": "Mid-tempo",
     "art": "assets/covers/proof.jpg",
@@ -1351,7 +1916,14 @@
       "appleMusic": "https://music.apple.com/us/album/blood-sweat-tears/1596532477?i=1596532481&uo=4",
       "youtube": "https://www.youtube.com/watch?v=hmE9fCYHX8w"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3285.4258921848696,
+      "spectral_rolloff": 6559.414289607558,
+      "zero_crossing_rate": 0.17492883963178293,
+      "rms_energy": 0.22443455457687378,
+      "spectral_contrast": 18.104499103436055
+    }
   },
   {
     "title": "Intro: Boy Meets Evil",
@@ -1363,7 +1935,11 @@
       "EDM Trap",
       "Hardcore Rap"
     ],
-    "style": ["aggressive", "dark", "cinematic"],
+    "style": [
+      "aggressive",
+      "dark",
+      "cinematic"
+    ],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1372,7 +1948,14 @@
       "appleMusic": "https://music.apple.com/us/album/intro-boy-meets-evil/1596532477?i=1596532478&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2106.0551089006326,
+      "spectral_rolloff": 4295.348212663517,
+      "zero_crossing_rate": 0.10184487039728682,
+      "rms_energy": 0.23436518013477325,
+      "spectral_contrast": 19.301960039825452
+    }
   },
   {
     "title": "Begin (Jungkook)",
@@ -1384,7 +1967,11 @@
       "Tropical House",
       "Electropop"
     ],
-    "style": ["driving", "gliding", "melancholic"],
+    "style": [
+      "driving",
+      "gliding",
+      "melancholic"
+    ],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1393,7 +1980,14 @@
       "appleMusic": "https://music.apple.com/us/album/begin/1596532477?i=1596532485&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2234.997377598608,
+      "spectral_rolloff": 4411.243584211483,
+      "zero_crossing_rate": 0.09128285489341086,
+      "rms_energy": 0.14824318885803223,
+      "spectral_contrast": 19.75046755150744
+    }
   },
   {
     "title": "Lie (Jimin)",
@@ -1405,7 +1999,11 @@
       "Dark Pop",
       "Orchestral Pop"
     ],
-    "style": ["sensual", "dark", "cinematic"],
+    "style": [
+      "sensual",
+      "dark",
+      "cinematic"
+    ],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1414,7 +2012,14 @@
       "appleMusic": "https://music.apple.com/us/album/lie/1596532477?i=1596532486&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2052.148777024746,
+      "spectral_rolloff": 4200.702273346657,
+      "zero_crossing_rate": 0.10380632267441861,
+      "rms_energy": 0.133945494890213,
+      "spectral_contrast": 19.372992458744147
+    }
   },
   {
     "title": "Stigma (V)",
@@ -1426,7 +2031,11 @@
       "Jazz-pop",
       "Neo-soul"
     ],
-    "style": ["sensual", "melancholic", "vocal-forward"],
+    "style": [
+      "sensual",
+      "melancholic",
+      "vocal-forward"
+    ],
     "bpm": 70,
     "tier": "Slow",
     "art": "assets/covers/wings.jpg",
@@ -1435,7 +2044,14 @@
       "appleMusic": "https://music.apple.com/us/album/stigma/1596532477?i=1596532489&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1434.8517497854687,
+      "spectral_rolloff": 3046.6728174963664,
+      "zero_crossing_rate": 0.05822697129360465,
+      "rms_energy": 0.11977586150169373,
+      "spectral_contrast": 20.258829321777643
+    }
   },
   {
     "title": "First Love (Suga)",
@@ -1447,7 +2063,11 @@
       "Conscious Hip-Hop",
       "Experimental Rap"
     ],
-    "style": ["cinematic", "melancholic", "vocal-forward"],
+    "style": [
+      "cinematic",
+      "melancholic",
+      "vocal-forward"
+    ],
     "bpm": 78,
     "tier": "Slow",
     "art": "assets/covers/wings.jpg",
@@ -1456,7 +2076,14 @@
       "appleMusic": "https://music.apple.com/us/album/first-love/1596532477?i=1596532494&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2423.2461049213657,
+      "spectral_rolloff": 4815.692223837209,
+      "zero_crossing_rate": 0.11798199794089147,
+      "rms_energy": 0.07963699847459793,
+      "spectral_contrast": 18.77783052527618
+    }
   },
   {
     "title": "Reflection (RM)",
@@ -1468,7 +2095,11 @@
       "Ambient Pop",
       "Cloud Rap"
     ],
-    "style": ["atmospheric", "chill", "dreamy"],
+    "style": [
+      "atmospheric",
+      "chill",
+      "dreamy"
+    ],
     "bpm": 80,
     "tier": "Slow",
     "art": "assets/covers/wings.jpg",
@@ -1477,7 +2108,14 @@
       "appleMusic": "https://music.apple.com/us/album/reflection/1596532477?i=1596532496&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1190.4515281113377,
+      "spectral_rolloff": 2211.860578670058,
+      "zero_crossing_rate": 0.0369621335998062,
+      "rms_energy": 0.08564858138561249,
+      "spectral_contrast": 17.283054643918415
+    }
   },
   {
     "title": "MAMA (J-Hope)",
@@ -1488,7 +2126,11 @@
       "Funk Pop",
       "Bright Hip-Hop"
     ],
-    "style": ["bright", "bouncy", "playful"],
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ],
     "bpm": 105,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1497,7 +2139,14 @@
       "appleMusic": "https://music.apple.com/us/album/mama/1596532477?i=1596532501&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2022.982462541698,
+      "spectral_rolloff": 4260.778240824855,
+      "zero_crossing_rate": 0.058573310319767445,
+      "rms_energy": 0.29922616481781006,
+      "spectral_contrast": 19.566485335306815
+    }
   },
   {
     "title": "Awake (Jin)",
@@ -1508,7 +2157,11 @@
       "Orchestral Pop",
       "Pop Ballad"
     ],
-    "style": ["cinematic", "melancholic", "vocal-forward"],
+    "style": [
+      "cinematic",
+      "melancholic",
+      "vocal-forward"
+    ],
     "bpm": 82,
     "tier": "Slow",
     "art": "assets/covers/wings.jpg",
@@ -1517,7 +2170,14 @@
       "appleMusic": "https://music.apple.com/us/album/awake/1596532477?i=1596532545&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2298.630173987458,
+      "spectral_rolloff": 4825.423896257267,
+      "zero_crossing_rate": 0.09950187742248062,
+      "rms_energy": 0.06877460330724716,
+      "spectral_contrast": 20.889958451723018
+    }
   },
   {
     "title": "Lost",
@@ -1528,7 +2188,11 @@
       "Tropical House",
       "Electropop"
     ],
-    "style": ["bright", "driving", "gliding"],
+    "style": [
+      "bright",
+      "driving",
+      "gliding"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1537,7 +2201,14 @@
       "appleMusic": "https://music.apple.com/us/album/lost/1596532477?i=1596532546&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2736.0526264664327,
+      "spectral_rolloff": 5717.407624000727,
+      "zero_crossing_rate": 0.12301015927810077,
+      "rms_energy": 0.15788336098194122,
+      "spectral_contrast": 19.703722402684765
+    }
   },
   {
     "title": "BTS Cypher 4",
@@ -1549,7 +2220,11 @@
       "Dark Trap",
       "Industrial Trap"
     ],
-    "style": ["aggressive", "driving", "raw"],
+    "style": [
+      "aggressive",
+      "driving",
+      "raw"
+    ],
     "bpm": 140,
     "tier": "Fast",
     "art": "assets/covers/wings.jpg",
@@ -1558,7 +2233,14 @@
       "appleMusic": "https://music.apple.com/us/album/bts-cypher-4/1596532477?i=1596532550&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2291.496339024688,
+      "spectral_rolloff": 4448.676303597384,
+      "zero_crossing_rate": 0.10777389171511628,
+      "rms_energy": 0.1828635036945343,
+      "spectral_contrast": 20.297789634080083
+    }
   },
   {
     "title": "Am I Wrong",
@@ -1570,7 +2252,11 @@
       "Funk Pop",
       "Alternative Hip-Hop"
     ],
-    "style": ["bouncy", "driving", "playful"],
+    "style": [
+      "bouncy",
+      "driving",
+      "playful"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/wings.jpg",
@@ -1579,7 +2265,14 @@
       "appleMusic": "https://music.apple.com/us/album/am-i-wrong/1596528839?i=1596529371&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2742.4357410674565,
+      "spectral_rolloff": 5718.951671511628,
+      "zero_crossing_rate": 0.10158634629360465,
+      "rms_energy": 0.22255635261535645,
+      "spectral_contrast": 18.391256209459577
+    }
   },
   {
     "title": "21st Century Girl (21세기 소녀)",
@@ -1591,7 +2284,11 @@
       "Stadium EDM",
       "Hip-Hop Dance"
     ],
-    "style": ["aggressive", "bouncy", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "bouncy",
+      "chant-heavy"
+    ],
     "bpm": 130,
     "tier": "Fast",
     "art": "assets/covers/wings.jpg",
@@ -1600,7 +2297,14 @@
       "appleMusic": "https://music.apple.com/us/album/21st-century-girl/1596532477?i=1596532554&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3608.807404747949,
+      "spectral_rolloff": 7011.461323582849,
+      "zero_crossing_rate": 0.20105377906976743,
+      "rms_energy": 0.2081550508737564,
+      "spectral_contrast": 16.626563010095875
+    }
   },
   {
     "title": "2! 3!",
@@ -1611,7 +2315,11 @@
       "Alternative Hip-Hop",
       "Pop Ballad"
     ],
-    "style": ["anthem", "nostalgic", "vocal-forward"],
+    "style": [
+      "anthem",
+      "nostalgic",
+      "vocal-forward"
+    ],
     "bpm": 86,
     "tier": "Slow",
     "art": "assets/covers/wings.jpg",
@@ -1620,7 +2328,14 @@
       "appleMusic": "https://music.apple.com/us/album/2-3/1596532477?i=1596532555&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2202.08258607514,
+      "spectral_rolloff": 4233.961891351744,
+      "zero_crossing_rate": 0.11907854893410853,
+      "rms_energy": 0.1280982494354248,
+      "spectral_contrast": 20.268979414171437
+    }
   },
   {
     "title": "Interlude: Wings",
@@ -1632,7 +2347,11 @@
       "Stadium EDM",
       "Electropop"
     ],
-    "style": ["bright", "driving", "anthem"],
+    "style": [
+      "bright",
+      "driving",
+      "anthem"
+    ],
     "bpm": 128,
     "tier": "Fast",
     "art": "assets/covers/wings.jpg",
@@ -1641,7 +2360,14 @@
       "appleMusic": "https://music.apple.com/us/album/interlude-wings/1596532477?i=1596532558&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2945.391450896188,
+      "spectral_rolloff": 5730.9201262718025,
+      "zero_crossing_rate": 0.16966713602228684,
+      "rms_energy": 0.20392465591430664,
+      "spectral_contrast": 18.785327171682443
+    }
   },
   {
     "title": "Spring Day (봄날)",
@@ -1654,7 +2380,11 @@
       "Pop Rock",
       "Britpop"
     ],
-    "style": ["melancholic", "nostalgic", "vocal-forward"],
+    "style": [
+      "melancholic",
+      "nostalgic",
+      "vocal-forward"
+    ],
     "bpm": 108,
     "tier": "Mid-tempo",
     "art": "assets/covers/neveralone.jpg",
@@ -1663,7 +2393,14 @@
       "appleMusic": "https://music.apple.com/us/album/spring-day/1596528839?i=1596529381&uo=4",
       "youtube": "https://www.youtube.com/watch?v=xEeFrLSkMm8"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1700.7381946365533,
+      "spectral_rolloff": 3468.3897506359012,
+      "zero_crossing_rate": 0.06644485828488372,
+      "rms_energy": 0.26893144845962524,
+      "spectral_contrast": 19.832307726066382
+    }
   },
   {
     "title": "Not Today",
@@ -1675,7 +2412,11 @@
       "EDM Trap",
       "Stadium EDM"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 110,
     "tier": "Mid",
     "art": "assets/covers/neveralone.jpg",
@@ -1684,7 +2425,14 @@
       "appleMusic": "",
       "youtube": "https://www.youtube.com/watch?v=9DwzBICPhdM"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3474.5282605344078,
+      "spectral_rolloff": 6790.595759901889,
+      "zero_crossing_rate": 0.19581402919089147,
+      "rms_energy": 0.27297714352607727,
+      "spectral_contrast": 16.20062193701649
+    }
   },
   {
     "title": "Outro: Wings",
@@ -1696,7 +2444,11 @@
       "Stadium EDM",
       "Electropop"
     ],
-    "style": ["bright", "driving", "anthem"],
+    "style": [
+      "bright",
+      "driving",
+      "anthem"
+    ],
     "bpm": 125,
     "tier": null,
     "art": "assets/covers/neveralone.jpg",
@@ -1705,7 +2457,14 @@
       "appleMusic": "",
       "youtube": "https://www.youtube.com/watch?v=DG6DtnDnQu4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2943.769826994086,
+      "spectral_rolloff": 5730.502816133721,
+      "zero_crossing_rate": 0.16896385961724805,
+      "rms_energy": 0.21532706916332245,
+      "spectral_contrast": 18.71618540643524
+    }
   },
   {
     "title": "A Supplementary Story: You Never Walk Alone",
@@ -1716,7 +2475,11 @@
       "Alternative Hip-Hop",
       "Anthemic Pop"
     ],
-    "style": ["anthem", "smooth", "vocal-forward"],
+    "style": [
+      "anthem",
+      "smooth",
+      "vocal-forward"
+    ],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/neveralone.jpg",
@@ -1725,7 +2488,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2029.1756483485337,
+      "spectral_rolloff": 4086.2758334847385,
+      "zero_crossing_rate": 0.11105067526647287,
+      "rms_energy": 0.13545477390289307,
+      "spectral_contrast": 18.944244158558497
+    }
   },
   {
     "title": "Intro: Serendipity (Jimin)",
@@ -1737,7 +2507,11 @@
       "Chill Electronic",
       "Ambient Pop"
     ],
-    "style": ["sensual", "dreamy", "smooth"],
+    "style": [
+      "sensual",
+      "dreamy",
+      "smooth"
+    ],
     "bpm": 87,
     "tier": "Slow",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1746,7 +2520,14 @@
       "appleMusic": "",
       "youtube": "https://www.youtube.com/watch?v=gSsCZJM6OG0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3009.1697062260573,
+      "spectral_rolloff": 6509.195187590843,
+      "zero_crossing_rate": 0.11721929505813954,
+      "rms_energy": 0.09928153455257416,
+      "spectral_contrast": 19.136118085158092
+    }
   },
   {
     "title": "DNA",
@@ -1771,9 +2552,16 @@
       "appleMusic": "https://music.apple.com/us/album/dna/1598730614?i=1598730623&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1967.984464181135,
+      "spectral_rolloff": 4097.45974518532,
+      "zero_crossing_rate": 0.08148429929748062,
+      "rms_energy": 0.24939128756523132,
+      "spectral_contrast": 19.856532394612486
+    }
   },
-    {
+  {
     "title": "Best Of Me",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
@@ -1783,7 +2571,11 @@
       "Stadium EDM",
       "Dance Pop"
     ],
-    "style": ["driving", "bright", "anthem"],
+    "style": [
+      "driving",
+      "bright",
+      "anthem"
+    ],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1792,7 +2584,14 @@
       "appleMusic": "https://music.apple.com/us/album/best-of-me/1598730614?i=1598730991&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2692.4829003175023,
+      "spectral_rolloff": 5574.629133357558,
+      "zero_crossing_rate": 0.11919778040213179,
+      "rms_energy": 0.17327970266342163,
+      "spectral_contrast": 19.154252239680147
+    }
   },
   {
     "title": "Dimple (보조개)",
@@ -1817,7 +2616,14 @@
       "appleMusic": "https://music.apple.com/us/album/dimple/1596529064?i=1596529068&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2747.56682247083,
+      "spectral_rolloff": 6100.222906068314,
+      "zero_crossing_rate": 0.11099768350290698,
+      "rms_energy": 0.22773097455501556,
+      "spectral_contrast": 18.139826372655254
+    }
   },
   {
     "title": "Pied Piper",
@@ -1829,7 +2635,11 @@
       "Synth-Funk",
       "Dance Pop"
     ],
-    "style": ["bouncy", "sensual", "driving"],
+    "style": [
+      "bouncy",
+      "sensual",
+      "driving"
+    ],
     "bpm": 117,
     "tier": "Mid",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1838,7 +2648,14 @@
       "appleMusic": "https://music.apple.com/us/album/pied-piper/1596529064?i=1596529071&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2615.8089066565494,
+      "spectral_rolloff": 5712.333132721657,
+      "zero_crossing_rate": 0.10874704760174418,
+      "rms_energy": 0.18272683024406433,
+      "spectral_contrast": 18.958612453309538
+    }
   },
   {
     "title": "MIC Drop",
@@ -1850,7 +2667,11 @@
       "Dark Trap",
       "Hip-Hop Dance"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 170,
     "tier": "Fast",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1859,7 +2680,14 @@
       "appleMusic": "https://music.apple.com/us/album/mic-drop/1598730614?i=1598731059&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2222.5660803839205,
+      "spectral_rolloff": 4845.813669603925,
+      "zero_crossing_rate": 0.07204533066860465,
+      "rms_energy": 0.20508351922035217,
+      "spectral_contrast": 17.45001581077888
+    }
   },
   {
     "title": "Go Go (고민보다 Go)",
@@ -1871,7 +2699,11 @@
       "Trap-pop",
       "Alternative Hip-Hop"
     ],
-    "style": ["bouncy", "bright", "playful"],
+    "style": [
+      "bouncy",
+      "bright",
+      "playful"
+    ],
     "bpm": 136,
     "tier": "Fast",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1880,9 +2712,16 @@
       "appleMusic": "https://music.apple.com/us/album/go-go/1598730614?i=1598730995&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1859.0081956686722,
+      "spectral_rolloff": 3769.5708234920057,
+      "zero_crossing_rate": 0.08146234556686047,
+      "rms_energy": 0.1347445398569107,
+      "spectral_contrast": 19.093677189660312
+    }
   },
-    {
+  {
     "title": "Outro: Her",
     "album": "Love Yourself 承 'Her'",
     "year": 2017,
@@ -1892,7 +2731,11 @@
       "90s Hip-Hop",
       "Conscious Hip-Hop"
     ],
-    "style": ["chill", "smooth", "nostalgic"],
+    "style": [
+      "chill",
+      "smooth",
+      "nostalgic"
+    ],
     "bpm": 89,
     "tier": "Slow",
     "art": "assets/covers/love_yourself_her.jpg",
@@ -1901,7 +2744,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1391.8256134940402,
+      "spectral_rolloff": 2838.1345952943316,
+      "zero_crossing_rate": 0.06251476199127907,
+      "rms_energy": 0.1458314061164856,
+      "spectral_contrast": 19.627991739160016
+    }
   },
   {
     "title": "Euphoria (Jungkook)",
@@ -1926,7 +2776,14 @@
       "appleMusic": "https://music.apple.com/us/album/euphoria/1598730614?i=1598730615&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2499.354156278541,
+      "spectral_rolloff": 5393.157646711483,
+      "zero_crossing_rate": 0.09441580365794573,
+      "rms_energy": 0.09239023923873901,
+      "spectral_contrast": 21.253642179326146
+    }
   },
   {
     "title": "Trivia 起 : Just Dance (J-Hope)",
@@ -1951,7 +2808,14 @@
       "appleMusic": "https://music.apple.com/us/album/trivia-%E8%B5%B7-just-dance/1598730614?i=1598730618&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2479.307762286833,
+      "spectral_rolloff": 4893.879451308139,
+      "zero_crossing_rate": 0.12958530159883722,
+      "rms_energy": 0.1732148379087448,
+      "spectral_contrast": 18.183327324544514
+    }
   },
   {
     "title": "Serendipity (Jimin)",
@@ -1975,7 +2839,14 @@
       "appleMusic": "https://music.apple.com/us/album/serendipity-full-length-edition/1598730614?i=1598730619&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2805.6713770312745,
+      "spectral_rolloff": 6229.355355196221,
+      "zero_crossing_rate": 0.10583893531976744,
+      "rms_energy": 0.12147574126720428,
+      "spectral_contrast": 19.246237069516113
+    }
   },
   {
     "title": "Trivia 承 : Love (RM)",
@@ -2000,7 +2871,14 @@
       "appleMusic": "https://music.apple.com/us/album/trivia-%E6%89%BF-love/1598730614?i=1598730627&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2144.247974252154,
+      "spectral_rolloff": 4299.145734920058,
+      "zero_crossing_rate": 0.12156083454457364,
+      "rms_energy": 0.15723533928394318,
+      "spectral_contrast": 20.101991405147867
+    }
   },
   {
     "title": "Her",
@@ -2025,7 +2903,14 @@
       "appleMusic": "https://music.apple.com/us/album/her/1598730614?i=1598730628&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1391.8256134940402,
+      "spectral_rolloff": 2838.1345952943316,
+      "zero_crossing_rate": 0.06251476199127907,
+      "rms_energy": 0.1458314061164856,
+      "spectral_contrast": 19.627991739160016
+    }
   },
   {
     "title": "Singularity (V)",
@@ -2050,7 +2935,14 @@
       "appleMusic": "https://music.apple.com/us/song/intro-singularity/1598660937",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1779.468748839212,
+      "spectral_rolloff": 3715.8797011264537,
+      "zero_crossing_rate": 0.06294967296511628,
+      "rms_energy": 0.2108878195285797,
+      "spectral_contrast": 18.940907946142257
+    }
   },
   {
     "title": "FAKE LOVE",
@@ -2075,7 +2967,14 @@
       "appleMusic": "https://music.apple.com/us/album/fake-love/1598730614?i=1598730630&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3959.094802758632,
+      "spectral_rolloff": 7638.628383902616,
+      "zero_crossing_rate": 0.23161261506782946,
+      "rms_energy": 0.1833883821964264,
+      "spectral_contrast": 19.346474171054396
+    }
   },
   {
     "title": "The Truth Untold (feat. Steve Aoki)",
@@ -2099,7 +2998,14 @@
       "appleMusic": "https://music.apple.com/us/album/the-truth-untold-feat-steve-aoki/1598660934?i=1598660944&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2540.260890390014,
+      "spectral_rolloff": 5466.2119594840115,
+      "zero_crossing_rate": 0.08790462996608527,
+      "rms_energy": 0.08607916533946991,
+      "spectral_contrast": 19.741438952248508
+    }
   },
   {
     "title": "Trivia 轉 : Seesaw (Suga)",
@@ -2124,7 +3030,14 @@
       "appleMusic": "https://music.apple.com/us/album/trivia-%E8%BD%89-seesaw/1598730614?i=1598730966&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1727.3493407852186,
+      "spectral_rolloff": 3597.1299282340115,
+      "zero_crossing_rate": 0.06769735646802326,
+      "rms_energy": 0.1221792995929718,
+      "spectral_contrast": 18.772607525354818
+    }
   },
   {
     "title": "Tear",
@@ -2149,7 +3062,14 @@
       "appleMusic": "https://music.apple.com/us/album/tear/1598730614?i=1598730969&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1124.786877980628,
+      "spectral_rolloff": 1846.3219363190408,
+      "zero_crossing_rate": 0.06182208393895349,
+      "rms_energy": 0.10640772432088852,
+      "spectral_contrast": 20.42217619681089
+    }
   },
   {
     "title": "Epiphany (Jin)",
@@ -2174,7 +3094,14 @@
       "appleMusic": "https://music.apple.com/us/album/epiphany/1598730614?i=1598730973&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1535.7662995111468,
+      "spectral_rolloff": 3122.9070335210754,
+      "zero_crossing_rate": 0.06857474866763566,
+      "rms_energy": 0.09366180747747421,
+      "spectral_contrast": 21.182990563616677
+    }
   },
   {
     "title": "I'm Fine",
@@ -2199,7 +3126,14 @@
       "appleMusic": "https://music.apple.com/us/album/im-fine/1598730614?i=1598730975&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3590.5739214868727,
+      "spectral_rolloff": 7345.851937227471,
+      "zero_crossing_rate": 0.18650867550872094,
+      "rms_energy": 0.16319219768047333,
+      "spectral_contrast": 19.534551925576604
+    }
   },
   {
     "title": "IDOL",
@@ -2223,7 +3157,14 @@
       "appleMusic": "https://music.apple.com/us/song/idol/1598730980",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3107.922097942625,
+      "spectral_rolloff": 6235.464775617733,
+      "zero_crossing_rate": 0.15597368580426357,
+      "rms_energy": 0.17654100060462952,
+      "spectral_contrast": 18.732560371512264
+    }
   },
   {
     "title": "Answer : Love Myself",
@@ -2248,7 +3189,14 @@
       "appleMusic": "https://music.apple.com/us/album/answer-love-myself/1598730614?i=1598730982&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2155.8990793315506,
+      "spectral_rolloff": 4782.566145076308,
+      "zero_crossing_rate": 0.08250893289728682,
+      "rms_energy": 0.1511477530002594,
+      "spectral_contrast": 20.26877605719678
+    }
   },
   {
     "title": "134340",
@@ -2260,7 +3208,11 @@
       "Neo-soul",
       "Jazz-hop"
     ],
-    "style": ["chill", "smooth", "sensual"],
+    "style": [
+      "chill",
+      "smooth",
+      "sensual"
+    ],
     "bpm": 90,
     "tier": "Slow",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2269,7 +3221,14 @@
       "appleMusic": "https://music.apple.com/us/album/134340/1598660934?i=1598660945&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2765.5768371185227,
+      "spectral_rolloff": 6272.0461823219475,
+      "zero_crossing_rate": 0.09698022650193798,
+      "rms_energy": 0.24943993985652924,
+      "spectral_contrast": 18.14190234344694
+    }
   },
   {
     "title": "Paradise (낙원)",
@@ -2281,7 +3240,11 @@
       "R&B Pop",
       "Alt-pop"
     ],
-    "style": ["smooth", "bouncy", "vocal-forward"],
+    "style": [
+      "smooth",
+      "bouncy",
+      "vocal-forward"
+    ],
     "bpm": 115,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2290,7 +3253,14 @@
       "appleMusic": "https://music.apple.com/us/album/paradise/1598660934?i=1598661248&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3078.6447672245517,
+      "spectral_rolloff": 6161.283725472384,
+      "zero_crossing_rate": 0.1447878815406977,
+      "rms_energy": 0.13777735829353333,
+      "spectral_contrast": 18.983937226643636
+    }
   },
   {
     "title": "Love Maze",
@@ -2302,7 +3272,11 @@
       "Alt-pop",
       "Contemporary R&B"
     ],
-    "style": ["smooth", "bright", "gliding"],
+    "style": [
+      "smooth",
+      "bright",
+      "gliding"
+    ],
     "bpm": 95,
     "tier": "Slow",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2311,7 +3285,14 @@
       "appleMusic": "https://music.apple.com/us/album/love-maze/1598660934?i=1598661251&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2151.141785222264,
+      "spectral_rolloff": 4426.083132721657,
+      "zero_crossing_rate": 0.08501922843992248,
+      "rms_energy": 0.2224970906972885,
+      "spectral_contrast": 19.736343472382856
+    }
   },
   {
     "title": "Magic Shop",
@@ -2323,7 +3304,11 @@
       "Electropop",
       "Future Bass"
     ],
-    "style": ["anthem", "atmospheric", "soaring"],
+    "style": [
+      "anthem",
+      "atmospheric",
+      "soaring"
+    ],
     "bpm": 149,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2332,7 +3317,14 @@
       "appleMusic": "https://music.apple.com/us/album/magic-shop/1598730614?i=1598730988&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2596.5066199157036,
+      "spectral_rolloff": 5515.771711482558,
+      "zero_crossing_rate": 0.0949665394864341,
+      "rms_energy": 0.12427349388599396,
+      "spectral_contrast": 19.54450232780375
+    }
   },
   {
     "title": "Airplane pt.2",
@@ -2344,7 +3336,11 @@
       "Reggaeton",
       "Latin-pop"
     ],
-    "style": ["bouncy", "sensual", "driving"],
+    "style": [
+      "bouncy",
+      "sensual",
+      "driving"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2353,7 +3349,14 @@
       "appleMusic": "https://music.apple.com/us/album/airplane-pt-2/1598730614?i=1598730993&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1986.5301742722186,
+      "spectral_rolloff": 4224.163449309593,
+      "zero_crossing_rate": 0.08189044331395348,
+      "rms_energy": 0.14908364415168762,
+      "spectral_contrast": 19.73671450309607
+    }
   },
   {
     "title": "Anpanman",
@@ -2365,7 +3368,11 @@
       "Trap-pop",
       "Dance Pop"
     ],
-    "style": ["bouncy", "playful", "chant-heavy"],
+    "style": [
+      "bouncy",
+      "playful",
+      "chant-heavy"
+    ],
     "bpm": 99,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2374,7 +3381,14 @@
       "appleMusic": "https://music.apple.com/us/album/anpanman/1598660934?i=1598661271&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2443.982391791075,
+      "spectral_rolloff": 5134.909440861192,
+      "zero_crossing_rate": 0.10061621850775193,
+      "rms_energy": 0.24106866121292114,
+      "spectral_contrast": 18.699528309427635
+    }
   },
   {
     "title": "So What",
@@ -2386,7 +3400,11 @@
       "Dance Pop",
       "Stadium EDM"
     ],
-    "style": ["driving", "bright", "anthem"],
+    "style": [
+      "driving",
+      "bright",
+      "anthem"
+    ],
     "bpm": 130,
     "tier": "Mid",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2395,7 +3413,14 @@
       "appleMusic": "https://music.apple.com/us/album/so-what/1598660934?i=1598661273&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2790.8633269901707,
+      "spectral_rolloff": 5653.634288699128,
+      "zero_crossing_rate": 0.11799373183139535,
+      "rms_energy": 0.2118223011493683,
+      "spectral_contrast": 18.787405050903867
+    }
   },
   {
     "title": "Outro: Tear",
@@ -2407,7 +3432,11 @@
       "Hardcore Rap",
       "Orchestral Trap"
     ],
-    "style": ["aggressive", "cinematic", "dark"],
+    "style": [
+      "aggressive",
+      "cinematic",
+      "dark"
+    ],
     "bpm": 140,
     "tier": "Up-tempo",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2416,7 +3445,14 @@
       "appleMusic": "https://music.apple.com/us/album/outro-tear/1598660934?i=1598661275&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1124.786877980628,
+      "spectral_rolloff": 1846.3219363190408,
+      "zero_crossing_rate": 0.06182208393895349,
+      "rms_energy": 0.10640772432088852,
+      "spectral_contrast": 20.42217619681089
+    }
   },
   {
     "title": "Intro: Singularity (V)",
@@ -2428,7 +3464,11 @@
       "Alternative R&B",
       "Jazz-pop"
     ],
-    "style": ["sensual", "melancholic", "atmospheric"],
+    "style": [
+      "sensual",
+      "melancholic",
+      "atmospheric"
+    ],
     "bpm": 104,
     "tier": "Slow",
     "art": "assets/covers/loveyourself-tear.jpg",
@@ -2437,7 +3477,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1779.468748839212,
+      "spectral_rolloff": 3715.8797011264537,
+      "zero_crossing_rate": 0.06294967296511628,
+      "rms_energy": 0.2108878195285797,
+      "spectral_contrast": 18.940907946142257
+    }
   },
   {
     "title": "DNA (Pedal 2 LA Mix)",
@@ -2449,7 +3496,11 @@
       "Pop Rock",
       "Electropop"
     ],
-    "style": ["driving", "raw", "bright"],
+    "style": [
+      "driving",
+      "raw",
+      "bright"
+    ],
     "bpm": 130,
     "tier": "Up-tempo",
     "art": "assets/covers/love-yourself-answer.jpg",
@@ -2458,7 +3509,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2800.547609605331,
+      "spectral_rolloff": 5817.420171693314,
+      "zero_crossing_rate": 0.13316565225290697,
+      "rms_energy": 0.20918838679790497,
+      "spectral_contrast": 17.389878000851255
+    }
   },
   {
     "title": "FAKE LOVE (Rocking Vibe Mix)",
@@ -2470,7 +3528,11 @@
       "Emo Rap",
       "Grunge Pop"
     ],
-    "style": ["melancholic", "aggressive", "driving"],
+    "style": [
+      "melancholic",
+      "aggressive",
+      "driving"
+    ],
     "bpm": 155,
     "tier": "Up-tempo",
     "art": "assets/covers/love-yourself-answer.jpg",
@@ -2479,7 +3541,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3396.852465501767,
+      "spectral_rolloff": 7215.6109841689295,
+      "zero_crossing_rate": 0.15855806645170675,
+      "rms_energy": 0.2450917661190033,
+      "spectral_contrast": 17.6581639426222
+    }
   },
   {
     "title": "MIC Drop (Full Length ft. Steve Aoki)",
@@ -2491,7 +3560,11 @@
       "Electro House",
       "Hardcore Trap"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 170,
     "tier": "Up-tempo",
     "art": "assets/covers/love-yourself-answer.jpg",
@@ -2500,7 +3573,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2501.240294036123,
+      "spectral_rolloff": 5128.1406704215115,
+      "zero_crossing_rate": 0.10839162427325581,
+      "rms_energy": 0.1631924957036972,
+      "spectral_contrast": 17.082340732295204
+    }
   },
   {
     "title": "IDOL (ft. Nicki Minaj)",
@@ -2512,7 +3592,11 @@
       "Afro Pop",
       "Hardcore Rap"
     ],
-    "style": ["aggressive", "chant-heavy", "driving"],
+    "style": [
+      "aggressive",
+      "chant-heavy",
+      "driving"
+    ],
     "bpm": 126,
     "tier": "Up-tempo",
     "art": "assets/covers/love-yourself-answer.jpg",
@@ -2521,7 +3605,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3161.656803186968,
+      "spectral_rolloff": 6342.312863372093,
+      "zero_crossing_rate": 0.16055709484011627,
+      "rms_energy": 0.17773377895355225,
+      "spectral_contrast": 18.643990088938484
+    }
   },
   {
     "title": "Intro : Persona",
@@ -2529,9 +3620,14 @@
     "year": 2019,
     "duration": "2:54",
     "genres": [
-      "Hip-Hop",
-      "Rock/Punk/Metal",
-      "Rap Rock"
+      "90s Boom Bap",
+      "Rap Rock",
+      "Hardcore Hip-Hop"
+    ],
+    "style": [
+      "driving",
+      "aggressive",
+      "anthem"
     ],
     "bpm": 87,
     "tier": "Slow",
@@ -2541,7 +3637,14 @@
       "appleMusic": "https://music.apple.com/us/album/intro-persona/1599171924?i=1599171934&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2533.138797325951,
+      "spectral_rolloff": 5370.038665061773,
+      "zero_crossing_rate": 0.114111328125,
+      "rms_energy": 0.2468743920326233,
+      "spectral_contrast": 18.111364203611572
+    }
   },
   {
     "title": "Boy With Luv (작은 것들을 위한 시) (Feat. Halsey)",
@@ -2551,9 +3654,13 @@
     "genres": [
       "Synth-Pop",
       "Funk-pop",
-      "Nu-Disco"
+      "Disco Pop"
     ],
-    "style": ["bright", "bouncy", "gliding"],
+    "style": [
+      "bright",
+      "bouncy",
+      "gliding"
+    ],
     "bpm": 120,
     "tier": "Mid",
     "art": "assets/covers/persona.jpg",
@@ -2562,7 +3669,14 @@
       "appleMusic": "https://music.apple.com/us/album/boy-with-luv-feat-halsey/1599171924?i=1599172208&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2015.9246574278086,
+      "spectral_rolloff": 4387.498637354651,
+      "zero_crossing_rate": 0.07539630268895349,
+      "rms_energy": 0.1982535868883133,
+      "spectral_contrast": 18.748324090738542
+    }
   },
   {
     "title": "Mikrokosmos (소우주)",
@@ -2574,7 +3688,11 @@
       "Stadium Pop",
       "Pop Rock"
     ],
-    "style": ["anthem", "soaring", "bright"],
+    "style": [
+      "anthem",
+      "soaring",
+      "bright"
+    ],
     "bpm": 174,
     "tier": "Up-tempo",
     "art": "assets/covers/persona.jpg",
@@ -2583,7 +3701,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3430.7835293525063,
+      "spectral_rolloff": 7565.6992641715115,
+      "zero_crossing_rate": 0.12340608345445736,
+      "rms_energy": 0.11535055190324783,
+      "spectral_contrast": 19.64030937905632
+    }
   },
   {
     "title": "Make It Right",
@@ -2595,7 +3720,11 @@
       "R&B Pop",
       "Alt-pop"
     ],
-    "style": ["smooth", "chill", "vocal-forward"],
+    "style": [
+      "smooth",
+      "chill",
+      "vocal-forward"
+    ],
     "bpm": 106,
     "tier": "Mid",
     "art": "assets/covers/persona.jpg",
@@ -2604,7 +3733,14 @@
       "appleMusic": "https://music.apple.com/us/album/make-it-right/1599171924?i=1599172219&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2859.392976183056,
+      "spectral_rolloff": 6110.129848746366,
+      "zero_crossing_rate": 0.10613947432170542,
+      "rms_energy": 0.18878866732120514,
+      "spectral_contrast": 19.678107466928193
+    }
   },
   {
     "title": "HOME",
@@ -2616,7 +3752,11 @@
       "Contemporary R&B",
       "Hip-Hop Pop"
     ],
-    "style": ["smooth", "bouncy", "sensual"],
+    "style": [
+      "smooth",
+      "bouncy",
+      "sensual"
+    ],
     "bpm": 171,
     "tier": "Up-tempo",
     "art": "assets/covers/persona.jpg",
@@ -2625,7 +3765,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2719.4721857320424,
+      "spectral_rolloff": 5762.95285247093,
+      "zero_crossing_rate": 0.11541984617248062,
+      "rms_energy": 0.19479888677597046,
+      "spectral_contrast": 19.689698267137846
+    }
   },
   {
     "title": "Jamais Vu",
@@ -2636,7 +3783,11 @@
       "Pop Ballad",
       "Ambient Pop"
     ],
-    "style": ["melancholic", "vocal-forward", "raw"],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "raw"
+    ],
     "bpm": 81,
     "tier": "Slow",
     "art": "assets/covers/persona.jpg",
@@ -2645,7 +3796,14 @@
       "appleMusic": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2902.222270718914,
+      "spectral_rolloff": 6314.378122728925,
+      "zero_crossing_rate": 0.11803498970445736,
+      "rms_energy": 0.11556366831064224,
+      "spectral_contrast": 19.15943464926728
+    }
   },
   {
     "title": "Dionysus",
@@ -2657,7 +3815,11 @@
       "Hardcore Trap",
       "Synth-Metal"
     ],
-    "style": ["aggressive", "driving", "chant-heavy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
+    ],
     "bpm": 176,
     "tier": "Up-tempo",
     "art": "assets/covers/persona.jpg",
@@ -2666,7 +3828,14 @@
       "appleMusic": "https://music.apple.com/us/album/dionysus/1599171924?i=1599172420&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2467.209248623613,
+      "spectral_rolloff": 5290.39919831032,
+      "zero_crossing_rate": 0.11336755087209302,
+      "rms_energy": 0.2218359112739563,
+      "spectral_contrast": 18.68678640041099
+    }
   },
   {
     "title": "Heartbeat",
@@ -2675,8 +3844,14 @@
     "year": 2019,
     "duration": "4:13",
     "genres": [
-      "Pop Rock",
-      "Symphonic Pop"
+      "Pop Ballad",
+      "Synth-Pop",
+      "Alt-pop"
+    ],
+    "style": [
+      "soaring",
+      "melancholic",
+      "vocal-forward"
     ],
     "bpm": 85,
     "tier": "Mid-tempo",
@@ -2686,7 +3861,14 @@
       "appleMusic": "https://music.apple.com/us/album/heartbeat/1694730681?i=1694730685&uo=4",
       "youtube": "http://www.youtube.com/watch?v=aKSxbt-O6TA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2789.0902994138387,
+      "spectral_rolloff": 6156.010851871127,
+      "zero_crossing_rate": 0.12011075777013942,
+      "rms_energy": 0.3102762997150421,
+      "spectral_contrast": 18.44270037121257
+    }
   },
   {
     "title": "Dream Glow",
@@ -2696,7 +3878,13 @@
     "duration": "3:07",
     "genres": [
       "Synth-Pop",
-      "Electropop"
+      "Electropop",
+      "Dance Pop"
+    ],
+    "style": [
+      "smooth",
+      "gliding",
+      "bright"
     ],
     "bpm": 142,
     "tier": "Up-tempo",
@@ -2706,7 +3894,14 @@
       "appleMusic": "https://music.apple.com/us/album/dream-glow-bts-world-original-soundtrack-pt-1/1694722271?i=1694722583&uo=4",
       "youtube": "http://www.youtube.com/watch?v=ygPDo-aFW_k"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2848.6239375170644,
+      "spectral_rolloff": 6320.912488350842,
+      "zero_crossing_rate": 0.12386458535050349,
+      "rms_energy": 0.31421324610710144,
+      "spectral_contrast": 18.928765977140756
+    }
   },
   {
     "title": "A Brand New Day",
@@ -2715,8 +3910,13 @@
     "year": 2019,
     "duration": "3:25",
     "genres": [
-      "Electronic",
-      "Flute Trap"
+      "Electropop",
+      "Afrobeats"
+    ],
+    "style": [
+      "bouncy",
+      "driving",
+      "bright"
     ],
     "bpm": 120,
     "tier": "Up-tempo",
@@ -2726,7 +3926,14 @@
       "appleMusic": "https://music.apple.com/us/album/a-brand-new-day-pt-2/1694730681?i=1694730950&uo=4",
       "youtube": "http://www.youtube.com/watch?v=FQ24AlLkzCc"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2443.2027897158664,
+      "spectral_rolloff": 5264.276042675252,
+      "zero_crossing_rate": 0.0843474656274206,
+      "rms_energy": 0.23520934581756592,
+      "spectral_contrast": 19.94662126447745
+    }
   },
   {
     "title": "All Night",
@@ -2735,8 +3942,14 @@
     "year": 2019,
     "duration": "3:36",
     "genres": [
-      "90s Boom Bap",
-      "Hip-Hop"
+      "90s Hip-Hop",
+      "Synth-Pop",
+      "Trap-pop"
+    ],
+    "style": [
+      "smooth",
+      "laid-back",
+      "melodic"
     ],
     "bpm": 120,
     "tier": "Up-tempo",
@@ -2746,167 +3959,14 @@
       "appleMusic": "https://music.apple.com/us/album/all-night-pt-3/1694730681?i=1694730954&uo=4",
       "youtube": "http://www.youtube.com/watch?v=Kjo7Q7e1faI"
     },
-    "recs": []
-  },
-  {
-    "title": "Captain",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Cake Waltz",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Shine",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Not Alone",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Friends",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Wish",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Flying",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "LaLaLa",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "You Are Here",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "You Are Here (Orchestra Version)",
-    "album": "BTS WORLD OST",
-    "year": 2019,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2783.7581185115155,
+      "spectral_rolloff": 6164.9927495340335,
+      "zero_crossing_rate": 0.1209799059595275,
+      "rms_energy": 0.27361273765563965,
+      "spectral_contrast": 17.59233593793883
+    }
   },
   {
     "title": "Interlude : Shadow",
@@ -2914,8 +3974,14 @@
     "year": 2020,
     "duration": "4:20",
     "genres": [
-      "Hip-Hop",
-      "Rock/Punk/Metal"
+      "Hardcore hip-hop",
+      "Alt-pop",
+      "Industrial Trap"
+    ],
+    "style": [
+      "intense",
+      "driving",
+      "dark"
     ],
     "bpm": 124,
     "tier": "Mid",
@@ -2925,7 +3991,14 @@
       "appleMusic": "https://music.apple.com/us/album/interlude-shadow/1599362484?i=1599362641&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1366.7693761711992,
+      "spectral_rolloff": 2472.929801053779,
+      "zero_crossing_rate": 0.07263278221899225,
+      "rms_energy": 0.03788578882813454,
+      "spectral_contrast": 20.38554991496483
+    }
   },
   {
     "title": "Black Swan",
@@ -2933,10 +4006,14 @@
     "year": 2020,
     "duration": "3:18",
     "genres": [
-      "Hip-Hop",
-      "R&B/Soul",
-      "Emo-trap",
+      "Trap-pop",
+      "Emo Rap",
       "Cloud Rap"
+    ],
+    "style": [
+      "melancholic",
+      "vocal-forward",
+      "smooth"
     ],
     "bpm": 147,
     "tier": "Up-tempo",
@@ -2946,7 +4023,14 @@
       "appleMusic": "https://music.apple.com/us/album/black-swan/1597017439?i=1597017443&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3144.9993639344143,
+      "spectral_rolloff": 7007.71491939388,
+      "zero_crossing_rate": 0.11865499128582495,
+      "rms_energy": 0.3088293671607971,
+      "spectral_contrast": 18.325221209640087
+    }
   },
   {
     "title": "Filter",
@@ -2954,8 +4038,13 @@
     "year": 2020,
     "duration": "3:00",
     "genres": [
-      "Pop",
+      "Dance Pop",
       "Latin-pop"
+    ],
+    "style": [
+      "bouncy",
+      "slick",
+      "playful"
     ],
     "bpm": 110,
     "tier": "Mid",
@@ -2965,18 +4054,28 @@
       "appleMusic": "https://music.apple.com/us/album/filter/1599362484?i=1599362859&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2654.7109546820843,
+      "spectral_rolloff": 6268.916356286337,
+      "zero_crossing_rate": 0.08165803657945736,
+      "rms_energy": 0.19941188395023346,
+      "spectral_contrast": 20.378723248060677
+    }
   },
   {
-    "title": "My Time (시차)",
+    "title": "My Time",
     "album": "Map of the Soul: 7",
     "year": 2020,
     "duration": "3:54",
     "genres": [
-      "R&B/Soul",
-      "Hip-Hop",
-      "Contemporary R&B",
+      "Alternative R&B",
       "Trap-pop"
+    ],
+    "style": [
+      "smooth",
+      "driving",
+      "vocal-forward"
     ],
     "bpm": 146,
     "tier": "Up-tempo",
@@ -2986,7 +4085,14 @@
       "appleMusic": "https://music.apple.com/us/song/my-time/1599362862",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1525.5867464880419,
+      "spectral_rolloff": 3136.2275731286336,
+      "zero_crossing_rate": 0.06988780886627907,
+      "rms_energy": 0.13015687465667725,
+      "spectral_contrast": 21.820298020145792
+    }
   },
   {
     "title": "Louder than bombs",
@@ -2994,10 +4100,14 @@
     "year": 2020,
     "duration": "3:37",
     "genres": [
-      "Pop",
-      "EDM/Electronic",
-      "Electropop",
-      "Darkwave"
+      "Dark Pop",
+      "Alt-pop",
+      "Chill Electronic"
+    ],
+    "style": [
+      "atmospheric",
+      "soaring",
+      "melancholic"
     ],
     "bpm": 112,
     "tier": "Mid",
@@ -3007,7 +4117,14 @@
       "appleMusic": "https://music.apple.com/us/album/louder-than-bombs/1599362484?i=1599362866&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2012.8450354315341,
+      "spectral_rolloff": 4334.341671965843,
+      "zero_crossing_rate": 0.0774455698885659,
+      "rms_energy": 0.12104423344135284,
+      "spectral_contrast": 18.80991727515303
+    }
   },
   {
     "title": "ON",
@@ -3015,9 +4132,14 @@
     "year": 2020,
     "duration": "4:06",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Anthemic Marching-band Pop"
+      "Stadium Pop",
+      "Pop Rock",
+      "Hip-Hop"
+    ],
+    "style": [
+      "anthem",
+      "driving",
+      "chant-heavy"
     ],
     "bpm": 106,
     "tier": "Mid",
@@ -3027,7 +4149,14 @@
       "appleMusic": "https://music.apple.com/us/song/on/1599362870",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2581.4576452404945,
+      "spectral_rolloff": 5655.003065952035,
+      "zero_crossing_rate": 0.097457152374031,
+      "rms_energy": 0.2069893479347229,
+      "spectral_contrast": 19.748062337872657
+    }
   },
   {
     "title": "UGH! (욱)",
@@ -3035,8 +4164,14 @@
     "year": 2020,
     "duration": "3:45",
     "genres": [
-      "Hip-Hop",
-      "Hardcore Trap"
+      "90s Boom Bap",
+      "Hardcore Trap",
+      "Hardcore Rap"
+    ],
+    "style": [
+      "aggressive",
+      "driving",
+      "chant-heavy"
     ],
     "bpm": 166,
     "tier": "Up-tempo",
@@ -3046,7 +4181,14 @@
       "appleMusic": "https://music.apple.com/us/album/ugh/1599362484?i=1599362875&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2716.824493706202,
+      "spectral_rolloff": 5758.738020076308,
+      "zero_crossing_rate": 0.12281522529069767,
+      "rms_energy": 0.23507079482078552,
+      "spectral_contrast": 17.214829940878335
+    }
   },
   {
     "title": "00:00 (Zero O'Clock)",
@@ -3054,9 +4196,14 @@
     "year": 2020,
     "duration": "4:10",
     "genres": [
-      "Ballad",
-      "Pop",
-      "Contemporary R&B"
+      "Pop Ballad",
+      "Alternative R&B",
+      "Synth-Pop"
+    ],
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
     ],
     "bpm": 85,
     "tier": "Slow",
@@ -3066,7 +4213,14 @@
       "appleMusic": "https://music.apple.com/us/album/00-00-zero-oclock/1599362484?i=1599362879&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2123.7992080243525,
+      "spectral_rolloff": 4661.028740461483,
+      "zero_crossing_rate": 0.08637430353682171,
+      "rms_energy": 0.14715877175331116,
+      "spectral_contrast": 20.407618292222605
+    }
   },
   {
     "title": "Inner Child",
@@ -3074,10 +4228,14 @@
     "year": 2020,
     "duration": "3:53",
     "genres": [
-      "Pop",
-      "Rock/Punk/Metal",
+      "Stadium Pop",
       "Britpop",
-      "Arena Rock"
+      "Indie Rock"
+    ],
+    "style": [
+      "anthem",
+      "soaring",
+      "bright"
     ],
     "bpm": 135,
     "tier": "Mid",
@@ -3087,7 +4245,14 @@
       "appleMusic": "https://music.apple.com/us/album/inner-child/1599362484?i=1599362883&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2087.198151434412,
+      "spectral_rolloff": 4249.544251907703,
+      "zero_crossing_rate": 0.08611199430717054,
+      "rms_energy": 0.050168395042419434,
+      "spectral_contrast": 22.128175842793347
+    }
   },
   {
     "title": "Friends (친구)",
@@ -3095,8 +4260,14 @@
     "year": 2020,
     "duration": "3:19",
     "genres": [
-      "Pop",
-      "Pop-rock"
+      "Funk Pop",
+      "Pop-rock",
+      "Synth-Pop"
+    ],
+    "style": [
+      "playful",
+      "bouncy",
+      "bright"
     ],
     "bpm": 95,
     "tier": "Slow",
@@ -3106,7 +4277,14 @@
       "appleMusic": "https://music.apple.com/us/album/friends/1599362484?i=1599363186&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3313.9521427222953,
+      "spectral_rolloff": 6997.907090297965,
+      "zero_crossing_rate": 0.15813461421996125,
+      "rms_energy": 0.14730054140090942,
+      "spectral_contrast": 18.759568795489297
+    }
   },
   {
     "title": "Moon",
@@ -3114,10 +4292,13 @@
     "year": 2020,
     "duration": "3:29",
     "genres": [
-      "Pop",
-      "Rock/Punk/Metal",
-      "Space Rock",
-      "Guitar-pop"
+      "Pop Rock",
+      "Indie Pop"
+    ],
+    "style": [
+      "bright",
+      "driving",
+      "soaring"
     ],
     "bpm": 125,
     "tier": "Mid",
@@ -3127,7 +4308,14 @@
       "appleMusic": "https://music.apple.com/us/album/moon/1599362484?i=1599363200&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3504.8996598826648,
+      "spectral_rolloff": 7107.050383811773,
+      "zero_crossing_rate": 0.15367989946705427,
+      "rms_energy": 0.14900609850883484,
+      "spectral_contrast": 19.46452644053213
+    }
   },
   {
     "title": "Respect",
@@ -3135,9 +4323,13 @@
     "year": 2020,
     "duration": "3:58",
     "genres": [
-      "Hip-Hop",
-      "Pop",
-      "Old School Boom-bap"
+      "90s Boom Bap",
+      "Old School Hip-Hop"
+    ],
+    "style": [
+      "playful",
+      "bouncy",
+      "laid-back"
     ],
     "bpm": 93,
     "tier": "Slow",
@@ -3147,7 +4339,14 @@
       "appleMusic": "https://music.apple.com/us/album/respect/1599362484?i=1599363208&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2864.3460580470005,
+      "spectral_rolloff": 5419.306299963663,
+      "zero_crossing_rate": 0.16018123183139535,
+      "rms_energy": 0.1553131639957428,
+      "spectral_contrast": 18.714682226408893
+    }
   },
   {
     "title": "We are Bulletproof : the Eternal",
@@ -3155,10 +4354,14 @@
     "year": 2020,
     "duration": "4:22",
     "genres": [
-      "Pop",
-      "EDM/Electronic",
-      "Stadium EDM",
+      "Synth-Pop",
+      "Pop Ballad",
       "Future Bass"
+    ],
+    "style": [
+      "soaring",
+      "melancholic",
+      "vocal-forward"
     ],
     "bpm": 120,
     "tier": "Mid",
@@ -3168,7 +4371,14 @@
       "appleMusic": "https://music.apple.com/us/album/we-are-bulletproof-the-eternal/1599362484?i=1599363211&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1730.7212779825484,
+      "spectral_rolloff": 3723.4830918422963,
+      "zero_crossing_rate": 0.06421655462693798,
+      "rms_energy": 0.10724293440580368,
+      "spectral_contrast": 22.303571572002475
+    }
   },
   {
     "title": "Outro: Ego",
@@ -3176,17 +4386,31 @@
     "year": 2020,
     "duration": "3:16",
     "genres": [
-      "Hip-Hop"
+      "Afro Pop",
+      "Bright Hip-Hop",
+      "Brass Pop"
+    ],
+    "style": [
+      "bright",
+      "bouncy",
+      "anthem"
     ],
     "bpm": 112,
     "tier": "Mid",
     "art": "assets/covers/mots7.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/6OYHT9Ll9DTIftVEKagoTs",
+      "spotify": "https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW?si=1c8dd0b371dc46db",
       "appleMusic": "https://music.apple.com/us/album/outro-ego/1599362484?i=1599363213&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2274.4028376272818,
+      "spectral_rolloff": 4569.587743005087,
+      "zero_crossing_rate": 0.10066050448158914,
+      "rms_energy": 0.24644392728805542,
+      "spectral_contrast": 16.28930580803422
+    }
   },
   {
     "title": "ON (Feat. Sia)",
@@ -3195,8 +4419,13 @@
     "duration": "4:06",
     "genres": [
       "Hip-Hop",
-      "Pop",
-      "Anthemic Pop"
+      "Stadium Pop",
+      "Pop Rock"
+    ],
+    "style": [
+      "anthem",
+      "driving",
+      "soaring"
     ],
     "bpm": 106,
     "tier": "Mid",
@@ -3206,7 +4435,14 @@
       "appleMusic": "https://music.apple.com/us/song/on-feat-sia/1599363215",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2556.9839636398774,
+      "spectral_rolloff": 5602.814260083575,
+      "zero_crossing_rate": 0.0969749273255814,
+      "rms_energy": 0.20777897536754608,
+      "spectral_contrast": 19.748878061297713
+    }
   },
   {
     "title": "Dynamite",
@@ -3216,7 +4452,12 @@
     "duration": "3:19",
     "genres": [
       "Disco Pop",
-      "Nu-Disco"
+      "Funk Pop"
+    ],
+    "style": [
+      "bright",
+      "bouncy",
+      "slick"
     ],
     "bpm": 114,
     "tier": "Mid-tempo",
@@ -3226,7 +4467,14 @@
       "appleMusic": "https://music.apple.com/us/album/dynamite-live/1823627665?i=1823627863&uo=4",
       "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2779.300202108913,
+      "spectral_rolloff": 6070.688291378435,
+      "zero_crossing_rate": 0.11731372750580496,
+      "rms_energy": 0.03671994060277939,
+      "spectral_contrast": 17.790923670091185
+    }
   },
   {
     "title": "Life Goes On",
@@ -3235,18 +4483,30 @@
     "year": 2020,
     "duration": "3:27",
     "genres": [
-      "Alternative Pop",
-      "Acoustic"
+      "Alternative R&B",
+      "Pop Ballad"
+    ],
+    "style": [
+      "intimate",
+      "melancholic",
+      "vocal-forward"
     ],
     "bpm": 81,
     "tier": "Slow-tempo",
-    "art": "assets/covers/proof.jpg",
+    "art": "",
     "links": {
       "spotify": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg",
       "appleMusic": "https://music.apple.com/us/album/life-goes-on/1596532185?i=1596532189&uo=4",
       "youtube": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2360.6351723929943,
+      "spectral_rolloff": 5371.165402434593,
+      "zero_crossing_rate": 0.07992293483527131,
+      "rms_energy": 0.28907036781311035,
+      "spectral_contrast": 19.734050499597608
+    }
   },
   {
     "title": "Stay",
@@ -3255,97 +4515,157 @@
     "year": 2020,
     "duration": "3:25",
     "genres": [
-      "Future House"
+      "Future Bass",
+      "Electropop"
+    ],
+    "style": [
+      "soaring",
+      "driving",
+      "bright"
     ],
     "bpm": 128,
     "tier": "Up-tempo",
-    "art": "assets/covers/proof.jpg",
+    "art": "",
     "links": {
       "spotify": "https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG",
       "appleMusic": "https://music.apple.com/us/album/stay/1596532185?i=1596532398&uo=4",
       "youtube": "https://www.youtube.com/watch?v=00"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2358.3089595025526,
+      "spectral_rolloff": 5184.369038426599,
+      "zero_crossing_rate": 0.09317049721414729,
+      "rms_energy": 0.1075342446565628,
+      "spectral_contrast": 21.791208531157118
+    }
   },
   {
     "title": "Fly To My Room",
     "album": "BE",
     "year": 2020,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
+    "duration": "3:42",
+    "genres": [
+      "Alternative R&B",
+      "Melodic Rap",
+      "Neo-soul"
+    ],
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
+    ],
+    "bpm": 115,
+    "tier": "Mid",
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/1NHl9g36Ebu3g16y0vtUNV",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3516.792145351293,
+      "spectral_rolloff": 7534.960199400436,
+      "zero_crossing_rate": 0.15870541121608528,
+      "rms_energy": 0.1326405555009842,
+      "spectral_contrast": 20.158544802819122
+    }
   },
   {
     "title": "Blue & Grey",
     "album": "BE",
     "year": 2020,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
+    "duration": "4:14",
+    "genres": [
+      "Pop Ballad",
+      "Alt-pop",
+      "Melodic Rap"
+    ],
+    "style": [
+      "melancholic",
+      "intimate",
+      "vocal-forward"
+    ],
+    "bpm": 122,
+    "tier": "Mid",
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
-  },
-  {
-    "title": "Skit",
-    "album": "BE",
-    "year": 2020,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1685.8711681209613,
+      "spectral_rolloff": 3426.3749659338664,
+      "zero_crossing_rate": 0.06549441315406977,
+      "rms_energy": 0.1318182796239853,
+      "spectral_contrast": 23.436525233841866
+    }
   },
   {
     "title": "Telepathy",
     "album": "BE",
     "year": 2020,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
+    "duration": "3:22",
+    "genres": [
+      "Funk Pop",
+      "Nu-Disco",
+      "Synth-Funk"
+    ],
+    "style": [
+      "bright",
+      "bouncy",
+      "slick"
+    ],
+    "bpm": 105,
+    "tier": "Mid",
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1667.8421603943175,
+      "spectral_rolloff": 3509.2110283430234,
+      "zero_crossing_rate": 0.06985071463178294,
+      "rms_energy": 0.21374346315860748,
+      "spectral_contrast": 21.03237982195819
+    }
   },
   {
     "title": "Dis-ease",
     "album": "BE",
     "year": 2020,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
+    "duration": "3:59",
+    "genres": [
+      "90s Hip-Hop",
+      "Old School Hip-Hop"
+    ],
+    "style": [
+      "bouncy",
+      "driving",
+      "playful"
+    ],
+    "bpm": 101,
+    "tier": "Mid",
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2568.46924779858,
+      "spectral_rolloff": 5393.182685319767,
+      "zero_crossing_rate": 0.12150935683139535,
+      "rms_energy": 0.18956267833709717,
+      "spectral_contrast": 17.615018672743965
+    }
   },
   {
     "title": "Butter",
@@ -3358,7 +4678,11 @@
       "Disco-funk",
       "Synth-pop"
     ],
-    "style": ["bright", "bouncy", "gliding"],
+    "style": [
+      "bright",
+      "bouncy",
+      "gliding"
+    ],
     "bpm": 110,
     "tier": "Mid-tempo",
     "art": "assets/covers/butter.jpg",
@@ -3367,7 +4691,14 @@
       "appleMusic": "https://music.apple.com/us/album/butter-megan-thee-stallion-remix/1598661509?i=1598661512&uo=4",
       "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2721.1231991098316,
+      "spectral_rolloff": 6320.678446388835,
+      "zero_crossing_rate": 0.0989196588380418,
+      "rms_energy": 0.04813607037067413,
+      "spectral_contrast": 17.689479415089657
+    }
   },
   {
     "title": "Butter (feat. Megan Thee Stallion)",
@@ -3379,7 +4710,11 @@
       "Disco-funk",
       "Hip-Hop Pop"
     ],
-    "style": ["bright", "bouncy", "playful"],
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ],
     "bpm": 110,
     "tier": "Up-tempo",
     "art": "assets/covers/butterremix.jpg",
@@ -3388,7 +4723,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3506.722102516669,
+      "spectral_rolloff": 7468.810685303301,
+      "zero_crossing_rate": 0.16504700510747483,
+      "rms_energy": 0.26830995082855225,
+      "spectral_contrast": 17.294007468906205
+    }
   },
   {
     "title": "My Universe (with Coldplay)",
@@ -3400,16 +4742,27 @@
       "Stadium Pop",
       "Pop Rock"
     ],
-    "style": ["soaring", "anthem", "bright"],
+    "style": [
+      "soaring",
+      "anthem",
+      "bright"
+    ],
     "bpm": 105,
     "tier": "Mid",
-     "art": "assets/covers/universe.jpg",
+    "art": "assets/covers/universe.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM?si=4ce4eb3f541b4765",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2607.545461673133,
+      "spectral_rolloff": 5855.396661381681,
+      "zero_crossing_rate": 0.09941005337432222,
+      "rms_energy": 0.33321696519851685,
+      "spectral_contrast": 17.922841256086766
+    }
   },
   {
     "title": "Savage Love (Laxed – Siren Beat) [BTS Remix]",
@@ -3421,7 +4774,11 @@
       "Reggaeton",
       "Dancehall Pop"
     ],
-    "style": ["bouncy", "chill", "playful"],
+    "style": [
+      "bouncy",
+      "chill",
+      "playful"
+    ],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/savage.jpg",
@@ -3430,7 +4787,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2852.001602013156,
+      "spectral_rolloff": 6172.239981724439,
+      "zero_crossing_rate": 0.12551021797540665,
+      "rms_energy": 0.15297457575798035,
+      "spectral_contrast": 20.49461591468518
+    }
   },
   {
     "title": "Bad Decision (With BTS & Benny Blanco)",
@@ -3450,7 +4814,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3252.1416250611023,
+      "spectral_rolloff": 7015.0872476520135,
+      "zero_crossing_rate": 0.1389025888361735,
+      "rms_energy": 0.3207920491695404,
+      "spectral_contrast": 17.277371001282418
+    }
   },
   {
     "title": "Born Singer",
@@ -3460,7 +4831,13 @@
     "duration": "3:58",
     "genres": [
       "Conscious Hip-Hop",
-      "Gospel Sample"
+      "R&B Ballad",
+      "90s Hip-Hop"
+    ],
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
     ],
     "bpm": 85,
     "tier": "Mid-tempo",
@@ -3470,17 +4847,29 @@
       "appleMusic": "https://music.apple.com/us/album/born-singer/1627573936?i=1627573946&uo=4",
       "youtube": "https://www.youtube.com/watch?v=D30398O4322"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2998.681262448654,
+      "spectral_rolloff": 6362.736273661406,
+      "zero_crossing_rate": 0.12912183506003097,
+      "rms_energy": 0.31397148966789246,
+      "spectral_contrast": 17.680839846797724
+    }
   },
   {
-    "title": "Yet To Come (The Most Beautiful Moment)",
+    "title": "Yet To Come",
     "album": "Proof",
     "artist": "BTS",
     "year": 2022,
     "duration": "3:13",
     "genres": [
       "Alternative Hip-Hop",
-      "Pop"
+      "Pop Ballad"
+    ],
+    "style": [
+      "soaring",
+      "melancholic",
+      "vocal-forward"
     ],
     "bpm": 86,
     "tier": "Mid-tempo",
@@ -3490,7 +4879,14 @@
       "appleMusic": "https://music.apple.com/us/album/yet-to-come/1627573936?i=1627575774&uo=4",
       "youtube": "https://www.youtube.com/watch?v=kXpOEzNZ8hQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2887.7276918269213,
+      "spectral_rolloff": 6631.926331937451,
+      "zero_crossing_rate": 0.11842125169442293,
+      "rms_energy": 0.315054714679718,
+      "spectral_contrast": 18.078761557609052
+    }
   },
   {
     "title": "Run BTS",
@@ -3500,7 +4896,13 @@
     "duration": "3:24",
     "genres": [
       "Rap-Rock",
-      "Pop-Punk"
+      "Hip-Hop",
+      "Alternative Rock"
+    ],
+    "style": [
+      "driving",
+      "aggressive",
+      "anthem"
     ],
     "bpm": 146,
     "tier": "Up-tempo",
@@ -3510,7 +4912,14 @@
       "appleMusic": "https://music.apple.com/us/album/run-bts/1627573936?i=1627575780&uo=4",
       "youtube": "https://www.youtube.com/watch?v=C30K2j4S321"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2547.9782247513745,
+      "spectral_rolloff": 5900.806533967128,
+      "zero_crossing_rate": 0.08639590191711852,
+      "rms_energy": 0.32625171542167664,
+      "spectral_contrast": 17.560531744219716
+    }
   },
   {
     "title": "BTS Cypher PT.3 : KILLER (Feat. Supreme Boi)",
@@ -3523,7 +4932,11 @@
       "Dark Trap",
       "Industrial Trap"
     ],
-    "style": ["aggressive", "driving", "glitchy"],
+    "style": [
+      "aggressive",
+      "driving",
+      "glitchy"
+    ],
     "bpm": 150,
     "tier": "Up-tempo",
     "art": "assets/covers/proof.jpg",
@@ -3532,7 +4945,14 @@
       "appleMusic": "https://music.apple.com/us/album/bts-cypher-pt-3-killer-feat-supreme-boi/1627573936?i=1627576704&uo=4",
       "youtube": "https://www.youtube.com/watch?v=04"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2901.2618718436624,
+      "spectral_rolloff": 5880.041731013808,
+      "zero_crossing_rate": 0.12729643592538759,
+      "rms_energy": 0.3006812632083893,
+      "spectral_contrast": 17.388630915802644
+    }
   },
   {
     "title": "For Youth",
@@ -3552,7 +4972,14 @@
       "appleMusic": "https://music.apple.com/us/album/for-youth/1627573936?i=1627577723&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Z30398O4321"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2581.59438195556,
+      "spectral_rolloff": 5528.137008466063,
+      "zero_crossing_rate": 0.11260839768106119,
+      "rms_energy": 0.20986390113830566,
+      "spectral_contrast": 19.88041188659964
+    }
   },
   {
     "title": "Jump (Demo Ver.)",
@@ -3632,7 +5059,14 @@
       "appleMusic": null,
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2994.008335687665,
+      "spectral_rolloff": 6361.0500885719475,
+      "zero_crossing_rate": 0.13495223171027132,
+      "rms_energy": 0.2806825637817383,
+      "spectral_contrast": 19.7340067215765
+    }
   },
   {
     "title": "Boyz with Fun (Demo Ver.)",
@@ -3712,7 +5146,14 @@
       "appleMusic": null,
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1700.7381946365533,
+      "spectral_rolloff": 3468.3897506359012,
+      "zero_crossing_rate": 0.06644485828488372,
+      "rms_energy": 0.26893144845962524,
+      "spectral_contrast": 19.832307726066382
+    }
   },
   {
     "title": "DNA (j-hope Demo Ver.)",
@@ -3731,7 +5172,14 @@
       "appleMusic": null,
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1967.5239114490807,
+      "spectral_rolloff": 4096.1160065406975,
+      "zero_crossing_rate": 0.08142752240794573,
+      "rms_energy": 0.23734821379184723,
+      "spectral_contrast": 19.823200783230035
+    }
   },
   {
     "title": "Epiphany (Jin Demo Ver.)",
@@ -3751,7 +5199,14 @@
       "appleMusic": null,
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1535.7662995111468,
+      "spectral_rolloff": 3122.9070335210754,
+      "zero_crossing_rate": 0.06857474866763566,
+      "rms_energy": 0.09366180747747421,
+      "spectral_contrast": 21.182990563616677
+    }
   },
   {
     "title": "Seesaw (Demo Ver.)",
@@ -3794,38 +5249,6 @@
     "recs": []
   },
   {
-    "title": "Fire",
-    "album": "Proof",
-    "year": 2022,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
-    "title": "Trivia 轉 : Seesaw",
-    "album": "Proof",
-    "year": 2022,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
-    "links": {
-      "spotify": "",
-      "appleMusic": "",
-      "youtube": ""
-    },
-    "recs": []
-  },
-  {
     "title": "Boy In Luv (Demo ver.)",
     "album": "Proof - CD Only",
     "year": 2022,
@@ -3835,43 +5258,81 @@
     "tier": null,
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2975.435022799958,
+      "spectral_rolloff": 6200.327261991279,
+      "zero_crossing_rate": 0.14264133660368217,
+      "rms_energy": 0.3101305067539215,
+      "spectral_contrast": 17.10962814142926
+    }
   },
   {
     "title": "The Planet",
     "album": "Single",
     "year": 2023,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "2:58",
+    "genres": [
+      "Funk Pop",
+      "Synth-Pop"
+    ],
+    "bpm": 120,
+    "tier": "Up-tempo",
+    "art": "assets/covers/planet.jpg",
     "links": {
-      "spotify": "",
-      "appleMusic": "",
+      "spotify": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg?si=ed9fe85fcb524081",
+      "appleMusic": "https://music.apple.com/us/song/the-planet/1687099530",
       "youtube": ""
     },
-    "recs": []
+    "style": [
+      "bright",
+      "bouncy",
+      "slick"
+    ],
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3000.757061585457,
+      "spectral_rolloff": 6530.631876028757,
+      "zero_crossing_rate": 0.1312602875677769,
+      "rms_energy": 0.3291708827018738,
+      "spectral_contrast": 17.754102281279632
+    }
   },
   {
     "title": "Take Two",
     "album": "Single",
     "year": 2023,
-    "duration": null,
-    "genres": [],
-    "bpm": null,
-    "tier": null,
-    "art": null,
+    "duration": "3:49",
+    "genres": [
+      "Synth-Pop",
+      "Pop Rock",
+      "Alt-pop"
+    ],
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
+    ],
+    "bpm": 93,
+    "tier": "Mid",
+    "art": "assets/covers/taketwo.jpg",
     "links": {
-      "spotify": "",
-      "appleMusic": "",
+      "spotify": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k?si=4b27229ce50a4239",
+      "appleMusic": "https://music.apple.com/us/song/take-two/1690421575",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2888.6993849031696,
+      "spectral_rolloff": 6550.255279186435,
+      "zero_crossing_rate": 0.12131311725406661,
+      "rms_energy": 0.2624260485172272,
+      "spectral_contrast": 20.096274956777204
+    }
   },
   {
     "title": "Body to Body",
@@ -3879,12 +5340,12 @@
     "year": 2026,
     "duration": "3:09",
     "genres": [
-      "Industrial Trap",
+      "Hip-Hop Dance",
       "Trap-pop",
-      "Traditional Folk"
+      "Synth-Pop"
     ],
     "style": [
-      "aggressive",
+      "smooth",
       "driving",
       "chant-heavy"
     ],
@@ -3896,7 +5357,14 @@
       "appleMusic": "https://music.apple.com/us/album/body-to-body/1868481904?i=1868481905&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2939.8889522463896,
+      "spectral_rolloff": 6590.611270635651,
+      "zero_crossing_rate": 0.12782265140879162,
+      "rms_energy": 0.2920948266983032,
+      "spectral_contrast": 18.458108716080478
+    }
   },
   {
     "title": "Hooligan",
@@ -3921,7 +5389,14 @@
       "appleMusic": "https://music.apple.com/us/album/hooligan/1868481904?i=1868481906&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2529.812546677071,
+      "spectral_rolloff": 5703.9560953776045,
+      "zero_crossing_rate": 0.08853187090084877,
+      "rms_energy": 0.05984916165471077,
+      "spectral_contrast": 17.70065753392496
+    }
   },
   {
     "title": "Aliens",
@@ -3946,7 +5421,14 @@
       "appleMusic": "https://music.apple.com/us/album/aliens/1868481904?i=1868481907&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3189.1324509321594,
+      "spectral_rolloff": 6815.817551498354,
+      "zero_crossing_rate": 0.13518885251258714,
+      "rms_energy": 0.343220978975296,
+      "spectral_contrast": 18.306158760085264
+    }
   },
   {
     "title": "FYA",
@@ -3971,7 +5453,14 @@
       "appleMusic": "https://music.apple.com/us/album/fya/1868481904?i=1868481909&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2653.3907389821784,
+      "spectral_rolloff": 6174.566768584189,
+      "zero_crossing_rate": 0.09435061241285825,
+      "rms_energy": 0.3805691599845886,
+      "spectral_contrast": 17.587209523977926
+    }
   },
   {
     "title": "2.0",
@@ -3996,7 +5485,14 @@
       "appleMusic": "https://music.apple.com/us/album/2-0/1885720384?i=1885720394&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2149.018888179298,
+      "spectral_rolloff": 5155.984546711609,
+      "zero_crossing_rate": 0.05756196746707978,
+      "rms_energy": 0.3653421401977539,
+      "spectral_contrast": 17.485448638230615
+    }
   },
   {
     "title": "SWIM",
@@ -4021,7 +5517,14 @@
       "appleMusic": "https://music.apple.com/us/song/swim/1868482073",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2675.60930842277,
+      "spectral_rolloff": 6265.22805873596,
+      "zero_crossing_rate": 0.0877151311967467,
+      "rms_energy": 0.36550137400627136,
+      "spectral_contrast": 17.427602191231603
+    }
   },
   {
     "title": "Merry Go Round",
@@ -4046,7 +5549,14 @@
       "appleMusic": "https://music.apple.com/us/album/merry-go-round/1868481904?i=1868482076&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2188.1693243305886,
+      "spectral_rolloff": 4706.547734314485,
+      "zero_crossing_rate": 0.09194816276142526,
+      "rms_energy": 0.29651761054992676,
+      "spectral_contrast": 18.680834520320722
+    }
   },
   {
     "title": "NORMAL",
@@ -4071,7 +5581,14 @@
       "appleMusic": "https://music.apple.com/us/album/normal/1885720384?i=1885720624&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2556.9478011392316,
+      "spectral_rolloff": 5820.798933699324,
+      "zero_crossing_rate": 0.10041475627413128,
+      "rms_energy": 0.04231441766023636,
+      "spectral_contrast": 17.601917421669917
+    }
   },
   {
     "title": "Like Animals",
@@ -4096,7 +5613,14 @@
       "appleMusic": "https://music.apple.com/us/album/like-animals/1868481904?i=1868482085&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2688.9079772064415,
+      "spectral_rolloff": 5962.3871582409465,
+      "zero_crossing_rate": 0.11504791283404338,
+      "rms_energy": 0.3332480788230896,
+      "spectral_contrast": 16.77559164414034
+    }
   },
   {
     "title": "they don't know 'bout us",
@@ -4121,7 +5645,14 @@
       "appleMusic": "https://music.apple.com/us/album/they-dont-know-bout-us/1868481904?i=1868482087&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2287.6390236684547,
+      "spectral_rolloff": 4981.684025676559,
+      "zero_crossing_rate": 0.07857583752904725,
+      "rms_energy": 0.37770920991897583,
+      "spectral_contrast": 17.975305170698846
+    }
   },
   {
     "title": "One More Night",
@@ -4146,7 +5677,14 @@
       "appleMusic": "https://music.apple.com/us/album/one-more-night/281472072?i=281472190&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1983.517637637987,
+      "spectral_rolloff": 4385.55956426099,
+      "zero_crossing_rate": 0.06663847671378777,
+      "rms_energy": 0.286349892616272,
+      "spectral_contrast": 18.9171979447061
+    }
   },
   {
     "title": "Please",
@@ -4171,7 +5709,14 @@
       "appleMusic": "https://music.apple.com/us/album/please/1868481904?i=1868482090&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2212.1071096356873,
+      "spectral_rolloff": 5297.951904107766,
+      "zero_crossing_rate": 0.05181946226278079,
+      "rms_energy": 0.40659162402153015,
+      "spectral_contrast": 18.432766344228302
+    }
   },
   {
     "title": "Into the Sun",
@@ -4196,7 +5741,14 @@
       "appleMusic": "https://music.apple.com/us/album/into-the-sun-ep-version/1051620922?i=1051620933&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2200.2269134957887,
+      "spectral_rolloff": 4946.8155817317,
+      "zero_crossing_rate": 0.0799559601326491,
+      "rms_energy": 0.35559239983558655,
+      "spectral_contrast": 18.83572104923486
+    }
   },
   {
     "title": "No. 29",
@@ -4208,11 +5760,18 @@
     "tier": null,
     "art": null,
     "links": {
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV",
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 354.9674423568971,
+      "spectral_rolloff": 362.86199379115027,
+      "zero_crossing_rate": 0.005878285970178156,
+      "rms_energy": 0.010773853398859501,
+      "spectral_contrast": 15.702532544703256
+    }
   },
   {
     "title": "Come Over",
@@ -4224,7 +5783,11 @@
       "Stadium Pop",
       "Pop Rock"
     ],
-    "style": ["soaring", "anthem", "melancholic"],
+    "style": [
+      "soaring",
+      "anthem",
+      "melancholic"
+    ],
     "bpm": 95,
     "tier": "Mid",
     "art": "assets/covers/comeover.jpg",
@@ -4233,6 +5796,13 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2657.5457552231646,
+      "spectral_rolloff": 5957.48339238599,
+      "zero_crossing_rate": 0.10259768650755229,
+      "rms_energy": 0.3563035726547241,
+      "spectral_contrast": 18.42215555487615
+    }
   }
 ]

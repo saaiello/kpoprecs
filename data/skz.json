@@ -22,7 +22,14 @@
       "appleMusic": "https://music.apple.com/us/album/hellevator/1608256722?i=1608256723&uo=4",
       "youtube": "https://www.youtube.com/watch?v=AdfIfFGCqgo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3383.680621851185,
+      "spectral_rolloff": 6959.948560138081,
+      "zero_crossing_rate": 0.16502732860949612,
+      "rms_energy": 0.22536422312259674,
+      "spectral_contrast": 17.833381931613864
+    }
   },
   {
     "title": "BEWARE",
@@ -46,7 +53,14 @@
       "appleMusic": "https://music.apple.com/us/album/beware/1608257176?i=1608257182&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Sy3ERg7OCWo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3335.5017550771477,
+      "spectral_rolloff": 6693.621230014535,
+      "zero_crossing_rate": 0.1715816527374031,
+      "rms_energy": 0.26528671383857727,
+      "spectral_contrast": 16.83666617653275
+    }
   },
   {
     "title": "Spread my wings",
@@ -69,7 +83,14 @@
       "appleMusic": "https://music.apple.com/us/album/spread-my-wings/1608257176?i=1608257185&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Xo8FPXlI3CU&list=RDXo8FPXlI3CU&start_radio=1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2215.4933528382035,
+      "spectral_rolloff": 4326.8801666969475,
+      "zero_crossing_rate": 0.11330320373062015,
+      "rms_energy": 0.09340401738882065,
+      "spectral_contrast": 17.99555541489479
+    }
   },
   {
     "title": "YAYAYA",
@@ -93,7 +114,14 @@
       "appleMusic": "https://music.apple.com/us/album/yayaya/1608257176?i=1608257190&uo=4",
       "youtube": "https://www.youtube.com/watch?v=cUAxyxABPYg&list=RDcUAxyxABPYg&start_radio=1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2264.555781974086,
+      "spectral_rolloff": 4728.307480922965,
+      "zero_crossing_rate": 0.11050107497577519,
+      "rms_energy": 0.26335540413856506,
+      "spectral_contrast": 17.4431530959554
+    }
   },
   {
     "title": "GLOW",
@@ -117,7 +145,14 @@
       "appleMusic": "https://music.apple.com/us/album/glow/1608245331?i=1608245469&uo=4",
       "youtube": "https://www.youtube.com/watch?v=VINlLSmHfc8&list=RDVINlLSmHfc8&start_radio=1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2509.237764944691,
+      "spectral_rolloff": 5194.47628997093,
+      "zero_crossing_rate": 0.105419921875,
+      "rms_energy": 0.08902178704738617,
+      "spectral_contrast": 20.254104293526233
+    }
   },
   {
     "title": "School Life",
@@ -140,7 +175,14 @@
       "appleMusic": "https://music.apple.com/us/album/school-life/1608245331?i=1608245471&uo=4",
       "youtube": "https://www.youtube.com/watch?v=MlNeZJtEQeE&list=RDMlNeZJtEQeE&start_radio=1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2805.609946500656,
+      "spectral_rolloff": 5804.358364371366,
+      "zero_crossing_rate": 0.11824884932170543,
+      "rms_energy": 0.3660167157649994,
+      "spectral_contrast": 16.959809893829707
+    }
   },
   {
     "title": "4419",
@@ -163,7 +205,14 @@
       "appleMusic": "https://music.apple.com/us/album/4419/1608245331?i=1608245476&uo=4",
       "youtube": "https://www.youtube.com/watch?v=ytn0KKXlSMw&list=RDytn0KKXlSMw&start_radio=1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2326.329743645204,
+      "spectral_rolloff": 4864.125238462936,
+      "zero_crossing_rate": 0.11458522589631782,
+      "rms_energy": 0.23214958608150482,
+      "spectral_contrast": 19.641456523039594
+    }
   },
   {
     "title": "District 9",
@@ -187,7 +236,14 @@
       "appleMusic": "https://music.apple.com/us/album/district-9/1608250038?i=1608250044&uo=4",
       "youtube": "https://youtu.be/u6unJQownW4?si=6nNfa5HDu2grq6La"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2415.929548330154,
+      "spectral_rolloff": 4701.850018168605,
+      "zero_crossing_rate": 0.123828125,
+      "rms_energy": 0.2702651917934418,
+      "spectral_contrast": 18.787511433173286
+    }
   },
   {
     "title": "Mirror",
@@ -211,7 +267,14 @@
       "appleMusic": "https://music.apple.com/us/album/mirror/1608250038?i=1608250306&uo=4",
       "youtube": "https://youtu.be/rXEy8r5P_vc?si=csx4rAF9V1EzBRlj"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2743.999268399163,
+      "spectral_rolloff": 5740.234488553779,
+      "zero_crossing_rate": 0.10212194161821705,
+      "rms_energy": 0.19644995033740997,
+      "spectral_contrast": 16.9120198283869
+    }
   },
   {
     "title": "Awaken",
@@ -234,7 +297,14 @@
       "appleMusic": "https://music.apple.com/us/album/awaken/1608256994?i=1608256996&uo=4",
       "youtube": "https://youtu.be/QW1-nhUXdbQ?si=hjPl4JSSw-fp2Yqp"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2517.976472674305,
+      "spectral_rolloff": 5243.209767896075,
+      "zero_crossing_rate": 0.1147934078246124,
+      "rms_energy": 0.274405837059021,
+      "spectral_contrast": 17.657801234942
+    }
   },
   {
     "title": "ROCK",
@@ -244,7 +314,11 @@
     "genres": [
       "Moombahton Trap"
     ],
-    "style": ["bouncy", "playful", "performance-driven"],
+    "style": [
+      "bouncy",
+      "playful",
+      "performance-driven"
+    ],
     "bpm": 128,
     "tier": "Mid",
     "art": "assets/covers/i-am-not.jpg",
@@ -253,7 +327,14 @@
       "appleMusic": "https://music.apple.com/us/album/rock/1608256994?i=1608257003&uo=4",
       "youtube": "https://youtu.be/xSH_6PwvSRM?si=kUt9clCfsrURcp6d"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2520.932315790258,
+      "spectral_rolloff": 4828.987724836483,
+      "zero_crossing_rate": 0.10965774890988372,
+      "rms_energy": 0.21370989084243774,
+      "spectral_contrast": 18.12869189167996
+    }
   },
   {
     "title": "Grow up",
@@ -276,7 +357,14 @@
       "appleMusic": "https://music.apple.com/us/album/grow-up/1608250038?i=1608250420",
       "youtube": "https://youtu.be/a4jiotDjHe4?si=NZW_qG2qZiXUnLtK"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1882.180400007501,
+      "spectral_rolloff": 3796.4873273982557,
+      "zero_crossing_rate": 0.09524247516957364,
+      "rms_energy": 0.2808862626552582,
+      "spectral_contrast": 19.011240209497142
+    }
   },
   {
     "title": "3rd eye",
@@ -299,7 +387,14 @@
       "appleMusic": "https://music.apple.com/us/album/3rd-eye/1608256994?i=1608257008&uo=4",
       "youtube": "https://youtu.be/UzobT1ftaWw?si=A7TtVyrGKU3c3W8M"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1750.7856831124689,
+      "spectral_rolloff": 3909.3029501271803,
+      "zero_crossing_rate": 0.05886173691860465,
+      "rms_energy": 0.15200208127498627,
+      "spectral_contrast": 18.81585095100199
+    }
   },
   {
     "title": "WHO?",
@@ -322,7 +417,14 @@
       "appleMusic": "https://music.apple.com/us/album/who/1608247182?i=1608247183&uo=4",
       "youtube": "https://youtu.be/YPoA95LA1nI?si=ZxRv_BSE9Dn-ILxz"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1884.5663091816505,
+      "spectral_rolloff": 3766.873886309639,
+      "zero_crossing_rate": 0.09639255236617533,
+      "rms_energy": 0.183526873588562,
+      "spectral_contrast": 20.141920679698313
+    }
   },
   {
     "title": "My Pace",
@@ -345,7 +447,14 @@
       "appleMusic": "https://music.apple.com/us/album/my-pace/1608257176?i=1608257390&uo=4",
       "youtube": "https://youtu.be/pok5yDw77uM?si=_ro0-Q6XF6fFgQhv"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2390.4172651377576,
+      "spectral_rolloff": 4737.647147285929,
+      "zero_crossing_rate": 0.11166829300814585,
+      "rms_energy": 0.20006845891475677,
+      "spectral_contrast": 17.491162069507194
+    }
   },
   {
     "title": "Voices",
@@ -370,7 +479,14 @@
       "appleMusic": "https://music.apple.com/us/album/voices/1608257176?i=1608257394&uo=4",
       "youtube": "https://youtu.be/5HMOkfE3kno?si=hnq2Xqm8iQYr6PfW"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2157.9174402593735,
+      "spectral_rolloff": 4632.409611191861,
+      "zero_crossing_rate": 0.08804467962693799,
+      "rms_energy": 0.1525408923625946,
+      "spectral_contrast": 18.726901500225612
+    }
   },
   {
     "title": "Question",
@@ -393,7 +509,14 @@
       "appleMusic": "https://music.apple.com/us/album/question/1608247182?i=1608247191&uo=4",
       "youtube": "https://youtu.be/Ol7yvyeJTJI?si=wBDFVysb2ZzysMbs"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3374.5998160746944,
+      "spectral_rolloff": 6802.838357314294,
+      "zero_crossing_rate": 0.17306104235356864,
+      "rms_energy": 0.2742476463317871,
+      "spectral_contrast": 17.016740513393934
+    }
   },
   {
     "title": "Insomnia",
@@ -416,7 +539,14 @@
       "appleMusic": "https://music.apple.com/us/album/insomnia/1608256994?i=1608257236&uo=4",
       "youtube": "https://youtu.be/5VqiOYR7TXU?si=lhj5YUIG403h1fmS"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2362.0191582661178,
+      "spectral_rolloff": 5182.073832667151,
+      "zero_crossing_rate": 0.10016843810562015,
+      "rms_energy": 0.16663724184036255,
+      "spectral_contrast": 18.21124222519204
+    }
   },
   {
     "title": "M.I.A.",
@@ -439,7 +569,14 @@
       "appleMusic": "https://music.apple.com/us/album/m-i-a/1608257176?i=1608257625&uo=4",
       "youtube": "https://youtu.be/x9TZNpRCeqE?si=aYiV9AnUrDqzHZO7"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2438.1981022975997,
+      "spectral_rolloff": 5330.436684051348,
+      "zero_crossing_rate": 0.0964277813469744,
+      "rms_energy": 0.1389232575893402,
+      "spectral_contrast": 19.22818828486152
+    }
   },
   {
     "title": "Awkward Silence",
@@ -462,7 +599,14 @@
       "appleMusic": "https://music.apple.com/us/album/awkward-silence/1608247182?i=1608247202&uo=4",
       "youtube": "https://youtu.be/y289In1OdZI?si=FgtVtmNJDgZe-3ot"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2247.1730647222803,
+      "spectral_rolloff": 4374.66483223429,
+      "zero_crossing_rate": 0.11290926226726145,
+      "rms_energy": 0.2024504393339157,
+      "spectral_contrast": 18.95846874016106
+    }
   },
   {
     "title": "YOU.",
@@ -486,7 +630,14 @@
       "appleMusic": "https://music.apple.com/us/album/you/1608249409?i=1608249416&uo=4",
       "youtube": "https://youtu.be/B7HrwvISXmw?si=rs7OLyV00XvHgPqO"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2207.6140282681226,
+      "spectral_rolloff": 4269.107751180959,
+      "zero_crossing_rate": 0.1305171996124031,
+      "rms_energy": 0.1436011791229248,
+      "spectral_contrast": 18.81189566539468
+    }
   },
   {
     "title": "I am YOU",
@@ -510,7 +661,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-am-you/1608249409?i=1608249420&uo=4",
       "youtube": "https://youtu.be/CNfodZluR-Q?si=L45kJ5xssVGSOvjr"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1776.3349873419363,
+      "spectral_rolloff": 3892.9443927143893,
+      "zero_crossing_rate": 0.06995859072189922,
+      "rms_energy": 0.1793142408132553,
+      "spectral_contrast": 18.726514990741485
+    }
   },
   {
     "title": "My Side",
@@ -534,7 +692,14 @@
       "appleMusic": "https://music.apple.com/us/album/my-side/1608256994?i=1608257242&uo=4",
       "youtube": "https://youtu.be/RfRceNaUjbM?si=e547cPFJn1Dj0gcH"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2955.3505886671346,
+      "spectral_rolloff": 6583.77685546875,
+      "zero_crossing_rate": 0.12217364643895348,
+      "rms_energy": 0.2256571501493454,
+      "spectral_contrast": 18.00407268251809
+    }
   },
   {
     "title": "Hero's Soup",
@@ -557,7 +722,14 @@
       "appleMusic": "https://music.apple.com/us/album/heros-soup/1608249409?i=1608249425&uo=4",
       "youtube": "https://youtu.be/ZNfhS5kf8EQ?si=IGuuX49978MBy6Ks"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2073.0361538507686,
+      "spectral_rolloff": 4512.508062318314,
+      "zero_crossing_rate": 0.08317019440406977,
+      "rms_energy": 0.15009291470050812,
+      "spectral_contrast": 19.54571459881175
+    }
   },
   {
     "title": "Get Cool",
@@ -581,7 +753,14 @@
       "appleMusic": "https://music.apple.com/us/album/get-cool/1608257176?i=1608257630&uo=4",
       "youtube": "https://youtu.be/BcXwZEbOvpo?si=TZgbBgBKveXeGWRF"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3471.8671795575383,
+      "spectral_rolloff": 6629.547431413517,
+      "zero_crossing_rate": 0.1935592296511628,
+      "rms_energy": 0.1206509992480278,
+      "spectral_contrast": 19.37080485379838
+    }
   },
   {
     "title": "N/S",
@@ -604,7 +783,14 @@
       "appleMusic": "https://music.apple.com/us/album/n-s/1608256994?i=1608257245&uo=4",
       "youtube": "https://youtu.be/1drXhkby-Y8?si=h-r_RYECLXQbIyvf"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2689.3604512147112,
+      "spectral_rolloff": 5810.100551871366,
+      "zero_crossing_rate": 0.09233587693798449,
+      "rms_energy": 0.2457323670387268,
+      "spectral_contrast": 19.170061512705104
+    }
   },
   {
     "title": "0325",
@@ -627,7 +813,14 @@
       "appleMusic": "https://music.apple.com/us/album/0325/1608249409?i=1608249891&uo=4",
       "youtube": "https://youtu.be/uJrccg-wyoM?si=YVAXxi38IkWm7kvx"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2106.8871390146296,
+      "spectral_rolloff": 4341.1020962027615,
+      "zero_crossing_rate": 0.08151609435562016,
+      "rms_energy": 0.23271183669567108,
+      "spectral_contrast": 17.983132398392517
+    }
   },
   {
     "title": "Entrance",
@@ -650,7 +843,14 @@
       "appleMusic": "https://music.apple.com/us/album/entrance/1608250336?i=1608250340&uo=4",
       "youtube": "https://youtu.be/ZF8RkqvOFRc?si=Qc2x-RSG3tUm1d0d"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1418.5287761485122,
+      "spectral_rolloff": 2928.3236623364824,
+      "zero_crossing_rate": 0.04375643471414729,
+      "rms_energy": 0.3233812749385834,
+      "spectral_contrast": 17.3892545609789
+    }
   },
   {
     "title": "MIROH",
@@ -673,7 +873,14 @@
       "appleMusic": "https://music.apple.com/us/album/miroh/1608250336?i=1608250342&uo=4",
       "youtube": "https://youtu.be/Dab4EENTW5I?si=pe0iviWxu2wuZwv4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2177.514131231881,
+      "spectral_rolloff": 4786.78097747093,
+      "zero_crossing_rate": 0.08477395227713179,
+      "rms_energy": 0.2510488033294678,
+      "spectral_contrast": 18.59559869424603
+    }
   },
   {
     "title": "Victory Song",
@@ -697,7 +904,14 @@
       "appleMusic": "https://music.apple.com/us/album/victory-song/1608257176?i=1608257633&uo=4",
       "youtube": "https://youtu.be/Fy3zu0WsTLM?si=bE-kC4VOdR8GmuEX"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3064.263045952535,
+      "spectral_rolloff": 6060.778751816861,
+      "zero_crossing_rate": 0.13853523195251938,
+      "rms_energy": 0.22670796513557434,
+      "spectral_contrast": 17.37798362074709
+    }
   },
   {
     "title": "Maze of Memories",
@@ -721,7 +935,14 @@
       "appleMusic": "https://music.apple.com/us/album/maze-of-memories/1608256994?i=1608257251&uo=4",
       "youtube": "https://youtu.be/3YvIIXtSzgo?si=Ea5zdI-qpW4uX2hU"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1563.6721462274313,
+      "spectral_rolloff": 3391.0121048328488,
+      "zero_crossing_rate": 0.05872433684593023,
+      "rms_energy": 0.2189343422651291,
+      "spectral_contrast": 19.584443424004064
+    }
   },
   {
     "title": "Boxer",
@@ -744,7 +965,14 @@
       "appleMusic": "https://music.apple.com/us/album/boxer/1608257176?i=1608257637&uo=4",
       "youtube": "https://youtu.be/1Un3wEJFu7A?si=eZFgJ71gT-5SOiDJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3460.6159788183945,
+      "spectral_rolloff": 7315.505143986192,
+      "zero_crossing_rate": 0.15526283914728684,
+      "rms_energy": 0.31421855092048645,
+      "spectral_contrast": 17.28796355127354
+    }
   },
   {
     "title": "Chronosaurus",
@@ -769,7 +997,14 @@
       "appleMusic": "https://music.apple.com/us/album/chronosaurus/1608257176?i=1608257640&uo=4",
       "youtube": "https://youtu.be/12N0qEr_RGk?si=yC8-QMHH-UghoXcM"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2467.5114030739546,
+      "spectral_rolloff": 5148.113133630087,
+      "zero_crossing_rate": 0.09881866218507752,
+      "rms_energy": 0.21003980934619904,
+      "spectral_contrast": 18.517657190251096
+    }
   },
   {
     "title": "19",
@@ -792,7 +1027,14 @@
       "appleMusic": "https://music.apple.com/us/album/19/1608257176?i=1608257886&uo=4",
       "youtube": "https://youtu.be/wfd6_PIZong?si=VJPYw4K4gke4Mst2"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1241.4864306969491,
+      "spectral_rolloff": 2451.3047896984012,
+      "zero_crossing_rate": 0.04245624394379845,
+      "rms_energy": 0.2325376570224762,
+      "spectral_contrast": 19.527544086018626
+    }
   },
   {
     "title": "Road Not Taken",
@@ -815,7 +1057,14 @@
       "appleMusic": "https://music.apple.com/us/album/road-not-taken/1608249558?i=1608249561&uo=4",
       "youtube": "https://youtu.be/b46TaE69J-E?si=nfNRBi11f2Y5etk0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2677.0927023706754,
+      "spectral_rolloff": 5556.242448673692,
+      "zero_crossing_rate": 0.1445895409399225,
+      "rms_energy": 0.21000340580940247,
+      "spectral_contrast": 17.03336915849396
+    }
   },
   {
     "title": "Side Effects",
@@ -838,7 +1087,14 @@
       "appleMusic": "https://music.apple.com/us/album/side-effects/1608249558?i=1608249563&uo=4",
       "youtube": "https://youtu.be/5rPluw_-Eb4?si=X0ozbruujnnwX21U"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1954.796112776183,
+      "spectral_rolloff": 4166.449457212936,
+      "zero_crossing_rate": 0.09002467902131783,
+      "rms_energy": 0.2510179281234741,
+      "spectral_contrast": 19.170058372941764
+    }
   },
   {
     "title": "TMT",
@@ -861,7 +1117,14 @@
       "appleMusic": "https://music.apple.com/us/album/tmt/1608257176?i=1608257895&uo=4",
       "youtube": "https://youtu.be/4Xv5HJo5AFw?si=Y7OaCIrTe1EMyBzO"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2238.114385054383,
+      "spectral_rolloff": 4705.121729651163,
+      "zero_crossing_rate": 0.083890503875969,
+      "rms_energy": 0.17043086886405945,
+      "spectral_contrast": 18.152149681449814
+    }
   },
   {
     "title": "Mixtape #1 (Placebo)",
@@ -884,10 +1147,17 @@
       "appleMusic": "https://music.apple.com/us/album/mixtape-1/1608249558?i=1608249572",
       "youtube": "https://www.youtube.com/watch?v=M7lIml8-eHU"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2239.885817704628,
+      "spectral_rolloff": 4714.3275912972385,
+      "zero_crossing_rate": 0.08623993156492248,
+      "rms_energy": 0.1138107180595398,
+      "spectral_contrast": 17.965604534855874
+    }
   },
   {
-    "title": "Mixtape #2 (Behind the Light)",
+    "title": "Behind the Light",
     "album": "Cle 2: YELLOW WOOD",
     "year": 2019,
     "duration": "4:52",
@@ -907,7 +1177,14 @@
       "appleMusic": "https://music.apple.com/us/song/mixtape-2/1608249573",
       "youtube": "https://youtu.be/KvOoSNLpqWo?si=GimTmOOAP58Tctls"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1303.9633860671343,
+      "spectral_rolloff": 2691.3248887172963,
+      "zero_crossing_rate": 0.048418952882751935,
+      "rms_energy": 0.12161910533905029,
+      "spectral_contrast": 23.616799663233195
+    }
   },
   {
     "title": "Mixtape #3",
@@ -931,10 +1208,17 @@
       "appleMusic": "https://music.apple.com/us/song/mixtape-3/1608249672",
       "youtube": "https://youtu.be/3R19jESEY0c?si=ZSh54IxI6l0AA5hi"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2442.769397399109,
+      "spectral_rolloff": 5306.440600018169,
+      "zero_crossing_rate": 0.09294944585755814,
+      "rms_energy": 0.17574957013130188,
+      "spectral_contrast": 19.54471787284883
+    }
   },
   {
-    "title": "Mixtape #4 (Broken Compass)",
+    "title": "Broken Compass",
     "album": "Cle 2: YELLOW WOOD",
     "year": 2019,
     "duration": "3:51",
@@ -954,7 +1238,14 @@
       "appleMusic": "https://music.apple.com/us/song/mixtape-4/1608249673",
       "youtube": "https://youtu.be/gWaCN9vpRK8?si=EwvLbSbRnVymoH1U"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2488.605804709871,
+      "spectral_rolloff": 5267.764296420785,
+      "zero_crossing_rate": 0.11049009811046512,
+      "rms_energy": 0.27207690477371216,
+      "spectral_contrast": 18.661230882276218
+    }
   },
   {
     "title": "STOP",
@@ -977,7 +1268,14 @@
       "appleMusic": "https://music.apple.com/us/album/stop/1608249431?i=1608249433&uo=4",
       "youtube": "https://youtu.be/xd-uC02Qmmc?si=zuqRgM6-MOzoeLto"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2164.4777087784255,
+      "spectral_rolloff": 4721.229900981105,
+      "zero_crossing_rate": 0.07832636870155038,
+      "rms_energy": 0.17609527707099915,
+      "spectral_contrast": 15.902212395204181
+    }
   },
   {
     "title": "Double Knot",
@@ -1000,7 +1298,14 @@
       "appleMusic": "https://music.apple.com/us/album/double-knot/1608248433?i=1608248587&uo=4",
       "youtube": "https://youtu.be/UWoyeuwj9c0?si=vZfcZ339b5j3WoK6"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2495.183455499665,
+      "spectral_rolloff": 5146.042971022837,
+      "zero_crossing_rate": 0.12134035286559348,
+      "rms_energy": 0.1872098594903946,
+      "spectral_contrast": 17.872224723606827
+    }
   },
   {
     "title": "Levanter",
@@ -1023,7 +1328,14 @@
       "appleMusic": "https://music.apple.com/us/album/levanter/1608249431?i=1608249440&uo=4",
       "youtube": "https://youtu.be/Fpgd3ac3_nM?si=ztjipocjfe8H1unv"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2397.4051341715503,
+      "spectral_rolloff": 4917.045959046499,
+      "zero_crossing_rate": 0.11502716798390225,
+      "rms_energy": 0.11276508122682571,
+      "spectral_contrast": 21.47583205105221
+    }
   },
   {
     "title": "Booster",
@@ -1047,7 +1359,14 @@
       "appleMusic": "https://music.apple.com/us/album/booster/1608249431?i=1608249442&uo=4",
       "youtube": "https://youtu.be/JOPZueraeB4?si=JZ2DG1DrKT-qKQ8Z"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2771.3499966865024,
+      "spectral_rolloff": 5919.602732103925,
+      "zero_crossing_rate": 0.10892229893410853,
+      "rms_energy": 0.20901763439178467,
+      "spectral_contrast": 17.33799877195422
+    }
   },
   {
     "title": "Astronaut",
@@ -1071,7 +1390,14 @@
       "appleMusic": "https://music.apple.com/us/album/astronaut/1608257176?i=1608257914&uo=4",
       "youtube": "https://youtu.be/ZnpEBYvgiAU?si=-rC-KbRajBwcVx_H"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2546.0302913974965,
+      "spectral_rolloff": 5101.374398164971,
+      "zero_crossing_rate": 0.1280258296996124,
+      "rms_energy": 0.15083418786525726,
+      "spectral_contrast": 19.947023632146887
+    }
   },
   {
     "title": "Sunshine",
@@ -1094,7 +1420,14 @@
       "appleMusic": "https://music.apple.com/us/album/sunshine/1608249431?i=1608249449&uo=4",
       "youtube": "https://youtu.be/MsCFvUEIEiM?si=3Da47VcENTZz4YSy"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2443.597248449209,
+      "spectral_rolloff": 4929.951739643895,
+      "zero_crossing_rate": 0.10606339328972868,
+      "rms_energy": 0.09207990765571594,
+      "spectral_contrast": 18.804943413152273
+    }
   },
   {
     "title": "You Can STAY",
@@ -1117,7 +1450,14 @@
       "appleMusic": "https://music.apple.com/us/album/you-can-stay/1608249431?i=1608249450&uo=4",
       "youtube": "https://youtu.be/En4jap4MPbY?si=lamFVwo7OoRBQB9P"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1790.663576196279,
+      "spectral_rolloff": 3700.931651980378,
+      "zero_crossing_rate": 0.06462837633236435,
+      "rms_energy": 0.13675205409526825,
+      "spectral_contrast": 19.02145986036251
+    }
   },
   {
     "title": "GO LIVE",
@@ -1141,7 +1481,14 @@
       "appleMusic": "https://music.apple.com/us/album/go-live/1608257477?i=1608257482&uo=4",
       "youtube": "https://youtu.be/zfAOhrAR8Fs?si=0zgyDyZGzQOKsR8V"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2077.231487605348,
+      "spectral_rolloff": 4323.391453942587,
+      "zero_crossing_rate": 0.07361010174418604,
+      "rms_energy": 0.18522292375564575,
+      "spectral_contrast": 18.34946882166146
+    }
   },
   {
     "title": "God's Menu",
@@ -1165,7 +1512,14 @@
       "appleMusic": "https://music.apple.com/us/album/gods-menu/1608251775?i=1608251966&uo=4",
       "youtube": "https://youtu.be/TQTlCHxyuu8?si=_Y_KcjqQoIQCg6ab"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2981.504759070188,
+      "spectral_rolloff": 6313.476732830669,
+      "zero_crossing_rate": 0.09254178779069767,
+      "rms_energy": 0.36056792736053467,
+      "spectral_contrast": 17.166488430157436
+    }
   },
   {
     "title": "Easy",
@@ -1188,7 +1542,14 @@
       "appleMusic": "https://music.apple.com/us/album/easy/1608257477?i=1608257486&uo=4",
       "youtube": "https://youtu.be/XZSv3aMGg5Q?si=tZW6lvOOZfphOSMt"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2738.5071596332336,
+      "spectral_rolloff": 5947.078431595203,
+      "zero_crossing_rate": 0.09050955365794573,
+      "rms_energy": 0.27360379695892334,
+      "spectral_contrast": 17.959681371700754
+    }
   },
   {
     "title": "Pacemaker",
@@ -1212,7 +1573,14 @@
       "appleMusic": "https://music.apple.com/us/album/pacemaker/1608257477?i=1608257488&uo=4",
       "youtube": "https://youtu.be/_BeIFoLfiXg?si=RGQev7eH__quP8B3"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2277.9351513269435,
+      "spectral_rolloff": 4824.255427870639,
+      "zero_crossing_rate": 0.09541999757751939,
+      "rms_energy": 0.20972931385040283,
+      "spectral_contrast": 17.52348521959357
+    }
   },
   {
     "title": "Airplane",
@@ -1236,7 +1604,14 @@
       "appleMusic": "https://music.apple.com/us/album/airplane/1608257477?i=1608257493&uo=4",
       "youtube": "https://youtu.be/GjuJ8LlGEoE?si=p-D9sF3cEUPT0aII"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2614.1835308078466,
+      "spectral_rolloff": 5467.0632721656975,
+      "zero_crossing_rate": 0.11413101078003876,
+      "rms_energy": 0.17757220566272736,
+      "spectral_contrast": 18.260866582427592
+    }
   },
   {
     "title": "Another Day",
@@ -1260,7 +1635,14 @@
       "appleMusic": "https://music.apple.com/us/album/another-day/1608257477?i=1608257494&uo=4",
       "youtube": "https://youtu.be/NlX5i9oZN1I?si=Y3ND1q79oKNTRAP9"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1524.6354251680475,
+      "spectral_rolloff": 3263.0815089026164,
+      "zero_crossing_rate": 0.05254322613856589,
+      "rms_energy": 0.10979340970516205,
+      "spectral_contrast": 21.353434829958328
+    }
   },
   {
     "title": "Phobia",
@@ -1283,7 +1665,14 @@
       "appleMusic": "https://music.apple.com/us/album/phobia/1608257477?i=1608257828&uo=4",
       "youtube": "https://youtu.be/HZgvPXXCeI8?si=yoKSY9TuJsw07bzo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2704.9963778128463,
+      "spectral_rolloff": 5623.412688499273,
+      "zero_crossing_rate": 0.12124780462693799,
+      "rms_energy": 0.22078564763069153,
+      "spectral_contrast": 18.115620928286262
+    }
   },
   {
     "title": "Blueprint",
@@ -1307,7 +1696,14 @@
       "appleMusic": "https://music.apple.com/us/album/blueprint/1608257477?i=1608257831&uo=4",
       "youtube": "https://youtu.be/LYJDf9oPQ-0?si=Sc6f5W1outwnP28D"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2511.253915538046,
+      "spectral_rolloff": 5053.442155704942,
+      "zero_crossing_rate": 0.10578253694282946,
+      "rms_energy": 0.17816577851772308,
+      "spectral_contrast": 19.42596937640029
+    }
   },
   {
     "title": "TA",
@@ -1331,7 +1727,14 @@
       "appleMusic": "https://music.apple.com/us/album/ta/1608251775?i=1608252136&uo=4",
       "youtube": "https://youtu.be/HKB9mYEquFs?si=6rCc4Om4B3gkPosY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2740.8491617922714,
+      "spectral_rolloff": 5854.410542332849,
+      "zero_crossing_rate": 0.11120700096899225,
+      "rms_energy": 0.2589818239212036,
+      "spectral_contrast": 16.771827700416566
+    }
   },
   {
     "title": "Haven",
@@ -1356,7 +1759,14 @@
       "appleMusic": "https://music.apple.com/us/album/haven/1608251775?i=1608252137&uo=4",
       "youtube": "https://youtu.be/alwE7VmqSFw?si=sn8JSGmnosZDv99H"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3037.5109051335558,
+      "spectral_rolloff": 6369.5298305777615,
+      "zero_crossing_rate": 0.14352970566860465,
+      "rms_energy": 0.22292688488960266,
+      "spectral_contrast": 17.9759364135539
+    }
   },
   {
     "title": "TOP (Tower of God OP)",
@@ -1380,7 +1790,14 @@
       "appleMusic": "https://music.apple.com/us/album/top-tower-of-god-op/1608257477?i=1608257841&uo=4",
       "youtube": "https://www.youtube.com/watch?v=YQsxnJjx9cE&vl=en"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2469.4757467105487,
+      "spectral_rolloff": 5127.472974200581,
+      "zero_crossing_rate": 0.10292173873546512,
+      "rms_energy": 0.30254411697387695,
+      "spectral_contrast": 17.569931994306913
+    }
   },
   {
     "title": "SLUMP (Tower of God OP)",
@@ -1403,7 +1820,14 @@
       "appleMusic": "https://music.apple.com/us/album/slump-tower-of-god-ed/1608257477?i=1608257842&uo=4",
       "youtube": "https://youtu.be/63-6y8G7uXY?si=xG8y6v6pK3gnzB0o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2466.4233239939763,
+      "spectral_rolloff": 5011.101869095203,
+      "zero_crossing_rate": 0.12570819706879846,
+      "rms_energy": 0.16449356079101562,
+      "spectral_contrast": 21.204730912953803
+    }
   },
   {
     "title": "SLUMP (English Version)",
@@ -1426,7 +1850,14 @@
       "appleMusic": "https://music.apple.com/us/song/slump-english-version/1608256660",
       "youtube": "https://www.youtube.com/watch?v=eABdKQazjxk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2513.9044614216073,
+      "spectral_rolloff": 5238.8864348655525,
+      "zero_crossing_rate": 0.11866067102713178,
+      "rms_energy": 0.17987188696861267,
+      "spectral_contrast": 21.327427571810116
+    }
   },
   {
     "title": "Mixtape: Gone Days",
@@ -1449,7 +1880,14 @@
       "appleMusic": "https://music.apple.com/us/album/mixtape-gone-days/1608257477?i=1608257845&uo=4",
       "youtube": "https://youtu.be/KAPXc0M4tLg?si=gcUnrBsUzHxiGUSp"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2280.732983748811,
+      "spectral_rolloff": 4606.234468943949,
+      "zero_crossing_rate": 0.10029652952870442,
+      "rms_energy": 0.19550186395645142,
+      "spectral_contrast": 19.564958554452765
+    }
   },
   {
     "title": "Mixtape: On Track",
@@ -1473,7 +1911,14 @@
       "appleMusic": "https://music.apple.com/us/album/mixtape-on-track/1608257477?i=1608257849&uo=4",
       "youtube": "https://youtu.be/XkxWIAe3NDU?si=eQe7zoe6zxZ9Q2sp"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2152.2159480893943,
+      "spectral_rolloff": 4680.3143675147885,
+      "zero_crossing_rate": 0.08024025407292475,
+      "rms_energy": 0.3194497227668762,
+      "spectral_contrast": 18.482271906130237
+    }
   },
   {
     "title": "The Tortoise and the Hare",
@@ -1496,7 +1941,14 @@
       "appleMusic": "https://music.apple.com/us/album/the-tortoise-and-the-hare/1608251775?i=1608251776&uo=4",
       "youtube": "https://www.youtube.com/watch?v=BJT4IhFDWSI"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1687.3178059953507,
+      "spectral_rolloff": 3289.6140874818316,
+      "zero_crossing_rate": 0.07151768410852713,
+      "rms_energy": 0.1693485677242279,
+      "spectral_contrast": 18.817175165724546
+    }
   },
   {
     "title": "Back Door",
@@ -1519,7 +1971,14 @@
       "appleMusic": "https://music.apple.com/us/album/back-door/1608251775?i=1608251779&uo=4",
       "youtube": "https://www.youtube.com/watch?v=X-uJtV8ScYk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2116.727942819679,
+      "spectral_rolloff": 4453.450331577035,
+      "zero_crossing_rate": 0.08608511991279069,
+      "rms_energy": 0.2696961760520935,
+      "spectral_contrast": 17.599768790242138
+    }
   },
   {
     "title": "B Me",
@@ -1543,7 +2002,14 @@
       "appleMusic": "https://music.apple.com/us/album/b-me/1608251775?i=1608251790&uo=4",
       "youtube": "https://www.youtube.com/watch?v=FR8_d1wDNZs"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2873.7419440314143,
+      "spectral_rolloff": 5858.450104469477,
+      "zero_crossing_rate": 0.1462368277616279,
+      "rms_energy": 0.24037431180477142,
+      "spectral_contrast": 19.07708276060763
+    }
   },
   {
     "title": "Any",
@@ -1567,7 +2033,14 @@
       "appleMusic": "https://music.apple.com/us/album/any/1608251775?i=1608251795&uo=4",
       "youtube": "https://www.youtube.com/watch?v=uaJ81czm3xA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2419.1617734064207,
+      "spectral_rolloff": 5258.283010083575,
+      "zero_crossing_rate": 0.09088428112887596,
+      "rms_energy": 0.1899724006652832,
+      "spectral_contrast": 18.390460131818035
+    }
   },
   {
     "title": "Ex",
@@ -1591,7 +2064,14 @@
       "appleMusic": "https://music.apple.com/us/album/ex/1608251775?i=1608251947&uo=4",
       "youtube": "https://www.youtube.com/watch?v=rpHztlgROH8"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2114.8910245786687,
+      "spectral_rolloff": 4515.888274436773,
+      "zero_crossing_rate": 0.08898944706879845,
+      "rms_energy": 0.1118646189570427,
+      "spectral_contrast": 19.07774954284237
+    }
   },
   {
     "title": "We Go (Bang Chan, Changbin, HAN)",
@@ -1613,7 +2093,14 @@
       "appleMusic": "https://music.apple.com/us/album/we-go-bang-chan-changbin-han/1608251775?i=1608251950&uo=4",
       "youtube": "https://www.youtube.com/watch?v=jAdUFFHbJ2U"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2533.043310307379,
+      "spectral_rolloff": 5644.378349836483,
+      "zero_crossing_rate": 0.1024906128875969,
+      "rms_energy": 0.25196725130081177,
+      "spectral_contrast": 19.034479993520566
+    }
   },
   {
     "title": "Wow (Lee Know, Hyunjin, Felix)",
@@ -1636,7 +2123,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3058.583952790659,
+      "spectral_rolloff": 6645.588833121366,
+      "zero_crossing_rate": 0.12339662063953488,
+      "rms_energy": 0.14896313846111298,
+      "spectral_contrast": 19.27871354221417
+    }
   },
   {
     "title": "My Universe (Seungmin, I.N, Changbin)",
@@ -1659,7 +2153,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2543.342403185791,
+      "spectral_rolloff": 5124.718727289244,
+      "zero_crossing_rate": 0.1295489643895349,
+      "rms_energy": 0.09458652883768082,
+      "spectral_contrast": 20.738972281666253
+    }
   },
   {
     "title": "ALL IN",
@@ -1683,7 +2184,14 @@
       "appleMusic": "https://music.apple.com/us/album/all-in/1533769004?i=1533769007&uo=4",
       "youtube": "https://www.youtube.com/watch?v=ySxIjeCScgY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2979.7690099543092,
+      "spectral_rolloff": 6244.895777861154,
+      "zero_crossing_rate": 0.13844645623547638,
+      "rms_energy": 0.24452990293502808,
+      "spectral_contrast": 17.080280857629297
+    }
   },
   {
     "title": "One Day",
@@ -1691,7 +2199,7 @@
     "year": 2020,
     "duration": "3:13",
     "genres": [
-      "Inidie Pop"
+      "Indie Pop"
     ],
     "style": [
       "bright",
@@ -1706,7 +2214,14 @@
       "appleMusic": "https://music.apple.com/us/album/one-day/1533769004?i=1533769013&uo=4",
       "youtube": "https://youtu.be/BjGFicMn1vE?si=mj62l9teHSVVgH25"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2898.7656716956353,
+      "spectral_rolloff": 6100.192986450668,
+      "zero_crossing_rate": 0.13415290956622772,
+      "rms_energy": 0.2717490792274475,
+      "spectral_contrast": 18.801634114425955
+    }
   },
   {
     "title": "CHEESE",
@@ -1729,7 +2244,14 @@
       "appleMusic": "https://music.apple.com/us/album/cheese/1608255571?i=1608255575&uo=4",
       "youtube": "https://www.youtube.com/watch?v=YLtEc-kvOqA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2343.574469972021,
+      "spectral_rolloff": 4967.050610919331,
+      "zero_crossing_rate": 0.08597913638565892,
+      "rms_energy": 0.31332725286483765,
+      "spectral_contrast": 17.539907725633018
+    }
   },
   {
     "title": "Thunderous",
@@ -1752,7 +2274,14 @@
       "appleMusic": "https://music.apple.com/us/album/thunderous/1608255571?i=1608255955&uo=4",
       "youtube": "https://www.youtube.com/watch?v=EaswWiwMVs8"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3060.3824594354674,
+      "spectral_rolloff": 6337.956145530523,
+      "zero_crossing_rate": 0.13869042211724805,
+      "rms_energy": 0.19574280083179474,
+      "spectral_contrast": 18.0317966017466
+    }
   },
   {
     "title": "DOMINO",
@@ -1776,7 +2305,14 @@
       "appleMusic": "https://music.apple.com/us/album/domino/1608255571?i=1608255956&uo=4",
       "youtube": "https://www.youtube.com/watch?v=GH66aDut538"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3155.713460841347,
+      "spectral_rolloff": 6715.888898982558,
+      "zero_crossing_rate": 0.13686372032461241,
+      "rms_energy": 0.3027949929237366,
+      "spectral_contrast": 17.08816575411017
+    }
   },
   {
     "title": "SSICK",
@@ -1799,7 +2335,14 @@
       "appleMusic": "https://music.apple.com/us/album/ssick/1608255571?i=1608255958&uo=4",
       "youtube": "https://youtu.be/srhg_-XdZck?si=ilbQvrlh2pgTZRzr"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2269.6588246659876,
+      "spectral_rolloff": 4991.146098292151,
+      "zero_crossing_rate": 0.06442170845445737,
+      "rms_energy": 0.3619295358657837,
+      "spectral_contrast": 17.29353282876561
+    }
   },
   {
     "title": "The View",
@@ -1824,7 +2367,14 @@
       "appleMusic": "https://music.apple.com/us/album/the-view/1608255571?i=1608256147&uo=4",
       "youtube": "https://www.youtube.com/watch?v=v202rmUuBis"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2548.537103033194,
+      "spectral_rolloff": 5614.181788244913,
+      "zero_crossing_rate": 0.09930807897286821,
+      "rms_energy": 0.22136159241199493,
+      "spectral_contrast": 18.864381658718457
+    }
   },
   {
     "title": "Sorry, I Love You",
@@ -1847,7 +2397,14 @@
       "appleMusic": "https://music.apple.com/us/album/sorry-i-love-you/1608255571?i=1608256158&uo=4",
       "youtube": "https://www.youtube.com/watch?v=AsBU3IUTHZw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2373.9606995278245,
+      "spectral_rolloff": 5227.452137082122,
+      "zero_crossing_rate": 0.09699801659399225,
+      "rms_energy": 0.19586265087127686,
+      "spectral_contrast": 19.561188549187616
+    }
   },
   {
     "title": "Silent Cry",
@@ -1871,7 +2428,14 @@
       "appleMusic": "https://music.apple.com/us/album/silent-cry/1608255571?i=1608256165&uo=4",
       "youtube": "https://www.youtube.com/watch?v=r9AT4e15uQM"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2232.884484146995,
+      "spectral_rolloff": 5387.857807957849,
+      "zero_crossing_rate": 0.07380617126937984,
+      "rms_energy": 0.1829013079404831,
+      "spectral_contrast": 18.408884758654715
+    }
   },
   {
     "title": "Secret Secret",
@@ -1894,7 +2458,14 @@
       "appleMusic": "https://music.apple.com/us/album/secret-secret/1608255571?i=1608256167&uo=4",
       "youtube": "https://www.youtube.com/watch?v=epW851fZd3I"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1640.8837156840034,
+      "spectral_rolloff": 3557.8360056322676,
+      "zero_crossing_rate": 0.059157355256782944,
+      "rms_energy": 0.1862773299217224,
+      "spectral_contrast": 22.016880672919218
+    }
   },
   {
     "title": "Star Lost",
@@ -1918,7 +2489,14 @@
       "appleMusic": "https://music.apple.com/us/album/star-lost/1608255571?i=1608256173&uo=4",
       "youtube": "https://www.youtube.com/watch?v=NZtRj2G0CoI"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2285.2879438047867,
+      "spectral_rolloff": 5160.473859920058,
+      "zero_crossing_rate": 0.0795398800872093,
+      "rms_energy": 0.22052927315235138,
+      "spectral_contrast": 18.71013143313325
+    }
   },
   {
     "title": "Red Lights (Bang Chan, Hyunjin)",
@@ -1942,7 +2520,14 @@
       "appleMusic": "https://music.apple.com/us/album/red-lights-bang-chan-hyunjin/1608255571?i=1608256175&uo=4",
       "youtube": "https://www.youtube.com/watch?v=k8Y6ZTjmCXs"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2333.825861729707,
+      "spectral_rolloff": 5129.175599563953,
+      "zero_crossing_rate": 0.09343507751937985,
+      "rms_energy": 0.1418762505054474,
+      "spectral_contrast": 17.591839776168577
+    }
   },
   {
     "title": "Surfin'(Lee Know, Changbin, Felix)",
@@ -1966,7 +2551,14 @@
       "appleMusic": "https://music.apple.com/us/album/surfin-lee-know-changbin-felix/1608255571?i=1608256361&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Smgql_DESn8"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2358.0348301834197,
+      "spectral_rolloff": 4914.085608194041,
+      "zero_crossing_rate": 0.10686129784399225,
+      "rms_energy": 0.21180294454097748,
+      "spectral_contrast": 18.35954175510479
+    }
   },
   {
     "title": "Gone Away (HAN, Seungmin, I.N)",
@@ -1989,7 +2581,14 @@
       "appleMusic": "https://music.apple.com/us/album/gone-away-han-seungmin-i-n/1608255571?i=1608256372&uo=4",
       "youtube": "https://www.youtube.com/watch?v=hu6Xh04n26w"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2589.5050104495963,
+      "spectral_rolloff": 5883.714060228925,
+      "zero_crossing_rate": 0.0917007328003876,
+      "rms_energy": 0.1154683455824852,
+      "spectral_contrast": 19.881162095014776
+    }
   },
   {
     "title": "WOLFGANG",
@@ -2013,7 +2612,14 @@
       "appleMusic": "https://music.apple.com/us/album/wolfgang/1608255571?i=1608256377&uo=4",
       "youtube": "https://youtu.be/JwcQQz2aNTI?si=CC7B9P9E5lgsMfBj"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2042.1833776074714,
+      "spectral_rolloff": 4619.289380450581,
+      "zero_crossing_rate": 0.07677257449127907,
+      "rms_energy": 0.28009578585624695,
+      "spectral_contrast": 18.221321568466067
+    }
   },
   {
     "title": "Mixtape: OH",
@@ -2037,7 +2643,14 @@
       "appleMusic": "https://music.apple.com/us/album/mixtape-oh/1608255571?i=1608256378&uo=4",
       "youtube": "https://www.youtube.com/watch?v=M7lIml8-eHU"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2507.7413752490706,
+      "spectral_rolloff": 5159.589162427325,
+      "zero_crossing_rate": 0.12259379542151162,
+      "rms_energy": 0.1416196972131729,
+      "spectral_contrast": 18.755414415517492
+    }
   },
   {
     "title": "Christmas EveL",
@@ -2061,7 +2674,14 @@
       "appleMusic": "https://music.apple.com/us/album/christmas-evel/1608247192?i=1608247201&uo=4",
       "youtube": "https://www.youtube.com/watch?v=57n4dZAPxNY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3056.122684846676,
+      "spectral_rolloff": 5791.505212118459,
+      "zero_crossing_rate": 0.18745533551356588,
+      "rms_energy": 0.16727791726589203,
+      "spectral_contrast": 17.16504054205951
+    }
   },
   {
     "title": "24 to 25",
@@ -2085,7 +2705,14 @@
       "appleMusic": "https://music.apple.com/us/album/24-to-25/1608247192?i=1608247237&uo=4",
       "youtube": "https://www.youtube.com/watch?v=bVtw8ndiuO0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2123.7118834367493,
+      "spectral_rolloff": 4757.886423510175,
+      "zero_crossing_rate": 0.07033899588178294,
+      "rms_energy": 0.15823125839233398,
+      "spectral_contrast": 20.40609317819958
+    }
   },
   {
     "title": "Winter Falls",
@@ -2109,7 +2736,14 @@
       "appleMusic": "https://music.apple.com/us/album/winter-falls/1608247192?i=1608247240&uo=4",
       "youtube": "https://www.youtube.com/watch?v=S4qK-Gzyws0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2523.9139677241183,
+      "spectral_rolloff": 5850.596327670785,
+      "zero_crossing_rate": 0.09142933926841085,
+      "rms_energy": 0.15605175495147705,
+      "spectral_contrast": 22.071135863275927
+    }
   },
   {
     "title": "Scars",
@@ -2133,7 +2767,14 @@
       "appleMusic": "https://music.apple.com/us/album/scars/1671113799?i=1671114347&uo=4",
       "youtube": "https://www.youtube.com/watch?v=oUq2a6t258o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3287.261270982859,
+      "spectral_rolloff": 7357.233332627324,
+      "zero_crossing_rate": 0.10868399314969017,
+      "rms_energy": 0.38847997784614563,
+      "spectral_contrast": 18.191977882667977
+    }
   },
   {
     "title": "Awaken (SKZ2021)",
@@ -2156,7 +2797,14 @@
       "appleMusic": "https://music.apple.com/us/album/awaken/1608256994?i=1608256996&uo=4",
       "youtube": "https://youtu.be/hE8aeckOv-A?si=d6cKUqulc1PekXjr"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2499.4671496748124,
+      "spectral_rolloff": 5311.88232421875,
+      "zero_crossing_rate": 0.11174713844476744,
+      "rms_energy": 0.24869579076766968,
+      "spectral_contrast": 17.715255480688967
+    }
   },
   {
     "title": "ROCK (SKZ2021)",
@@ -2179,7 +2827,14 @@
       "appleMusic": "https://music.apple.com/us/album/rock/1608256994?i=1608257003&uo=4",
       "youtube": "https://www.youtube.com/watch?v=HHZrmKlm4Jo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2651.599484427769,
+      "spectral_rolloff": 5186.046625181686,
+      "zero_crossing_rate": 0.11567609920058139,
+      "rms_energy": 0.189348965883255,
+      "spectral_contrast": 17.895643831733857
+    }
   },
   {
     "title": "3rd Eye (SKZ2021)",
@@ -2202,7 +2857,14 @@
       "appleMusic": "https://music.apple.com/us/album/3rd-eye/1608256994?i=1608257008&uo=4",
       "youtube": "https://youtu.be/TCmq9O5v5NM?si=kq0TOGcItl738TA7"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2097.235595337567,
+      "spectral_rolloff": 4696.191292696221,
+      "zero_crossing_rate": 0.07321531310562016,
+      "rms_energy": 0.12747719883918762,
+      "spectral_contrast": 18.852056681721955
+    }
   },
   {
     "title": "Placebo",
@@ -2225,7 +2887,14 @@
       "appleMusic": "https://music.apple.com/us/album/placebo/1608256994?i=1608257232&uo=4",
       "youtube": "https://www.youtube.com/watch?v=85-yvOv4R-Q"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2431.0151332516507,
+      "spectral_rolloff": 5187.306901798692,
+      "zero_crossing_rate": 0.09597186894379844,
+      "rms_energy": 0.0911782756447792,
+      "spectral_contrast": 17.63302040044841
+    }
   },
   {
     "title": "Insomnia (SKZ2021)",
@@ -2248,7 +2917,14 @@
       "appleMusic": "https://music.apple.com/us/album/insomnia/1608256994?i=1608257236&uo=4",
       "youtube": "https://www.youtube.com/watch?v=N6WYvY5DMlw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2362.0191582661178,
+      "spectral_rolloff": 5182.073832667151,
+      "zero_crossing_rate": 0.10016843810562015,
+      "rms_energy": 0.16663724184036255,
+      "spectral_contrast": 18.21124222519204
+    }
   },
   {
     "title": "Behind The Light",
@@ -2271,7 +2947,14 @@
       "appleMusic": "https://music.apple.com/us/album/behind-the-light/1608256994?i=1608257241&uo=4",
       "youtube": "https://www.youtube.com/watch?v=7Gnzk7JJU6w"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1303.9633860671343,
+      "spectral_rolloff": 2691.3248887172963,
+      "zero_crossing_rate": 0.048418952882751935,
+      "rms_energy": 0.12161910533905029,
+      "spectral_contrast": 23.616799663233195
+    }
   },
   {
     "title": "My Side (SKZ2021)",
@@ -2295,7 +2978,14 @@
       "appleMusic": "https://music.apple.com/us/album/my-side/1608256994?i=1608257242&uo=4",
       "youtube": "https://www.youtube.com/watch?v=RfRceNaUjbM"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2955.3505886671346,
+      "spectral_rolloff": 6583.77685546875,
+      "zero_crossing_rate": 0.12217364643895348,
+      "rms_energy": 0.2256571501493454,
+      "spectral_contrast": 18.00407268251809
+    }
   },
   {
     "title": "N/S (SKZ2021)",
@@ -2318,7 +3008,14 @@
       "appleMusic": "https://music.apple.com/us/album/n-s/1608256994?i=1608257245&uo=4",
       "youtube": "https://www.youtube.com/watch?v=-CQypyGazkw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2689.3604512147112,
+      "spectral_rolloff": 5810.100551871366,
+      "zero_crossing_rate": 0.09233587693798449,
+      "rms_energy": 0.2457323670387268,
+      "spectral_contrast": 19.170061512705104
+    }
   },
   {
     "title": "Maze of Memories (SKZ2021)",
@@ -2342,7 +3039,14 @@
       "appleMusic": "https://music.apple.com/us/album/maze-of-memories/1608256994?i=1608257251&uo=4",
       "youtube": "https://youtu.be/3YvIIXtSzgo?si=fXTjSKjGkgHOUuY9"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1418.8609221116762,
+      "spectral_rolloff": 3076.0764898255816,
+      "zero_crossing_rate": 0.052292650799418604,
+      "rms_energy": 0.2669152021408081,
+      "spectral_contrast": 19.400021055053852
+    }
   },
   {
     "title": "Broken Compass",
@@ -2365,10 +3069,17 @@
       "appleMusic": "https://music.apple.com/us/album/broken-compass/1608256994?i=1608257453&uo=4",
       "youtube": "https://youtu.be/cfuflzhDQyI?si=ZmtDi378AeXKwltS"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2488.605804709871,
+      "spectral_rolloff": 5267.764296420785,
+      "zero_crossing_rate": 0.11049009811046512,
+      "rms_energy": 0.27207690477371216,
+      "spectral_contrast": 18.661230882276218
+    }
   },
   {
-    "title": "Hoodie Season (Mixtape #5)",
+    "title": "Hoodie Season",
     "album": "SKZ 2021",
     "year": 2021,
     "duration": "3:51",
@@ -2388,7 +3099,14 @@
       "appleMusic": "https://music.apple.com/us/album/hoodie-season/1608256994?i=1608257456&uo=4",
       "youtube": "https://youtu.be/PGgYZVPIaTw?si=HbpQlrWXZrl-VFXG"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2624.656813975434,
+      "spectral_rolloff": 5664.476006086483,
+      "zero_crossing_rate": 0.11057374939437985,
+      "rms_energy": 0.21170620620250702,
+      "spectral_contrast": 17.069456313773717
+    }
   },
   {
     "title": "VENOM",
@@ -2411,7 +3129,14 @@
       "appleMusic": "https://music.apple.com/us/album/venom/1609666698?i=1609666699&uo=4",
       "youtube": "https://www.youtube.com/watch?v=pM-jOfy_1jM"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2763.1470960242023,
+      "spectral_rolloff": 5749.123381977392,
+      "zero_crossing_rate": 0.12060622518880712,
+      "rms_energy": 0.24482066929340363,
+      "spectral_contrast": 15.963343207177697
+    }
   },
   {
     "title": "MANIAC",
@@ -2434,7 +3159,14 @@
       "appleMusic": "https://music.apple.com/us/album/maniac/1609666698?i=1609666702&uo=4",
       "youtube": "https://www.youtube.com/watch?v=OvioeS1ZZ7o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2599.3411340330204,
+      "spectral_rolloff": 5193.621783622192,
+      "zero_crossing_rate": 0.12285738707881487,
+      "rms_energy": 0.30667608976364136,
+      "spectral_contrast": 17.05585711485482
+    }
   },
   {
     "title": "Charmer",
@@ -2457,7 +3189,14 @@
       "appleMusic": "https://music.apple.com/us/album/charmer/1609666698?i=1609666704&uo=4",
       "youtube": "https://www.youtube.com/watch?v=BCZE-44jp_I"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2813.9317669361776,
+      "spectral_rolloff": 6023.342302176123,
+      "zero_crossing_rate": 0.12324619662567778,
+      "rms_energy": 0.3532220423221588,
+      "spectral_contrast": 17.55056539459437
+    }
   },
   {
     "title": "FREEZE",
@@ -2481,7 +3220,14 @@
       "appleMusic": "https://music.apple.com/us/album/freeze/1609666698?i=1609666705&uo=4",
       "youtube": "https://www.youtube.com/watch?v=etjQd0wgUTo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2902.8229857118126,
+      "spectral_rolloff": 6505.404169036841,
+      "zero_crossing_rate": 0.09817592346049574,
+      "rms_energy": 0.35671791434288025,
+      "spectral_contrast": 16.95760243128754
+    }
   },
   {
     "title": "Lonely St.",
@@ -2504,10 +3250,17 @@
       "appleMusic": "https://music.apple.com/us/album/lonely-st/1609666698?i=1609666708&uo=4",
       "youtube": "https://www.youtube.com/watch?v=13XUK0I_Ho4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2962.161216728849,
+      "spectral_rolloff": 6350.235006626404,
+      "zero_crossing_rate": 0.13544112485476376,
+      "rms_energy": 0.28421488404273987,
+      "spectral_contrast": 18.08698343074025
+    }
   },
   {
-    "title": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N",
+    "title": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",
     "album": "ODDINARY",
     "year": 2022,
     "duration": "3:39",
@@ -2528,7 +3281,14 @@
       "appleMusic": "https://music.apple.com/us/album/waiting-for-us-bang-chan-lee-know-seungmin-i-n/1609666698?i=1609666711&uo=4",
       "youtube": "https://youtu.be/yQ0i2KmtL0g?si=Kgo77al4zB7ED8Ee"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1903.3101140463848,
+      "spectral_rolloff": 4080.5086332361057,
+      "zero_crossing_rate": 0.08241249515879163,
+      "rms_energy": 0.23858343064785004,
+      "spectral_contrast": 21.202642237923154
+    }
   },
   {
     "title": "Muddy Water (Changbin, Han, Felix)",
@@ -2551,7 +3311,14 @@
       "appleMusic": "https://music.apple.com/us/album/muddy-water-changbin-hyunjin-han-felix/1609666698?i=1609666713&uo=4",
       "youtube": "https://www.youtube.com/watch?v=WVPd9dZqo8Y"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2405.3731214113845,
+      "spectral_rolloff": 5027.36076987316,
+      "zero_crossing_rate": 0.10335109955945004,
+      "rms_energy": 0.3363140821456909,
+      "spectral_contrast": 16.852665549728975
+    }
   },
   {
     "title": "CASE 143",
@@ -2575,7 +3342,14 @@
       "appleMusic": "https://music.apple.com/us/album/case-143/1644436101?i=1644436109&uo=4",
       "youtube": "https://www.youtube.com/watch?v=jYSlpC6Ud2A"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2807.2898879143186,
+      "spectral_rolloff": 6329.919405227295,
+      "zero_crossing_rate": 0.11239621659566228,
+      "rms_energy": 0.2890119254589081,
+      "spectral_contrast": 18.049386918533997
+    }
   },
   {
     "title": "CHILL",
@@ -2599,7 +3373,14 @@
       "appleMusic": "https://music.apple.com/us/album/chill/1644436101?i=1644436116&uo=4",
       "youtube": "https://www.youtube.com/watch?v=dtV1I9WtQuo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2598.123867467518,
+      "spectral_rolloff": 5920.655110046718,
+      "zero_crossing_rate": 0.08908012502420604,
+      "rms_energy": 0.36555716395378113,
+      "spectral_contrast": 18.37519051210308
+    }
   },
   {
     "title": "Give Me Your TMI",
@@ -2622,7 +3403,14 @@
       "appleMusic": "https://music.apple.com/us/album/give-me-your-tmi/1644436101?i=1644436117&uo=4",
       "youtube": "https://www.youtube.com/watch?v=YwgC2Q9gS7w"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3568.2528271313936,
+      "spectral_rolloff": 7280.1908343822615,
+      "zero_crossing_rate": 0.15885933566518204,
+      "rms_energy": 0.32931411266326904,
+      "spectral_contrast": 17.423005311455952
+    }
   },
   {
     "title": "SUPER BOARD",
@@ -2646,7 +3434,14 @@
       "appleMusic": "https://music.apple.com/us/album/super-board/1644436101?i=1644436450&uo=4",
       "youtube": "https://www.youtube.com/watch?v=8ziUcTYwARI"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3013.2144448687677,
+      "spectral_rolloff": 6396.337077453282,
+      "zero_crossing_rate": 0.12748414504260264,
+      "rms_energy": 0.334538996219635,
+      "spectral_contrast": 16.572945445191014
+    }
   },
   {
     "title": "3RACHA (Bang Chan, Changbin, HAN)",
@@ -2669,7 +3464,14 @@
       "appleMusic": "https://music.apple.com/us/album/3racha-bang-chan-changbin-han/1644436101?i=1644436452&uo=4",
       "youtube": "https://youtu.be/sZtkXn_-Kws?si=z_15J1X1yCm7DZKA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2768.8488241115515,
+      "spectral_rolloff": 6335.223478498983,
+      "zero_crossing_rate": 0.09756925953718049,
+      "rms_energy": 0.35770294070243835,
+      "spectral_contrast": 17.509084105291464
+    }
   },
   {
     "title": "TASTE (Lee Know, Hyunjin, Felix)",
@@ -2693,7 +3495,14 @@
       "appleMusic": "https://music.apple.com/us/album/taste-lee-know-hyunjin-felix/1644436101?i=1644436455&uo=4",
       "youtube": "https://youtu.be/Ihw3CqKMTog?si=Hqpfhu-tr9tS3nFK"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2464.857929058506,
+      "spectral_rolloff": 5801.722108588304,
+      "zero_crossing_rate": 0.08363603492931836,
+      "rms_energy": 0.35969674587249756,
+      "spectral_contrast": 17.744736155353266
+    }
   },
   {
     "title": "Can't Stop (Seungmin, I.N)",
@@ -2716,7 +3525,14 @@
       "appleMusic": "https://music.apple.com/us/album/cant-stop-seungmin-i-n/1644436101?i=1644436552&uo=4",
       "youtube": "https://www.youtube.com/watch?v=iI2v-CXKXU4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2521.1752068703513,
+      "spectral_rolloff": 5676.801175354619,
+      "zero_crossing_rate": 0.10260146870158791,
+      "rms_energy": 0.34257930517196655,
+      "spectral_contrast": 16.66504141224423
+    }
   },
   {
     "title": "Circus",
@@ -2740,7 +3556,14 @@
       "appleMusic": "https://music.apple.com/us/album/circus/1627761785?i=1627761820&uo=4",
       "youtube": "https://www.youtube.com/watch?v=jW-bkbSWb4A"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3036.3345480785206,
+      "spectral_rolloff": 6694.1574557634585,
+      "zero_crossing_rate": 0.12690357825813323,
+      "rms_energy": 0.32102420926094055,
+      "spectral_contrast": 18.39822844456533
+    }
   },
   {
     "title": "FAM",
@@ -2763,7 +3586,14 @@
       "appleMusic": "https://music.apple.com/us/album/fam-korean-ver/1657537947?i=1657537951&uo=4",
       "youtube": "https://www.youtube.com/watch?v=d81JiYJCK-0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2686.5221499134236,
+      "spectral_rolloff": 6013.734924174574,
+      "zero_crossing_rate": 0.10881220952749807,
+      "rms_energy": 0.2546526789665222,
+      "spectral_contrast": 17.972911099491323
+    }
   },
   {
     "title": "Connected (Bangchan)",
@@ -2772,7 +3602,7 @@
     "duration": "2:52",
     "genres": [
       "Moombahton",
-      "Hosue",
+      "House",
       "Dance Pop"
     ],
     "style": [
@@ -2788,7 +3618,14 @@
       "appleMusic": "https://music.apple.com/us/album/connected-bang-chan/1657537947?i=1657537962&uo=4",
       "youtube": "https://www.youtube.com/watch?v=fZRZGbc7KHs"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1981.3569953517454,
+      "spectral_rolloff": 4641.164189581719,
+      "zero_crossing_rate": 0.059918652570681644,
+      "rms_energy": 0.3494096100330353,
+      "spectral_contrast": 17.552618738449727
+    }
   },
   {
     "title": "Limbo (Lee Know)",
@@ -2812,7 +3649,14 @@
       "appleMusic": "https://music.apple.com/us/album/limbo-lee-know/1657537947?i=1657538087&uo=4",
       "youtube": "https://www.youtube.com/watch?v=tUYJdNxrSyk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2219.440588421226,
+      "spectral_rolloff": 4694.863761588643,
+      "zero_crossing_rate": 0.09128892634101472,
+      "rms_energy": 0.3331291675567627,
+      "spectral_contrast": 17.945828655476138
+    }
   },
   {
     "title": "Doodle (Changbin)",
@@ -2835,7 +3679,14 @@
       "appleMusic": "https://music.apple.com/us/album/doodle-changbin/1657537947?i=1657538097&uo=4",
       "youtube": "https://www.youtube.com/watch?v=FLoAVCCrp_E"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2697.9069549148717,
+      "spectral_rolloff": 5613.285731899932,
+      "zero_crossing_rate": 0.11063220129744385,
+      "rms_energy": 0.3447565734386444,
+      "spectral_contrast": 17.549041022162637
+    }
   },
   {
     "title": "Love Untold (Hyunjin)",
@@ -2859,7 +3710,14 @@
       "appleMusic": "https://music.apple.com/us/album/love-untold-hyunjin/1657537947?i=1657538102&uo=4",
       "youtube": "https://youtu.be/GAy_9jYX0kw?si=zzwrWRK_UueKwcKw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2515.1502117189116,
+      "spectral_rolloff": 5633.643031988284,
+      "zero_crossing_rate": 0.08076724075329202,
+      "rms_energy": 0.3317275941371918,
+      "spectral_contrast": 18.802164414188727
+    }
   },
   {
     "title": "RUN (Han)",
@@ -2883,7 +3741,14 @@
       "appleMusic": "https://music.apple.com/us/album/run-it/6781751949?i=6781751954&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Q7IFjVUUb_E"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2158.418919728976,
+      "spectral_rolloff": 4292.8633780741675,
+      "zero_crossing_rate": 0.09399546439291247,
+      "rms_energy": 0.26736947894096375,
+      "spectral_contrast": 18.03370504643074
+    }
   },
   {
     "title": "Deep End (Felix)",
@@ -2907,7 +3772,14 @@
       "appleMusic": "https://music.apple.com/us/album/deep-end-felix/1657537947?i=1657538114&uo=4",
       "youtube": "https://youtu.be/1RafE4AHkNc?si=6ZQ5K5K6wrq91F77"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2474.1081973699143,
+      "spectral_rolloff": 5816.491784318116,
+      "zero_crossing_rate": 0.09575683215530596,
+      "rms_energy": 0.19631624221801758,
+      "spectral_contrast": 19.80215888186069
+    }
   },
   {
     "title": "Stars and Raindrops (Seungmin)",
@@ -2930,7 +3802,14 @@
       "appleMusic": "https://music.apple.com/us/album/stars-and-raindrops-seungmin/1657537947?i=1657538447&uo=4",
       "youtube": "https://www.youtube.com/watch?v=YsvbN665LZE"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2581.5604073125114,
+      "spectral_rolloff": 5658.69560448538,
+      "zero_crossing_rate": 0.11299380325329202,
+      "rms_energy": 0.3210878372192383,
+      "spectral_contrast": 19.190299771061547
+    }
   },
   {
     "title": "Hug Me (I.N)",
@@ -2953,7 +3832,14 @@
       "appleMusic": "https://music.apple.com/us/album/hug-me-i-n/1657537947?i=1657538450&uo=4",
       "youtube": "https://www.youtube.com/watch?v=fhuJiRIT_Yg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2169.6686356283817,
+      "spectral_rolloff": 4681.67029631221,
+      "zero_crossing_rate": 0.09348562463690938,
+      "rms_energy": 0.3159258961677551,
+      "spectral_contrast": 19.559860880581343
+    }
   },
   {
     "title": "#LoveSTAY",
@@ -2977,7 +3863,14 @@
       "appleMusic": "https://music.apple.com/us/album/lovestay/1657537947?i=1657538455&uo=4",
       "youtube": "https://www.youtube.com/watch?v=UcKxI5IdScY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2372.9213062695326,
+      "spectral_rolloff": 5356.630299610283,
+      "zero_crossing_rate": 0.09521938238284276,
+      "rms_energy": 0.2527046501636505,
+      "spectral_contrast": 19.36235523886943
+    }
   },
   {
     "title": "ZONE (Bang Chan, Changbin, HAN)",
@@ -3000,7 +3893,14 @@
       "appleMusic": "https://music.apple.com/us/song/zone-bang-chan-changbin-han/1657538464",
       "youtube": "https://www.youtube.com/watch?v=J7o-UGHiW5A"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2313.5691699083964,
+      "spectral_rolloff": 5422.539247827508,
+      "zero_crossing_rate": 0.07270284663051897,
+      "rms_energy": 0.44637519121170044,
+      "spectral_contrast": 17.87847795400182
+    }
   },
   {
     "title": "Close (HAN)",
@@ -3023,7 +3923,14 @@
       "appleMusic": "https://music.apple.com/us/album/close-han/1657537947?i=1657538469&uo=4",
       "youtube": "https://www.youtube.com/watch?v=6Hynx73Vvjw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2687.2477639379,
+      "spectral_rolloff": 5769.939367647415,
+      "zero_crossing_rate": 0.11694468314291247,
+      "rms_energy": 0.22524043917655945,
+      "spectral_contrast": 20.30989414488444
+    }
   },
   {
     "title": "Streetlight (Changbin)",
@@ -3046,7 +3953,14 @@
       "appleMusic": "https://music.apple.com/us/album/streetlight-changbin-feat-bang-chan/1657537947?i=1657538839&uo=4",
       "youtube": "https://www.youtube.com/watch?v=_oCptmj2gIQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2489.3598106704585,
+      "spectral_rolloff": 5656.135304965869,
+      "zero_crossing_rate": 0.08886870037761425,
+      "rms_energy": 0.35126131772994995,
+      "spectral_contrast": 18.550516656106957
+    }
   },
   {
     "title": "i hate to admit (Bang Chan)",
@@ -3069,7 +3983,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-hate-to-admit-bang-chan/1657537947?i=1657538845&uo=4",
       "youtube": "https://www.youtube.com/watch?v=cESg37OFeso"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2533.505152965243,
+      "spectral_rolloff": 5570.794767561483,
+      "zero_crossing_rate": 0.10066422891653756,
+      "rms_energy": 0.13555574417114258,
+      "spectral_contrast": 20.845097981349564
+    }
   },
   {
     "title": "I GOT IT (HAN)",
@@ -3091,7 +4012,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-got-it-han/1657537947?i=1657538849&uo=4",
       "youtube": "https://www.youtube.com/watch?v=OjpWWnU8tb0"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2771.4524737244988,
+      "spectral_rolloff": 5999.107023988187,
+      "zero_crossing_rate": 0.11995190562064291,
+      "rms_energy": 0.2756469249725342,
+      "spectral_contrast": 17.809790956935586
+    }
   },
   {
     "title": "Miss you (Hyunjin)",
@@ -3115,7 +4043,14 @@
       "appleMusic": "https://music.apple.com/us/album/miss-you-hyunjin/1657537947?i=1657539020&uo=4",
       "youtube": "https://www.youtube.com/watch?v=jzorNBLDIEI"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1900.6819676453836,
+      "spectral_rolloff": 4184.18825416949,
+      "zero_crossing_rate": 0.05670038366576297,
+      "rms_energy": 0.21404460072517395,
+      "spectral_contrast": 21.04704612371747
+    }
   },
   {
     "title": "Maknae on Top (I.N)",
@@ -3139,7 +4074,14 @@
       "appleMusic": "https://music.apple.com/us/album/maknae-on-top-i-n-feat-bang-chan-changbin/1657537947?i=1657539031&uo=4",
       "youtube": "https://www.youtube.com/watch?v=SjKARrJwqzE"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2736.5584434149305,
+      "spectral_rolloff": 5493.093430026384,
+      "zero_crossing_rate": 0.13545776650852054,
+      "rms_energy": 0.29483702778816223,
+      "spectral_contrast": 19.544546010490713
+    }
   },
   {
     "title": "Alien (HAN)",
@@ -3164,7 +4106,14 @@
       "appleMusic": "https://music.apple.com/us/album/alien-han/1657537947?i=1657539035&uo=4",
       "youtube": "https://www.youtube.com/watch?v=meQvDHBSxbQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2592.9641684441094,
+      "spectral_rolloff": 5639.163938444036,
+      "zero_crossing_rate": 0.11204787652498063,
+      "rms_energy": 0.3013181686401367,
+      "spectral_contrast": 18.91130986856302
+    }
   },
   {
     "title": "Because (Changbin, Felix)",
@@ -3187,7 +4136,14 @@
       "appleMusic": "https://music.apple.com/us/album/because-changbin-felix/1657537947?i=1657539207&uo=4",
       "youtube": "https://youtu.be/KagzGPwDR9w?si=EFPTOZMa4gdIT12o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3257.299981947766,
+      "spectral_rolloff": 6632.943779954977,
+      "zero_crossing_rate": 0.16317671015685514,
+      "rms_energy": 0.21509703993797302,
+      "spectral_contrast": 18.63962500250334
+    }
   },
   {
     "title": "Piece of a Puzzle (Changbin, Seungmin)",
@@ -3210,7 +4166,14 @@
       "appleMusic": "https://music.apple.com/us/album/piece-of-a-puzzle-changbin-seungmin/1657537947?i=1657539215&uo=4",
       "youtube": "https://www.youtube.com/watch?v=EkB9yZuN7xY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3043.24018532692,
+      "spectral_rolloff": 6695.350038275804,
+      "zero_crossing_rate": 0.13825053858443068,
+      "rms_energy": 0.22854594886302948,
+      "spectral_contrast": 18.906112130812627
+    }
   },
   {
     "title": "Wish You Back (HAN)",
@@ -3233,7 +4196,14 @@
       "appleMusic": "https://music.apple.com/us/album/wish-you-back-han/1657537947?i=1657539378&uo=4",
       "youtube": "https://www.youtube.com/watch?v=G9iDK2LrhHw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2635.8827613666504,
+      "spectral_rolloff": 5616.871819174816,
+      "zero_crossing_rate": 0.12286041283404338,
+      "rms_energy": 0.2024829238653183,
+      "spectral_contrast": 20.654199468992296
+    }
   },
   {
     "title": "HaPpY (HAN)",
@@ -3257,7 +4227,14 @@
       "appleMusic": "https://music.apple.com/us/album/happy-han/1657537947?i=1657539388&uo=4",
       "youtube": "https://www.youtube.com/watch?v=HcWDLNoqT8U"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2345.273327178973,
+      "spectral_rolloff": 5457.149159899061,
+      "zero_crossing_rate": 0.067194081017622,
+      "rms_energy": 0.3546100854873657,
+      "spectral_contrast": 19.464100532033427
+    }
   },
   {
     "title": "Up All Night (Bang Chan, Changbin, Felix, Seungmin)",
@@ -3281,7 +4258,14 @@
       "appleMusic": "https://music.apple.com/us/album/up-all-night-bang-chan-changbin-felix-seungmin/1657537947?i=1657539395&uo=4",
       "youtube": "https://youtu.be/FL4kM5KheYk?si=hweMNh-79Xs-brll"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2864.9152688668128,
+      "spectral_rolloff": 6521.6749975793955,
+      "zero_crossing_rate": 0.11595261364736638,
+      "rms_energy": 0.31439876556396484,
+      "spectral_contrast": 17.85569950900254
+    }
   },
   {
     "title": "Drive (Bang Chan, Lee Know)",
@@ -3305,7 +4289,14 @@
       "appleMusic": "https://music.apple.com/us/album/drive-bang-chan-lee-know/1657537947?i=1657539400&uo=4",
       "youtube": "https://www.youtube.com/watch?v=3P-wT723kYs"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2452.703239129332,
+      "spectral_rolloff": 5559.0273974571555,
+      "zero_crossing_rate": 0.08638190779918668,
+      "rms_energy": 0.31811419129371643,
+      "spectral_contrast": 19.71170230353987
+    }
   },
   {
     "title": "ice.cream (Hyunjin)",
@@ -3329,7 +4320,14 @@
       "appleMusic": "https://music.apple.com/us/album/ice-cream-hyunjin/1657537947?i=1657539796&uo=4",
       "youtube": "https://www.youtube.com/watch?v=7BPwaTGqcQY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1913.2480292576988,
+      "spectral_rolloff": 4102.675656437596,
+      "zero_crossing_rate": 0.0861190453137103,
+      "rms_energy": 0.24864044785499573,
+      "spectral_contrast": 21.234374530773355
+    }
   },
   {
     "title": "THE SOUND",
@@ -3353,7 +4351,14 @@
       "appleMusic": "https://music.apple.com/us/album/the-sound/1667452618?i=1667452619&uo=4",
       "youtube": "https://www.youtube.com/watch?v=ivijoIfhl0o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3025.4451507570757,
+      "spectral_rolloff": 6396.8564574343,
+      "zero_crossing_rate": 0.14252963780062064,
+      "rms_energy": 0.3288188874721527,
+      "spectral_contrast": 17.91272957234307
+    }
   },
   {
     "title": "Battle Ground",
@@ -3377,7 +4382,14 @@
       "appleMusic": "https://music.apple.com/us/album/battle-ground-korean-version/6790903804?i=6790903806&uo=4",
       "youtube": "https://www.youtube.com/watch?v=HP2_M4LVmzA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2968.363205476507,
+      "spectral_rolloff": 6308.778169781177,
+      "zero_crossing_rate": 0.13577055395526724,
+      "rms_energy": 0.2821910083293915,
+      "spectral_contrast": 17.360763973427
+    }
   },
   {
     "title": "Lost Me",
@@ -3401,7 +4413,14 @@
       "appleMusic": "https://music.apple.com/us/album/lost-me/1671113799?i=1671114127&uo=4",
       "youtube": "https://youtu.be/Pk6ebVTLfmU?si=-3Crxkphc8LEX8xw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2491.0245674429434,
+      "spectral_rolloff": 5526.00203557683,
+      "zero_crossing_rate": 0.11093402038148722,
+      "rms_energy": 0.3308003842830658,
+      "spectral_contrast": 18.871955942527695
+    }
   },
   {
     "title": "DLMLU",
@@ -3425,7 +4444,14 @@
       "appleMusic": "https://music.apple.com/us/album/dlmlu/1671113799?i=1671114128&uo=4",
       "youtube": "https://www.youtube.com/watch?v=Wo4yaT4CUVg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2648.7199327910594,
+      "spectral_rolloff": 6027.829081138652,
+      "zero_crossing_rate": 0.09432791924864446,
+      "rms_energy": 0.38134557008743286,
+      "spectral_contrast": 18.43601513541599
+    }
   },
   {
     "title": "Novel",
@@ -3449,7 +4475,14 @@
       "appleMusic": "https://music.apple.com/us/album/novel/1671113799?i=1671114130&uo=4",
       "youtube": "https://www.youtube.com/watch?v=PsId7fwIMpo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2801.213490866774,
+      "spectral_rolloff": 6179.312079420023,
+      "zero_crossing_rate": 0.11664248583946553,
+      "rms_energy": 0.3166518211364746,
+      "spectral_contrast": 18.14436377360344
+    }
   },
   {
     "title": "Scars (The Sound)",
@@ -3473,7 +4506,14 @@
       "appleMusic": "https://music.apple.com/us/album/scars/1671113799?i=1671114347&uo=4",
       "youtube": "https://www.youtube.com/watch?v=oUq2a6t258o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3287.261270982859,
+      "spectral_rolloff": 7357.233332627324,
+      "zero_crossing_rate": 0.10868399314969017,
+      "rms_energy": 0.38847997784614563,
+      "spectral_contrast": 18.191977882667977
+    }
   },
   {
     "title": "There",
@@ -3497,7 +4537,14 @@
       "appleMusic": "https://music.apple.com/us/album/there/1671083320?i=1671083776&uo=4",
       "youtube": "https://www.youtube.com/watch?v=yUsASPoKPho"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2637.5883014155297,
+      "spectral_rolloff": 6337.2016332610065,
+      "zero_crossing_rate": 0.08441280486326609,
+      "rms_energy": 0.30021998286247253,
+      "spectral_contrast": 18.391865958970726
+    }
   },
   {
     "title": "Hall of Fame",
@@ -3520,7 +4567,14 @@
       "appleMusic": "https://music.apple.com/us/album/hall-of-fame/1686489462?i=1686489687&uo=4",
       "youtube": "https://youtu.be/XRx2vo9UeWg?si=UKHB1A3lGqCbvEbG"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2533.677130542793,
+      "spectral_rolloff": 5436.074642355732,
+      "zero_crossing_rate": 0.10780009440356313,
+      "rms_energy": 0.37456026673316956,
+      "spectral_contrast": 17.365351536329417
+    }
   },
   {
     "title": "S-CLASS",
@@ -3544,7 +4598,14 @@
       "appleMusic": "https://music.apple.com/us/album/s-class/1686489462?i=1686489691&uo=4",
       "youtube": "https://www.youtube.com/watch?v=JsOOis4bBFg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2605.1435357984533,
+      "spectral_rolloff": 5486.404960271834,
+      "zero_crossing_rate": 0.11162616189000775,
+      "rms_energy": 0.37296217679977417,
+      "spectral_contrast": 17.12082904460628
+    }
   },
   {
     "title": "ITEM",
@@ -3568,7 +4629,14 @@
       "appleMusic": "https://music.apple.com/us/album/item/1686489462?i=1686489694&uo=4",
       "youtube": "https://youtu.be/Zme_-F_h63M?si=WOLWuBj5O0JyE61X"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2786.4607013574537,
+      "spectral_rolloff": 6145.0607760759585,
+      "zero_crossing_rate": 0.11526765830751355,
+      "rms_energy": 0.36738696694374084,
+      "spectral_contrast": 16.53275723548757
+    }
   },
   {
     "title": "SuperBowl",
@@ -3592,7 +4660,14 @@
       "appleMusic": "https://music.apple.com/us/song/super-bowl/1686489695",
       "youtube": "https://www.youtube.com/watch?v=hV8PSY7s7VQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2897.261835221883,
+      "spectral_rolloff": 6425.184230671475,
+      "zero_crossing_rate": 0.09473715264329977,
+      "rms_energy": 0.37810131907463074,
+      "spectral_contrast": 16.803004615460793
+    }
   },
   {
     "title": "TOPLINE",
@@ -3616,7 +4691,14 @@
       "appleMusic": "https://music.apple.com/us/album/topline-feat-tiger-jk/1686489462?i=1686489701&uo=4",
       "youtube": "https://www.youtube.com/watch?v=b3GYcA7j5mg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2419.4606228135917,
+      "spectral_rolloff": 5293.506823834479,
+      "zero_crossing_rate": 0.09100412713013169,
+      "rms_energy": 0.38898739218711853,
+      "spectral_contrast": 17.26824194073951
+    }
   },
   {
     "title": "DLC",
@@ -3640,7 +4722,14 @@
       "appleMusic": "https://music.apple.com/us/album/dlc/1686489462?i=1686489702&uo=4",
       "youtube": "https://www.youtube.com/watch?v=9gqOgQ6Ci4M"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3046.5543804162885,
+      "spectral_rolloff": 6307.160260638555,
+      "zero_crossing_rate": 0.1352168407484508,
+      "rms_energy": 0.27937477827072144,
+      "spectral_contrast": 18.705923800072657
+    }
   },
   {
     "title": "GET LIT",
@@ -3664,7 +4753,14 @@
       "appleMusic": "https://music.apple.com/us/album/get-lit/1686489462?i=1686489704&uo=4",
       "youtube": "https://youtu.be/T8WVJWiJduM?si=aYhLz3ahPv2Fsr2n"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2961.4804424462,
+      "spectral_rolloff": 6140.649054754067,
+      "zero_crossing_rate": 0.11507590106990705,
+      "rms_energy": 0.3354813754558563,
+      "spectral_contrast": 17.816340557621263
+    }
   },
   {
     "title": "Collision",
@@ -3687,7 +4783,14 @@
       "appleMusic": "https://music.apple.com/us/album/collision/1686489462?i=1686490165&uo=4",
       "youtube": "https://www.youtube.com/watch?v=aNr01u0cBUc"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2595.984542284725,
+      "spectral_rolloff": 6047.360747179996,
+      "zero_crossing_rate": 0.0852143445003873,
+      "rms_energy": 0.4010928273200989,
+      "spectral_contrast": 18.72500383730044
+    }
   },
   {
     "title": "FNF",
@@ -3712,7 +4815,14 @@
       "appleMusic": "https://music.apple.com/us/album/fnf/1686489462?i=1686490168&uo=4",
       "youtube": "https://youtu.be/UcGWYKHBDA4?si=4qxRvQTzRXe3T28M"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2512.9535936641155,
+      "spectral_rolloff": 5601.560060484847,
+      "zero_crossing_rate": 0.09462103928640589,
+      "rms_energy": 0.34462687373161316,
+      "spectral_contrast": 17.771312083042233
+    }
   },
   {
     "title": "Youtiful",
@@ -3735,7 +4845,14 @@
       "appleMusic": "https://music.apple.com/us/album/youtiful/1686489462?i=1686490305&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2505.5376808131227,
+      "spectral_rolloff": 5527.403111535389,
+      "zero_crossing_rate": 0.10195395708268784,
+      "rms_energy": 0.33066242933273315,
+      "spectral_contrast": 18.92753119678188
+    }
   },
   {
     "title": "Mixtape: Time Out",
@@ -3758,7 +4875,14 @@
       "appleMusic": "https://music.apple.com/us/album/mixtape-time-out/1686489462?i=1686490321&uo=4",
       "youtube": "https://youtu.be/ukIGxgdbqqI?si=LTZIIwOey4j7pGMa"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2815.2923592551647,
+      "spectral_rolloff": 6413.244411092659,
+      "zero_crossing_rate": 0.10572823227792863,
+      "rms_energy": 0.32977384328842163,
+      "spectral_contrast": 18.248693499655595
+    }
   },
   {
     "title": "MEGAVERSE",
@@ -3781,7 +4905,14 @@
       "appleMusic": "https://music.apple.com/us/album/megaverse/1710644819?i=1710644824&uo=4",
       "youtube": "https://youtu.be/JqwPCzJnYyY?si=begbtapfTpzS2u4l"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2490.9148129439986,
+      "spectral_rolloff": 5511.882859399206,
+      "zero_crossing_rate": 0.09023520708268784,
+      "rms_energy": 0.3309630751609802,
+      "spectral_contrast": 17.265963930406244
+    }
   },
   {
     "title": "LALALALA",
@@ -3804,7 +4935,14 @@
       "appleMusic": "https://music.apple.com/us/album/lalalala/1710644819?i=1710644832&uo=4",
       "youtube": "https://youtu.be/dBDkYofMUs4?si=_e44XFSIsgAi0Jgc"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2725.359048758978,
+      "spectral_rolloff": 5966.740501397899,
+      "zero_crossing_rate": 0.10777551014233153,
+      "rms_energy": 0.35009947419166565,
+      "spectral_contrast": 18.537244309045754
+    }
   },
   {
     "title": "BLIND SPOT",
@@ -3828,7 +4966,14 @@
       "appleMusic": "https://music.apple.com/us/album/blind-spot/1710644819?i=1710644834&uo=4",
       "youtube": "https://youtu.be/Wx4hglGjwEs?si=eeVSmrxMFPRMmVkY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2851.1885590980896,
+      "spectral_rolloff": 6270.2319014451,
+      "zero_crossing_rate": 0.1106541380228505,
+      "rms_energy": 0.3628554344177246,
+      "spectral_contrast": 17.49670076892433
+    }
   },
   {
     "title": "COMFLEX",
@@ -3851,7 +4996,14 @@
       "appleMusic": "https://music.apple.com/us/album/comflex/1710644819?i=1710645138&uo=4",
       "youtube": "https://youtu.be/ifK5RIx1CjE?si=ANLD4pa-c0Czzvll"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2966.588802094325,
+      "spectral_rolloff": 6348.450302726811,
+      "zero_crossing_rate": 0.131236837964756,
+      "rms_energy": 0.3147546947002411,
+      "spectral_contrast": 16.797334903410167
+    }
   },
   {
     "title": "Cover Me",
@@ -3874,7 +5026,14 @@
       "appleMusic": "https://music.apple.com/us/album/cover-me/1710644819?i=1710645143&uo=4",
       "youtube": "https://youtu.be/gfhhFsG-oms?si=EsTDH7WycSCoJBHV"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2313.2013931301904,
+      "spectral_rolloff": 5295.992065713352,
+      "zero_crossing_rate": 0.08453695354860573,
+      "rms_energy": 0.34204182028770447,
+      "spectral_contrast": 18.602872247682154
+    }
   },
   {
     "title": "Leave",
@@ -3898,7 +5057,14 @@
       "appleMusic": "https://music.apple.com/us/album/leave/1710644819?i=1710645149&uo=4",
       "youtube": "https://youtu.be/T_6oPwsJgxI?si=kW4_AxHaAKH3eICr"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2479.983145493265,
+      "spectral_rolloff": 5674.215856621563,
+      "zero_crossing_rate": 0.09168832603117738,
+      "rms_energy": 0.3311208486557007,
+      "spectral_contrast": 18.554048488657028
+    }
   },
   {
     "title": "Social path",
@@ -3921,7 +5087,14 @@
       "appleMusic": "https://music.apple.com/us/album/social-path-feat-lisa-korean-ver/1710644819?i=1710645154&uo=4",
       "youtube": "https://youtu.be/M0c04xfBtyc?si=IZ16pjvIj6sw2lD3"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2946.766531227107,
+      "spectral_rolloff": 6472.837492738187,
+      "zero_crossing_rate": 0.12614335725697134,
+      "rms_energy": 0.36287498474121094,
+      "spectral_contrast": 17.478136696891127
+    }
   },
   {
     "title": "LALALALA (rock version)",
@@ -3944,7 +5117,14 @@
       "appleMusic": "https://music.apple.com/us/album/lalalala/1710644819?i=1710644832&uo=4",
       "youtube": "https://youtu.be/osFQWe1oX9c?si=tpHf20cfPriGslUi"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2647.155589382676,
+      "spectral_rolloff": 5514.384780753776,
+      "zero_crossing_rate": 0.1387815586270333,
+      "rms_energy": 0.2950822412967682,
+      "spectral_contrast": 17.66503901800359
+    }
   },
   {
     "title": "MOUNTAINS",
@@ -3967,7 +5147,14 @@
       "appleMusic": "https://music.apple.com/us/album/mountains/1752739357?i=1752739367&uo=4",
       "youtube": "https://youtu.be/80H_-aHTUws?si=0v6OCtH6FT0AAeNu"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2857.55976874455,
+      "spectral_rolloff": 6181.488750998499,
+      "zero_crossing_rate": 0.11722305262393494,
+      "rms_energy": 0.3446621000766754,
+      "spectral_contrast": 17.480859740523186
+    }
   },
   {
     "title": "Chk Chk Boom",
@@ -3991,7 +5178,14 @@
       "appleMusic": "https://music.apple.com/us/album/chk-chk-boom/1752739357?i=1752739619&uo=4",
       "youtube": "https://youtu.be/0P0aQreFs8w?si=GtJZYL9tez4tCckt"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2898.1259581525533,
+      "spectral_rolloff": 6469.935263966886,
+      "zero_crossing_rate": 0.11099340082784663,
+      "rms_energy": 0.3544825315475464,
+      "spectral_contrast": 17.14581694061229
+    }
   },
   {
     "title": "Chk Chk Boom (Festival Version)",
@@ -4015,7 +5209,14 @@
       "appleMusic": "https://music.apple.com/us/song/chk-chk-boom-festival-ver/1752739836",
       "youtube": "https://youtu.be/dT3SzfFOMCI?si=sdbVF8eU0J6qW8FY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2729.5717635656483,
+      "spectral_rolloff": 6038.136997119481,
+      "zero_crossing_rate": 0.11116133024302866,
+      "rms_energy": 0.3272230327129364,
+      "spectral_contrast": 16.296481542441903
+    }
   },
   {
     "title": "JJAM",
@@ -4039,7 +5240,14 @@
       "appleMusic": "https://music.apple.com/us/album/jjam/1752739357?i=1752739626&uo=4",
       "youtube": "https://youtu.be/7ytGFxD-FcI?si=cPkgwyExH8dDMPLZ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3195.7984983154497,
+      "spectral_rolloff": 6766.7381942595375,
+      "zero_crossing_rate": 0.14467535159275755,
+      "rms_energy": 0.3340487778186798,
+      "spectral_contrast": 16.770700176798655
+    }
   },
   {
     "title": "I Like It",
@@ -4062,7 +5270,14 @@
       "appleMusic": "https://music.apple.com/us/album/i-like-it/1752739357?i=1752739632&uo=4",
       "youtube": "https://youtu.be/Oz7v7TP_-3k?si=OtnIcZh6dNeuMAay"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2858.556280520636,
+      "spectral_rolloff": 6377.464250701975,
+      "zero_crossing_rate": 0.09866307005228506,
+      "rms_energy": 0.3660147190093994,
+      "spectral_contrast": 18.1145342515464
+    }
   },
   {
     "title": "Runners",
@@ -4085,7 +5300,14 @@
       "appleMusic": "https://music.apple.com/us/album/runners/1752739357?i=1752739821&uo=4",
       "youtube": "https://youtu.be/2kvAETm2Q4I?si=dpzKWndFDFqMY8LH"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3071.836441109157,
+      "spectral_rolloff": 6855.447985754744,
+      "zero_crossing_rate": 0.1312009071214175,
+      "rms_energy": 0.37681323289871216,
+      "spectral_contrast": 17.007050036219866
+    }
   },
   {
     "title": "twilight",
@@ -4108,7 +5330,14 @@
       "appleMusic": "https://music.apple.com/us/album/twilight/1752739357?i=1752739826&uo=4",
       "youtube": "https://youtu.be/GBoHUDOc4Qo?si=lqXqUbIn1-EkXczJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2403.5600802784406,
+      "spectral_rolloff": 5575.089732553495,
+      "zero_crossing_rate": 0.0883860924186677,
+      "rms_energy": 0.29874441027641296,
+      "spectral_contrast": 19.499902137740627
+    }
   },
   {
     "title": "Stray Kids (ATE)",
@@ -4132,7 +5361,14 @@
       "appleMusic": "https://music.apple.com/us/song/stray-kids/1752739832",
       "youtube": "https://youtu.be/GBoHUDOc4Qo?si=z4AO8Q64Y_iti6zo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2729.810431806874,
+      "spectral_rolloff": 6442.322391950281,
+      "zero_crossing_rate": 0.09521711306642137,
+      "rms_energy": 0.3394743800163269,
+      "spectral_contrast": 18.27769834805556
+    }
   },
   {
     "title": "Giant",
@@ -4156,7 +5392,14 @@
       "appleMusic": "https://music.apple.com/us/song/giant-korean-ver/1799804279",
       "youtube": "https://youtu.be/h21pp5-k9SA?si=bHT0kIU6eehhZSfo"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3013.724583227232,
+      "spectral_rolloff": 6708.376708795266,
+      "zero_crossing_rate": 0.1195426722259876,
+      "rms_energy": 0.372719407081604,
+      "spectral_contrast": 17.172412553046627
+    }
   },
   {
     "title": "NIGHT",
@@ -4180,10 +5423,17 @@
       "appleMusic": "https://music.apple.com/us/album/night/1770980094?i=1770980098&uo=4",
       "youtube": "https://youtu.be/xhHE8pYt74g?si=GyWO_oCkiWsaCTiw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2803.762404314728,
+      "spectral_rolloff": 5839.309307071795,
+      "zero_crossing_rate": 0.1346241709430674,
+      "rms_energy": 0.3867032527923584,
+      "spectral_contrast": 16.697459892078445
+    }
   },
   {
-    "title": "NIGHT (English Version)",
+    "title": "NIGHT -English version-",
     "album": "GIANT",
     "year": 2024,
     "duration": "3:01",
@@ -4204,7 +5454,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2751.7051467205283,
+      "spectral_rolloff": 5748.522920852295,
+      "zero_crossing_rate": 0.13095355163148722,
+      "rms_energy": 0.3839153051376343,
+      "spectral_contrast": 16.662599267604627
+    }
   },
   {
     "title": "Falling Up",
@@ -4228,7 +5485,14 @@
       "appleMusic": "https://music.apple.com/us/album/falling-up/1770980106?i=1770980275&uo=4",
       "youtube": "https://youtu.be/HF7cDT9LFsE?si=heUiV6NjP8SOe3fD"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3084.918668781073,
+      "spectral_rolloff": 6608.349893039553,
+      "zero_crossing_rate": 0.13095582094790859,
+      "rms_energy": 0.3030608594417572,
+      "spectral_contrast": 17.3328346588194
+    }
   },
   {
     "title": "Falling Up (English Version)",
@@ -4252,7 +5516,14 @@
       "appleMusic": "https://music.apple.com/us/song/falling-up-english-version/1777033706",
       "youtube": "https://youtu.be/ULYpLm7q4nQ?si=88dG0tDhls6F1iGc"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3071.2084196489445,
+      "spectral_rolloff": 6582.154776457203,
+      "zero_crossing_rate": 0.12862334188613478,
+      "rms_energy": 0.30286872386932373,
+      "spectral_contrast": 17.330550981729175
+    }
   },
   {
     "title": "WHY?",
@@ -4276,7 +5547,14 @@
       "appleMusic": "https://music.apple.com/us/album/why/1739055026?i=1739055027&uo=4",
       "youtube": "https://youtu.be/0SP8ie--amY?si=zdp7l6HGAyt5u8uj"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2540.179138343299,
+      "spectral_rolloff": 5545.191772366383,
+      "zero_crossing_rate": 0.11407248499225407,
+      "rms_energy": 0.35523197054862976,
+      "spectral_contrast": 16.40925106831949
+    }
   },
   {
     "title": "Saiyan",
@@ -4300,10 +5578,17 @@
       "appleMusic": "https://music.apple.com/us/album/saiyan/1777033478?i=1777033699&uo=4",
       "youtube": "https://youtu.be/Q4vEPBlcPGo?si=pYIDbZY7yQ4WW8LZ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2833.5530863170725,
+      "spectral_rolloff": 6287.853767519123,
+      "zero_crossing_rate": 0.11147714344500387,
+      "rms_energy": 0.3776451647281647,
+      "spectral_contrast": 17.302934041013213
+    }
   },
   {
-    "title": "Ai o Kureta noni, Naze",
+    "title": "Aiwokuretanoninaze",
     "album": "GIANT",
     "year": 2024,
     "duration": "3:15",
@@ -4323,7 +5608,14 @@
       "appleMusic": "https://music.apple.com/us/album/aiwokuretanoninaze/1777033478?i=1777033700&uo=4",
       "youtube": "https://youtu.be/BLfrPSSO_YI?si=eyMGZZqi3A9Jw78D"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2599.195499175409,
+      "spectral_rolloff": 5599.283312052188,
+      "zero_crossing_rate": 0.1089687923605732,
+      "rms_energy": 0.37912413477897644,
+      "spectral_contrast": 17.663520274697223
+    }
   },
   {
     "title": "Christmas Love",
@@ -4347,7 +5639,14 @@
       "appleMusic": "https://music.apple.com/us/album/christmas-love/1777033478?i=1777033703&uo=4",
       "youtube": "https://youtu.be/24oVZSPa5Us?si=PdKAm__Ec6_J-utL"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2734.7866834499328,
+      "spectral_rolloff": 6387.780506420652,
+      "zero_crossing_rate": 0.10932204928350116,
+      "rms_energy": 0.36559373140335083,
+      "spectral_contrast": 17.488594550619638
+    }
   },
   {
     "title": "Walkin on Water",
@@ -4372,7 +5671,14 @@
       "appleMusic": "https://music.apple.com/us/song/walkin-on-water/1780412269",
       "youtube": "https://youtu.be/ovHoY8UBIu8?si=TByUX3tj8LCm_AFQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2962.3987488191797,
+      "spectral_rolloff": 6292.3488862195,
+      "zero_crossing_rate": 0.1376491697327653,
+      "rms_energy": 0.3658861517906189,
+      "spectral_contrast": 16.51273342132061
+    }
   },
   {
     "title": "Bounce Back",
@@ -4395,7 +5701,14 @@
       "appleMusic": "https://music.apple.com/us/album/bounce-back/1780411692?i=1780412286&uo=4",
       "youtube": "https://youtu.be/vRmkqYlH-nA?si=_fgLayz96fosHHw4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2507.5481176277426,
+      "spectral_rolloff": 5367.580375405451,
+      "zero_crossing_rate": 0.09072008435805577,
+      "rms_energy": 0.43946248292922974,
+      "spectral_contrast": 16.598137543698034
+    }
   },
   {
     "title": "U",
@@ -4419,7 +5732,14 @@
       "appleMusic": "https://music.apple.com/us/album/u-feat-tablo/1780411692?i=1780412292&uo=4",
       "youtube": "https://youtu.be/iqeY3sz8ldk?si=MiuPkUISwEKFppbJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2355.841949602806,
+      "spectral_rolloff": 5993.219169067099,
+      "zero_crossing_rate": 0.054755957712044924,
+      "rms_energy": 0.4595409333705902,
+      "spectral_contrast": 17.097138170959948
+    }
   },
   {
     "title": "Walkin on Water (HIP Version)",
@@ -4442,7 +5762,14 @@
       "appleMusic": "https://music.apple.com/us/song/walkin-on-water/1780412269",
       "youtube": "https://youtu.be/ovHoY8UBIu8?si=TByUX3tj8LCm_AFQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2854.4821920828163,
+      "spectral_rolloff": 6146.38679439388,
+      "zero_crossing_rate": 0.12303817595371805,
+      "rms_energy": 0.3812251389026642,
+      "spectral_contrast": 15.545641351295084
+    }
   },
   {
     "title": "Railway (Bang Chan)",
@@ -4466,7 +5793,14 @@
       "appleMusic": "https://music.apple.com/us/album/railway-bang-chan/1780411692?i=1780412483&uo=4",
       "youtube": "https://youtu.be/27rdSyt-Qt8?si=dnykDZNFr8avjFJv"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2795.3957560108224,
+      "spectral_rolloff": 6337.366791126065,
+      "zero_crossing_rate": 0.09593421705557707,
+      "rms_energy": 0.4336295425891876,
+      "spectral_contrast": 17.20368958933514
+    }
   },
   {
     "title": "Unfair (Felix)",
@@ -4490,7 +5824,14 @@
       "appleMusic": "https://music.apple.com/us/album/unfair-felix/1780411692?i=1780412490&uo=4",
       "youtube": "https://youtu.be/Oswujxm2Ag0?si=Gvmx510MuE2Ivu_A"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2575.900926120036,
+      "spectral_rolloff": 6187.893669666199,
+      "zero_crossing_rate": 0.07647823271688614,
+      "rms_energy": 0.4413180351257324,
+      "spectral_contrast": 17.457879155083337
+    }
   },
   {
     "title": "HALLUCINATION (I.N)",
@@ -4514,7 +5855,14 @@
       "appleMusic": "https://music.apple.com/us/album/hallucination-i-n/1780411692?i=1780412493&uo=4",
       "youtube": "https://youtu.be/n5B5q1Hwt_U?si=6mqAiqx-oSnTQe-L"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2538.846056690687,
+      "spectral_rolloff": 5466.089358872725,
+      "zero_crossing_rate": 0.09447504659663052,
+      "rms_energy": 0.40081295371055603,
+      "spectral_contrast": 18.508953932778546
+    }
   },
   {
     "title": "Youth (Lee Know)",
@@ -4537,7 +5885,14 @@
       "appleMusic": "https://music.apple.com/us/album/youth-lee-know/1780411692?i=1780412495&uo=4",
       "youtube": "https://youtu.be/NI2NBjZGYfM?si=kmJAdjNBVoyKDAuL"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3114.161272599661,
+      "spectral_rolloff": 6611.80254450886,
+      "zero_crossing_rate": 0.14623021156080557,
+      "rms_energy": 0.30599698424339294,
+      "spectral_contrast": 18.68158501921858
+    }
   },
   {
     "title": "So Good (Hyunjin)",
@@ -4561,7 +5916,14 @@
       "appleMusic": "https://music.apple.com/us/album/so-good-hyunjin/1780411692?i=1780412500&uo=4",
       "youtube": "https://youtu.be/3yp17XEP5ck?si=NCf7UWrwGPVLR_Dw"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2233.9225561785784,
+      "spectral_rolloff": 4938.8427923484705,
+      "zero_crossing_rate": 0.0707402661454299,
+      "rms_energy": 0.4161626100540161,
+      "spectral_contrast": 17.386044658160152
+    }
   },
   {
     "title": "ULTRA (Changbin)",
@@ -4585,7 +5947,14 @@
       "appleMusic": "https://music.apple.com/us/album/ultra-changbin/1780411692?i=1780412508&uo=4",
       "youtube": "https://youtu.be/t4YJEekL1f8?si=J4MhEZsIMlOuZIJC"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3045.028108148221,
+      "spectral_rolloff": 6372.010062149013,
+      "zero_crossing_rate": 0.1477801546766073,
+      "rms_energy": 0.34959569573402405,
+      "spectral_contrast": 16.64704704128126
+    }
   },
   {
     "title": "Hold my hand (HAN)",
@@ -4609,7 +5978,14 @@
       "appleMusic": "https://music.apple.com/us/album/hold-my-hand-han/1780411692?i=1780412926&uo=4",
       "youtube": "https://youtu.be/DzBB7izZnZk?si=f9PKTqN7e9lhu-3C"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3540.0213206414464,
+      "spectral_rolloff": 7277.7639706683285,
+      "zero_crossing_rate": 0.17540303059643686,
+      "rms_energy": 0.3231288194656372,
+      "spectral_contrast": 17.083391136224805
+    }
   },
   {
     "title": "As we are (Seungmin)",
@@ -4633,7 +6009,14 @@
       "appleMusic": "https://music.apple.com/us/album/as-we-are-seungmin/1780411692?i=1780413023&uo=4",
       "youtube": "https://youtu.be/kAzmhLHePqU?si=1eVS9M_ZoWuFfVeP"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2790.861424808504,
+      "spectral_rolloff": 6239.166377959189,
+      "zero_crossing_rate": 0.11542575401820294,
+      "rms_energy": 0.21883389353752136,
+      "spectral_contrast": 21.027616777336352
+    }
   },
   {
     "title": "GIANT (Korean Ver.)",
@@ -4681,7 +6064,14 @@
       "appleMusic": "https://music.apple.com/us/album/burnin-tires/1876749913?i=1876749923&uo=4",
       "youtube": "https://youtu.be/vSPnf72JsCQ?si=qHbkLGU9zYZxS7Ws"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3024.0400583071837,
+      "spectral_rolloff": 6386.728124096473,
+      "zero_crossing_rate": 0.14380729869410178,
+      "rms_energy": 0.039771951735019684,
+      "spectral_contrast": 16.254649366488014
+    }
   },
   {
     "title": "Truman (HAN, Felix)",
@@ -4705,10 +6095,17 @@
       "appleMusic": "https://music.apple.com/us/song/truman-han-felix/1799804285",
       "youtube": "https://youtu.be/diMyNjWyDW8?si=7H3BH1nU1qHxvw4N"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2842.091395747881,
+      "spectral_rolloff": 6561.9074554561,
+      "zero_crossing_rate": 0.09083123012239784,
+      "rms_energy": 0.04708129167556763,
+      "spectral_contrast": 17.06369675493597
+    }
   },
   {
-    "title": "ESCAPE (Bang Chan, Hyunjin)",
+    "title": "ESCAPE",
     "album": "Mixtape dominATE",
     "year": 2025,
     "duration": "3:15",
@@ -4730,7 +6127,14 @@
       "appleMusic": "https://music.apple.com/us/song/escape-bang-chan-hyunjin/1799804292",
       "youtube": "https://youtu.be/LvCmsOWPwKA?si=ZWeSdlu-t1-d96HL"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2696.0658407028136,
+      "spectral_rolloff": 5747.289944945065,
+      "zero_crossing_rate": 0.11712952366037009,
+      "rms_energy": 0.04257718473672867,
+      "spectral_contrast": 16.20488454353182
+    }
   },
   {
     "title": "CINEMA",
@@ -4754,7 +6158,14 @@
       "appleMusic": "https://music.apple.com/us/song/cinema-lee-know-seungmin/1799804294",
       "youtube": "https://youtu.be/G4CAFJ5mLXU?si=30ZiRHGyzi2C-VSX"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1938.6188634846044,
+      "spectral_rolloff": 4097.750292140517,
+      "zero_crossing_rate": 0.07140388577004626,
+      "rms_energy": 0.04503544420003891,
+      "spectral_contrast": 21.618480166019634
+    }
   },
   {
     "title": "Hollow",
@@ -4777,7 +6188,14 @@
       "appleMusic": "https://music.apple.com/us/album/hollow/1815865407?i=1815865710&uo=4",
       "youtube": "https://www.youtube.com/watch?v=OyW9Hs1lRRU"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2515.5823787120153,
+      "spectral_rolloff": 5776.644516877663,
+      "zero_crossing_rate": 0.0896867889475213,
+      "rms_energy": 0.3621792495250702,
+      "spectral_contrast": 17.003308917615907
+    }
   },
   {
     "title": "Parade",
@@ -4801,7 +6219,14 @@
       "appleMusic": "https://music.apple.com/us/album/parade/1815865407?i=1815865730&uo=4",
       "youtube": "https://youtu.be/11XJbEuB_P4?si=AXnW7EdkE-SZrFD4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2747.3225804968897,
+      "spectral_rolloff": 6287.278325607572,
+      "zero_crossing_rate": 0.08545375738284276,
+      "rms_energy": 0.4146798551082611,
+      "spectral_contrast": 16.678237161008436
+    }
   },
   {
     "title": "Never Alone",
@@ -4825,7 +6250,14 @@
       "appleMusic": "https://music.apple.com/us/album/never-alone/1815865407?i=1815865731&uo=4",
       "youtube": "https://www.youtube.com/watch?v=2lrCUD30wVg&list=OLAK5uy_kiejLUc-LJYizptQj7YzqdBJqlDEIfwc4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2707.8544434803175,
+      "spectral_rolloff": 6070.194949409372,
+      "zero_crossing_rate": 0.11333268783888459,
+      "rms_energy": 0.36963608860969543,
+      "spectral_contrast": 16.812268227271996
+    }
   },
   {
     "title": "just a little",
@@ -4849,7 +6281,14 @@
       "appleMusic": "https://music.apple.com/us/album/just-a-little/1815865407?i=1815865733&uo=4",
       "youtube": "https://www.youtube.com/watch?v=UyNdcMLbxTs&list=OLAK5uy_kiejLUc-LJYizptQj7YzqdBJqlDEIfwc4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2855.6600599119374,
+      "spectral_rolloff": 6687.385588630422,
+      "zero_crossing_rate": 0.09119437149012394,
+      "rms_energy": 0.39192861318588257,
+      "spectral_contrast": 19.028429186788394
+    }
   },
   {
     "title": "Fate (宿命)",
@@ -4873,7 +6312,14 @@
       "appleMusic": "https://music.apple.com/us/album/fate/1815865407?i=1815865735&uo=4",
       "youtube": "https://www.youtube.com/watch?v=MyqE3V_n0CM&list=OLAK5uy_kiejLUc-LJYizptQj7YzqdBJqlDEIfwc4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2670.2277948896703,
+      "spectral_rolloff": 5968.7503782194035,
+      "zero_crossing_rate": 0.10680083873934934,
+      "rms_energy": 0.3840145468711853,
+      "spectral_contrast": 17.469905546308137
+    }
   },
   {
     "title": "CEREMONY",
@@ -4896,7 +6342,14 @@
       "appleMusic": "https://music.apple.com/us/album/ceremony/1827247172?i=1827247176&uo=4",
       "youtube": "https://youtu.be/P7vBoGWoReg?si=ODF_R3g-gzuzaRg1"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2644.9988774262565,
+      "spectral_rolloff": 5835.931713243125,
+      "zero_crossing_rate": 0.0961656873305577,
+      "rms_energy": 0.3781543970108032,
+      "spectral_contrast": 18.110968769221568
+    }
   },
   {
     "title": "CEREMONY (Festival Version)",
@@ -4919,7 +6372,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2792.22811119349,
+      "spectral_rolloff": 6094.638721043522,
+      "zero_crossing_rate": 0.11631835181061193,
+      "rms_energy": 0.40411853790283203,
+      "spectral_contrast": 16.226359485782666
+    }
   },
   {
     "title": "BLEEP",
@@ -4942,7 +6402,14 @@
       "appleMusic": "https://music.apple.com/us/album/bleep/1827247172?i=1827247174&uo=4",
       "youtube": "https://youtu.be/qS7OsvKqojg?si=Dm3IdGEJu2wGvisa"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2589.6382308514076,
+      "spectral_rolloff": 5896.911876391848,
+      "zero_crossing_rate": 0.09847320391169635,
+      "rms_energy": 0.3900487720966339,
+      "spectral_contrast": 16.48235349222975
+    }
   },
   {
     "title": "CREED",
@@ -4966,7 +6433,14 @@
       "appleMusic": "https://music.apple.com/us/album/creed/1827247172?i=1827247184&uo=4",
       "youtube": "https://youtu.be/y-rPpGpnSg0?si=yKJzmZUnSAZLjXKP"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2832.5517447835755,
+      "spectral_rolloff": 6171.005700522851,
+      "zero_crossing_rate": 0.07139874612703331,
+      "rms_energy": 0.455249160528183,
+      "spectral_contrast": 17.735817030278003
+    }
   },
   {
     "title": "MESS",
@@ -4990,7 +6464,14 @@
       "appleMusic": "https://music.apple.com/us/album/mess/1827247172?i=1827247279&uo=4",
       "youtube": "https://youtu.be/Q-rDglVNQO0?si=6ERg0zy5L5W61G_o"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2818.126655567884,
+      "spectral_rolloff": 6302.423289540569,
+      "zero_crossing_rate": 0.10961327822424477,
+      "rms_energy": 0.31600528955459595,
+      "spectral_contrast": 18.38302042106998
+    }
   },
   {
     "title": "In My Head",
@@ -5014,7 +6495,14 @@
       "appleMusic": "https://music.apple.com/us/album/in-my-head/1827247172?i=1827247281&uo=4",
       "youtube": "https://youtu.be/jQ7W5A-wwKo?si=x46RHPnMz_ZrxbSJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2568.447943603558,
+      "spectral_rolloff": 5508.205035007988,
+      "zero_crossing_rate": 0.1021358806158017,
+      "rms_energy": 0.34456658363342285,
+      "spectral_contrast": 17.544724810834783
+    }
   },
   {
     "title": "Half Time",
@@ -5038,7 +6526,14 @@
       "appleMusic": "https://music.apple.com/us/album/half-time/1827247172?i=1827247284&uo=4",
       "youtube": "https://youtu.be/Hzp7hy0lIIM?si=K7OVvJZgUgblV4Tf"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2867.4803364994727,
+      "spectral_rolloff": 6569.169804626985,
+      "zero_crossing_rate": 0.10962273370933386,
+      "rms_energy": 0.34512585401535034,
+      "spectral_contrast": 17.18836241102555
+    }
   },
   {
     "title": "Phoenix",
@@ -5062,7 +6557,14 @@
       "appleMusic": "https://music.apple.com/us/album/phoenix/1827247172?i=1827247288&uo=4",
       "youtube": "https://youtu.be/QZtn6ec0rH4?si=_QbW8N1BCPYnUVTp"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2886.865856227622,
+      "spectral_rolloff": 6739.742462843726,
+      "zero_crossing_rate": 0.08552145865608056,
+      "rms_energy": 0.4002179801464081,
+      "spectral_contrast": 17.47153294047595
+    }
   },
   {
     "title": "Ghost",
@@ -5086,7 +6588,14 @@
       "appleMusic": "https://music.apple.com/us/album/ghost/1827247172?i=1827247289&uo=4",
       "youtube": "https://youtu.be/c9ZiUXtcaBw?si=7bPQ7wl1UOptfGED"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2719.3661392230265,
+      "spectral_rolloff": 5897.65411306037,
+      "zero_crossing_rate": 0.11781874818454686,
+      "rms_energy": 0.31664419174194336,
+      "spectral_contrast": 17.8878482937139
+    }
   },
   {
     "title": "0801",
@@ -5110,7 +6619,14 @@
       "appleMusic": "https://music.apple.com/us/album/0801/1827247172?i=1827247292&uo=4",
       "youtube": "https://youtu.be/ciRftriyejM?si=jpj-ZO8KB1OCrqoe"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2257.100048450578,
+      "spectral_rolloff": 5149.871518868609,
+      "zero_crossing_rate": 0.07723391508520527,
+      "rms_energy": 0.3912063241004944,
+      "spectral_contrast": 17.28842793071807
+    }
   },
   {
     "title": "Do It",
@@ -5134,7 +6650,14 @@
       "appleMusic": "https://music.apple.com/us/album/do-it/1846266203?i=1846266205&uo=4",
       "youtube": "https://youtu.be/NED7nev2ywQ?si=YUiLUiOrTC9SMdDS"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2829.9506087101317,
+      "spectral_rolloff": 6491.5685439460685,
+      "zero_crossing_rate": 0.10396305855441518,
+      "rms_energy": 0.3317874073982239,
+      "spectral_contrast": 17.519443812780604
+    }
   },
   {
     "title": "Do It (Festival Version)",
@@ -5158,7 +6681,14 @@
       "appleMusic": "",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2829.9506087101317,
+      "spectral_rolloff": 6491.5685439460685,
+      "zero_crossing_rate": 0.10396305855441518,
+      "rms_energy": 0.3317874073982239,
+      "spectral_contrast": 17.519443812780604
+    }
   },
   {
     "title": "DIVINE",
@@ -5181,7 +6711,14 @@
       "appleMusic": "https://music.apple.com/us/album/divine/1846266203?i=1846266206&uo=4",
       "youtube": "https://youtu.be/E8i32NXMxnc?si=G58a8IKdgepmgvD5"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2803.293746020149,
+      "spectral_rolloff": 6108.541064037084,
+      "zero_crossing_rate": 0.11420826575813323,
+      "rms_energy": 0.3459913730621338,
+      "spectral_contrast": 17.17878775831333
+    }
   },
   {
     "title": "Holiday",
@@ -5205,7 +6742,14 @@
       "appleMusic": "https://music.apple.com/us/album/holiday/1846266203?i=1846266208&uo=4",
       "youtube": "https://youtu.be/EZh3S8-WmyU?si=UBaR6mH-Jlmu4ca3"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2632.392509922264,
+      "spectral_rolloff": 6071.245756378292,
+      "zero_crossing_rate": 0.07503872966692486,
+      "rms_energy": 0.4222766160964966,
+      "spectral_contrast": 17.208069044551742
+    }
   },
   {
     "title": "Photobook",
@@ -5229,7 +6773,14 @@
       "appleMusic": "https://music.apple.com/us/album/photobook/1846266203?i=1846266209&uo=4",
       "youtube": "https://youtu.be/l5OuKEpNqos?si=Nhh3Jc405Xr3FaxX"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2418.489806047296,
+      "spectral_rolloff": 5342.227572345808,
+      "zero_crossing_rate": 0.09210323271688614,
+      "rms_energy": 0.3733474314212799,
+      "spectral_contrast": 18.2472096944664
+    }
   },
   {
     "title": "Battle Ground (K. Version)",
@@ -5247,10 +6798,17 @@
       "appleMusic": "https://music.apple.com/us/album/battle-ground-korean-version/6790903804?i=6790903806&uo=4",
       "youtube": "https://www.youtube.com/watch?v=HP2_M4LVmzA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3049.926007785061,
+      "spectral_rolloff": 6949.628645278612,
+      "zero_crossing_rate": 0.12591339985960495,
+      "rms_energy": 0.35144248604774475,
+      "spectral_contrast": 15.92891687647533
+    }
   },
   {
-    "title": "Roman Empire (Bang Chan)",
+    "title": "Roman Empire",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:05",
@@ -5271,11 +6829,18 @@
       "appleMusic": "https://music.apple.com/us/album/roman-empire/6790903804?i=6790903811&uo=4",
       "youtube": "https://youtu.be/wPD4AxkqJkE?si=G_UdKfVmM7sz3afA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2785.0324652623435,
+      "spectral_rolloff": 6725.0728639680965,
+      "zero_crossing_rate": 0.1009161230393106,
+      "rms_energy": 0.37344032526016235,
+      "spectral_contrast": 17.52950504753675
+    }
   },
   {
-    "title": "LOVER (Hyunjin)",
-    "album": "SKZ Replay 2026 pt 1",
+    "title": "LOVER",
+    "album": "SKZ-REPLAY 2026 Pt.1",
     "year": 2026,
     "duration": "3:12",
     "genres": [
@@ -5295,10 +6860,18 @@
       "appleMusic": "https://music.apple.com/us/song/lover/6790904093",
       "youtube": "https://youtu.be/l8sSQAa1kNM?si=Ze6dVFfwwDjLTKth"
     },
-    "recs": []
+    "recs": [],
+    "artist": "Hyunjin",
+    "acoustic": {
+      "spectral_centroid": 2847.7684731519444,
+      "spectral_rolloff": 6250.8753698985765,
+      "zero_crossing_rate": 0.11164355998257165,
+      "rms_energy": 0.3102327287197113,
+      "spectral_contrast": 19.19708103536683
+    }
   },
   {
-    "title": "Raining Stars (HAN)",
+    "title": "Raining stars",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:20",
@@ -5319,7 +6892,15 @@
       "appleMusic": "https://music.apple.com/us/song/raining-stars/6790904103",
       "youtube": "https://youtu.be/YsvbN665LZE?si=mYazmaBkmJ3qGJbl"
     },
-    "recs": []
+    "recs": [],
+    "artist": "HAN",
+    "acoustic": {
+      "spectral_centroid": 2514.439511845259,
+      "spectral_rolloff": 5601.535041271301,
+      "zero_crossing_rate": 0.10407349862025561,
+      "rms_energy": 0.3206042945384979,
+      "spectral_contrast": 18.66862398904054
+    }
   },
   {
     "title": "The Little Things (I.N)",
@@ -5343,7 +6924,14 @@
       "appleMusic": "https://music.apple.com/us/song/the-little-things/6790904111",
       "youtube": "https://youtu.be/bSZL3ZZC8EE?si=LllIq5yhXwOHbqgt"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2276.3929319884023,
+      "spectral_rolloff": 5059.468760590144,
+      "zero_crossing_rate": 0.07497102839368706,
+      "rms_energy": 0.27441108226776123,
+      "spectral_contrast": 20.072353828805184
+    }
   },
   {
     "title": "Goodbye (Seungmin)",
@@ -5367,7 +6955,14 @@
       "appleMusic": "https://music.apple.com/us/album/goodbye/6790903804?i=6790904207&uo=4",
       "youtube": "https://youtu.be/v6wWUlXdEDU?si=VXOj2JjlXweskAE6"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2611.926508681625,
+      "spectral_rolloff": 5770.72330300518,
+      "zero_crossing_rate": 0.10688215591111541,
+      "rms_energy": 0.18142057955265045,
+      "spectral_contrast": 19.756969359493965
+    }
   },
   {
     "title": "Still here (Seungmin)",
@@ -5390,7 +6985,14 @@
       "appleMusic": "https://music.apple.com/us/song/still-here/6790904226",
       "youtube": "https://youtu.be/Tsr3lBEn9ww?si=GhMit80UuETXi4tt"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2324.3336326046797,
+      "spectral_rolloff": 5240.532809020381,
+      "zero_crossing_rate": 0.08724122228408211,
+      "rms_energy": 0.21188083291053772,
+      "spectral_contrast": 20.131935761193603
+    }
   },
   {
     "title": "Into The Current (Seungmin)",
@@ -5414,7 +7016,14 @@
       "appleMusic": "https://music.apple.com/us/album/into-the-current/6790903804?i=6790904232&uo=4",
       "youtube": "https://youtu.be/sw1YLrdaUnA?si=GItmZPky-wvkbZNz"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1471.0873727313194,
+      "spectral_rolloff": 2956.1618559679996,
+      "zero_crossing_rate": 0.040191106700232376,
+      "rms_energy": 0.28047430515289307,
+      "spectral_contrast": 21.495960305704035
+    }
   },
   {
     "title": "MIC&BRUSH (Hyunjin)",
@@ -5438,7 +7047,14 @@
       "appleMusic": "https://music.apple.com/us/album/mic-brush/6790903804?i=6790904326&uo=4",
       "youtube": "https://youtu.be/OhenSvur9m4?si=RkBIpvzBbCk_4337"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2605.004900742304,
+      "spectral_rolloff": 5392.974877154338,
+      "zero_crossing_rate": 0.1119302502904725,
+      "rms_energy": 0.30159667134284973,
+      "spectral_contrast": 17.574963694453338
+    }
   },
   {
     "title": "PERFUME (Seungmin)",
@@ -5462,10 +7078,17 @@
       "appleMusic": "https://music.apple.com/us/album/perfume/6790903804?i=6790904328&uo=4",
       "youtube": "https://youtu.be/Lp882bDc084?si=T7MQzBCOUEqINNYO"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2562.017236232948,
+      "spectral_rolloff": 5535.459298297105,
+      "zero_crossing_rate": 0.12191297322811774,
+      "rms_energy": 0.31507357954978943,
+      "spectral_contrast": 18.306453669915207
+    }
   },
   {
-    "title": "BABY (Bang Chan)",
+    "title": "BABY",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:10",
@@ -5485,10 +7108,18 @@
       "appleMusic": "https://music.apple.com/us/song/baby/6790904333",
       "youtube": "https://youtu.be/bUbqN3Xp0Cw?si=Q5330Rm5mZdEX_t5"
     },
-    "recs": []
+    "recs": [],
+    "artist": "Bang Chan",
+    "acoustic": {
+      "spectral_centroid": 2651.633184640695,
+      "spectral_rolloff": 5700.586107698731,
+      "zero_crossing_rate": 0.12208544127614253,
+      "rms_energy": 0.3156585097312927,
+      "spectral_contrast": 16.869245201217442
+    }
   },
   {
-    "title": "Don't Say (HAN)",
+    "title": "Don't Say",
     "album": "SKZ Replay 2026 pt 1",
     "year": 2026,
     "duration": "3:15",
@@ -5509,7 +7140,15 @@
       "appleMusic": "https://music.apple.com/us/album/dont-say/6790903804?i=6790904337&uo=4",
       "youtube": "https://youtu.be/d2a-0DaRTL4?si=2Mm-axeq52dRcfF5"
     },
-    "recs": []
+    "recs": [],
+    "artist": "HAN",
+    "acoustic": {
+      "spectral_centroid": 2452.4871610028317,
+      "spectral_rolloff": 5498.247388016799,
+      "zero_crossing_rate": 0.10341048000580945,
+      "rms_energy": 0.29563474655151367,
+      "spectral_contrast": 16.970008027851303
+    }
   },
   {
     "title": "My Name",
@@ -5533,7 +7172,14 @@
       "appleMusic": "https://music.apple.com/us/song/my-name/6790904341",
       "youtube": "https://youtu.be/utGvAPjeOhA?si=knA-mD8ItNKk1y5B"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2774.640734106479,
+      "spectral_rolloff": 5405.134214937549,
+      "zero_crossing_rate": 0.16239568708849728,
+      "rms_energy": 0.28639644384384155,
+      "spectral_contrast": 16.357751801565307
+    }
   },
   {
     "title": "REV IT UP",
@@ -5557,7 +7203,15 @@
       "appleMusic": "https://music.apple.com/us/album/rev-it-up/6790903804?i=6790904347&uo=4",
       "youtube": "https://youtu.be/vAjuwLOtHvQ?si=ge0VW9x5fd3VsLEL"
     },
-    "recs": []
+    "recs": [],
+    "artist": "Felix",
+    "acoustic": {
+      "spectral_centroid": 2677.745234915152,
+      "spectral_rolloff": 5940.77889747531,
+      "zero_crossing_rate": 0.09866912156274206,
+      "rms_energy": 0.33153235912323,
+      "spectral_contrast": 17.60766229285673
+    }
   },
   {
     "title": "Limbo (Live)",
@@ -5581,7 +7235,14 @@
       "appleMusic": "https://music.apple.com/us/album/limbo-lee-know/1657537947?i=1657538087&uo=4",
       "youtube": "https://www.youtube.com/watch?v=tUYJdNxrSyk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2219.440588421226,
+      "spectral_rolloff": 4694.863761588643,
+      "zero_crossing_rate": 0.09128892634101472,
+      "rms_energy": 0.3331291675567627,
+      "spectral_contrast": 17.945828655476138
+    }
   },
   {
     "title": "Hug Me (Live)",
@@ -5605,7 +7266,14 @@
       "appleMusic": "https://music.apple.com/us/album/hug-me-i-n/1657537947?i=1657538450&uo=4",
       "youtube": "https://www.youtube.com/watch?v=fhuJiRIT_Yg"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2169.6686356283817,
+      "spectral_rolloff": 4681.67029631221,
+      "zero_crossing_rate": 0.09348562463690938,
+      "rms_energy": 0.3159258961677551,
+      "spectral_contrast": 19.559860880581343
+    }
   },
   {
     "title": "STAY",
@@ -5629,10 +7297,17 @@
       "appleMusic": "https://music.apple.com/us/album/stay/1882902387?i=1882902388&uo=4",
       "youtube": "https://youtu.be/swuhhziz3dM?si=EOHRtgHaEo0IudXI"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2567.821637364734,
+      "spectral_rolloff": 5761.507892682514,
+      "zero_crossing_rate": 0.10404891435902401,
+      "rms_energy": 0.27045243978500366,
+      "spectral_contrast": 18.935813878971956
+    }
   },
   {
-    "title": "Extraordinary You",
+    "title": "끝나지 않을 이야기",
     "album": "Singles/Solos/Features",
     "year": null,
     "duration": "3:16",
@@ -5641,13 +7316,14 @@
     ],
     "bpm": 118,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/끝나지 않을 이야기.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/0KHCa8hM5Jff6Ji0JxQYMb",
       "appleMusic": "https://music.apple.com/us/album/%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/1486765377?i=1486765381&uo=4",
       "youtube": "https://youtu.be/j08LDhYC9cU?si=WwyvvYGMk4nxhaUI"
     },
-    "recs": []
+    "recs": [],
+    "_search_title_override": "끝나지 않을 이야기"
   },
   {
     "title": "Hello Stranger",
@@ -5659,13 +7335,20 @@
     ],
     "bpm": 145,
     "tier": "Up-tempo",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/hellostranger.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2PujZcAaAMGsOeTUjrzkrz",
       "appleMusic": "https://music.apple.com/us/album/hello-stranger/1523814791?i=1523814792&uo=4",
       "youtube": "https://youtu.be/hKvGwo2p4q8?si=dohKKLmIidXA-Cs3"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3161.586484292285,
+      "spectral_rolloff": 6642.726292451346,
+      "zero_crossing_rate": 0.15143715808965919,
+      "rms_energy": 0.288867324590683,
+      "spectral_contrast": 17.465205299163184
+    }
   },
   {
     "title": "Going Dumb",
@@ -5689,7 +7372,14 @@
       "appleMusic": "https://music.apple.com/us/album/going-dumb-with-stray-kids/1556994908?i=1556994922&uo=4",
       "youtube": "https://youtu.be/2jjcuRckOJc?si=dF6EDgLiyQdo8xPS"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2796.7480114374766,
+      "spectral_rolloff": 5933.1068881722385,
+      "zero_crossing_rate": 0.11370783369670542,
+      "rms_energy": 0.15661895275115967,
+      "spectral_contrast": 19.863649344348364
+    }
   },
   {
     "title": "All My Life",
@@ -5701,13 +7391,20 @@
     ],
     "bpm": 130,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/life.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC",
       "appleMusic": "https://music.apple.com/us/album/all-my-life-stray-kids-remix/1711872050?i=1711872071&uo=4",
       "youtube": "https://youtu.be/IgBYRMkk6nc?si=puLdcxwgZKCrxCNO"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2511.988927633085,
+      "spectral_rolloff": 5075.022371677721,
+      "zero_crossing_rate": 0.11924236601955848,
+      "rms_energy": 0.09589066356420517,
+      "spectral_contrast": 21.52552264485913
+    }
   },
   {
     "title": "Lose My Breath",
@@ -5720,13 +7417,20 @@
     ],
     "bpm": 120,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/losemybreath.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt",
       "appleMusic": "https://music.apple.com/us/album/lose-my-breath/207341054?i=207341067&uo=4",
       "youtube": "https://youtu.be/SQ1yPMTIwCU?si=t2U_u_6S-3hBjR0E"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2156.0816552625765,
+      "spectral_rolloff": 4980.729650548987,
+      "zero_crossing_rate": 0.07066617398648649,
+      "rms_energy": 0.050623949617147446,
+      "spectral_contrast": 17.695713280543764
+    }
   },
   {
     "title": "SLASH",
@@ -5739,13 +7443,20 @@
     ],
     "bpm": 145,
     "tier": "Up-tempo",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/slash.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT",
       "appleMusic": "https://music.apple.com/us/album/slash/1756819950?i=1756819951&uo=4",
       "youtube": "https://youtu.be/WjRLFFo-8lA?si=n7B60SBZD_YCByfz"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2717.8298482808473,
+      "spectral_rolloff": 5976.014289885506,
+      "zero_crossing_rate": 0.09771714332397366,
+      "rms_energy": 0.37571293115615845,
+      "spectral_contrast": 16.765098809520545
+    }
   },
   {
     "title": "Updraft",
@@ -5757,13 +7468,21 @@
     ],
     "bpm": 138,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/updraft.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3",
       "appleMusic": "https://music.apple.com/us/song/updraft/1847582871",
       "youtube": "https://youtu.be/K5bMW4ObCOo?si=2myHsIwag_lyOkEb"
     },
-    "recs": []
+    "recs": [],
+    "artist": "HAN",
+    "acoustic": {
+      "spectral_centroid": 2861.058636673212,
+      "spectral_rolloff": 6586.566497779096,
+      "zero_crossing_rate": 0.10056816118803254,
+      "rms_energy": 0.40528950095176697,
+      "spectral_contrast": 17.842796823245763
+    }
   },
   {
     "title": "GENIE",
@@ -5775,13 +7494,20 @@
     ],
     "bpm": 135,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/genie.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V",
       "appleMusic": "https://music.apple.com/us/album/genie/1842787114?i=1842787115&uo=4",
       "youtube": "https://youtu.be/K5bMW4ObCOo?si=2myHsIwag_lyOkEb"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2565.7681293855394,
+      "spectral_rolloff": 5674.282574524352,
+      "zero_crossing_rate": 0.10248724644171185,
+      "rms_energy": 0.25792160630226135,
+      "spectral_contrast": 17.846932401024212
+    }
   },
   {
     "title": "R&B ME",
@@ -5794,13 +7520,20 @@
     ],
     "bpm": 87,
     "tier": "Slow",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/r-b-me.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2wM7umhsdzsrJXg9E8kMMA?si=06d1f1423cc74868",
       "appleMusic": "https://music.apple.com/us/album/r-b-me-feat-changbin/1834308165?i=1834308168&uo=4",
       "youtube": "https://youtu.be/ufRQo9dP5H0?si=kblQcqY-sDlKIFPl"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2891.370387053419,
+      "spectral_rolloff": 6750.450686241285,
+      "zero_crossing_rate": 0.09361611033113865,
+      "rms_energy": 0.3997301161289215,
+      "spectral_contrast": 17.149526920315402
+    }
   },
   {
     "title": "Middle School 2nd Year",
@@ -5813,13 +7546,20 @@
     ],
     "bpm": 140,
     "tier": "Up-tempo",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/middle-school-2nd-year.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/54JLvGY4q0rsPjbMVvX8HJ",
       "appleMusic": "https://music.apple.com/us/album/middle-school-2nd-year-respect-everyones-universe/1780301115?i=1780301116&uo=4",
       "youtube": "https://youtu.be/tIudkczF3_I?si=HyxJoEODVZ5tfUoJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2763.9834822751955,
+      "spectral_rolloff": 6031.782116878873,
+      "zero_crossing_rate": 0.12474924053543765,
+      "rms_energy": 0.30518561601638794,
+      "spectral_contrast": 18.89742790516328
+    }
   },
   {
     "title": "Mirror Mirror",
@@ -5831,13 +7571,20 @@
     ],
     "bpm": 142,
     "tier": "Up-tempo",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/mirror-mirror.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3",
       "appleMusic": "https://music.apple.com/us/album/mirror-mirror-feat-changbin-stray-kids/1590513659?i=1590513969&uo=4",
       "youtube": "https://youtu.be/FZlBKl-spfY?si=KB6mxwFUGhwYPM4u"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2641.6723767637986,
+      "spectral_rolloff": 5519.777888808139,
+      "zero_crossing_rate": 0.09735949612403101,
+      "rms_energy": 0.21678383648395538,
+      "spectral_contrast": 17.081932830019888
+    }
   },
   {
     "title": "You...Like the wind",
@@ -5850,13 +7597,20 @@
     ],
     "bpm": 112,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/you-like-the-wind.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/1GSWFtZVqnu7iIZPT8ovDM",
       "appleMusic": "https://music.apple.com/us/album/you-like-the-wind-feat-changbin/1629812220?i=1629812842&uo=4",
       "youtube": "https://youtu.be/fx9XYpwFbKc?si=mrzLoLMJAHfHI4Ss"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3291.917065394915,
+      "spectral_rolloff": 7086.963042147498,
+      "zero_crossing_rate": 0.13824496036171452,
+      "rms_energy": 0.26969894766807556,
+      "spectral_contrast": 17.890226347532302
+    }
   },
   {
     "title": "START!",
@@ -5868,13 +7622,20 @@
     ],
     "bpm": 115,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/start.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG",
       "appleMusic": "https://music.apple.com/us/album/start/1807495433?i=1807495434&uo=4",
       "youtube": "https://youtu.be/ooMYoX7vMlY?si=f8bQqW2oaZaOqmPb"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2561.1045085362193,
+      "spectral_rolloff": 5879.681977996708,
+      "zero_crossing_rate": 0.10662307561967467,
+      "rms_energy": 0.2888648211956024,
+      "spectral_contrast": 20.276321051813323
+    }
   },
   {
     "title": "ReawakeR",
@@ -5886,13 +7647,20 @@
     ],
     "bpm": 128,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/reawaker.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL",
       "appleMusic": "https://music.apple.com/us/album/reawaker-feat-felix-of-stray-kids/1783371195?i=1783371197&uo=4",
       "youtube": "https://youtu.be/oe4XJ851oOk?si=gyT9zeZBL6uWzkb7"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2678.6290060405113,
+      "spectral_rolloff": 5864.720488296379,
+      "zero_crossing_rate": 0.10547669260747483,
+      "rms_energy": 0.33737653493881226,
+      "spectral_contrast": 16.346607167098814
+    }
   },
   {
     "title": "All I Want Is You",
@@ -5904,13 +7672,20 @@
     ],
     "bpm": 110,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/all-i-want-is-you.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh",
       "appleMusic": "https://music.apple.com/us/album/all-i-want-is-you/1843034925?i=1843034926&uo=4",
       "youtube": "https://youtu.be/cNrm1IANS1s?si=s22acmjPefHcUIcA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2091.0694746973254,
+      "spectral_rolloff": 5218.691035594985,
+      "zero_crossing_rate": 0.0580479794006584,
+      "rms_energy": 0.31645286083221436,
+      "spectral_contrast": 18.138509537722182
+    }
   },
   {
     "title": "My Destiny",
@@ -5922,13 +7697,20 @@
     ],
     "bpm": 108,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/my-destiny.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/1HYUurIQFLGkgBqE8fd7XH",
       "appleMusic": "https://music.apple.com/us/album/my-destiny/1798896173?i=1798896176&uo=4",
       "youtube": "https://youtu.be/pWE-wYWtNcU?si=6OHzrPl7x6dHf8md"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2317.317211693945,
+      "spectral_rolloff": 5328.858972574554,
+      "zero_crossing_rate": 0.08589513942680092,
+      "rms_energy": 0.26742225885391235,
+      "spectral_contrast": 19.53282130992545
+    }
   },
   {
     "title": "Destiny",
@@ -5940,13 +7722,20 @@
     ],
     "bpm": 112,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/destiny.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v",
       "appleMusic": "https://music.apple.com/us/album/destiny/1740047738?i=1740047739&uo=4",
       "youtube": "https://youtu.be/v8YHd7W9oh4?si=XsUJT6X3pZmYULqk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1862.2326498870334,
+      "spectral_rolloff": 4074.512361722986,
+      "zero_crossing_rate": 0.0641709733249419,
+      "rms_energy": 0.18998058140277863,
+      "spectral_contrast": 21.500859529348414
+    }
   },
   {
     "title": "Phobia (Seungmin)",
@@ -5960,13 +7749,20 @@
     "isOST": true,
     "bpm": 130,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/phobia-seungmin.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie?si=8ce03782f3514a6c",
       "appleMusic": "https://music.apple.com/us/album/phobia/1608257477?i=1608257828&uo=4",
       "youtube": "https://youtu.be/HZgvPXXCeI8?si=O-IEdeTV_-5VX7Mk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2704.9963778128463,
+      "spectral_rolloff": 5623.412688499273,
+      "zero_crossing_rate": 0.12124780462693799,
+      "rms_energy": 0.22078564763069153,
+      "spectral_contrast": 18.115620928286262
+    }
   },
   {
     "title": "Close to You",
@@ -5978,13 +7774,20 @@
     ],
     "bpm": 115,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/close-to-you.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU",
       "appleMusic": "https://music.apple.com/us/album/close-to-you/1650335895?i=1650336138&uo=4",
       "youtube": "https://youtu.be/ceQbmupR7Ww?si=hb3TpGsWivv3K-pQ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1902.9089092673128,
+      "spectral_rolloff": 4275.242909504704,
+      "zero_crossing_rate": 0.06350194251842514,
+      "rms_energy": 0.314935564994812,
+      "spectral_contrast": 19.707873328336863
+    }
   },
   {
     "title": "Here Always",
@@ -5996,13 +7799,20 @@
     ],
     "bpm": 105,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/here-always.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n",
       "appleMusic": "https://music.apple.com/us/album/here-always/1589042706?i=1589042707&uo=4",
       "youtube": "https://youtu.be/iIkVGAjIdKk?si=wVK1N30ervlZnwjJ"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 1906.7477979820217,
+      "spectral_rolloff": 4276.896739690409,
+      "zero_crossing_rate": 0.0657406874272692,
+      "rms_energy": 0.20411141216754913,
+      "spectral_contrast": 20.8610799928765
+    }
   },
   {
     "title": "Genie (Han Felix I.N)",
@@ -6014,13 +7824,20 @@
     ],
     "bpm": 135,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/genie-han-felix-i-n.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V",
       "appleMusic": "https://music.apple.com/us/album/genie/1842787114?i=1842787115&uo=4",
       "youtube": "https://youtu.be/K5bMW4ObCOo?si=Fr7t5JkFwmgZktw4"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2565.7681293855394,
+      "spectral_rolloff": 5674.282574524352,
+      "zero_crossing_rate": 0.10248724644171185,
+      "rms_energy": 0.25792160630226135,
+      "spectral_contrast": 17.846932401024212
+    }
   },
   {
     "title": "In The Dark",
@@ -6032,13 +7849,20 @@
     ],
     "bpm": 120,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/in-the-dark.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/4IEZ9UCx15HcRmOT2gygT2",
       "appleMusic": "https://music.apple.com/us/album/in-the-dark/1847992539?i=1847992545&uo=4",
       "youtube": "https://youtu.be/xNAIOnpWepE?si=dYKptmD73jrVAddv"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2302.887242241758,
+      "spectral_rolloff": 5095.621524163681,
+      "zero_crossing_rate": 0.07341541198683191,
+      "rms_energy": 0.34460747241973877,
+      "spectral_contrast": 19.970041439306236
+    }
   },
   {
     "title": "Endless Sun",
@@ -6051,13 +7875,20 @@
     ],
     "bpm": 126,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/endless-sun.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2mRdxTKPrdr5EISF2Xcnc1",
       "appleMusic": "https://music.apple.com/us/album/endless-sun/1878241204?i=1878241209&uo=4",
       "youtube": "https://youtu.be/F-QSLxAyFes?si=i69kcH0jZ-YgV9ph"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3114.7096656911153,
+      "spectral_rolloff": 6963.414231942293,
+      "zero_crossing_rate": 0.10929216995061967,
+      "rms_energy": 0.3526493012905121,
+      "spectral_contrast": 18.163339478124332
+    }
   },
   {
     "title": "Let It Show",
@@ -6070,13 +7901,21 @@
     ],
     "bpm": 122,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/let-it-show.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA",
       "appleMusic": "https://music.apple.com/us/song/let-it-show/1893923448",
       "youtube": "https://youtu.be/Dj5SOqo92OU?si=Z0LsuUXzagOd2xmo"
     },
-    "recs": []
+    "recs": [],
+    "artist": "HAN",
+    "acoustic": {
+      "spectral_centroid": 2749.7290207262677,
+      "spectral_rolloff": 6367.4732447593915,
+      "zero_crossing_rate": 0.11180468144848954,
+      "rms_energy": 0.33301064372062683,
+      "spectral_contrast": 18.054524047499285
+    }
   },
   {
     "title": "can't love",
@@ -6089,13 +7928,21 @@
     ],
     "bpm": 125,
     "tier": "Mid",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/can-t-love.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA",
       "appleMusic": "https://music.apple.com/us/song/cant-love/6778757122",
       "youtube": "https://youtu.be/IufpX0FpH5c?si=8A8izSK1KuiMLKGp"
     },
-    "recs": []
+    "recs": [],
+    "artist": "HAN",
+    "acoustic": {
+      "spectral_centroid": 3000.044545837872,
+      "spectral_rolloff": 6223.887978220614,
+      "zero_crossing_rate": 0.15133579528950425,
+      "rms_energy": 0.3206835687160492,
+      "spectral_contrast": 17.84068856436116
+    }
   },
   {
     "title": "back to life",
@@ -6113,13 +7960,20 @@
     ],
     "bpm": 148,
     "tier": "Up-tempo",
-    "art": "assets/covers/singles-solos-features.jpg",
+    "art": "assets/covers/singles/skz/back-to-life.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/0JvJ526shHypEYoxFuU54V",
       "appleMusic": "https://music.apple.com/us/album/back-to-life/6774310702?i=6774310705&uo=4",
       "youtube": "https://youtu.be/F0UIsSnotlA?si=O7OJXQNaN0kBQ3wh"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2595.2244463471948,
+      "spectral_rolloff": 5486.513376863865,
+      "zero_crossing_rate": 0.12196554572521301,
+      "rms_energy": 0.33674588799476624,
+      "spectral_contrast": 16.790313083503452
+    }
   },
   {
     "title": "RUN IT",
@@ -6143,7 +7997,14 @@
       "appleMusic": "https://music.apple.com/us/album/run-it/6781751949?i=6781751954&uo=4",
       "youtube": "https://youtu.be/Q7IFjVUUb_E?si=aSD-_oe1a3Fak3YA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2173.3826864875105,
+      "spectral_rolloff": 5191.411753092322,
+      "zero_crossing_rate": 0.07069752735282726,
+      "rms_energy": 0.3299674093723297,
+      "spectral_contrast": 16.908846589956603
+    }
   },
   {
     "title": "This & That",
@@ -6167,7 +8028,14 @@
       "appleMusic": "https://music.apple.com/us/song/this-that/6781751957",
       "youtube": "https://youtu.be/BZ4UzthYTss?si=YfNIxs6vdWekb0CY"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2820.5207383574243,
+      "spectral_rolloff": 6680.721925898709,
+      "zero_crossing_rate": 0.10629397166538165,
+      "rms_energy": 0.0459274984896183,
+      "spectral_contrast": 16.16431714266402
+    }
   },
   {
     "title": "FARMING",
@@ -6190,7 +8058,14 @@
       "appleMusic": "https://music.apple.com/us/song/farming/6781752178",
       "youtube": "https://youtu.be/6CqeGHXXioU?si=R4Vsj-iLkR6DpzRk"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2670.1811436921525,
+      "spectral_rolloff": 6053.957479818213,
+      "zero_crossing_rate": 0.10574258084817971,
+      "rms_energy": 0.2917156219482422,
+      "spectral_contrast": 17.784803610215306
+    }
   },
   {
     "title": "After You",
@@ -6214,7 +8089,14 @@
       "appleMusic": "https://music.apple.com/us/song/after-you/6781752175",
       "youtube": "https://www.youtube.com/watch?v=thHxtnJf9HA"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2927.578267955528,
+      "spectral_rolloff": 6569.445015975987,
+      "zero_crossing_rate": 0.12610818285243997,
+      "rms_energy": 0.29275140166282654,
+      "spectral_contrast": 18.261432530166974
+    }
   },
   {
     "title": "I Do",
@@ -6238,7 +8120,14 @@
       "appleMusic": "https://music.apple.com/us/song/way-out/6781752185",
       "youtube": "https://youtu.be/QLPFfNmEMG4?si=dHeatwb8vuRhlsmT"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2970.522604885901,
+      "spectral_rolloff": 6584.231371181497,
+      "zero_crossing_rate": 0.12305746514329977,
+      "rms_energy": 0.28547248244285583,
+      "spectral_contrast": 17.03881187725584
+    }
   },
   {
     "title": "Way Out",
@@ -6262,7 +8151,14 @@
       "appleMusic": "https://music.apple.com/us/song/way-out/6781752185",
       "youtube": "https://youtu.be/QLPFfNmEMG4?si=dHeatwb8vuRhlsmT"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2248.9560746265397,
+      "spectral_rolloff": 5012.774568376017,
+      "zero_crossing_rate": 0.08396243827459333,
+      "rms_energy": 0.29459115862846375,
+      "spectral_contrast": 19.13381929620028
+    }
   },
   {
     "title": "Back Then",
@@ -6286,7 +8182,14 @@
       "appleMusic": "https://music.apple.com/us/song/back-then/6781752192",
       "youtube": "https://youtu.be/MCLX7anEh5s?si=OCjHWZYZk1e5_w_w"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2348.5564039135193,
+      "spectral_rolloff": 5654.634152153128,
+      "zero_crossing_rate": 0.07619683748063516,
+      "rms_energy": 0.3365456163883209,
+      "spectral_contrast": 18.36200213489707
+    }
   },
   {
     "title": "This & That (Festival Version)",
@@ -6310,6 +8213,13 @@
       "appleMusic": "https://music.apple.com/us/song/this-that-festival-version/6781752199",
       "youtube": "https://youtu.be/owyBuKsrN30?si=w5ZahaPq8ofsvNRy"
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2961.494852156461,
+      "spectral_rolloff": 6846.157517791441,
+      "zero_crossing_rate": 0.11808766218048025,
+      "rms_energy": 0.3485923707485199,
+      "spectral_contrast": 15.98255912923947
+    }
   }
 ]

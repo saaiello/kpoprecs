@@ -1,5 +1,1325 @@
 [
   {
+    "title": "Intro: Long Journey",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "1:37",
+    "genres": [
+      "cinematic",
+      "ambient pop",
+      "spoken word"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5UTuFZf83vL7LUILvvBJ3w",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "epic",
+      "atmospheric",
+      "building"
+    ]
+  },
+  {
+    "title": "해적왕 (Pirate King)",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "3:16",
+    "genres": [
+      "trap pop",
+      "edm-trap",
+      "hip-hop dance"
+    ],
+    "bpm": 126,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6Ewaaco6VIHeVjHNSGBFOg",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "bouncy",
+      "slick"
+    ]
+  },
+  {
+    "title": "Treasure",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "3:41",
+    "genres": [
+      "funk pop",
+      "synth-pop",
+      "dance pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0UtM496lVNmSw8DWpaBzsn",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "groovy"
+    ]
+  },
+  {
+    "title": "Twilight",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "3:45",
+    "genres": [
+      "tropical house",
+      "dance pop",
+      "synth-pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7AD84SPuuJ7MLufCtdeWbZ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "uplifting",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Stay",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "3:19",
+    "genres": [
+      "pop rock",
+      "synth-pop",
+      "alt-pop"
+    ],
+    "bpm": 105,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/22Q1F9Z5AtgW2CHMu5nNgF",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "warm",
+      "driving",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "My Way",
+    "album": "TREASURE EP.1: All to Zero",
+    "year": 2018,
+    "duration": "3:48",
+    "genres": [
+      "edm-pop",
+      "future bass",
+      "dance pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3p2MBWAJpSnUdUNhi3EJf3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "anthem",
+      "bright"
+    ]
+  },
+  {
+    "title": "HALA HALA (Hearts Awakened, Live Alive)",
+    "album": "TREASURE EP.2: Zero To One",
+    "year": 2019,
+    "duration": "3:22",
+    "genres": [
+      "industrial trap",
+      "hip-hop dance",
+      "rap rock"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7DLlaCDMPcq6Fx4y5OBaxJ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "dark"
+    ]
+  },
+  {
+    "title": "Say My Name",
+    "album": "TREASURE EP.2: Zero To One",
+    "year": 2019,
+    "duration": "3:42",
+    "genres": [
+      "trap pop",
+      "synth-pop",
+      "hip-hop dance"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4RTiAURx6GGKYIbXOjmZST",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "anthem",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Desire",
+    "album": "TREASURE EP.2: Zero To One",
+    "year": 2019,
+    "duration": "3:55",
+    "genres": [
+      "contemporary r&b",
+      "synth-pop",
+      "trap pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7fvOOFhwweD2bTspORUdj8",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "smooth",
+      "sensual",
+      "slick"
+    ]
+  },
+  {
+    "title": "Promise",
+    "album": "TREASURE EP.2: Zero To One",
+    "year": 2019,
+    "duration": "3:16",
+    "genres": [
+      "future bass",
+      "edm-pop",
+      "dance pop"
+    ],
+    "bpm": 124,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4mInTMKtcjPRL9do8Culd1",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "bright",
+      "driving"
+    ]
+  },
+  {
+    "title": "UTOPIA",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "3:59",
+    "genres": [
+      "edm-pop",
+      "future bass",
+      "synth-pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3LfyucUORRIpE3QM4rA7f8",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "bright",
+      "anthem"
+    ]
+  },
+  {
+    "title": "ILLUSION",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "3:30",
+    "genres": [
+      "hip-hop dance",
+      "trap pop",
+      "dance pop"
+    ],
+    "bpm": 108,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/64dsWfymp9ekcBMYMNDmCH",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "playful",
+      "bouncy",
+      "bright"
+    ]
+  },
+  {
+    "title": "Crescent",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "0:47",
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 112,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2cmWX59dmKgsKE5ANTUHw4",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "mysterious"
+    ]
+  },
+  {
+    "title": "WAVE",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "3:24",
+    "genres": [
+      "dance pop",
+      "tropical house",
+      "synth-pop"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4A9SgBxOfRf6C39cTgzQLu",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "uplifting"
+    ]
+  },
+  {
+    "title": "AURORA",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "3:29",
+    "genres": [
+      "alt-pop",
+      "synth-pop",
+      "alternative r&b"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1rAd8pf40Ye0U34Ahbc3Kl",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "atmospheric",
+      "melancholic"
+    ]
+  },
+  {
+    "title": "Dancing Like Butterfly Wings",
+    "album": "TREASURE EP.3: One To All",
+    "year": 2019,
+    "duration": "3:02",
+    "genres": [],
+    "bpm": 132,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0zmhcNbELrLdNyFEQMkC67",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo"
+  },
+  {
+    "title": "WONDERLAND",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:19",
+    "genres": [
+      "industrial trap",
+      "marching band",
+      "symphonic rock"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1sL6sK7uWDHZnbXP8ThMPk",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "anthem",
+      "soaring"
+    ]
+  },
+  {
+    "title": "Dazzling Light",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:10",
+    "genres": [
+      "edm-pop",
+      "synth-pop",
+      "future bass"
+    ],
+    "bpm": 126,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/09DBLG8bAmJPjrI5aVvBUC",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "driving",
+      "bright"
+    ]
+  },
+  {
+    "title": "안개 (Mist)",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:19",
+    "genres": [
+      "r&b ballad",
+      "alternative r&b",
+      "pop ballad"
+    ],
+    "bpm": 80,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6xt6nuh8gvU0O9EqJZZyJj",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "melancholic",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Precious (Overture)",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "1:43",
+    "genres": [
+      "cinematic",
+      "synth-pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/56AvdWX9uCZtff3sVEgKt4",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "building"
+    ]
+  },
+  {
+    "title": "WIN",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:23",
+    "genres": [
+      "edm-trap",
+      "hip-hop dance",
+      "industrial trap"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/56D0BjaRdDqx3k04k5GXbA",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "anthem"
+    ]
+  },
+  {
+    "title": "If Without You",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:21",
+    "genres": [
+      "pop rock",
+      "dance pop",
+      "synth-pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0xizJUpS21vzpa3Y7WWCJ5",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ]
+  },
+  {
+    "title": "친구 (THANK U)",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:21",
+    "genres": [
+      "pop rock",
+      "alt-pop",
+      "power pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3CC4CdwsJJAvTcxt1famyr",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "anthem",
+      "warm"
+    ]
+  },
+  {
+    "title": "Sunrise",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": 2019,
+    "duration": "3:19",
+    "genres": [
+      "alt-pop",
+      "synth-pop",
+      "pop ballad"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/37ReVweorPWtS5eYQ14aZ3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "atmospheric",
+      "warm"
+    ]
+  },
+  {
+    "title": "Answer",
+    "album": "TREASURE EPILOGUE : Action To Answer",
+    "year": 2020,
+    "duration": "3:41",
+    "genres": [
+      "edm-pop",
+      "synth-pop",
+      "alt-pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3qLnHFLBlbgvaKIkkVA84Q",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "melancholic",
+      "anthem"
+    ]
+  },
+  {
+    "title": "지평선 (Horizon)",
+    "album": "TREASURE EPILOGUE : Action To Answer",
+    "year": 2020,
+    "duration": "3:13",
+    "genres": [
+      "tropical house",
+      "dance pop",
+      "synth-pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6RAcJTN8pvhq8pFb1cE0AT",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bright",
+      "bouncy",
+      "uplifting"
+    ]
+  },
+  {
+    "title": "Star 1117",
+    "album": "TREASURE EPILOGUE : Action To Answer",
+    "year": 2020,
+    "duration": "4:00",
+    "genres": [
+      "pop ballad",
+      "acoustic",
+      "r&b ballad"
+    ],
+    "bpm": 75,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0upuYJQjy7tkcNfwW8fbLB",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Precious",
+    "album": "TREASURE EPILOGUE : Action To Answer",
+    "year": 2020,
+    "duration": "3:26",
+    "genres": [
+      "trap pop",
+      "hip-hop dance",
+      "synth-pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5wXTFrs0dRyb4JNymTirWb",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "bouncy",
+      "driving"
+    ]
+  },
+  {
+    "title": "Outro: Long Journey",
+    "album": "TREASURE EPILOGUE : Action To Answer",
+    "year": 2020,
+    "duration": "1:34",
+    "genres": [
+      "cinematic",
+      "spoken word"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0pyo3OT9Sq5YyY5TyRhIey",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "epic",
+      "atmospheric"
+    ]
+  },
+  {
+    "title": "Dear Diary: 2016.07.29",
+    "album": "ZERO : FEVER Part.1",
+    "year": 2020,
+    "duration": "2:33",
+    "genres": [
+      "cinematic",
+      "ambient pop",
+      "spoken word"
+    ],
+    "bpm": 100,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/093RivoXCivJPm372opl5Q",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "intimate"
+    ]
+  },
+  {
+    "title": "FEVER",
+    "album": "ZERO : FEVER Part.1",
+    "year": 2020,
+    "duration": "3:24",
+    "genres": [
+      "tropical house",
+      "trap pop",
+      "dance pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "slick"
+    ]
+  },
+  {
+    "title": "THANXX",
+    "album": "ZERO : FEVER Part.1",
+    "year": 2020,
+    "duration": "3:01",
+    "genres": [
+      "trap pop",
+      "latin pop",
+      "hip-hop dance"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0YXpDiXEQlRmVSAFcub7sE",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "bouncy",
+      "playful"
+    ]
+  },
+  {
+    "title": "Good Lil Boy",
+    "album": "ZERO : FEVER Part.1",
+    "year": 2020,
+    "duration": "3:26",
+    "genres": [
+      "country pop",
+      "trap pop",
+      "hip-hop dance"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5U8pXQSdhTtQ8bp6K6vb9Y",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "playful",
+      "bouncy",
+      "bright"
+    ]
+  },
+  {
+    "title": "One Day At A Time",
+    "album": "ZERO : FEVER Part.1",
+    "year": 2020,
+    "duration": "3:24",
+    "genres": [
+      "pop ballad",
+      "acoustic",
+      "alt-pop"
+    ],
+    "bpm": 82,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "warm",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Call Me Anytime",
+    "album": "Call Me Anytime",
+    "year": 2020,
+    "duration": "3:51",
+    "genres": [
+      "acoustic pop",
+      "r&b ballad"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6L87Tzqn13Os9YU77FzfS5",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "intimate",
+      "warm",
+      "playful"
+    ]
+  },
+  {
+    "title": "선도부 (The Leaders)",
+    "album": "ZERO : FEVER Part.2",
+    "year": 2021,
+    "duration": "3:12",
+    "genres": [
+      "industrial trap",
+      "hip-hop",
+      "hardcore hip-hop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/52Sj1SUJ6FNceKLZVggVak",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "aggressive",
+      "dark",
+      "driving"
+    ]
+  },
+  {
+    "title": "Take Me Home",
+    "album": "ZERO : FEVER Part.2",
+    "year": 2021,
+    "duration": "3:41",
+    "genres": [
+      "synthwave",
+      "synth-pop",
+      "city pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0Fj5sQ4V4fYGVOxkoNUxz1",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "driving",
+      "atmospheric",
+      "slick"
+    ]
+  },
+  {
+    "title": "I'm The One (HEAT-TOPPING ver.)",
+    "album": "ZERO : FEVER Part.2",
+    "year": 2021,
+    "duration": "3:52",
+    "genres": [
+      "edm-trap",
+      "industrial trap",
+      "hardstyle"
+    ],
+    "bpm": 132,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4h8DDTLayF06jMWIPJlBb3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "chaotic",
+      "driving"
+    ]
+  },
+  {
+    "title": "멋 (The Real)",
+    "album": "킹덤 KINGDOM <FINAL : WHO IS THE KING?>",
+    "year": 2021,
+    "duration": "3:11",
+    "genres": [
+      "trap pop",
+      "hip-hop dance",
+      "folk pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bouncy",
+      "playful",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Summer Taste",
+    "album": "Taste of Korea",
+    "year": 2021,
+    "duration": "3:16",
+    "genres": [
+      "dance pop",
+      "tropical house"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/00O6WnIB7sjxPipeaYnGp1",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Dreamers",
+    "album": "Dreamers",
+    "year": 2021,
+    "duration": "3:33",
+    "genres": [
+      "pop rock",
+      "anime pop",
+      "dance pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4PO5Y8KEPVBk7JVpkXumx6",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bright",
+      "soaring",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Blue Summer",
+    "album": "Dreamers",
+    "year": 2021,
+    "duration": "3:32",
+    "genres": [
+      "pop rock",
+      "alt-pop",
+      "synth-pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7oLyy8aPrMu6hka0SaUWxz",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "bright",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Dreamers (Instrumental)",
+    "album": "Dreamers",
+    "year": 2021,
+    "duration": "3:33",
+    "genres": [
+      "pop rock",
+      "dance pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bright",
+      "soaring"
+    ]
+  },
+  {
+    "title": "바다 보러 갈래? (Be My Lover)",
+    "album": "Season Songs",
+    "year": 2021,
+    "duration": "4:02",
+    "genres": [
+      "dance pop",
+      "synth-pop",
+      "retro pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "playful",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "여름날의 겨울동화 (White Love)",
+    "album": "Season Songs",
+    "year": 2021,
+    "duration": "3:18",
+    "genres": [
+      "pop ballad",
+      "dance pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3HVfAODNZoFHLOegytXJz9",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "warm",
+      "bright",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "검은 고양이 네로 (The Black Cat Nero)",
+    "album": "Season Songs",
+    "year": 2021,
+    "duration": "4:26",
+    "genres": [
+      "symphonic rock",
+      "rap rock",
+      "industrial trap"
+    ],
+    "bpm": 135,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "dark",
+      "anthem"
+    ]
+  },
+  {
+    "title": "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",
+    "album": "A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)",
+    "year": 2021,
+    "duration": "2:55",
+    "genres": [
+      "acapella pop",
+      "dance pop"
+    ],
+    "bpm": 112,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "playful",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Eternal Sunshine",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2021,
+    "duration": "3:30",
+    "genres": [
+      "dance pop",
+      "synth-pop",
+      "funk pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ]
+  },
+  {
+    "title": "Feeling Like I Do",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2021,
+    "duration": "3:17",
+    "genres": [
+      "tropical house",
+      "dance pop",
+      "synth-pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1lWoDFIoclXSdMF9g8tjPY",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "slick",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Deja Vu",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2021,
+    "duration": "3:17",
+    "genres": [
+      "contemporary r&b",
+      "synth-pop",
+      "trap pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "smooth",
+      "sensual",
+      "slick"
+    ]
+  },
+  {
+    "title": "All About You",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2021,
+    "duration": "2:57",
+    "genres": [
+      "alt-pop",
+      "alternative r&b",
+      "synth-pop"
+    ],
+    "bpm": 95,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4bamfTJc0GuUDYnc3fj6zH",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "warm",
+      "slick"
+    ]
+  },
+  {
+    "title": "Not Too Late (밤하늘)",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2021,
+    "duration": "3:34",
+    "genres": [
+      "pop ballad",
+      "acoustic",
+      "alt-pop"
+    ],
+    "bpm": 80,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0fmdJr4UEfmqFCGFswAJPe",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "melancholic",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Be With You",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": 2021,
+    "duration": "3:42",
+    "genres": [
+      "pop ballad",
+      "r&b ballad"
+    ],
+    "bpm": 72,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "The Letter",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": 2021,
+    "duration": "3:50",
+    "genres": [
+      "pop ballad",
+      "alt-pop",
+      "acoustic"
+    ],
+    "bpm": 92,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/36Pv4AULgye6Y8Zhq9GDQz",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "warm",
+      "intimate",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Better (Korean Ver.)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": 2021,
+    "duration": "3:34",
+    "genres": [
+      "future bass",
+      "edm-pop",
+      "alt-pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4PyRAVwFRxwPESvpVKZfiJ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "atmospheric",
+      "warm"
+    ]
+  },
+  {
+    "title": "ROCKY",
+    "album": "ZERO : FEVER Part.3",
+    "year": 2022,
+    "duration": "3:10",
+    "genres": [
+      "rap rock",
+      "hip-hop",
+      "hard rock"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1Idy1ndwsEhW10UlQFT0mF",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "anthem"
+    ]
+  },
+  {
     "title": "Blind",
     "album": "GOLDEN HOUR : Part.1",
     "year": 2024,
@@ -20,7 +1340,14 @@
       "appleMusic": "https://music.apple.com/us/album/blind/1747433451?i=1747433468&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2400.3890856378666,
+      "spectral_rolloff": 5370.299129944084,
+      "zero_crossing_rate": 0.07607391617447715,
+      "rms_energy": 0.2885461449623108,
+      "spectral_contrast": 19.279860066681728
+    }
   },
   {
     "title": "WORK",
@@ -43,7 +1370,14 @@
       "appleMusic": "https://music.apple.com/us/album/work/1747433451?i=1747433472&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2684.4216544454725,
+      "spectral_rolloff": 5844.221412664601,
+      "zero_crossing_rate": 0.10248195137006197,
+      "rms_energy": 0.3054587244987488,
+      "spectral_contrast": 17.40713914237041
+    }
   },
   {
     "title": "Empty Box",
@@ -67,7 +1401,14 @@
       "appleMusic": "https://music.apple.com/us/album/empty-box/1747433451?i=1747433477&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2777.2172559288083,
+      "spectral_rolloff": 6072.405012263808,
+      "zero_crossing_rate": 0.09142593265503876,
+      "rms_energy": 0.19820155203342438,
+      "spectral_contrast": 20.226309359332337
+    }
   },
   {
     "title": "Shaboom",
@@ -84,14 +1425,21 @@
       "driving"
     ],
     "bpm": 130,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_1.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/1Qw280ocXYS2wSo48wj24O",
       "appleMusic": "https://music.apple.com/us/album/shaboom/1747433451?i=1747433783&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2464.5812875209836,
+      "spectral_rolloff": 5729.016274024497,
+      "zero_crossing_rate": 0.09087742362993803,
+      "rms_energy": 0.2751665413379669,
+      "spectral_contrast": 16.828705961106817
+    }
   },
   {
     "title": "Siren",
@@ -108,14 +1456,21 @@
       "chant-heavy"
     ],
     "bpm": 145,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_1.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/7sfWkb57YF5p0OIzZMLiN1?si=25992ad926c84e65",
       "appleMusic": "https://music.apple.com/us/album/siren/1747433451?i=1747433787&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2819.4545725144535,
+      "spectral_rolloff": 5980.81797888628,
+      "zero_crossing_rate": 0.10130758012199845,
+      "rms_energy": 0.2980758845806122,
+      "spectral_contrast": 17.84704928360698
+    }
   },
   {
     "title": "Deep Dive",
@@ -139,7 +1494,14 @@
       "appleMusic": "https://music.apple.com/us/album/deep-dive/1778026618?i=1778026625&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2724.294779416635,
+      "spectral_rolloff": 5787.5491120094475,
+      "zero_crossing_rate": 0.11494973352713178,
+      "rms_energy": 0.2550022006034851,
+      "spectral_contrast": 18.959542406518757
+    }
   },
   {
     "title": "Ice On My Teeth",
@@ -163,7 +1525,14 @@
       "appleMusic": "https://music.apple.com/us/album/ice-on-my-teeth/1778026618?i=1778026631&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2531.864799825086,
+      "spectral_rolloff": 6031.014860996805,
+      "zero_crossing_rate": 0.059919030790085204,
+      "rms_energy": 0.37051087617874146,
+      "spectral_contrast": 18.840143849703516
+    }
   },
   {
     "title": "Man On Fire",
@@ -180,14 +1549,21 @@
       "anthem"
     ],
     "bpm": 128,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_2.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/11CBpqQlKDOKY2HyqNuaNT",
       "appleMusic": "https://music.apple.com/us/album/man-on-fire/1778026618?i=1778026635&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2820.235785873838,
+      "spectral_rolloff": 6251.625946304947,
+      "zero_crossing_rate": 0.11664210762006197,
+      "rms_energy": 0.2794474959373474,
+      "spectral_contrast": 18.452855126412548
+    }
   },
   {
     "title": "Selfish Waltz",
@@ -211,7 +1587,14 @@
       "appleMusic": "https://music.apple.com/us/album/selfish-waltz/1778026618?i=1778026636&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2436.1759327955324,
+      "spectral_rolloff": 5646.669702507746,
+      "zero_crossing_rate": 0.09010699070487994,
+      "rms_energy": 0.3552912175655365,
+      "spectral_contrast": 19.383860397229704
+    }
   },
   {
     "title": "Enough",
@@ -228,14 +1611,21 @@
       "driving"
     ],
     "bpm": 96,
-    "tier": "Mid",
+    "tier": "Slow",
     "art": "assets/covers/golden_hour_part_2.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/4cqRtjB3wOr1LCKiqsWJhY",
       "appleMusic": "https://music.apple.com/us/album/enough/1778026618?i=1778027000&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2252.633528830317,
+      "spectral_rolloff": 4955.530607783453,
+      "zero_crossing_rate": 0.09027945875290473,
+      "rms_energy": 0.2955513894557953,
+      "spectral_contrast": 18.070607205461336
+    }
   },
   {
     "title": "Lemon Drop",
@@ -253,14 +1643,21 @@
       "smooth"
     ],
     "bpm": 130,
-    "tier": "Mid",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK",
       "appleMusic": "https://music.apple.com/us/album/lemon-drop/1816843869?i=1816844216&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2886.0231716260027,
+      "spectral_rolloff": 6372.510446419927,
+      "zero_crossing_rate": 0.09831094778756777,
+      "rms_energy": 0.3425731360912323,
+      "spectral_contrast": 17.66677978922523
+    }
   },
   {
     "title": "Masterpiece",
@@ -284,7 +1681,14 @@
       "appleMusic": "https://music.apple.com/us/album/masterpiece/1816843869?i=1816844228&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3245.302017873877,
+      "spectral_rolloff": 6527.404397481361,
+      "zero_crossing_rate": 0.15176885650658403,
+      "rms_energy": 0.26456135511398315,
+      "spectral_contrast": 18.108924765903044
+    }
   },
   {
     "title": "Now This House Ain't a Home",
@@ -309,7 +1713,14 @@
       "appleMusic": "https://music.apple.com/us/album/now-this-house-aint-a-home/1816843869?i=1816844233&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2653.8875868722002,
+      "spectral_rolloff": 5739.741176897754,
+      "zero_crossing_rate": 0.11632440332106894,
+      "rms_energy": 0.31540802121162415,
+      "spectral_contrast": 18.351928413484018
+    }
   },
   {
     "title": "Castle",
@@ -332,7 +1743,14 @@
       "appleMusic": "https://music.apple.com/us/album/castle/1816843869?i=1816844236&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2645.1134382843325,
+      "spectral_rolloff": 6111.268158313565,
+      "zero_crossing_rate": 0.08777640274012394,
+      "rms_energy": 0.30703410506248474,
+      "spectral_contrast": 17.247198015216817
+    }
   },
   {
     "title": "In Your Fantasy",
@@ -356,7 +1774,14 @@
       "appleMusic": "https://music.apple.com/us/song/in-your-fantasy/1822545720",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2996.306307061502,
+      "spectral_rolloff": 6461.8206990402305,
+      "zero_crossing_rate": 0.13866279773431447,
+      "rms_energy": 0.3280341923236847,
+      "spectral_contrast": 16.300154054570555
+    }
   },
   {
     "title": "NO1 (Hongjoong)",
@@ -373,14 +1798,21 @@
       "performance-driven"
     ],
     "bpm": 138,
-    "tier": "Mid",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/1r2UwOteaiw4uZrYp0nHFy",
       "appleMusic": "https://music.apple.com/us/song/no1-hongjoong/1822545721",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2394.687109697139,
+      "spectral_rolloff": 5352.085142482813,
+      "zero_crossing_rate": 0.09430976471727343,
+      "rms_energy": 0.23935316503047943,
+      "spectral_contrast": 18.10829772260327
+    }
   },
   {
     "title": "Skin (Seonghwa)",
@@ -404,7 +1836,14 @@
       "appleMusic": "https://music.apple.com/us/album/skin-seonghwa/1822545714?i=1822545992&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2428.0072621694367,
+      "spectral_rolloff": 5631.458020671959,
+      "zero_crossing_rate": 0.08161331755906275,
+      "rms_energy": 0.32552677392959595,
+      "spectral_contrast": 17.76444923269814
+    }
   },
   {
     "title": "Slide to Me (Yunho)",
@@ -429,7 +1868,14 @@
       "appleMusic": "https://music.apple.com/us/album/slide-to-me-yunho/1822545714?i=1822545993&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2897.237036614635,
+      "spectral_rolloff": 6358.674821329154,
+      "zero_crossing_rate": 0.1246009785292409,
+      "rms_energy": 0.25788170099258423,
+      "spectral_contrast": 17.821109898191
+    }
   },
   {
     "title": "Legacy (Yeosang)",
@@ -454,7 +1900,14 @@
       "appleMusic": "https://music.apple.com/us/album/legacy-yeosang/1822545714?i=1822545994&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2264.7245686933807,
+      "spectral_rolloff": 4991.91688401675,
+      "zero_crossing_rate": 0.0999664141169636,
+      "rms_energy": 0.2576541006565094,
+      "spectral_contrast": 18.20929758526689
+    }
   },
   {
     "title": "Creep (San)",
@@ -478,7 +1931,14 @@
       "appleMusic": "https://music.apple.com/us/song/creep-san/1822545996",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2349.819089061575,
+      "spectral_rolloff": 5316.49114134513,
+      "zero_crossing_rate": 0.0735848542796282,
+      "rms_energy": 0.32818230986595154,
+      "spectral_contrast": 18.509974034498974
+    }
   },
   {
     "title": "ROAR (Mingi)",
@@ -502,7 +1962,14 @@
       "appleMusic": "https://music.apple.com/us/album/roar-mingi/1822545714?i=1822546009&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2849.0716397448195,
+      "spectral_rolloff": 6398.338614536939,
+      "zero_crossing_rate": 0.0987754012151433,
+      "rms_energy": 0.3264960050582886,
+      "spectral_contrast": 17.650292529029866
+    }
   },
   {
     "title": "Sagittarius (Wooyoung)",
@@ -518,14 +1985,21 @@
       "smooth"
     ],
     "bpm": 126,
-    "tier": "Mid",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden-hour-pt3-iyf.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/6e64SuxWxHloKuU1wkFw1z",
       "appleMusic": "https://music.apple.com/us/album/sagittarius-wooyoung/1822545714?i=1822546013&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2925.8776496393325,
+      "spectral_rolloff": 6716.399536605587,
+      "zero_crossing_rate": 0.10657693285243997,
+      "rms_energy": 0.3144718110561371,
+      "spectral_contrast": 18.57875126540458
+    }
   },
   {
     "title": "To Be Your Light (Jongho)",
@@ -549,7 +2023,14 @@
       "appleMusic": "https://music.apple.com/us/song/to-be-your-light-jongho/1822546018",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2681.453813590011,
+      "spectral_rolloff": 6059.144796760022,
+      "zero_crossing_rate": 0.1172018723373354,
+      "rms_energy": 0.2992847263813019,
+      "spectral_contrast": 18.845774864300008
+    }
   },
   {
     "title": "In Your Fantasy (Korean Ver.)",
@@ -573,7 +2054,14 @@
       "appleMusic": "https://music.apple.com/us/album/in-your-fantasy-korean-ver/1822545714?i=1822546112&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2952.752575989012,
+      "spectral_rolloff": 6402.775355072376,
+      "zero_crossing_rate": 0.13281855151045702,
+      "rms_energy": 0.32723310589790344,
+      "spectral_contrast": 16.27990183582579
+    }
   },
   {
     "title": "Ghost",
@@ -597,7 +2085,14 @@
       "appleMusic": "https://music.apple.com/us/album/ghost/1867153027?i=1867153028&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2519.627934654879,
+      "spectral_rolloff": 5918.1698681678445,
+      "zero_crossing_rate": 0.06260174101955848,
+      "rms_energy": 0.48289191722869873,
+      "spectral_contrast": 18.15656790288978
+    }
   },
   {
     "title": "Adrenaline",
@@ -613,14 +2108,21 @@
       "performance-driven"
     ],
     "bpm": 126,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_4.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF",
       "appleMusic": "https://music.apple.com/us/album/adrenaline/1867153027?i=1867153030&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2433.3071389533,
+      "spectral_rolloff": 5548.844577544055,
+      "zero_crossing_rate": 0.08448438105151046,
+      "rms_energy": 0.33089667558670044,
+      "spectral_contrast": 17.165488201319725
+    }
   },
   {
     "title": "NASA",
@@ -636,14 +2138,21 @@
       "chant-heavy"
     ],
     "bpm": 135,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_4.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/48G4rDLisHuVgCKg872Tu5",
       "appleMusic": "https://music.apple.com/us/album/nasa/1867153027?i=1867153031&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2891.6218647780165,
+      "spectral_rolloff": 6469.768469209915,
+      "zero_crossing_rate": 0.11359592854376452,
+      "rms_energy": 0.3507014811038971,
+      "spectral_contrast": 18.053360260851587
+    }
   },
   {
     "title": "On The Road",
@@ -660,14 +2169,21 @@
       "vocal-forward"
     ],
     "bpm": 98,
-    "tier": "Mid",
+    "tier": "Slow",
     "art": "assets/covers/golden_hour_part_4.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/0HAUnsOCQNH1fqIvlf7Fpp",
       "appleMusic": "https://music.apple.com/us/album/on-the-road/1867153027?i=1867153033&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2901.223549198406,
+      "spectral_rolloff": 6696.284088914843,
+      "zero_crossing_rate": 0.1205767240753292,
+      "rms_energy": 0.33089497685432434,
+      "spectral_contrast": 17.58972911695098
+    }
   },
   {
     "title": "Choose",
@@ -686,11 +2202,18 @@
     "tier": "Mid",
     "art": "assets/covers/golden_hour_part_4.jpg",
     "links": {
-      "spotify": "https://open.spotify.com/track/05LoOSto6lqMPQp1jDRYRi",
+      "spotify": "https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN",
       "appleMusic": "https://music.apple.com/us/album/choose/1850908458?i=1850908476&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2760.779333980405,
+      "spectral_rolloff": 6221.06080708995,
+      "zero_crossing_rate": 0.10541920325813323,
+      "rms_energy": 0.3427666425704956,
+      "spectral_contrast": 18.509290536593603
+    }
   },
   {
     "title": "BAD",
@@ -707,14 +2230,21 @@
       "performance-driven"
     ],
     "bpm": 130,
-    "tier": "Fast",
+    "tier": "Up-tempo",
     "art": "assets/covers/golden_hour_part_5.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
       "appleMusic": "https://music.apple.com/us/album/bad/6770401924?i=6770401926&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2351.5960702513225,
+      "spectral_rolloff": 5179.7694790557225,
+      "zero_crossing_rate": 0.07998470480731991,
+      "rms_energy": 0.3353685736656189,
+      "spectral_contrast": 17.504464490263985
+    }
   },
   {
     "title": "MAMACITA",
@@ -738,7 +2268,14 @@
       "appleMusic": "https://music.apple.com/us/album/mamacita/6770401924?i=6770402290&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2704.499610939362,
+      "spectral_rolloff": 5764.827108346243,
+      "zero_crossing_rate": 0.10336093326394268,
+      "rms_energy": 0.3293813169002533,
+      "spectral_contrast": 18.361189904118998
+    }
   },
   {
     "title": "TOXIN",
@@ -761,7 +2298,14 @@
       "appleMusic": "https://music.apple.com/us/album/toxin/6770401924?i=6770402291&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 3158.7706941453444,
+      "spectral_rolloff": 6635.754271609944,
+      "zero_crossing_rate": 0.12361155656951975,
+      "rms_energy": 0.2909233272075653,
+      "spectral_contrast": 19.256872040342706
+    }
   },
   {
     "title": "Fallin'",
@@ -777,14 +2321,21 @@
       "anthem"
     ],
     "bpm": 124,
-    "tier": "Fast",
+    "tier": "Mid",
     "art": "assets/covers/golden_hour_part_5.jpg",
     "links": {
       "spotify": "https://open.spotify.com/track/4XBfXrYvLapxsqPn64GP3M",
       "appleMusic": "https://music.apple.com/us/album/fallin/6770401924?i=6770402292&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2539.022989017235,
+      "spectral_rolloff": 6201.245589961754,
+      "zero_crossing_rate": 0.058143668909759874,
+      "rms_energy": 0.4013415575027466,
+      "spectral_contrast": 18.21043575620407
+    }
   },
   {
     "title": "Body",
@@ -807,6 +2358,1533 @@
       "appleMusic": "https://music.apple.com/us/album/body/6770401924?i=6770402293&uo=4",
       "youtube": ""
     },
-    "recs": []
+    "recs": [],
+    "acoustic": {
+      "spectral_centroid": 2498.9579289569747,
+      "spectral_rolloff": 5771.7157318091595,
+      "zero_crossing_rate": 0.08463604703233928,
+      "rms_energy": 0.28455281257629395,
+      "spectral_contrast": 19.50660255020118
+    }
+  },
+  {
+    "title": "Light",
+    "album": "TREASURE EP.2: Zero To One",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop ballad",
+      "r&b ballad",
+      "acoustic"
+    ],
+    "bpm": 85,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5g42Pw8UMljLR2HMYpGUZn",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "soaring",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "End of the Beginning",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 100,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5H2Ex2vRsSxr0xqtAcBUFV",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "epic",
+      "atmospheric"
+    ]
+  },
+  {
+    "title": "걸어가고 있어 (WALKING/WITH U)",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synth-pop",
+      "dance pop",
+      "alt-pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Beginning of the End",
+    "album": "TREASURE EP.FIN: All To Action",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 105,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7dgNktvADzx8QG4PYP2VLD",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "epic",
+      "mysterious"
+    ]
+  },
+  {
+    "title": "지평선춤을 춰 (TO THE BEAT)",
+    "album": "ZERO : FEVER Part.1",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "hip-hop dance",
+      "industrial trap",
+      "edm-trap"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3c8UznwIeQjux7OWT0Wa0s",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "chaotic"
+    ]
+  },
+  {
+    "title": "INCEPTION",
+    "album": "ZERO : FEVER Part.1",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "edm-pop",
+      "synth-pop",
+      "alt-pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "melancholic",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "불놀이야 Fireworks (I'm the One)",
+    "album": "ZERO : FEVER Part.2",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "edm-trap",
+      "industrial trap",
+      "hip-hop dance"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Time of Love",
+    "album": "ZERO : FEVER Part.2",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dance pop",
+      "synth-pop",
+      "pop rock"
+    ],
+    "bpm": 116,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ]
+  },
+  {
+    "title": "Celebrate",
+    "album": "ZERO : FEVER Part.2",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "funk pop",
+      "dance pop",
+      "hip-hop dance"
+    ],
+    "bpm": 112,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "groovy"
+    ]
+  },
+  {
+    "title": "Take Me Home (English ver.)",
+    "album": "ZERO : FEVER Part.2",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synthwave",
+      "synth-pop",
+      "city pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0Fj5sQ4V4fYGVOxkoNUxz1",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "driving",
+      "atmospheric",
+      "slick"
+    ]
+  },
+  {
+    "title": "Still Here (Acoustic Ver.)",
+    "album": "Dreamers",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "acoustic",
+      "pop ballad"
+    ],
+    "bpm": 90,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4n9kvDgJYw9dtKtHBocAK4",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "warm"
+    ]
+  },
+  {
+    "title": "야간비행 (Turbulence)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop rock",
+      "alt-pop",
+      "pop ballad"
+    ],
+    "bpm": 88,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "soaring",
+      "melancholic",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "Still Here (Korean Ver.)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dance pop",
+      "synth-pop",
+      "pop rock"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4n9kvDgJYw9dtKtHBocAK4",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "soaring",
+      "anthem"
+    ]
+  },
+  {
+    "title": "멋 (The Real) (흥 : 興 Heung Ver.)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "trap pop",
+      "hip-hop dance",
+      "folk pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bouncy",
+      "playful",
+      "anthem"
+    ]
+  },
+  {
+    "title": "WAVE (Overture)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4MmTThXHLm5dPLhLMBnXgq",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "building"
+    ]
+  },
+  {
+    "title": "WONDERLAND (Symphony No.9 \"From The Wonderland\")",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "symphonic rock",
+      "industrial trap",
+      "orchestral pop"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1JspDSeSVIiegIbk5niXkg",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "epic",
+      "soaring"
+    ]
+  },
+  {
+    "title": "Answer (Ode to Joy) (feat. LA POEM)",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "symphonic rock",
+      "edm-pop",
+      "operatic pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2azA5xETy3lbS9DAc5N7xI",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "epic",
+      "soaring",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Outro : Over the Horizon",
+    "album": "ZERO : FEVER EPILOGUE",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 108,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/50E6fZjrXlueE5CGwYQh3m",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "epic"
+    ]
+  },
+  {
+    "title": "Don't Stop",
+    "album": "Don't Stop",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "trap pop",
+      "synth-pop",
+      "hip-hop dance"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/184WoVKN9Z7TznkzDfR406",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "dark",
+      "driving"
+    ]
+  },
+  {
+    "title": "PROPAGANDA",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "industrial trap",
+      "spoken word"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5DlFiQX9LUiSI0QuBi0JA7",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "aggressive",
+      "dark"
+    ]
+  },
+  {
+    "title": "Sector 1",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "edm-trap",
+      "industrial trap",
+      "hip-hop dance"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1V1btvvh0M47BWClDsiCqZ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "aggressive",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Cyberpunk",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synthwave",
+      "synth-pop",
+      "dark pop"
+    ],
+    "bpm": 124,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "driving",
+      "dark",
+      "slick"
+    ]
+  },
+  {
+    "title": "Guerilla",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "rap rock",
+      "screamo"
+    ],
+    "bpm": 138,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "chaotic"
+    ]
+  },
+  {
+    "title": "The Ring",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "hardcore hip-hop",
+      "rap rock"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1s9dHDYdTjQo1Ow8MoF9nV",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "dark",
+      "aggressive",
+      "driving"
+    ]
+  },
+  {
+    "title": "WDIG (Where Do I Go)",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "alternative r&b",
+      "trap pop",
+      "dark pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2pwEbLrm8PkgplnTRG6bSL",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "dark",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "New World",
+    "album": "THE WORLD EP.1 : MOVEMENT",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "symphonic rock",
+      "edm-pop",
+      "alt-pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "epic",
+      "soaring",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Let's Get Together",
+    "album": "Let's Get Together",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop rock",
+      "dance pop",
+      "synth-pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/347dLsTtj0ObCDfspfP3Jy",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "warm",
+      "uplifting"
+    ]
+  },
+  {
+    "title": "HALAZIA",
+    "album": "SPIN OFF : FROM THE WITNESS",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dark pop",
+      "industrial trap",
+      "alt-pop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "dark",
+      "soaring",
+      "melancholic"
+    ]
+  },
+  {
+    "title": "WIN (June One Remix)",
+    "album": "SPIN OFF : FROM THE WITNESS",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "edm-trap"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3E1sa5r0X7iwmXktb2v38l",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "chaotic"
+    ]
+  },
+  {
+    "title": "I'm The One (Eden-ary Remix)",
+    "album": "SPIN OFF : FROM THE WITNESS",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "edm-trap",
+      "hardstyle"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/57RBkK05Zi0dF00Sn2oCM9",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving"
+    ]
+  },
+  {
+    "title": "Take Me Home (IDIOTAPE Remix)",
+    "album": "SPIN OFF : FROM THE WITNESS",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synthwave",
+      "synth-pop",
+      "electro"
+    ],
+    "bpm": 124,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0Fj5sQ4V4fYGVOxkoNUxz1",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "driving",
+      "dark"
+    ]
+  },
+  {
+    "title": "Outro : Blue Bird",
+    "album": "SPIN OFF : FROM THE WITNESS",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 100,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7H9O0vNSv2cAfKa2OQtwji",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "dark"
+    ]
+  },
+  {
+    "title": "This World",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "dark pop",
+      "alt-pop"
+    ],
+    "bpm": 110,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6QDcmN2Avrim8kNoCHkw9s",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "dark",
+      "atmospheric",
+      "driving"
+    ]
+  },
+  {
+    "title": "Dune",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "trap pop",
+      "latin pop",
+      "hip-hop dance"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "bouncy",
+      "dark"
+    ]
+  },
+  {
+    "title": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "hip-hop dance",
+      "trap pop",
+      "edm-trap"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bouncy",
+      "playful",
+      "driving"
+    ]
+  },
+  {
+    "title": "DJANGO",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "latin pop",
+      "trap pop",
+      "hip-hop dance"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "playful",
+      "bouncy",
+      "slick"
+    ]
+  },
+  {
+    "title": "최면 (Wake Up)",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "rap rock",
+      "hip-hop"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2fZ1DdMpQZIiPMIgyt27dT",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "dark",
+      "aggressive",
+      "driving"
+    ]
+  },
+  {
+    "title": "Outlaw",
+    "album": "THE WORLD EP.2 : OUTLAW",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "edm-trap",
+      "hip-hop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "dark",
+      "driving"
+    ]
+  },
+  {
+    "title": "WE KNOW",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "hip-hop",
+      "dark pop"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6kgKJoTZgfxCmtb4gubA68",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "dark",
+      "driving",
+      "atmospheric"
+    ]
+  },
+  {
+    "title": "Emergency",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "industrial trap",
+      "edm-trap",
+      "hardcore hip-hop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0dncBD42Ek18rPQw8dZCkH",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "chaotic",
+      "driving"
+    ]
+  },
+  {
+    "title": "미친 폼 (Crazy Form)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dancehall",
+      "trap pop",
+      "hip-hop dance"
+    ],
+    "bpm": 126,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "bouncy",
+      "playful",
+      "driving"
+    ]
+  },
+  {
+    "title": "ARRIBA",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "latin pop",
+      "dance pop",
+      "funk pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5wZu9Hw69jORB2OxeX3qC6",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "bouncy",
+      "playful"
+    ]
+  },
+  {
+    "title": "Silver Light",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synthwave",
+      "synth-pop",
+      "city pop"
+    ],
+    "bpm": 125,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7hWW1JxF5ArjPgAsGlwSuz",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "soaring",
+      "driving",
+      "bright"
+    ]
+  },
+  {
+    "title": "Crescent Part.2",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "ambient pop"
+    ],
+    "bpm": 105,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0U4dBMN9DqaD6fcTd5hFrL",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "atmospheric",
+      "mysterious"
+    ]
+  },
+  {
+    "title": "꿈날 (Dreamy Day)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dance pop",
+      "synth-pop",
+      "pop rock"
+    ],
+    "bpm": 118,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/4vk0If3wzFnqTsfn21HER7",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "warm",
+      "uplifting"
+    ]
+  },
+  {
+    "title": "MATZ (HONGJOONG, SEONGHWA)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "hardcore hip-hop",
+      "industrial trap",
+      "rap rock"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0dykfdABsJdew8CBVnnkCB",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "chaotic"
+    ]
+  },
+  {
+    "title": "IT's You (YEOSANG, SAN, WOOYOUNG)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "contemporary r&b",
+      "synth-pop",
+      "dark pop"
+    ],
+    "bpm": 112,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/7B8BU9kWRWUVSppWQGdgiz",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "smooth",
+      "sensual",
+      "slick"
+    ]
+  },
+  {
+    "title": "Youth (YUNHO, MINGI)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "alternative r&b",
+      "alt-pop",
+      "melodic rap"
+    ],
+    "bpm": 92,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "melancholic",
+      "warm"
+    ]
+  },
+  {
+    "title": "Everything (JONGHO)",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop ballad",
+      "r&b ballad"
+    ],
+    "bpm": 70,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5vJr5hBQv8MqgBHOiaMvZA",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "soaring",
+      "intimate",
+      "vocal-forward"
+    ]
+  },
+  {
+    "title": "FIN : WILL",
+    "album": "THE WORLD EP.FIN : WILL",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "cinematic",
+      "spoken word"
+    ],
+    "bpm": 100,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/2Nk2AbS02HaI1tgWTApkGJ",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "epic",
+      "atmospheric"
+    ]
+  },
+  {
+    "title": "Work Part.2 (Don Diablo)",
+    "album": "Work Part.2 (Don Diablo)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "future house",
+      "edm-pop"
+    ],
+    "bpm": 126,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Work Part.3 (ATEEZ x Eden-ary)",
+    "album": "Work Part.3 (ATEEZ x Eden-ary)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "hip-hop dance",
+      "trap pop"
+    ],
+    "bpm": 124,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "Hush-Hush",
+    "album": "Hush-Hush",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "hip-hop dance",
+      "trap pop",
+      "dance pop"
+    ],
+    "bpm": 128,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "driving",
+      "slick",
+      "bouncy"
+    ]
+  },
+  {
+    "title": "WORK Pt.4 (ATEEZ X G-Eazy)",
+    "album": "WORK Pt.4 (ATEEZ X G-Eazy)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "trap pop",
+      "hip-hop"
+    ],
+    "bpm": 124,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "smooth"
+    ]
+  },
+  {
+    "title": "Royal",
+    "album": "Royal",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "rap rock",
+      "industrial trap",
+      "hip-hop"
+    ],
+    "bpm": 130,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/0253GK3ow6KXcNCTg3RRfT",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Up-tempo",
+    "style": [
+      "aggressive",
+      "driving",
+      "anthem"
+    ]
+  },
+  {
+    "title": "Can't Get You Out of My Head (with Kylie Minogue) (from \"KPOPPED\"",
+    "album": "KPOPPED (Apple TV+ Original Series Soundtrack)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "synth-pop",
+      "dance pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3sHXrymWoiTBXQOC5Zut8l",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "slick",
+      "bright"
+    ]
+  },
+  {
+    "title": "Mi Gente (with J Balvin)",
+    "album": "KPOPPED (Apple TV+ Original Series Soundtrack)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "latin pop",
+      "reggaeton",
+      "dance pop"
+    ],
+    "bpm": 105,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1dXLPT7tx7uA3TSGQxmsRe",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bouncy",
+      "groovy"
+    ]
+  },
+  {
+    "title": "From (2018)",
+    "album": "From (2018)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "dance pop",
+      "pop rock"
+    ],
+    "bpm": 115,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/6YsTt8FUD6v0gjrrcMDpb5",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "warm"
+    ]
+  },
+  {
+    "title": "From (2022) (EDM Remix ver.)",
+    "album": "From (2018)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "future bass",
+      "edm-pop"
+    ],
+    "bpm": 120,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/39V0ZMxmXOLiwXqEtH8SlG",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "bright",
+      "soaring"
+    ]
+  },
+  {
+    "title": "Choose",
+    "album": "Choose",
+    "year": null,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": null
+  },
+  {
+    "title": "Waiting for You",
+    "album": "Waiting for You (OST from Last Summer)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop ballad",
+      "acoustic"
+    ],
+    "bpm": 85,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/3iQOpG5IPvJt4uzf4rQhcD",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "warm"
+    ]
+  },
+  {
+    "title": "BAD (Steve Aoki ver.)",
+    "album": "BAD (Steve Aoki ver.)",
+    "year": null,
+    "duration": null,
+    "genres": [],
+    "bpm": null,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": null
+  },
+  {
+    "title": "BAD (James Carter ver.)",
+    "album": "BAD (James Carter ver.)",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "edm-pop",
+      "deep house"
+    ],
+    "bpm": 122,
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/54VNWqLxF9zbxWruKcLBjc",
+      "appleMusic": "",
+      "youtube": ""
+    },
+    "tier": "Mid",
+    "style": [
+      "driving",
+      "slick"
+    ]
+  },
+  {
+    "title": "Creep",
+    "album": "Cover Performance",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "alternative rock",
+      "rock ballad"
+    ],
+    "bpm": 78,
+    "tier": "Slow",
+    "style": [
+      "melancholic",
+      "soaring"
+    ],
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/30mC7W7Ngzf8BNTEnEVWh3",
+      "appleMusic": "",
+      "youtube": ""
+    }
+  },
+  {
+    "title": "Compass",
+    "album": "Single / Unreleased",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "pop rock",
+      "alt-pop"
+    ],
+    "bpm": 118,
+    "tier": "Mid",
+    "style": [
+      "soaring",
+      "warm"
+    ],
+    "art": null,
+    "links": {
+      "spotify": "",
+      "appleMusic": "",
+      "youtube": ""
+    }
+  },
+  {
+    "title": "BAD (Slow Acoustic Ver.)",
+    "album": "Single / OST Ver.",
+    "year": null,
+    "duration": null,
+    "genres": [
+      "acoustic",
+      "pop ballad"
+    ],
+    "bpm": 75,
+    "tier": "Slow",
+    "style": [
+      "intimate",
+      "melancholic"
+    ],
+    "art": null,
+    "links": {
+      "spotify": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
+      "appleMusic": "",
+      "youtube": ""
+    }
   }
 ]

@@ -4,7 +4,6 @@
    TABLE OF CONTENTS
    1. Reset & base
    2. Accessibility utilities
-   3. Legacy top nav (UNUSED — landing.html uses the sidebar instead)
    4. Hero
    5. Search
    6. Sidebar shell
@@ -12,9 +11,9 @@
    8. Content area
    9. Mobile responsive
    10. Playlists
-   11. Legacy mix tiles (UNUSED — replaced by playlist tiles)
    ============================================================ */
 
+   
 /* ------------------------------------------------------------
    1. RESET & BASE
    ------------------------------------------------------------ */
@@ -27,7 +26,27 @@
   --orange: #FB923C;
   --text: #F2F2F0;
   --muted: #8A8A94;
+  --hero-dim: rgba(6,6,9,0.55);
 }
+
+[data-theme="light"]{
+  --bg: #FAFAFA;
+  --panel: #FFFFFF;
+  --line: #E5E5EA;
+  --text: #1A1A1F;
+  --muted: #6B6B74;
+  --hero-dim: rgba(255,255,255,0.45);
+}
+
+[data-theme="kpop"]{
+  --bg: #FFF0F5;
+  --panel: #FFFFFF;
+  --line: #F5D0E0;
+  --text: #4A3550;
+  --muted: #A98DAE;
+  --hero-dim: rgba(255,240,245,0.45);
+}
+
 *{
   box-sizing: border-box;
   margin: 0;
@@ -59,41 +78,6 @@ body{
 }
 
 /* ------------------------------------------------------------
-   3. LEGACY TOP NAV — UNUSED, landing.html now uses the sidebar
-   ------------------------------------------------------------ */
-nav{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 22px 40px;
-  position: relative;
-  z-index: 3;
-}
-.navlinks{
-  display: flex;
-  gap: 30px;
-  font-size: 14px;
-}
-.navlinks a{
-  color: var(--muted);
-  text-decoration: none;
-}
-.navlinks a:hover{
-  color: var(--text);
-}
-.navcta{
-  border: 1px solid #3A3A44;
-  padding: 9px 18px;
-  border-radius: 6px;
-  font-size: 13px;
-  color: var(--text);
-  text-decoration: none;
-}
-.navcta:hover{
-  border-color: var(--cyan);
-}
-
-/* ------------------------------------------------------------
    4. HERO
    ------------------------------------------------------------ */
 .hero{
@@ -113,6 +97,11 @@ nav{
   position: absolute;
   transform: translateY(-12px);
 }
+
+.playlists.hidden{
+  display: none;
+}
+
 .hero-bg{
   position: absolute;
   inset: 0;
@@ -121,15 +110,12 @@ nav{
     radial-gradient(circle at 20% 30%, rgba(94,234,212,0.16), transparent 45%),
     radial-gradient(circle at 75% 25%, rgba(167,139,250,0.16), transparent 45%),
     radial-gradient(circle at 55% 75%, rgba(251,146,60,0.14), transparent 45%),
-    #0A0A0E;
+    var(--bg);
 }
-/* Swap to a real photo when ready:
-   background: url('hero.jpg') center/cover;
-   keep .hero-dim on top for the dim effect */
 .hero-dim{
   position: absolute;
   inset: 0;
-  background: rgba(6,6,9,0.55);
+  background: var(--hero-dim);
   z-index: 1;
 }
 .hero-content{
@@ -276,6 +262,7 @@ nav{
 
 /* ------------------------------------------------------------
    6. SIDEBAR SHELL
+   (ported verbatim from style.css — the known-working version)
    ------------------------------------------------------------ */
 .shell{
   display: flex;
@@ -288,7 +275,6 @@ nav{
   display: flex;
   flex-direction: column;
   padding: 20px 14px;
-  overflow-y: auto;
 }
 .logo{
   font-family: 'Archivo Black', sans-serif;
@@ -300,7 +286,7 @@ nav{
   display: block;
 }
 .logo span{
-  color: var(--cyan);
+  color: #5EEAD4;
 }
 .sidenav{
   display: flex;
@@ -336,15 +322,19 @@ nav{
   background: var(--panel);
   color: var(--text);
 }
-.sidenav-item:focus-visible{
-  outline: 2px solid var(--cyan);
-  outline-offset: -2px;
+.sidenav-item.active{
+  background: var(--panel);
+  color: var(--text);
 }
 .sidenav-item.active::after{
   content: "✓";
   margin-left: auto;
-  color: var(--cyan);
+  color: #5EEAD4;
   font-size: 12px;
+}
+.sidenav-item:focus-visible{
+  outline: 2px solid #5EEAD4;
+  outline-offset: -2px;
 }
 .sidenav-label{
   font-size: 11px;
@@ -379,6 +369,7 @@ nav{
 
 /* ------------------------------------------------------------
    7. THEME PICKER
+   (ported verbatim from style.css)
    ------------------------------------------------------------ */
 .theme-picker{
   display: flex;
@@ -450,6 +441,8 @@ nav{
 
 /* ------------------------------------------------------------
    9. MOBILE RESPONSIVE
+   (mobile topbar / sidebar-overlay / sidebar-close ported
+   verbatim from style.css)
    ------------------------------------------------------------ */
 .mobile-menu-btn{
   display: none;
@@ -482,7 +475,7 @@ nav{
   .mobile-topbar{
     display: flex;
     align-items: center;
-    gap: 12px;
+    justify-content: space-between;
     position: fixed;
     top: 0;
     left: 0;
@@ -525,12 +518,14 @@ nav{
     background: var(--bg);
     transform: translateX(-100%);
     transition: transform 0.25s ease;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
   .sidebar.open{
     transform: translateX(0);
   }
   .content{
-    padding-top: 60px;
+    padding-top: 68px;
   }
 }
 
@@ -608,56 +603,24 @@ nav{
   color: rgba(13,13,18,0.75);
 }
 
-/* ------------------------------------------------------------
-   11. LEGACY MIX TILES — UNUSED, replaced by playlist tiles above
-   ------------------------------------------------------------ */
-.mixgrid{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 14px;
+/* Custom scrollbars — Chrome, Edge, Safari */
+::-webkit-scrollbar{
+  width: 8px;
+  height: 8px;
 }
-.mixtile{
-  height: 110px;
-  border-radius: 10px;
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  align-items: flex-end;
-  padding: 14px;
-  cursor: pointer;
-  border: none;
-  font-family: inherit;
-  text-align: left;
+::-webkit-scrollbar-track{
+  background: transparent;
 }
-.mixtile:focus-visible{
-  outline: 2px solid var(--text);
-  outline-offset: 2px;
+::-webkit-scrollbar-thumb{
+  background: #3A3A44;
+  border-radius: 4px;
 }
-.mixtile::before{
-  content: "";
-  position: absolute;
-  inset: 0;
-  clip-path: polygon(0 0, 60% 0, 40% 100%, 0 100%);
+::-webkit-scrollbar-thumb:hover{
+  background: #4A4A54;
 }
-.mixtile::after{
-  content: "";
-  position: absolute;
-  inset: 0;
-  clip-path: polygon(60% 0, 100% 0, 100% 100%, 40% 100%);
+
+/* Custom scrollbars — Firefox */
+*{
+  scrollbar-width: thin;
+  scrollbar-color: #3A3A44 transparent;
 }
-.mixtile span{
-  position: relative;
-  z-index: 2;
-  font-family: 'Archivo Black', sans-serif;
-  font-size: 14px;
-  color: #0D0D12;
-  line-height: 1.2;
-}
-.mix1::before{ background: var(--cyan); }
-.mix1::after{ background: var(--violet); }
-.mix2::before{ background: var(--violet); }
-.mix2::after{ background: var(--orange); }
-.mix3::before{ background: var(--orange); }
-.mix3::after{ background: var(--cyan); }
-.mix4::before{ background: var(--cyan); }
-.mix4::after{ background: var(--orange); }
